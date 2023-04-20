@@ -9,7 +9,7 @@ import {EXERCISES_DATA} from '../data/exercisesData'
 
 const Exercises = ({ exercises, setExercises, bodyPart }) => {
   const [currentPage, setCurrentPage] = useState(1)
-  const exercisesPerPage = 9
+  const exercisesPerPage = 50
 
   const indexOfLastExercise = currentPage * exercisesPerPage
   const indexOfFirstExercise = indexOfLastExercise - exercisesPerPage
