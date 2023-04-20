@@ -1,3 +1,10 @@
+### Live Demo 
+
+https://td-gym-exercises-app.netlify.app/
+
+<img width="600" alt="gymExercisesApp" src="https://user-images.githubusercontent.com/34137087/233452452-61e06562-da75-43b8-8cff-c3da2b75382e.png">
+
+
 
 # Install dependencies
 
