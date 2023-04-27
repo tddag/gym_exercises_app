@@ -2,7 +2,7 @@ import React, {useState, useEffect} from 'react'
 import Pagination from '@mui/material/Pagination';
 import { Box, Stack, Typography } from '@mui/material';
 
-import { exerciseOptions, fetchData } from '../utils/fetchData';
+// import { exerciseOptions, fetchData } from '../utils/fetchData';
 import ExerciseCard from './ExerciseCard';
 
 import {EXERCISES_DATA} from '../data/exercisesData'
@@ -40,7 +40,7 @@ const Exercises = ({ exercises, setExercises, bodyPart }) => {
 
       exercisesData = EXERCISES_DATA
       if (bodyPart !== 'all') {
-        exercisesData = exercisesData.filter((exercise) => exercise.bodyPart == bodyPart)
+        exercisesData = exercisesData.filter((exercise) => exercise.bodyPart === bodyPart)
       }
 
       //console.log(exercisesData)

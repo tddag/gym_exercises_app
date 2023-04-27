@@ -64,8 +64,8 @@ body {
   }
   
   .exercise-card {
-    width: 400px;
-    height: 445px;
+    width: 250px;
+    height: 270px;
     background: #fff;
     border-top: 4px solid #FF2625;
     border-bottom-left-radius: 20px;
@@ -79,7 +79,7 @@ body {
   }
   
   .exercise-card img {
-    height: 326px;
+    height: 200px;
   }
   
   .bodyPart-card {
@@ -108,8 +108,8 @@ body {
   
   @media screen and (max-width:1200px) {
     .detail-image {
-      width: 300px;
-      height: 300px;
+      width: 200px;
+      height: 200px;
     }
   
   
@@ -127,7 +127,7 @@ body {
     }
   
     .exercise-card {
-      width: 320px;
+      width: 200px;
     }
   
     .exercise-video {
@@ -139,6 +139,7 @@ body {
   
   @media screen and (max-width:400px) {
     .exercise-card {
-      width: 280px;
+      width: 200px;
     }
+
   }
