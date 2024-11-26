@@ -1,18 +1,84 @@
-### Live Demo 
+### Live Demo
 
 https://td-gym-exercises-app.netlify.app/
 
 <img width="600" alt="gymExercisesApp" src="https://user-images.githubusercontent.com/34137087/233452452-61e06562-da75-43b8-8cff-c3da2b75382e.png">
 
+# Setup
 
+- Install [Node](https://nodejs.org/en/download/)
+- Install [Git](https://git-scm.com/book/en/v2/Getting-Started-Installing-Git)
+- Clone the repository `https://github.com/tddag/gym_exercises_app`
+- Install dependencies `npm install --legacy-peer-deps`
+- Set up Youtube API:
+  - [Google Console](https://console.cloud.google) > Youtube Data API > Credentials > API key
+- Set up Rapid API
+- Set up Firebase Storage
+  - Update Storage Access as required - Firebase -> Storage -> Rules:
+  ```
+      rules_version = '2';
+      service firebase.storage {
+      match /b/{bucket}/o {
+          match /{allPaths=**} {
+          allow read, write: if
+              request.time < timestamp.date(2024, 5, 23);
+          }
+      }
+      }
+  ```
+- Setup environment variables:
+  - <table>
+        <tr>
+            <th>Variable</th>
+            <th>Value</th>
+            <th>Description</th>
+        </tr>
+        <tr>
+            <td>REACT_APP_RAPID_API_KEY</td>
+            <td>2e5d95953c.....</td>
+            <td>Rapid API Key</td>
+        </tr>   
+        <tr>
+            <td>REACT_APP_YOUTUBE_API_KEY</td>
+            <td>AIzaSyA....</td>
+            <td>Google Youtube API Key</td>
+        </tr>                                           
+    </table>
+- Run the application `npm run start`
+
+# Functionalities
+
+- Exercises listing, Search by exercise name, Filter exercise by category
+    <table>
+        <tr>
+            <td><img src="./screenshots/exercise_listing_1.png" alt="exercise_listing_1"></td>
+            <td><img src="./screenshots/exercise_listing_2.png" alt="exercise_listing_2"></td>
+            <td><img src="./screenshots/exercise_listing_3.png" alt="exercise_listing_3"></td>
+        </tr>
+    </table>
+- Exercise Details, Youtube videos, Exercises target same muscle group
+    <table>
+        <tr>
+            <td><img src="./screenshots/exercise_details_1.png" alt="exercise_details_1"></td>
+            <td><img src="./screenshots/exercise_details_2.png" alt="exercise_details_2"></td>
+        </tr>
+    </table>
+
+# Technologies/Libraries
+
+- React: Web library
+- MaterialUI: React Component library
+- React-horizontal-scrolling-menu: Horizontal Scrolling
+- react-loader-spinner: Spinner
+- GoogleDeveloperConsole > YoutubeAPI: Youtube API to get video details
+- Rapid API: API Hub
+- Firebase Storage: File Storage
 
 # Install dependencies
 
 ### npm install --legacy-peer-deps
 
-
-
-------------------------------------------------------------------------------
+---
 
 # Getting Started with Create React App
 

@@ -39,6 +39,7 @@ const Exercises = ({ exercises, setExercises, bodyPart }) => {
       // }
 
       exercisesData = EXERCISES_DATA
+      console.log("Exercise DAta length: ", exercisesData.length);
       if (bodyPart !== 'all') {
         exercisesData = exercisesData.filter((exercise) => exercise.bodyPart === bodyPart)
       }
