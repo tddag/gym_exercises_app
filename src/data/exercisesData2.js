@@ -4,7 +4,7 @@ export const EXERCISES_DATA = [
     {
       "bodyPart": "waist",
       "equipment": "body weight",
-      "gifUrl": "https://res.cloudinary.com/dysns4al9/image/upload/v1779592720/gifs/nQklfZWwLUXvO5.gif?alt=media",
+      "gifUrl": "https://firebasestorage.googleapis.com/v0/b/chatappfirebasetd.appspot.com/o/exercises%2FnQklfZWwLUXvO5.gif?alt=media",
       "id": "0001",
       "name": "3/4 sit-up",
       "target": "abs",
@@ -23,7 +23,7 @@ export const EXERCISES_DATA = [
     {
       "bodyPart": "waist",
       "equipment": "body weight",
-      "gifUrl": "https://res.cloudinary.com/dysns4al9/image/upload/v1779592720/gifs/usfnYRysExe8jp.gif?alt=media",
+      "gifUrl": "https://firebasestorage.googleapis.com/v0/b/chatappfirebasetd.appspot.com/o/exercises%2FusfnYRysExe8jp.gif?alt=media",
       "id": "0002",
       "name": "45° side bend",
       "target": "abs",
@@ -41,7 +41,7 @@ export const EXERCISES_DATA = [
     {
       "bodyPart": "waist",
       "equipment": "body weight",
-      "gifUrl": "https://res.cloudinary.com/dysns4al9/image/upload/v1779592720/gifs/RR9eTwaBWnpbJ8.gif?alt=media",
+      "gifUrl": "https://firebasestorage.googleapis.com/v0/b/chatappfirebasetd.appspot.com/o/exercises%2FRR9eTwaBWnpbJ8.gif?alt=media",
       "id": "0003",
       "name": "air bike",
       "target": "abs",
@@ -59,7 +59,7 @@ export const EXERCISES_DATA = [
     {
       "bodyPart": "upper legs",
       "equipment": "body weight",
-      "gifUrl": "https://res.cloudinary.com/dysns4al9/image/upload/v1779592720/gifs/sz9vCKlHdlKAzU.gif?alt=media",
+      "gifUrl": "https://firebasestorage.googleapis.com/v0/b/chatappfirebasetd.appspot.com/o/exercises%2Fsz9vCKlHdlKAzU.gif?alt=media",
       "id": "1512",
       "name": "all fours squad stretch",
       "target": "quads",
@@ -78,7 +78,7 @@ export const EXERCISES_DATA = [
     {
       "bodyPart": "waist",
       "equipment": "body weight",
-      "gifUrl": "https://res.cloudinary.com/dysns4al9/image/upload/v1779592720/gifs/oEDks76vGn0yTF.gif?alt=media",
+      "gifUrl": "https://firebasestorage.googleapis.com/v0/b/chatappfirebasetd.appspot.com/o/exercises%2FoEDks76vGn0yTF.gif?alt=media",
       "id": "0006",
       "name": "alternate heel touchers",
       "target": "abs",
@@ -96,7 +96,7 @@ export const EXERCISES_DATA = [
     {
       "bodyPart": "back",
       "equipment": "cable",
-      "gifUrl": "https://res.cloudinary.com/dysns4al9/image/upload/v1779592720/gifs/5K6Uanh2SAJddw.gif?alt=media",
+      "gifUrl": "https://firebasestorage.googleapis.com/v0/b/chatappfirebasetd.appspot.com/o/exercises%2F5K6Uanh2SAJddw.gif?alt=media",
       "id": "0007",
       "name": "alternate lateral pulldown",
       "target": "lats",
@@ -115,7 +115,7 @@ export const EXERCISES_DATA = [
     {
       "bodyPart": "lower legs",
       "equipment": "body weight",
-      "gifUrl": "https://res.cloudinary.com/dysns4al9/image/upload/v1779592720/gifs/IFyzQsJT4nqoWg.gif?alt=media",
+      "gifUrl": "https://firebasestorage.googleapis.com/v0/b/chatappfirebasetd.appspot.com/o/exercises%2FIFyzQsJT4nqoWg.gif?alt=media",
       "id": "1368",
       "name": "ankle circles",
       "target": "calves",
@@ -132,7 +132,7 @@ export const EXERCISES_DATA = [
     {
       "bodyPart": "back",
       "equipment": "body weight",
-      "gifUrl": "https://res.cloudinary.com/dysns4al9/image/upload/v1779592720/gifs/0qoPrA4XYxOBAv.gif?alt=media",
+      "gifUrl": "https://firebasestorage.googleapis.com/v0/b/chatappfirebasetd.appspot.com/o/exercises%2F0qoPrA4XYxOBAv.gif?alt=media",
       "id": "3293",
       "name": "archer pull up",
       "target": "lats",
@@ -152,7 +152,7 @@ export const EXERCISES_DATA = [
     {
       "bodyPart": "chest",
       "equipment": "body weight",
-      "gifUrl": "https://res.cloudinary.com/dysns4al9/image/upload/v1779592720/gifs/uhSPfVg1Qga-PX.gif?alt=media",
+      "gifUrl": "https://firebasestorage.googleapis.com/v0/b/chatappfirebasetd.appspot.com/o/exercises%2FuhSPfVg1Qga-PX.gif?alt=media",
       "id": "3294",
       "name": "archer push up",
       "target": "pectorals",
@@ -173,7 +173,7 @@ export const EXERCISES_DATA = [
     {
       "bodyPart": "waist",
       "equipment": "body weight",
-      "gifUrl": "https://res.cloudinary.com/dysns4al9/image/upload/v1779592720/gifs/EcRLYVU5cAd2IO.gif?alt=media",
+      "gifUrl": "https://firebasestorage.googleapis.com/v0/b/chatappfirebasetd.appspot.com/o/exercises%2FEcRLYVU5cAd2IO.gif?alt=media",
       "id": "2355",
       "name": "arm slingers hanging bent knee legs",
       "target": "abs",
@@ -191,7 +191,7 @@ export const EXERCISES_DATA = [
     {
       "bodyPart": "waist",
       "equipment": "body weight",
-      "gifUrl": "https://res.cloudinary.com/dysns4al9/image/upload/v1779592720/gifs/V6RlHxBUQ7NfVE.gif?alt=media",
+      "gifUrl": "https://firebasestorage.googleapis.com/v0/b/chatappfirebasetd.appspot.com/o/exercises%2FV6RlHxBUQ7NfVE.gif?alt=media",
       "id": "2333",
       "name": "arm slingers hanging straight legs",
       "target": "abs",
@@ -209,7 +209,7 @@ export const EXERCISES_DATA = [
     {
       "bodyPart": "upper legs",
       "equipment": "body weight",
-      "gifUrl": "https://res.cloudinary.com/dysns4al9/image/upload/v1779592720/gifs/djGtLqTjM4ozaS.gif?alt=media",
+      "gifUrl": "https://firebasestorage.googleapis.com/v0/b/chatappfirebasetd.appspot.com/o/exercises%2FdjGtLqTjM4ozaS.gif?alt=media",
       "id": "3214",
       "name": "arms apart circular toe touch (male)",
       "target": "glutes",
@@ -229,7 +229,7 @@ export const EXERCISES_DATA = [
     {
       "bodyPart": "waist",
       "equipment": "body weight",
-      "gifUrl": "https://res.cloudinary.com/dysns4al9/image/upload/v1779592720/gifs/XH4xQ-FJLWP89r.gif?alt=media",
+      "gifUrl": "https://firebasestorage.googleapis.com/v0/b/chatappfirebasetd.appspot.com/o/exercises%2FXH4xQ-FJLWP89r.gif?alt=media",
       "id": "3204",
       "name": "arms overhead full sit-up (male)",
       "target": "abs",
@@ -248,7 +248,7 @@ export const EXERCISES_DATA = [
     {
       "bodyPart": "chest",
       "equipment": "leverage machine",
-      "gifUrl": "https://res.cloudinary.com/dysns4al9/image/upload/v1779592720/gifs/V0SgCK65wSBo84.gif?alt=media",
+      "gifUrl": "https://firebasestorage.googleapis.com/v0/b/chatappfirebasetd.appspot.com/o/exercises%2FV0SgCK65wSBo84.gif?alt=media",
       "id": "0009",
       "name": "assisted chest dip (kneeling)",
       "target": "pectorals",
@@ -267,7 +267,7 @@ export const EXERCISES_DATA = [
     {
       "bodyPart": "waist",
       "equipment": "assisted",
-      "gifUrl": "https://res.cloudinary.com/dysns4al9/image/upload/v1779592720/gifs/BjPeNoYiQVWM-Z.gif?alt=media",
+      "gifUrl": "https://firebasestorage.googleapis.com/v0/b/chatappfirebasetd.appspot.com/o/exercises%2FBjPeNoYiQVWM-Z.gif?alt=media",
       "id": "0011",
       "name": "assisted hanging knee raise",
       "target": "abs",
@@ -285,7 +285,7 @@ export const EXERCISES_DATA = [
     {
       "bodyPart": "waist",
       "equipment": "assisted",
-      "gifUrl": "https://res.cloudinary.com/dysns4al9/image/upload/v1779592720/gifs/s9eA2edjkfGPev.gif?alt=media",
+      "gifUrl": "https://firebasestorage.googleapis.com/v0/b/chatappfirebasetd.appspot.com/o/exercises%2Fs9eA2edjkfGPev.gif?alt=media",
       "id": "0010",
       "name": "assisted hanging knee raise with throw down",
       "target": "abs",
@@ -303,7 +303,7 @@ export const EXERCISES_DATA = [
     {
       "bodyPart": "lower legs",
       "equipment": "assisted",
-      "gifUrl": "https://res.cloudinary.com/dysns4al9/image/upload/v1779592720/gifs/ZfFvFP9Xn4uUkb.gif?alt=media",
+      "gifUrl": "https://firebasestorage.googleapis.com/v0/b/chatappfirebasetd.appspot.com/o/exercises%2FZfFvFP9Xn4uUkb.gif?alt=media",
       "id": "1708",
       "name": "assisted lying calves stretch",
       "target": "calves",
@@ -321,7 +321,7 @@ export const EXERCISES_DATA = [
     {
       "bodyPart": "upper legs",
       "equipment": "assisted",
-      "gifUrl": "https://res.cloudinary.com/dysns4al9/image/upload/v1779592720/gifs/5-lIBOlxCqcu4n.gif?alt=media",
+      "gifUrl": "https://firebasestorage.googleapis.com/v0/b/chatappfirebasetd.appspot.com/o/exercises%2F5-lIBOlxCqcu4n.gif?alt=media",
       "id": "1709",
       "name": "assisted lying glutes stretch",
       "target": "glutes",
@@ -339,7 +339,7 @@ export const EXERCISES_DATA = [
     {
       "bodyPart": "upper legs",
       "equipment": "assisted",
-      "gifUrl": "https://res.cloudinary.com/dysns4al9/image/upload/v1779592720/gifs/rWWnQR77Bq1lTe.gif?alt=media",
+      "gifUrl": "https://firebasestorage.googleapis.com/v0/b/chatappfirebasetd.appspot.com/o/exercises%2FrWWnQR77Bq1lTe.gif?alt=media",
       "id": "1710",
       "name": "assisted lying gluteus and piriformis stretch",
       "target": "glutes",
@@ -357,7 +357,7 @@ export const EXERCISES_DATA = [
     {
       "bodyPart": "waist",
       "equipment": "assisted",
-      "gifUrl": "https://res.cloudinary.com/dysns4al9/image/upload/v1779592720/gifs/xSxWdvTM8a8s10.gif?alt=media",
+      "gifUrl": "https://firebasestorage.googleapis.com/v0/b/chatappfirebasetd.appspot.com/o/exercises%2FxSxWdvTM8a8s10.gif?alt=media",
       "id": "0012",
       "name": "assisted lying leg raise with lateral throw down",
       "target": "abs",
@@ -378,7 +378,7 @@ export const EXERCISES_DATA = [
     {
       "bodyPart": "waist",
       "equipment": "assisted",
-      "gifUrl": "https://res.cloudinary.com/dysns4al9/image/upload/v1779592720/gifs/OyqDMypUxqtJzU.gif?alt=media",
+      "gifUrl": "https://firebasestorage.googleapis.com/v0/b/chatappfirebasetd.appspot.com/o/exercises%2FOyqDMypUxqtJzU.gif?alt=media",
       "id": "0013",
       "name": "assisted lying leg raise with throw down",
       "target": "abs",
@@ -400,7 +400,7 @@ export const EXERCISES_DATA = [
     {
       "bodyPart": "waist",
       "equipment": "medicine ball",
-      "gifUrl": "https://res.cloudinary.com/dysns4al9/image/upload/v1779592720/gifs/F3ycqEusMXeNBN.gif?alt=media",
+      "gifUrl": "https://firebasestorage.googleapis.com/v0/b/chatappfirebasetd.appspot.com/o/exercises%2FF3ycqEusMXeNBN.gif?alt=media",
       "id": "0014",
       "name": "assisted motion russian twist",
       "target": "abs",
@@ -420,7 +420,7 @@ export const EXERCISES_DATA = [
     {
       "bodyPart": "back",
       "equipment": "leverage machine",
-      "gifUrl": "https://res.cloudinary.com/dysns4al9/image/upload/v1779592720/gifs/W0crwOymMs0NZU.gif?alt=media",
+      "gifUrl": "https://firebasestorage.googleapis.com/v0/b/chatappfirebasetd.appspot.com/o/exercises%2FW0crwOymMs0NZU.gif?alt=media",
       "id": "0015",
       "name": "assisted parallel close grip pull-up",
       "target": "lats",
@@ -441,7 +441,7 @@ export const EXERCISES_DATA = [
     {
       "bodyPart": "upper legs",
       "equipment": "assisted",
-      "gifUrl": "https://res.cloudinary.com/dysns4al9/image/upload/v1779592720/gifs/ybKwrMK3V0ScL-.gif?alt=media",
+      "gifUrl": "https://firebasestorage.googleapis.com/v0/b/chatappfirebasetd.appspot.com/o/exercises%2FybKwrMK3V0ScL-.gif?alt=media",
       "id": "0016",
       "name": "assisted prone hamstring",
       "target": "hamstrings",
@@ -460,7 +460,7 @@ export const EXERCISES_DATA = [
     {
       "bodyPart": "upper legs",
       "equipment": "assisted",
-      "gifUrl": "https://res.cloudinary.com/dysns4al9/image/upload/v1779592720/gifs/Qg5h3yVt1jaFf8.gif?alt=media",
+      "gifUrl": "https://firebasestorage.googleapis.com/v0/b/chatappfirebasetd.appspot.com/o/exercises%2FQg5h3yVt1jaFf8.gif?alt=media",
       "id": "1713",
       "name": "assisted prone lying quads stretch",
       "target": "quads",
@@ -479,7 +479,7 @@ export const EXERCISES_DATA = [
     {
       "bodyPart": "waist",
       "equipment": "assisted",
-      "gifUrl": "https://res.cloudinary.com/dysns4al9/image/upload/v1779592720/gifs/eHUKYSshsoVS-9.gif?alt=media",
+      "gifUrl": "https://firebasestorage.googleapis.com/v0/b/chatappfirebasetd.appspot.com/o/exercises%2FeHUKYSshsoVS-9.gif?alt=media",
       "id": "1714",
       "name": "assisted prone rectus femoris stretch",
       "target": "abs",
@@ -497,7 +497,7 @@ export const EXERCISES_DATA = [
     {
       "bodyPart": "back",
       "equipment": "leverage machine",
-      "gifUrl": "https://res.cloudinary.com/dysns4al9/image/upload/v1779592720/gifs/AfJ7n9SH2gtjTT.gif?alt=media",
+      "gifUrl": "https://firebasestorage.googleapis.com/v0/b/chatappfirebasetd.appspot.com/o/exercises%2FAfJ7n9SH2gtjTT.gif?alt=media",
       "id": "0017",
       "name": "assisted pull-up",
       "target": "lats",
@@ -518,7 +518,7 @@ export const EXERCISES_DATA = [
     {
       "bodyPart": "chest",
       "equipment": "assisted",
-      "gifUrl": "https://res.cloudinary.com/dysns4al9/image/upload/v1779592720/gifs/ZZNA2fHiTKtCwl.gif?alt=media",
+      "gifUrl": "https://firebasestorage.googleapis.com/v0/b/chatappfirebasetd.appspot.com/o/exercises%2FZZNA2fHiTKtCwl.gif?alt=media",
       "id": "1716",
       "name": "assisted seated pectoralis major stretch with stability ball",
       "target": "pectorals",
@@ -537,7 +537,7 @@ export const EXERCISES_DATA = [
     {
       "bodyPart": "upper legs",
       "equipment": "assisted",
-      "gifUrl": "https://res.cloudinary.com/dysns4al9/image/upload/v1779592720/gifs/aAvkR-10TylriC.gif?alt=media",
+      "gifUrl": "https://firebasestorage.googleapis.com/v0/b/chatappfirebasetd.appspot.com/o/exercises%2FaAvkR-10TylriC.gif?alt=media",
       "id": "1712",
       "name": "assisted side lying adductor stretch",
       "target": "adductors",
@@ -557,7 +557,7 @@ export const EXERCISES_DATA = [
     {
       "bodyPart": "waist",
       "equipment": "assisted",
-      "gifUrl": "https://res.cloudinary.com/dysns4al9/image/upload/v1779592720/gifs/pn2Qo5D7NUexFp.gif?alt=media",
+      "gifUrl": "https://firebasestorage.googleapis.com/v0/b/chatappfirebasetd.appspot.com/o/exercises%2Fpn2Qo5D7NUexFp.gif?alt=media",
       "id": "1758",
       "name": "assisted sit-up",
       "target": "abs",
@@ -576,7 +576,7 @@ export const EXERCISES_DATA = [
     {
       "bodyPart": "back",
       "equipment": "leverage machine",
-      "gifUrl": "https://res.cloudinary.com/dysns4al9/image/upload/v1779592720/gifs/q25FtmJvM28HwI.gif?alt=media",
+      "gifUrl": "https://firebasestorage.googleapis.com/v0/b/chatappfirebasetd.appspot.com/o/exercises%2Fq25FtmJvM28HwI.gif?alt=media",
       "id": "1431",
       "name": "assisted standing chin-up",
       "target": "lats",
@@ -597,7 +597,7 @@ export const EXERCISES_DATA = [
     {
       "bodyPart": "back",
       "equipment": "leverage machine",
-      "gifUrl": "https://res.cloudinary.com/dysns4al9/image/upload/v1779592720/gifs/29pvfhmTxsdiVF.gif?alt=media",
+      "gifUrl": "https://firebasestorage.googleapis.com/v0/b/chatappfirebasetd.appspot.com/o/exercises%2F29pvfhmTxsdiVF.gif?alt=media",
       "id": "1432",
       "name": "assisted standing pull-up",
       "target": "lats",
@@ -618,7 +618,7 @@ export const EXERCISES_DATA = [
     {
       "bodyPart": "upper arms",
       "equipment": "assisted",
-      "gifUrl": "https://res.cloudinary.com/dysns4al9/image/upload/v1779592720/gifs/WwUHM0Y2exSGUp.gif?alt=media",
+      "gifUrl": "https://firebasestorage.googleapis.com/v0/b/chatappfirebasetd.appspot.com/o/exercises%2FWwUHM0Y2exSGUp.gif?alt=media",
       "id": "0018",
       "name": "assisted standing triceps extension (with towel)",
       "target": "triceps",
@@ -636,7 +636,7 @@ export const EXERCISES_DATA = [
     {
       "bodyPart": "upper arms",
       "equipment": "leverage machine",
-      "gifUrl": "https://res.cloudinary.com/dysns4al9/image/upload/v1779592720/gifs/BSVduVotCROlD1.gif?alt=media",
+      "gifUrl": "https://firebasestorage.googleapis.com/v0/b/chatappfirebasetd.appspot.com/o/exercises%2FBSVduVotCROlD1.gif?alt=media",
       "id": "0019",
       "name": "assisted triceps dip (kneeling)",
       "target": "triceps",
@@ -655,7 +655,7 @@ export const EXERCISES_DATA = [
     {
       "bodyPart": "chest",
       "equipment": "leverage machine",
-      "gifUrl": "https://res.cloudinary.com/dysns4al9/image/upload/v1779592720/gifs/xs88Hg1ZAGnmFJ.gif?alt=media",
+      "gifUrl": "https://firebasestorage.googleapis.com/v0/b/chatappfirebasetd.appspot.com/o/exercises%2Fxs88Hg1ZAGnmFJ.gif?alt=media",
       "id": "2364",
       "name": "assisted wide-grip chest dip (kneeling)",
       "target": "pectorals",
@@ -674,7 +674,7 @@ export const EXERCISES_DATA = [
     {
       "bodyPart": "cardio",
       "equipment": "body weight",
-      "gifUrl": "https://res.cloudinary.com/dysns4al9/image/upload/v1779592720/gifs/A7jejsNyUVGDvO.gif?alt=media",
+      "gifUrl": "https://firebasestorage.googleapis.com/v0/b/chatappfirebasetd.appspot.com/o/exercises%2FA7jejsNyUVGDvO.gif?alt=media",
       "id": "3220",
       "name": "astride jumps (male)",
       "target": "cardiovascular system",
@@ -695,7 +695,7 @@ export const EXERCISES_DATA = [
     {
       "bodyPart": "cardio",
       "equipment": "body weight",
-      "gifUrl": "https://res.cloudinary.com/dysns4al9/image/upload/v1779592720/gifs/G9y6XGwzXIJFN8.gif?alt=media",
+      "gifUrl": "https://firebasestorage.googleapis.com/v0/b/chatappfirebasetd.appspot.com/o/exercises%2FG9y6XGwzXIJFN8.gif?alt=media",
       "id": "3672",
       "name": "back and forth step",
       "target": "cardiovascular system",
@@ -717,7 +717,7 @@ export const EXERCISES_DATA = [
     {
       "bodyPart": "back",
       "equipment": "stability ball",
-      "gifUrl": "https://res.cloudinary.com/dysns4al9/image/upload/v1779592720/gifs/DgSeCSl-6FBtYY.gif?alt=media",
+      "gifUrl": "https://firebasestorage.googleapis.com/v0/b/chatappfirebasetd.appspot.com/o/exercises%2FDgSeCSl-6FBtYY.gif?alt=media",
       "id": "1314",
       "name": "back extension on exercise ball",
       "target": "spine",
@@ -736,7 +736,7 @@ export const EXERCISES_DATA = [
     {
       "bodyPart": "back",
       "equipment": "body weight",
-      "gifUrl": "https://res.cloudinary.com/dysns4al9/image/upload/v1779592720/gifs/NDBd2lvLzEzS7B.gif?alt=media",
+      "gifUrl": "https://firebasestorage.googleapis.com/v0/b/chatappfirebasetd.appspot.com/o/exercises%2FNDBd2lvLzEzS7B.gif?alt=media",
       "id": "3297",
       "name": "back lever",
       "target": "upper back",
@@ -757,7 +757,7 @@ export const EXERCISES_DATA = [
     {
       "bodyPart": "back",
       "equipment": "body weight",
-      "gifUrl": "https://res.cloudinary.com/dysns4al9/image/upload/v1779592720/gifs/rqdqyeuyynWbR2.gif?alt=media",
+      "gifUrl": "https://firebasestorage.googleapis.com/v0/b/chatappfirebasetd.appspot.com/o/exercises%2FrqdqyeuyynWbR2.gif?alt=media",
       "id": "1405",
       "name": "back pec stretch",
       "target": "lats",
@@ -778,7 +778,7 @@ export const EXERCISES_DATA = [
     {
       "bodyPart": "upper legs",
       "equipment": "body weight",
-      "gifUrl": "https://res.cloudinary.com/dysns4al9/image/upload/v1779592720/gifs/JsfL8jmAh2Hipi.gif?alt=media",
+      "gifUrl": "https://firebasestorage.googleapis.com/v0/b/chatappfirebasetd.appspot.com/o/exercises%2FJsfL8jmAh2Hipi.gif?alt=media",
       "id": "1473",
       "name": "backward jump",
       "target": "quads",
@@ -797,7 +797,7 @@ export const EXERCISES_DATA = [
     {
       "bodyPart": "upper legs",
       "equipment": "body weight",
-      "gifUrl": "https://res.cloudinary.com/dysns4al9/image/upload/v1779592720/gifs/t1ywdoS-JEZYU6.gif?alt=media",
+      "gifUrl": "https://firebasestorage.googleapis.com/v0/b/chatappfirebasetd.appspot.com/o/exercises%2Ft1ywdoS-JEZYU6.gif?alt=media",
       "id": "0020",
       "name": "balance board",
       "target": "quads",
@@ -817,7 +817,7 @@ export const EXERCISES_DATA = [
     {
       "bodyPart": "upper arms",
       "equipment": "band",
-      "gifUrl": "https://res.cloudinary.com/dysns4al9/image/upload/v1779592720/gifs/ZXqmAhQZpPUT02.gif?alt=media",
+      "gifUrl": "https://firebasestorage.googleapis.com/v0/b/chatappfirebasetd.appspot.com/o/exercises%2FZXqmAhQZpPUT02.gif?alt=media",
       "id": "0968",
       "name": "band alternating biceps curl",
       "target": "biceps",
@@ -834,7 +834,7 @@ export const EXERCISES_DATA = [
     {
       "bodyPart": "waist",
       "equipment": "band",
-      "gifUrl": "https://res.cloudinary.com/dysns4al9/image/upload/v1779592720/gifs/ftLnJm8tvv0jUc.gif?alt=media",
+      "gifUrl": "https://firebasestorage.googleapis.com/v0/b/chatappfirebasetd.appspot.com/o/exercises%2FftLnJm8tvv0jUc.gif?alt=media",
       "id": "0969",
       "name": "band alternating v-up",
       "target": "abs",
@@ -852,7 +852,7 @@ export const EXERCISES_DATA = [
     {
       "bodyPart": "back",
       "equipment": "band",
-      "gifUrl": "https://res.cloudinary.com/dysns4al9/image/upload/v1779592720/gifs/mET6gzyWLV5YTP.gif?alt=media",
+      "gifUrl": "https://firebasestorage.googleapis.com/v0/b/chatappfirebasetd.appspot.com/o/exercises%2FmET6gzyWLV5YTP.gif?alt=media",
       "id": "0970",
       "name": "band assisted pull-up",
       "target": "lats",
@@ -872,7 +872,7 @@ export const EXERCISES_DATA = [
     {
       "bodyPart": "waist",
       "equipment": "band",
-      "gifUrl": "https://res.cloudinary.com/dysns4al9/image/upload/v1779592720/gifs/xspaXuCamTTOJY.gif?alt=media",
+      "gifUrl": "https://firebasestorage.googleapis.com/v0/b/chatappfirebasetd.appspot.com/o/exercises%2FxspaXuCamTTOJY.gif?alt=media",
       "id": "0971",
       "name": "band assisted wheel rollerout",
       "target": "abs",
@@ -890,7 +890,7 @@ export const EXERCISES_DATA = [
     {
       "bodyPart": "chest",
       "equipment": "band",
-      "gifUrl": "https://res.cloudinary.com/dysns4al9/image/upload/v1779592720/gifs/0FaUsGfaNKkCSW.gif?alt=media",
+      "gifUrl": "https://firebasestorage.googleapis.com/v0/b/chatappfirebasetd.appspot.com/o/exercises%2F0FaUsGfaNKkCSW.gif?alt=media",
       "id": "1254",
       "name": "band bench press",
       "target": "pectorals",
@@ -909,7 +909,7 @@ export const EXERCISES_DATA = [
     {
       "bodyPart": "upper legs",
       "equipment": "band",
-      "gifUrl": "https://res.cloudinary.com/dysns4al9/image/upload/v1779592720/gifs/WOuXwWHiQ27wh2.gif?alt=media",
+      "gifUrl": "https://firebasestorage.googleapis.com/v0/b/chatappfirebasetd.appspot.com/o/exercises%2FWOuXwWHiQ27wh2.gif?alt=media",
       "id": "0980",
       "name": "band bent-over hip extension",
       "target": "glutes",
@@ -930,7 +930,7 @@ export const EXERCISES_DATA = [
     {
       "bodyPart": "waist",
       "equipment": "band",
-      "gifUrl": "https://res.cloudinary.com/dysns4al9/image/upload/v1779592720/gifs/bJR25KpaNYDnVJ.gif?alt=media",
+      "gifUrl": "https://firebasestorage.googleapis.com/v0/b/chatappfirebasetd.appspot.com/o/exercises%2FbJR25KpaNYDnVJ.gif?alt=media",
       "id": "0972",
       "name": "band bicycle crunch",
       "target": "abs",
@@ -949,7 +949,7 @@ export const EXERCISES_DATA = [
     {
       "bodyPart": "back",
       "equipment": "band",
-      "gifUrl": "https://res.cloudinary.com/dysns4al9/image/upload/v1779592720/gifs/s7J6JI-NKrDBfR.gif?alt=media",
+      "gifUrl": "https://firebasestorage.googleapis.com/v0/b/chatappfirebasetd.appspot.com/o/exercises%2Fs7J6JI-NKrDBfR.gif?alt=media",
       "id": "0974",
       "name": "band close-grip pulldown",
       "target": "lats",
@@ -969,7 +969,7 @@ export const EXERCISES_DATA = [
     {
       "bodyPart": "upper arms",
       "equipment": "band",
-      "gifUrl": "https://res.cloudinary.com/dysns4al9/image/upload/v1779592720/gifs/nd6Z7u2SY-NtBG.gif?alt=media",
+      "gifUrl": "https://firebasestorage.googleapis.com/v0/b/chatappfirebasetd.appspot.com/o/exercises%2Fnd6Z7u2SY-NtBG.gif?alt=media",
       "id": "0975",
       "name": "band close-grip push-up",
       "target": "triceps",
@@ -988,7 +988,7 @@ export const EXERCISES_DATA = [
     {
       "bodyPart": "upper arms",
       "equipment": "band",
-      "gifUrl": "https://res.cloudinary.com/dysns4al9/image/upload/v1779592720/gifs/fJD6ksXDtUWEzD.gif?alt=media",
+      "gifUrl": "https://firebasestorage.googleapis.com/v0/b/chatappfirebasetd.appspot.com/o/exercises%2FfJD6ksXDtUWEzD.gif?alt=media",
       "id": "0976",
       "name": "band concentration curl",
       "target": "biceps",
@@ -1007,7 +1007,7 @@ export const EXERCISES_DATA = [
     {
       "bodyPart": "back",
       "equipment": "band",
-      "gifUrl": "https://res.cloudinary.com/dysns4al9/image/upload/v1779592720/gifs/m4VlSwjqg9XkyS.gif?alt=media",
+      "gifUrl": "https://firebasestorage.googleapis.com/v0/b/chatappfirebasetd.appspot.com/o/exercises%2Fm4VlSwjqg9XkyS.gif?alt=media",
       "id": "3117",
       "name": "band fixed back close grip pulldown",
       "target": "lats",
@@ -1029,7 +1029,7 @@ export const EXERCISES_DATA = [
     {
       "bodyPart": "back",
       "equipment": "band",
-      "gifUrl": "https://res.cloudinary.com/dysns4al9/image/upload/v1779592720/gifs/MeKllzuEYibubN.gif?alt=media",
+      "gifUrl": "https://firebasestorage.googleapis.com/v0/b/chatappfirebasetd.appspot.com/o/exercises%2FMeKllzuEYibubN.gif?alt=media",
       "id": "3116",
       "name": "band fixed back underhand pulldown",
       "target": "lats",
@@ -1053,7 +1053,7 @@ export const EXERCISES_DATA = [
     {
       "bodyPart": "shoulders",
       "equipment": "band",
-      "gifUrl": "https://res.cloudinary.com/dysns4al9/image/upload/v1779592720/gifs/BH2rgnlu2BWdev.gif?alt=media",
+      "gifUrl": "https://firebasestorage.googleapis.com/v0/b/chatappfirebasetd.appspot.com/o/exercises%2FBH2rgnlu2BWdev.gif?alt=media",
       "id": "0977",
       "name": "band front lateral raise",
       "target": "delts",
@@ -1071,7 +1071,7 @@ export const EXERCISES_DATA = [
     {
       "bodyPart": "shoulders",
       "equipment": "band",
-      "gifUrl": "https://res.cloudinary.com/dysns4al9/image/upload/v1779592720/gifs/Hzi9SFA-A78vHJ.gif?alt=media",
+      "gifUrl": "https://firebasestorage.googleapis.com/v0/b/chatappfirebasetd.appspot.com/o/exercises%2FHzi9SFA-A78vHJ.gif?alt=media",
       "id": "0978",
       "name": "band front raise",
       "target": "delts",
@@ -1089,7 +1089,7 @@ export const EXERCISES_DATA = [
     {
       "bodyPart": "upper legs",
       "equipment": "band",
-      "gifUrl": "https://res.cloudinary.com/dysns4al9/image/upload/v1779592720/gifs/mx41pZFAc2ASs1.gif?alt=media",
+      "gifUrl": "https://firebasestorage.googleapis.com/v0/b/chatappfirebasetd.appspot.com/o/exercises%2Fmx41pZFAc2ASs1.gif?alt=media",
       "id": "1408",
       "name": "band hip lift",
       "target": "glutes",
@@ -1109,7 +1109,7 @@ export const EXERCISES_DATA = [
     {
       "bodyPart": "waist",
       "equipment": "band",
-      "gifUrl": "https://res.cloudinary.com/dysns4al9/image/upload/v1779592720/gifs/a9zUyJ4SYDKuvV.gif?alt=media",
+      "gifUrl": "https://firebasestorage.googleapis.com/v0/b/chatappfirebasetd.appspot.com/o/exercises%2Fa9zUyJ4SYDKuvV.gif?alt=media",
       "id": "0979",
       "name": "band horizontal pallof press",
       "target": "abs",
@@ -1132,7 +1132,7 @@ export const EXERCISES_DATA = [
     {
       "bodyPart": "waist",
       "equipment": "band",
-      "gifUrl": "https://res.cloudinary.com/dysns4al9/image/upload/v1779592720/gifs/QkdKt5wFsaj9K0.gif?alt=media",
+      "gifUrl": "https://firebasestorage.googleapis.com/v0/b/chatappfirebasetd.appspot.com/o/exercises%2FQkdKt5wFsaj9K0.gif?alt=media",
       "id": "0981",
       "name": "band jack knife sit-up",
       "target": "abs",
@@ -1149,7 +1149,7 @@ export const EXERCISES_DATA = [
     {
       "bodyPart": "back",
       "equipment": "band",
-      "gifUrl": "https://res.cloudinary.com/dysns4al9/image/upload/v1779592720/gifs/e-30Cbogu8G5S2.gif?alt=media",
+      "gifUrl": "https://firebasestorage.googleapis.com/v0/b/chatappfirebasetd.appspot.com/o/exercises%2Fe-30Cbogu8G5S2.gif?alt=media",
       "id": "0983",
       "name": "band kneeling one arm pulldown",
       "target": "lats",
@@ -1169,7 +1169,7 @@ export const EXERCISES_DATA = [
     {
       "bodyPart": "waist",
       "equipment": "band",
-      "gifUrl": "https://res.cloudinary.com/dysns4al9/image/upload/v1779592720/gifs/r6tw7Y5QwhsJg7.gif?alt=media",
+      "gifUrl": "https://firebasestorage.googleapis.com/v0/b/chatappfirebasetd.appspot.com/o/exercises%2Fr6tw7Y5QwhsJg7.gif?alt=media",
       "id": "0985",
       "name": "band kneeling twisting crunch",
       "target": "abs",
@@ -1188,7 +1188,7 @@ export const EXERCISES_DATA = [
     {
       "bodyPart": "upper legs",
       "equipment": "band",
-      "gifUrl": "https://res.cloudinary.com/dysns4al9/image/upload/v1779592720/gifs/npp2qVX2Cb66Z6.gif?alt=media",
+      "gifUrl": "https://firebasestorage.googleapis.com/v0/b/chatappfirebasetd.appspot.com/o/exercises%2Fnpp2qVX2Cb66Z6.gif?alt=media",
       "id": "0984",
       "name": "band lying hip internal rotation",
       "target": "glutes",
@@ -1207,7 +1207,7 @@ export const EXERCISES_DATA = [
     {
       "bodyPart": "waist",
       "equipment": "band",
-      "gifUrl": "https://res.cloudinary.com/dysns4al9/image/upload/v1779592720/gifs/5ZZHg3mJaKcdhd.gif?alt=media",
+      "gifUrl": "https://firebasestorage.googleapis.com/v0/b/chatappfirebasetd.appspot.com/o/exercises%2F5ZZHg3mJaKcdhd.gif?alt=media",
       "id": "1002",
       "name": "band lying straight leg raise",
       "target": "abs",
@@ -1225,7 +1225,7 @@ export const EXERCISES_DATA = [
     {
       "bodyPart": "upper arms",
       "equipment": "band",
-      "gifUrl": "https://res.cloudinary.com/dysns4al9/image/upload/v1779592720/gifs/Xd6sPbiT3x5gKQ.gif?alt=media",
+      "gifUrl": "https://firebasestorage.googleapis.com/v0/b/chatappfirebasetd.appspot.com/o/exercises%2FXd6sPbiT3x5gKQ.gif?alt=media",
       "id": "0986",
       "name": "band one arm overhead biceps curl",
       "target": "biceps",
@@ -1244,7 +1244,7 @@ export const EXERCISES_DATA = [
     {
       "bodyPart": "upper legs",
       "equipment": "band",
-      "gifUrl": "https://res.cloudinary.com/dysns4al9/image/upload/v1779592720/gifs/OSO8XPf1np-H34.gif?alt=media",
+      "gifUrl": "https://firebasestorage.googleapis.com/v0/b/chatappfirebasetd.appspot.com/o/exercises%2FOSO8XPf1np-H34.gif?alt=media",
       "id": "0987",
       "name": "band one arm single leg split squat",
       "target": "quads",
@@ -1264,7 +1264,7 @@ export const EXERCISES_DATA = [
     {
       "bodyPart": "back",
       "equipment": "band",
-      "gifUrl": "https://res.cloudinary.com/dysns4al9/image/upload/v1779592720/gifs/L0imx45iwMTM-i.gif?alt=media",
+      "gifUrl": "https://firebasestorage.googleapis.com/v0/b/chatappfirebasetd.appspot.com/o/exercises%2FL0imx45iwMTM-i.gif?alt=media",
       "id": "0988",
       "name": "band one arm standing low row",
       "target": "upper back",
@@ -1285,7 +1285,7 @@ export const EXERCISES_DATA = [
     {
       "bodyPart": "chest",
       "equipment": "band",
-      "gifUrl": "https://res.cloudinary.com/dysns4al9/image/upload/v1779592720/gifs/r7RQc7AFVaLwA9.gif?alt=media",
+      "gifUrl": "https://firebasestorage.googleapis.com/v0/b/chatappfirebasetd.appspot.com/o/exercises%2Fr7RQc7AFVaLwA9.gif?alt=media",
       "id": "0989",
       "name": "band one arm twisting chest press",
       "target": "pectorals",
@@ -1307,7 +1307,7 @@ export const EXERCISES_DATA = [
     {
       "bodyPart": "back",
       "equipment": "band",
-      "gifUrl": "https://res.cloudinary.com/dysns4al9/image/upload/v1779592720/gifs/0eGbuor71YydWe.gif?alt=media",
+      "gifUrl": "https://firebasestorage.googleapis.com/v0/b/chatappfirebasetd.appspot.com/o/exercises%2F0eGbuor71YydWe.gif?alt=media",
       "id": "0990",
       "name": "band one arm twisting seated row",
       "target": "upper back",
@@ -1327,7 +1327,7 @@ export const EXERCISES_DATA = [
     {
       "bodyPart": "upper legs",
       "equipment": "band",
-      "gifUrl": "https://res.cloudinary.com/dysns4al9/image/upload/v1779592720/gifs/sWyocrAl4zhYHH.gif?alt=media",
+      "gifUrl": "https://firebasestorage.googleapis.com/v0/b/chatappfirebasetd.appspot.com/o/exercises%2FsWyocrAl4zhYHH.gif?alt=media",
       "id": "0991",
       "name": "band pull through",
       "target": "glutes",
@@ -1348,7 +1348,7 @@ export const EXERCISES_DATA = [
     {
       "bodyPart": "waist",
       "equipment": "band",
-      "gifUrl": "https://res.cloudinary.com/dysns4al9/image/upload/v1779592720/gifs/ixiObuUSKTIP1G.gif?alt=media",
+      "gifUrl": "https://firebasestorage.googleapis.com/v0/b/chatappfirebasetd.appspot.com/o/exercises%2FixiObuUSKTIP1G.gif?alt=media",
       "id": "0992",
       "name": "band push sit-up",
       "target": "abs",
@@ -1368,7 +1368,7 @@ export const EXERCISES_DATA = [
     {
       "bodyPart": "shoulders",
       "equipment": "band",
-      "gifUrl": "https://res.cloudinary.com/dysns4al9/image/upload/v1779592720/gifs/g6474yWxmOitAm.gif?alt=media",
+      "gifUrl": "https://firebasestorage.googleapis.com/v0/b/chatappfirebasetd.appspot.com/o/exercises%2Fg6474yWxmOitAm.gif?alt=media",
       "id": "0993",
       "name": "band reverse fly",
       "target": "delts",
@@ -1388,7 +1388,7 @@ export const EXERCISES_DATA = [
     {
       "bodyPart": "lower arms",
       "equipment": "band",
-      "gifUrl": "https://res.cloudinary.com/dysns4al9/image/upload/v1779592720/gifs/S69g1BM429MWvu.gif?alt=media",
+      "gifUrl": "https://firebasestorage.googleapis.com/v0/b/chatappfirebasetd.appspot.com/o/exercises%2FS69g1BM429MWvu.gif?alt=media",
       "id": "0994",
       "name": "band reverse wrist curl",
       "target": "forearms",
@@ -1407,7 +1407,7 @@ export const EXERCISES_DATA = [
     {
       "bodyPart": "upper legs",
       "equipment": "band",
-      "gifUrl": "https://res.cloudinary.com/dysns4al9/image/upload/v1779592720/gifs/JVirWYPPvtZk8v.gif?alt=media",
+      "gifUrl": "https://firebasestorage.googleapis.com/v0/b/chatappfirebasetd.appspot.com/o/exercises%2FJVirWYPPvtZk8v.gif?alt=media",
       "id": "0996",
       "name": "band seated hip internal rotation",
       "target": "glutes",
@@ -1427,7 +1427,7 @@ export const EXERCISES_DATA = [
     {
       "bodyPart": "waist",
       "equipment": "band",
-      "gifUrl": "https://res.cloudinary.com/dysns4al9/image/upload/v1779592720/gifs/h4eQAWZSMb1tWm.gif?alt=media",
+      "gifUrl": "https://firebasestorage.googleapis.com/v0/b/chatappfirebasetd.appspot.com/o/exercises%2Fh4eQAWZSMb1tWm.gif?alt=media",
       "id": "1011",
       "name": "band seated twist",
       "target": "abs",
@@ -1446,7 +1446,7 @@ export const EXERCISES_DATA = [
     {
       "bodyPart": "shoulders",
       "equipment": "band",
-      "gifUrl": "https://res.cloudinary.com/dysns4al9/image/upload/v1779592720/gifs/BGKzp8v09v70Es.gif?alt=media",
+      "gifUrl": "https://firebasestorage.googleapis.com/v0/b/chatappfirebasetd.appspot.com/o/exercises%2FBGKzp8v09v70Es.gif?alt=media",
       "id": "0997",
       "name": "band shoulder press",
       "target": "delts",
@@ -1465,7 +1465,7 @@ export const EXERCISES_DATA = [
     {
       "bodyPart": "back",
       "equipment": "band",
-      "gifUrl": "https://res.cloudinary.com/dysns4al9/image/upload/v1779592720/gifs/nKFiaC6ySaloKp.gif?alt=media",
+      "gifUrl": "https://firebasestorage.googleapis.com/v0/b/chatappfirebasetd.appspot.com/o/exercises%2FnKFiaC6ySaloKp.gif?alt=media",
       "id": "1018",
       "name": "band shrug",
       "target": "traps",
@@ -1483,7 +1483,7 @@ export const EXERCISES_DATA = [
     {
       "bodyPart": "upper arms",
       "equipment": "band",
-      "gifUrl": "https://res.cloudinary.com/dysns4al9/image/upload/v1779592720/gifs/JQk3exYMRhPohB.gif?alt=media",
+      "gifUrl": "https://firebasestorage.googleapis.com/v0/b/chatappfirebasetd.appspot.com/o/exercises%2FJQk3exYMRhPohB.gif?alt=media",
       "id": "0998",
       "name": "band side triceps extension",
       "target": "triceps",
@@ -1501,7 +1501,7 @@ export const EXERCISES_DATA = [
     {
       "bodyPart": "lower legs",
       "equipment": "band",
-      "gifUrl": "https://res.cloudinary.com/dysns4al9/image/upload/v1779592720/gifs/vOfOwHUBD2ycQ9.gif?alt=media",
+      "gifUrl": "https://firebasestorage.googleapis.com/v0/b/chatappfirebasetd.appspot.com/o/exercises%2FvOfOwHUBD2ycQ9.gif?alt=media",
       "id": "0999",
       "name": "band single leg calf raise",
       "target": "calves",
@@ -1520,7 +1520,7 @@ export const EXERCISES_DATA = [
     {
       "bodyPart": "lower legs",
       "equipment": "band",
-      "gifUrl": "https://res.cloudinary.com/dysns4al9/image/upload/v1779592720/gifs/xy0g7YuQu0fK-5.gif?alt=media",
+      "gifUrl": "https://firebasestorage.googleapis.com/v0/b/chatappfirebasetd.appspot.com/o/exercises%2Fxy0g7YuQu0fK-5.gif?alt=media",
       "id": "1000",
       "name": "band single leg reverse calf raise",
       "target": "calves",
@@ -1539,7 +1539,7 @@ export const EXERCISES_DATA = [
     {
       "bodyPart": "upper legs",
       "equipment": "band",
-      "gifUrl": "https://res.cloudinary.com/dysns4al9/image/upload/v1779592720/gifs/hUNg6QCKEsxldm.gif?alt=media",
+      "gifUrl": "https://firebasestorage.googleapis.com/v0/b/chatappfirebasetd.appspot.com/o/exercises%2FhUNg6QCKEsxldm.gif?alt=media",
       "id": "1001",
       "name": "band single leg split squat",
       "target": "quads",
@@ -1558,7 +1558,7 @@ export const EXERCISES_DATA = [
     {
       "bodyPart": "upper legs",
       "equipment": "band",
-      "gifUrl": "https://res.cloudinary.com/dysns4al9/image/upload/v1779592720/gifs/r1KuvpkzKvNhhK.gif?alt=media",
+      "gifUrl": "https://firebasestorage.googleapis.com/v0/b/chatappfirebasetd.appspot.com/o/exercises%2Fr1KuvpkzKvNhhK.gif?alt=media",
       "id": "1004",
       "name": "band squat",
       "target": "glutes",
@@ -1578,7 +1578,7 @@ export const EXERCISES_DATA = [
     {
       "bodyPart": "upper legs",
       "equipment": "band",
-      "gifUrl": "https://res.cloudinary.com/dysns4al9/image/upload/v1779592720/gifs/e0Hbo37YVA-sCG.gif?alt=media",
+      "gifUrl": "https://firebasestorage.googleapis.com/v0/b/chatappfirebasetd.appspot.com/o/exercises%2Fe0Hbo37YVA-sCG.gif?alt=media",
       "id": "1003",
       "name": "band squat row",
       "target": "glutes",
@@ -1600,7 +1600,7 @@ export const EXERCISES_DATA = [
     {
       "bodyPart": "waist",
       "equipment": "band",
-      "gifUrl": "https://res.cloudinary.com/dysns4al9/image/upload/v1779592720/gifs/wmZajILiLRTm8N.gif?alt=media",
+      "gifUrl": "https://firebasestorage.googleapis.com/v0/b/chatappfirebasetd.appspot.com/o/exercises%2FwmZajILiLRTm8N.gif?alt=media",
       "id": "1005",
       "name": "band standing crunch",
       "target": "abs",
@@ -1619,7 +1619,7 @@ export const EXERCISES_DATA = [
     {
       "bodyPart": "shoulders",
       "equipment": "band",
-      "gifUrl": "https://res.cloudinary.com/dysns4al9/image/upload/v1779592720/gifs/dr4tqEy6sH-YhB.gif?alt=media",
+      "gifUrl": "https://firebasestorage.googleapis.com/v0/b/chatappfirebasetd.appspot.com/o/exercises%2Fdr4tqEy6sH-YhB.gif?alt=media",
       "id": "1022",
       "name": "band standing rear delt row",
       "target": "delts",
@@ -1640,7 +1640,7 @@ export const EXERCISES_DATA = [
     {
       "bodyPart": "waist",
       "equipment": "band",
-      "gifUrl": "https://res.cloudinary.com/dysns4al9/image/upload/v1779592720/gifs/oZ1vvyCmvBHulg.gif?alt=media",
+      "gifUrl": "https://firebasestorage.googleapis.com/v0/b/chatappfirebasetd.appspot.com/o/exercises%2FoZ1vvyCmvBHulg.gif?alt=media",
       "id": "1007",
       "name": "band standing twisting crunch",
       "target": "abs",
@@ -1659,7 +1659,7 @@ export const EXERCISES_DATA = [
     {
       "bodyPart": "upper legs",
       "equipment": "band",
-      "gifUrl": "https://res.cloudinary.com/dysns4al9/image/upload/v1779592720/gifs/SZiisuok34qpfF.gif?alt=media",
+      "gifUrl": "https://firebasestorage.googleapis.com/v0/b/chatappfirebasetd.appspot.com/o/exercises%2FSZiisuok34qpfF.gif?alt=media",
       "id": "1008",
       "name": "band step-up",
       "target": "glutes",
@@ -1681,7 +1681,7 @@ export const EXERCISES_DATA = [
     {
       "bodyPart": "upper legs",
       "equipment": "band",
-      "gifUrl": "https://res.cloudinary.com/dysns4al9/image/upload/v1779592720/gifs/43CDBZotQcR4DR.gif?alt=media",
+      "gifUrl": "https://firebasestorage.googleapis.com/v0/b/chatappfirebasetd.appspot.com/o/exercises%2F43CDBZotQcR4DR.gif?alt=media",
       "id": "1009",
       "name": "band stiff leg deadlift",
       "target": "glutes",
@@ -1702,7 +1702,7 @@ export const EXERCISES_DATA = [
     {
       "bodyPart": "upper legs",
       "equipment": "band",
-      "gifUrl": "https://res.cloudinary.com/dysns4al9/image/upload/v1779592720/gifs/FGvuVr1IOk419N.gif?alt=media",
+      "gifUrl": "https://firebasestorage.googleapis.com/v0/b/chatappfirebasetd.appspot.com/o/exercises%2FFGvuVr1IOk419N.gif?alt=media",
       "id": "1023",
       "name": "band straight back stiff leg deadlift",
       "target": "glutes",
@@ -1722,7 +1722,7 @@ export const EXERCISES_DATA = [
     {
       "bodyPart": "back",
       "equipment": "band",
-      "gifUrl": "https://res.cloudinary.com/dysns4al9/image/upload/v1779592720/gifs/R7XLXDgDFN7CNC.gif?alt=media",
+      "gifUrl": "https://firebasestorage.googleapis.com/v0/b/chatappfirebasetd.appspot.com/o/exercises%2FR7XLXDgDFN7CNC.gif?alt=media",
       "id": "1010",
       "name": "band straight leg deadlift",
       "target": "spine",
@@ -1743,7 +1743,7 @@ export const EXERCISES_DATA = [
     {
       "bodyPart": "shoulders",
       "equipment": "band",
-      "gifUrl": "https://res.cloudinary.com/dysns4al9/image/upload/v1779592720/gifs/oNlne2w3wStaUZ.gif?alt=media",
+      "gifUrl": "https://firebasestorage.googleapis.com/v0/b/chatappfirebasetd.appspot.com/o/exercises%2FoNlne2w3wStaUZ.gif?alt=media",
       "id": "1012",
       "name": "band twisting overhead press",
       "target": "delts",
@@ -1764,7 +1764,7 @@ export const EXERCISES_DATA = [
     {
       "bodyPart": "lower legs",
       "equipment": "band",
-      "gifUrl": "https://res.cloudinary.com/dysns4al9/image/upload/v1779592720/gifs/-EgGq7SImHtmYi.gif?alt=media",
+      "gifUrl": "https://firebasestorage.googleapis.com/v0/b/chatappfirebasetd.appspot.com/o/exercises%2F-EgGq7SImHtmYi.gif?alt=media",
       "id": "1369",
       "name": "band two legs calf raise - (band under both legs) v. 2",
       "target": "calves",
@@ -1783,7 +1783,7 @@ export const EXERCISES_DATA = [
     {
       "bodyPart": "back",
       "equipment": "band",
-      "gifUrl": "https://res.cloudinary.com/dysns4al9/image/upload/v1779592720/gifs/SdLmySt3j2rDLh.gif?alt=media",
+      "gifUrl": "https://firebasestorage.googleapis.com/v0/b/chatappfirebasetd.appspot.com/o/exercises%2FSdLmySt3j2rDLh.gif?alt=media",
       "id": "1013",
       "name": "band underhand pulldown",
       "target": "lats",
@@ -1804,7 +1804,7 @@ export const EXERCISES_DATA = [
     {
       "bodyPart": "waist",
       "equipment": "band",
-      "gifUrl": "https://res.cloudinary.com/dysns4al9/image/upload/v1779592720/gifs/YYoMcs6NWCCoQp.gif?alt=media",
+      "gifUrl": "https://firebasestorage.googleapis.com/v0/b/chatappfirebasetd.appspot.com/o/exercises%2FYYoMcs6NWCCoQp.gif?alt=media",
       "id": "1014",
       "name": "band v-up",
       "target": "abs",
@@ -1821,7 +1821,7 @@ export const EXERCISES_DATA = [
     {
       "bodyPart": "waist",
       "equipment": "band",
-      "gifUrl": "https://res.cloudinary.com/dysns4al9/image/upload/v1779592720/gifs/RHyKMOj08BQ6VW.gif?alt=media",
+      "gifUrl": "https://firebasestorage.googleapis.com/v0/b/chatappfirebasetd.appspot.com/o/exercises%2FRHyKMOj08BQ6VW.gif?alt=media",
       "id": "1015",
       "name": "band vertical pallof press",
       "target": "abs",
@@ -1842,7 +1842,7 @@ export const EXERCISES_DATA = [
     {
       "bodyPart": "lower arms",
       "equipment": "band",
-      "gifUrl": "https://res.cloudinary.com/dysns4al9/image/upload/v1779592720/gifs/O8G9fiqxQDTmuz.gif?alt=media",
+      "gifUrl": "https://firebasestorage.googleapis.com/v0/b/chatappfirebasetd.appspot.com/o/exercises%2FO8G9fiqxQDTmuz.gif?alt=media",
       "id": "1016",
       "name": "band wrist curl",
       "target": "forearms",
@@ -1861,7 +1861,7 @@ export const EXERCISES_DATA = [
     {
       "bodyPart": "shoulders",
       "equipment": "band",
-      "gifUrl": "https://res.cloudinary.com/dysns4al9/image/upload/v1779592720/gifs/rJITaANn5RJmeO.gif?alt=media",
+      "gifUrl": "https://firebasestorage.googleapis.com/v0/b/chatappfirebasetd.appspot.com/o/exercises%2FrJITaANn5RJmeO.gif?alt=media",
       "id": "1017",
       "name": "band y-raise",
       "target": "delts",
@@ -1880,7 +1880,7 @@ export const EXERCISES_DATA = [
     {
       "bodyPart": "upper arms",
       "equipment": "barbell",
-      "gifUrl": "https://res.cloudinary.com/dysns4al9/image/upload/v1779592720/gifs/TMAuOnp5xDP5d1.gif?alt=media",
+      "gifUrl": "https://firebasestorage.googleapis.com/v0/b/chatappfirebasetd.appspot.com/o/exercises%2FTMAuOnp5xDP5d1.gif?alt=media",
       "id": "0023",
       "name": "barbell alternate biceps curl",
       "target": "biceps",
@@ -1899,7 +1899,7 @@ export const EXERCISES_DATA = [
     {
       "bodyPart": "upper legs",
       "equipment": "barbell",
-      "gifUrl": "https://res.cloudinary.com/dysns4al9/image/upload/v1779592720/gifs/SpONnSM-eNgvLm.gif?alt=media",
+      "gifUrl": "https://firebasestorage.googleapis.com/v0/b/chatappfirebasetd.appspot.com/o/exercises%2FSpONnSM-eNgvLm.gif?alt=media",
       "id": "0024",
       "name": "barbell bench front squat",
       "target": "quads",
@@ -1919,7 +1919,7 @@ export const EXERCISES_DATA = [
     {
       "bodyPart": "chest",
       "equipment": "barbell",
-      "gifUrl": "https://res.cloudinary.com/dysns4al9/image/upload/v1779592720/gifs/ScWQjyJWnQExZ0.gif?alt=media",
+      "gifUrl": "https://firebasestorage.googleapis.com/v0/b/chatappfirebasetd.appspot.com/o/exercises%2FScWQjyJWnQExZ0.gif?alt=media",
       "id": "0025",
       "name": "barbell bench press",
       "target": "pectorals",
@@ -1940,7 +1940,7 @@ export const EXERCISES_DATA = [
     {
       "bodyPart": "upper legs",
       "equipment": "barbell",
-      "gifUrl": "https://res.cloudinary.com/dysns4al9/image/upload/v1779592720/gifs/LHpYwnhGNFiSU6.gif?alt=media",
+      "gifUrl": "https://firebasestorage.googleapis.com/v0/b/chatappfirebasetd.appspot.com/o/exercises%2FLHpYwnhGNFiSU6.gif?alt=media",
       "id": "0026",
       "name": "barbell bench squat",
       "target": "quads",
@@ -1963,7 +1963,7 @@ export const EXERCISES_DATA = [
     {
       "bodyPart": "back",
       "equipment": "barbell",
-      "gifUrl": "https://res.cloudinary.com/dysns4al9/image/upload/v1779592720/gifs/U2e7CVMPnImEZC.gif?alt=media",
+      "gifUrl": "https://firebasestorage.googleapis.com/v0/b/chatappfirebasetd.appspot.com/o/exercises%2FU2e7CVMPnImEZC.gif?alt=media",
       "id": "1316",
       "name": "barbell bent arm pullover",
       "target": "lats",
@@ -1982,7 +1982,7 @@ export const EXERCISES_DATA = [
     {
       "bodyPart": "back",
       "equipment": "barbell",
-      "gifUrl": "https://res.cloudinary.com/dysns4al9/image/upload/v1779592720/gifs/xNxHmkBlUAteOo.gif?alt=media",
+      "gifUrl": "https://firebasestorage.googleapis.com/v0/b/chatappfirebasetd.appspot.com/o/exercises%2FxNxHmkBlUAteOo.gif?alt=media",
       "id": "0027",
       "name": "barbell bent over row",
       "target": "upper back",
@@ -2002,7 +2002,7 @@ export const EXERCISES_DATA = [
     {
       "bodyPart": "upper arms",
       "equipment": "barbell",
-      "gifUrl": "https://res.cloudinary.com/dysns4al9/image/upload/v1779592720/gifs/GMl9hDYd1sOOn5.gif?alt=media",
+      "gifUrl": "https://firebasestorage.googleapis.com/v0/b/chatappfirebasetd.appspot.com/o/exercises%2FGMl9hDYd1sOOn5.gif?alt=media",
       "id": "2407",
       "name": "barbell biceps curl (with arm blaster)",
       "target": "biceps",
@@ -2022,7 +2022,7 @@ export const EXERCISES_DATA = [
     {
       "bodyPart": "upper legs",
       "equipment": "barbell",
-      "gifUrl": "https://res.cloudinary.com/dysns4al9/image/upload/v1779592720/gifs/k8SdoK1acIGpxC.gif?alt=media",
+      "gifUrl": "https://firebasestorage.googleapis.com/v0/b/chatappfirebasetd.appspot.com/o/exercises%2Fk8SdoK1acIGpxC.gif?alt=media",
       "id": "0028",
       "name": "barbell clean and press",
       "target": "quads",
@@ -2045,7 +2045,7 @@ export const EXERCISES_DATA = [
     {
       "bodyPart": "upper legs",
       "equipment": "barbell",
-      "gifUrl": "https://res.cloudinary.com/dysns4al9/image/upload/v1779592720/gifs/BFN9nlFGa-PnPk.gif?alt=media",
+      "gifUrl": "https://firebasestorage.googleapis.com/v0/b/chatappfirebasetd.appspot.com/o/exercises%2FBFN9nlFGa-PnPk.gif?alt=media",
       "id": "0029",
       "name": "barbell clean-grip front squat",
       "target": "glutes",
@@ -2067,7 +2067,7 @@ export const EXERCISES_DATA = [
     {
       "bodyPart": "upper arms",
       "equipment": "barbell",
-      "gifUrl": "https://res.cloudinary.com/dysns4al9/image/upload/v1779592720/gifs/1znlmBIAJlU079.gif?alt=media",
+      "gifUrl": "https://firebasestorage.googleapis.com/v0/b/chatappfirebasetd.appspot.com/o/exercises%2F1znlmBIAJlU079.gif?alt=media",
       "id": "0030",
       "name": "barbell close-grip bench press",
       "target": "triceps",
@@ -2087,7 +2087,7 @@ export const EXERCISES_DATA = [
     {
       "bodyPart": "upper arms",
       "equipment": "barbell",
-      "gifUrl": "https://res.cloudinary.com/dysns4al9/image/upload/v1779592720/gifs/EsFOEM5-4AGHwm.gif?alt=media",
+      "gifUrl": "https://firebasestorage.googleapis.com/v0/b/chatappfirebasetd.appspot.com/o/exercises%2FEsFOEM5-4AGHwm.gif?alt=media",
       "id": "0031",
       "name": "barbell curl",
       "target": "biceps",
@@ -2106,7 +2106,7 @@ export const EXERCISES_DATA = [
     {
       "bodyPart": "upper legs",
       "equipment": "barbell",
-      "gifUrl": "https://res.cloudinary.com/dysns4al9/image/upload/v1779592720/gifs/0ZvBYNpPWi3CdE.gif?alt=media",
+      "gifUrl": "https://firebasestorage.googleapis.com/v0/b/chatappfirebasetd.appspot.com/o/exercises%2F0ZvBYNpPWi3CdE.gif?alt=media",
       "id": "0032",
       "name": "barbell deadlift",
       "target": "glutes",
@@ -2126,7 +2126,7 @@ export const EXERCISES_DATA = [
     {
       "bodyPart": "chest",
       "equipment": "barbell",
-      "gifUrl": "https://res.cloudinary.com/dysns4al9/image/upload/v1779592720/gifs/QcrugdpMyjg0hM.gif?alt=media",
+      "gifUrl": "https://firebasestorage.googleapis.com/v0/b/chatappfirebasetd.appspot.com/o/exercises%2FQcrugdpMyjg0hM.gif?alt=media",
       "id": "0033",
       "name": "barbell decline bench press",
       "target": "pectorals",
@@ -2145,7 +2145,7 @@ export const EXERCISES_DATA = [
     {
       "bodyPart": "back",
       "equipment": "barbell",
-      "gifUrl": "https://res.cloudinary.com/dysns4al9/image/upload/v1779592720/gifs/bwaQIVQAFaPjdo.gif?alt=media",
+      "gifUrl": "https://firebasestorage.googleapis.com/v0/b/chatappfirebasetd.appspot.com/o/exercises%2FbwaQIVQAFaPjdo.gif?alt=media",
       "id": "0034",
       "name": "barbell decline bent arm pullover",
       "target": "lats",
@@ -2164,7 +2164,7 @@ export const EXERCISES_DATA = [
     {
       "bodyPart": "upper arms",
       "equipment": "barbell",
-      "gifUrl": "https://res.cloudinary.com/dysns4al9/image/upload/v1779592720/gifs/4bHgFnh8GpTxsq.gif?alt=media",
+      "gifUrl": "https://firebasestorage.googleapis.com/v0/b/chatappfirebasetd.appspot.com/o/exercises%2F4bHgFnh8GpTxsq.gif?alt=media",
       "id": "0035",
       "name": "barbell decline close grip to skull press",
       "target": "triceps",
@@ -2182,7 +2182,7 @@ export const EXERCISES_DATA = [
     {
       "bodyPart": "chest",
       "equipment": "barbell",
-      "gifUrl": "https://res.cloudinary.com/dysns4al9/image/upload/v1779592720/gifs/Q5h3AWlHQrWIjM.gif?alt=media",
+      "gifUrl": "https://firebasestorage.googleapis.com/v0/b/chatappfirebasetd.appspot.com/o/exercises%2FQ5h3AWlHQrWIjM.gif?alt=media",
       "id": "1255",
       "name": "barbell decline pullover",
       "target": "pectorals",
@@ -2202,7 +2202,7 @@ export const EXERCISES_DATA = [
     {
       "bodyPart": "chest",
       "equipment": "barbell",
-      "gifUrl": "https://res.cloudinary.com/dysns4al9/image/upload/v1779592720/gifs/2tfN-cbHhiaa2q.gif?alt=media",
+      "gifUrl": "https://firebasestorage.googleapis.com/v0/b/chatappfirebasetd.appspot.com/o/exercises%2F2tfN-cbHhiaa2q.gif?alt=media",
       "id": "0036",
       "name": "barbell decline wide-grip press",
       "target": "pectorals",
@@ -2221,7 +2221,7 @@ export const EXERCISES_DATA = [
     {
       "bodyPart": "back",
       "equipment": "barbell",
-      "gifUrl": "https://res.cloudinary.com/dysns4al9/image/upload/v1779592720/gifs/0oVciwIawBPIMz.gif?alt=media",
+      "gifUrl": "https://firebasestorage.googleapis.com/v0/b/chatappfirebasetd.appspot.com/o/exercises%2F0oVciwIawBPIMz.gif?alt=media",
       "id": "0037",
       "name": "barbell decline wide-grip pullover",
       "target": "lats",
@@ -2240,7 +2240,7 @@ export const EXERCISES_DATA = [
     {
       "bodyPart": "upper arms",
       "equipment": "barbell",
-      "gifUrl": "https://res.cloudinary.com/dysns4al9/image/upload/v1779592720/gifs/ONtOWpLAFnx7Kc.gif?alt=media",
+      "gifUrl": "https://firebasestorage.googleapis.com/v0/b/chatappfirebasetd.appspot.com/o/exercises%2FONtOWpLAFnx7Kc.gif?alt=media",
       "id": "0038",
       "name": "barbell drag curl",
       "target": "biceps",
@@ -2258,7 +2258,7 @@ export const EXERCISES_DATA = [
     {
       "bodyPart": "lower legs",
       "equipment": "barbell",
-      "gifUrl": "https://res.cloudinary.com/dysns4al9/image/upload/v1779592720/gifs/7wgvuOoMLP98DL.gif?alt=media",
+      "gifUrl": "https://firebasestorage.googleapis.com/v0/b/chatappfirebasetd.appspot.com/o/exercises%2F7wgvuOoMLP98DL.gif?alt=media",
       "id": "1370",
       "name": "barbell floor calf raise",
       "target": "calves",
@@ -2277,7 +2277,7 @@ export const EXERCISES_DATA = [
     {
       "bodyPart": "upper legs",
       "equipment": "barbell",
-      "gifUrl": "https://res.cloudinary.com/dysns4al9/image/upload/v1779592720/gifs/iWtHwcowOyMCNg.gif?alt=media",
+      "gifUrl": "https://firebasestorage.googleapis.com/v0/b/chatappfirebasetd.appspot.com/o/exercises%2FiWtHwcowOyMCNg.gif?alt=media",
       "id": "0039",
       "name": "barbell front chest squat",
       "target": "glutes",
@@ -2299,7 +2299,7 @@ export const EXERCISES_DATA = [
     {
       "bodyPart": "shoulders",
       "equipment": "barbell",
-      "gifUrl": "https://res.cloudinary.com/dysns4al9/image/upload/v1779592720/gifs/xQSEW87VqmgA4g.gif?alt=media",
+      "gifUrl": "https://firebasestorage.googleapis.com/v0/b/chatappfirebasetd.appspot.com/o/exercises%2FxQSEW87VqmgA4g.gif?alt=media",
       "id": "0041",
       "name": "barbell front raise",
       "target": "delts",
@@ -2317,7 +2317,7 @@ export const EXERCISES_DATA = [
     {
       "bodyPart": "chest",
       "equipment": "barbell",
-      "gifUrl": "https://res.cloudinary.com/dysns4al9/image/upload/v1779592720/gifs/uxhp3EV3EJzMBt.gif?alt=media",
+      "gifUrl": "https://firebasestorage.googleapis.com/v0/b/chatappfirebasetd.appspot.com/o/exercises%2Fuxhp3EV3EJzMBt.gif?alt=media",
       "id": "0040",
       "name": "barbell front raise and pullover",
       "target": "pectorals",
@@ -2337,7 +2337,7 @@ export const EXERCISES_DATA = [
     {
       "bodyPart": "upper legs",
       "equipment": "barbell",
-      "gifUrl": "https://res.cloudinary.com/dysns4al9/image/upload/v1779592720/gifs/kzM1QSAePdoYDT.gif?alt=media",
+      "gifUrl": "https://firebasestorage.googleapis.com/v0/b/chatappfirebasetd.appspot.com/o/exercises%2FkzM1QSAePdoYDT.gif?alt=media",
       "id": "0042",
       "name": "barbell front squat",
       "target": "glutes",
@@ -2359,7 +2359,7 @@ export const EXERCISES_DATA = [
     {
       "bodyPart": "upper legs",
       "equipment": "barbell",
-      "gifUrl": "https://res.cloudinary.com/dysns4al9/image/upload/v1779592720/gifs/4apOX2PlH90Gt0.gif?alt=media",
+      "gifUrl": "https://firebasestorage.googleapis.com/v0/b/chatappfirebasetd.appspot.com/o/exercises%2F4apOX2PlH90Gt0.gif?alt=media",
       "id": "0043",
       "name": "barbell full squat",
       "target": "glutes",
@@ -2383,7 +2383,7 @@ export const EXERCISES_DATA = [
     {
       "bodyPart": "upper legs",
       "equipment": "barbell",
-      "gifUrl": "https://res.cloudinary.com/dysns4al9/image/upload/v1779592720/gifs/HW-8sYYz5VAQZn.gif?alt=media",
+      "gifUrl": "https://firebasestorage.googleapis.com/v0/b/chatappfirebasetd.appspot.com/o/exercises%2FHW-8sYYz5VAQZn.gif?alt=media",
       "id": "1461",
       "name": "barbell full squat (back pov)",
       "target": "glutes",
@@ -2407,7 +2407,7 @@ export const EXERCISES_DATA = [
     {
       "bodyPart": "upper legs",
       "equipment": "barbell",
-      "gifUrl": "https://res.cloudinary.com/dysns4al9/image/upload/v1779592720/gifs/7C7J18meTgevPu.gif?alt=media",
+      "gifUrl": "https://firebasestorage.googleapis.com/v0/b/chatappfirebasetd.appspot.com/o/exercises%2F7C7J18meTgevPu.gif?alt=media",
       "id": "1462",
       "name": "barbell full squat (side pov)",
       "target": "glutes",
@@ -2431,7 +2431,7 @@ export const EXERCISES_DATA = [
     {
       "bodyPart": "upper legs",
       "equipment": "barbell",
-      "gifUrl": "https://res.cloudinary.com/dysns4al9/image/upload/v1779592720/gifs/rnjjBVYChLhc8k.gif?alt=media",
+      "gifUrl": "https://firebasestorage.googleapis.com/v0/b/chatappfirebasetd.appspot.com/o/exercises%2FrnjjBVYChLhc8k.gif?alt=media",
       "id": "1545",
       "name": "barbell full zercher squat",
       "target": "glutes",
@@ -2454,7 +2454,7 @@ export const EXERCISES_DATA = [
     {
       "bodyPart": "upper legs",
       "equipment": "barbell",
-      "gifUrl": "https://res.cloudinary.com/dysns4al9/image/upload/v1779592720/gifs/O9zmck0smeQRfU.gif?alt=media",
+      "gifUrl": "https://firebasestorage.googleapis.com/v0/b/chatappfirebasetd.appspot.com/o/exercises%2FO9zmck0smeQRfU.gif?alt=media",
       "id": "1409",
       "name": "barbell glute bridge",
       "target": "glutes",
@@ -2474,7 +2474,7 @@ export const EXERCISES_DATA = [
     {
       "bodyPart": "upper legs",
       "equipment": "barbell",
-      "gifUrl": "https://res.cloudinary.com/dysns4al9/image/upload/v1779592720/gifs/h8aB85geUmp6Zv.gif?alt=media",
+      "gifUrl": "https://firebasestorage.googleapis.com/v0/b/chatappfirebasetd.appspot.com/o/exercises%2Fh8aB85geUmp6Zv.gif?alt=media",
       "id": "3562",
       "name": "barbell glute bridge two legs on bench (male)",
       "target": "glutes",
@@ -2494,7 +2494,7 @@ export const EXERCISES_DATA = [
     {
       "bodyPart": "upper legs",
       "equipment": "barbell",
-      "gifUrl": "https://res.cloudinary.com/dysns4al9/image/upload/v1779592720/gifs/8IZ4-5KADH9G8i.gif?alt=media",
+      "gifUrl": "https://firebasestorage.googleapis.com/v0/b/chatappfirebasetd.appspot.com/o/exercises%2F8IZ4-5KADH9G8i.gif?alt=media",
       "id": "0044",
       "name": "barbell good morning",
       "target": "hamstrings",
@@ -2512,7 +2512,7 @@ export const EXERCISES_DATA = [
     {
       "bodyPart": "chest",
       "equipment": "barbell",
-      "gifUrl": "https://res.cloudinary.com/dysns4al9/image/upload/v1779592720/gifs/4RzLxIRyHog-zT.gif?alt=media",
+      "gifUrl": "https://firebasestorage.googleapis.com/v0/b/chatappfirebasetd.appspot.com/o/exercises%2F4RzLxIRyHog-zT.gif?alt=media",
       "id": "0045",
       "name": "barbell guillotine bench press",
       "target": "pectorals",
@@ -2532,7 +2532,7 @@ export const EXERCISES_DATA = [
     {
       "bodyPart": "upper legs",
       "equipment": "barbell",
-      "gifUrl": "https://res.cloudinary.com/dysns4al9/image/upload/v1779592720/gifs/8UpBYvQQKoViHp.gif?alt=media",
+      "gifUrl": "https://firebasestorage.googleapis.com/v0/b/chatappfirebasetd.appspot.com/o/exercises%2F8UpBYvQQKoViHp.gif?alt=media",
       "id": "0046",
       "name": "barbell hack squat",
       "target": "glutes",
@@ -2553,7 +2553,7 @@ export const EXERCISES_DATA = [
     {
       "bodyPart": "upper legs",
       "equipment": "barbell",
-      "gifUrl": "https://res.cloudinary.com/dysns4al9/image/upload/v1779592720/gifs/1bqmHYQRACfhQ5.gif?alt=media",
+      "gifUrl": "https://firebasestorage.googleapis.com/v0/b/chatappfirebasetd.appspot.com/o/exercises%2F1bqmHYQRACfhQ5.gif?alt=media",
       "id": "1436",
       "name": "barbell high bar squat",
       "target": "glutes",
@@ -2575,7 +2575,7 @@ export const EXERCISES_DATA = [
     {
       "bodyPart": "chest",
       "equipment": "barbell",
-      "gifUrl": "https://res.cloudinary.com/dysns4al9/image/upload/v1779592720/gifs/SeGg9sLfKNrBQ6.gif?alt=media",
+      "gifUrl": "https://firebasestorage.googleapis.com/v0/b/chatappfirebasetd.appspot.com/o/exercises%2FSeGg9sLfKNrBQ6.gif?alt=media",
       "id": "0047",
       "name": "barbell incline bench press",
       "target": "pectorals",
@@ -2595,7 +2595,7 @@ export const EXERCISES_DATA = [
     {
       "bodyPart": "upper arms",
       "equipment": "barbell",
-      "gifUrl": "https://res.cloudinary.com/dysns4al9/image/upload/v1779592720/gifs/DnbZ1xIKgWQVbZ.gif?alt=media",
+      "gifUrl": "https://firebasestorage.googleapis.com/v0/b/chatappfirebasetd.appspot.com/o/exercises%2FDnbZ1xIKgWQVbZ.gif?alt=media",
       "id": "1719",
       "name": "barbell incline close grip bench press",
       "target": "triceps",
@@ -2616,7 +2616,7 @@ export const EXERCISES_DATA = [
     {
       "bodyPart": "upper arms",
       "equipment": "barbell",
-      "gifUrl": "https://res.cloudinary.com/dysns4al9/image/upload/v1779592720/gifs/yTXWYVuWxA7kdt.gif?alt=media",
+      "gifUrl": "https://firebasestorage.googleapis.com/v0/b/chatappfirebasetd.appspot.com/o/exercises%2FyTXWYVuWxA7kdt.gif?alt=media",
       "id": "0048",
       "name": "barbell incline reverse-grip press",
       "target": "triceps",
@@ -2635,7 +2635,7 @@ export const EXERCISES_DATA = [
     {
       "bodyPart": "back",
       "equipment": "barbell",
-      "gifUrl": "https://res.cloudinary.com/dysns4al9/image/upload/v1779592720/gifs/Vycz-UFYNwtdrB.gif?alt=media",
+      "gifUrl": "https://firebasestorage.googleapis.com/v0/b/chatappfirebasetd.appspot.com/o/exercises%2FVycz-UFYNwtdrB.gif?alt=media",
       "id": "0049",
       "name": "barbell incline row",
       "target": "upper back",
@@ -2656,7 +2656,7 @@ export const EXERCISES_DATA = [
     {
       "bodyPart": "chest",
       "equipment": "barbell",
-      "gifUrl": "https://res.cloudinary.com/dysns4al9/image/upload/v1779592720/gifs/YMHehd2fINjIJQ.gif?alt=media",
+      "gifUrl": "https://firebasestorage.googleapis.com/v0/b/chatappfirebasetd.appspot.com/o/exercises%2FYMHehd2fINjIJQ.gif?alt=media",
       "id": "0050",
       "name": "barbell incline shoulder raise",
       "target": "serratus anterior",
@@ -2677,7 +2677,7 @@ export const EXERCISES_DATA = [
     {
       "bodyPart": "upper legs",
       "equipment": "barbell",
-      "gifUrl": "https://res.cloudinary.com/dysns4al9/image/upload/v1779592720/gifs/K-weTjU-HJAFLS.gif?alt=media",
+      "gifUrl": "https://firebasestorage.googleapis.com/v0/b/chatappfirebasetd.appspot.com/o/exercises%2FK-weTjU-HJAFLS.gif?alt=media",
       "id": "0051",
       "name": "barbell jefferson squat",
       "target": "glutes",
@@ -2698,7 +2698,7 @@ export const EXERCISES_DATA = [
     {
       "bodyPart": "upper arms",
       "equipment": "barbell",
-      "gifUrl": "https://res.cloudinary.com/dysns4al9/image/upload/v1779592720/gifs/bXGByVf6awBqDz.gif?alt=media",
+      "gifUrl": "https://firebasestorage.googleapis.com/v0/b/chatappfirebasetd.appspot.com/o/exercises%2FbXGByVf6awBqDz.gif?alt=media",
       "id": "0052",
       "name": "barbell jm bench press",
       "target": "triceps",
@@ -2717,7 +2717,7 @@ export const EXERCISES_DATA = [
     {
       "bodyPart": "upper legs",
       "equipment": "barbell",
-      "gifUrl": "https://res.cloudinary.com/dysns4al9/image/upload/v1779592720/gifs/O1YzSEOFxy9Fbq.gif?alt=media",
+      "gifUrl": "https://firebasestorage.googleapis.com/v0/b/chatappfirebasetd.appspot.com/o/exercises%2FO1YzSEOFxy9Fbq.gif?alt=media",
       "id": "0053",
       "name": "barbell jump squat",
       "target": "glutes",
@@ -2737,7 +2737,7 @@ export const EXERCISES_DATA = [
     {
       "bodyPart": "upper legs",
       "equipment": "barbell",
-      "gifUrl": "https://res.cloudinary.com/dysns4al9/image/upload/v1779592720/gifs/xxCBvMiPOMf5dL.gif?alt=media",
+      "gifUrl": "https://firebasestorage.googleapis.com/v0/b/chatappfirebasetd.appspot.com/o/exercises%2FxxCBvMiPOMf5dL.gif?alt=media",
       "id": "1410",
       "name": "barbell lateral lunge",
       "target": "glutes",
@@ -2757,7 +2757,7 @@ export const EXERCISES_DATA = [
     {
       "bodyPart": "upper legs",
       "equipment": "barbell",
-      "gifUrl": "https://res.cloudinary.com/dysns4al9/image/upload/v1779592720/gifs/vDoTwGV6PmWTwi.gif?alt=media",
+      "gifUrl": "https://firebasestorage.googleapis.com/v0/b/chatappfirebasetd.appspot.com/o/exercises%2FvDoTwGV6PmWTwi.gif?alt=media",
       "id": "1435",
       "name": "barbell low bar squat",
       "target": "glutes",
@@ -2777,7 +2777,7 @@ export const EXERCISES_DATA = [
     {
       "bodyPart": "upper legs",
       "equipment": "barbell",
-      "gifUrl": "https://res.cloudinary.com/dysns4al9/image/upload/v1779592720/gifs/kPrzpySOXgRG22.gif?alt=media",
+      "gifUrl": "https://firebasestorage.googleapis.com/v0/b/chatappfirebasetd.appspot.com/o/exercises%2FkPrzpySOXgRG22.gif?alt=media",
       "id": "0054",
       "name": "barbell lunge",
       "target": "glutes",
@@ -2797,7 +2797,7 @@ export const EXERCISES_DATA = [
     {
       "bodyPart": "upper arms",
       "equipment": "barbell",
-      "gifUrl": "https://res.cloudinary.com/dysns4al9/image/upload/v1779592720/gifs/IXYe3udJjAEyWB.gif?alt=media",
+      "gifUrl": "https://firebasestorage.googleapis.com/v0/b/chatappfirebasetd.appspot.com/o/exercises%2FIXYe3udJjAEyWB.gif?alt=media",
       "id": "1720",
       "name": "barbell lying back of the head tricep extension",
       "target": "triceps",
@@ -2815,7 +2815,7 @@ export const EXERCISES_DATA = [
     {
       "bodyPart": "upper arms",
       "equipment": "barbell",
-      "gifUrl": "https://res.cloudinary.com/dysns4al9/image/upload/v1779592720/gifs/jIMtw5rIvPGUQY.gif?alt=media",
+      "gifUrl": "https://firebasestorage.googleapis.com/v0/b/chatappfirebasetd.appspot.com/o/exercises%2FjIMtw5rIvPGUQY.gif?alt=media",
       "id": "0055",
       "name": "barbell lying close-grip press",
       "target": "triceps",
@@ -2835,7 +2835,7 @@ export const EXERCISES_DATA = [
     {
       "bodyPart": "upper arms",
       "equipment": "barbell",
-      "gifUrl": "https://res.cloudinary.com/dysns4al9/image/upload/v1779592720/gifs/rneCbXFGVdskis.gif?alt=media",
+      "gifUrl": "https://firebasestorage.googleapis.com/v0/b/chatappfirebasetd.appspot.com/o/exercises%2FrneCbXFGVdskis.gif?alt=media",
       "id": "0056",
       "name": "barbell lying close-grip triceps extension",
       "target": "triceps",
@@ -2854,7 +2854,7 @@ export const EXERCISES_DATA = [
     {
       "bodyPart": "upper arms",
       "equipment": "barbell",
-      "gifUrl": "https://res.cloudinary.com/dysns4al9/image/upload/v1779592720/gifs/0wjjkIUd9oxzsX.gif?alt=media",
+      "gifUrl": "https://firebasestorage.googleapis.com/v0/b/chatappfirebasetd.appspot.com/o/exercises%2F0wjjkIUd9oxzsX.gif?alt=media",
       "id": "0057",
       "name": "barbell lying extension",
       "target": "triceps",
@@ -2872,7 +2872,7 @@ export const EXERCISES_DATA = [
     {
       "bodyPart": "upper legs",
       "equipment": "barbell",
-      "gifUrl": "https://res.cloudinary.com/dysns4al9/image/upload/v1779592720/gifs/uWzhfa3DAy0ydU.gif?alt=media",
+      "gifUrl": "https://firebasestorage.googleapis.com/v0/b/chatappfirebasetd.appspot.com/o/exercises%2FuWzhfa3DAy0ydU.gif?alt=media",
       "id": "0058",
       "name": "barbell lying lifting (on hip)",
       "target": "glutes",
@@ -2891,7 +2891,7 @@ export const EXERCISES_DATA = [
     {
       "bodyPart": "upper arms",
       "equipment": "barbell",
-      "gifUrl": "https://res.cloudinary.com/dysns4al9/image/upload/v1779592720/gifs/U4nGlIr2rObuw-.gif?alt=media",
+      "gifUrl": "https://firebasestorage.googleapis.com/v0/b/chatappfirebasetd.appspot.com/o/exercises%2FU4nGlIr2rObuw-.gif?alt=media",
       "id": "0059",
       "name": "barbell lying preacher curl",
       "target": "biceps",
@@ -2910,7 +2910,7 @@ export const EXERCISES_DATA = [
     {
       "bodyPart": "upper arms",
       "equipment": "barbell",
-      "gifUrl": "https://res.cloudinary.com/dysns4al9/image/upload/v1779592720/gifs/643QMJozC62pVW.gif?alt=media",
+      "gifUrl": "https://firebasestorage.googleapis.com/v0/b/chatappfirebasetd.appspot.com/o/exercises%2F643QMJozC62pVW.gif?alt=media",
       "id": "0061",
       "name": "barbell lying triceps extension",
       "target": "triceps",
@@ -2928,7 +2928,7 @@ export const EXERCISES_DATA = [
     {
       "bodyPart": "upper arms",
       "equipment": "barbell",
-      "gifUrl": "https://res.cloudinary.com/dysns4al9/image/upload/v1779592720/gifs/Mpp1q0u6r9YJhg.gif?alt=media",
+      "gifUrl": "https://firebasestorage.googleapis.com/v0/b/chatappfirebasetd.appspot.com/o/exercises%2FMpp1q0u6r9YJhg.gif?alt=media",
       "id": "0060",
       "name": "barbell lying triceps extension skull crusher",
       "target": "triceps",
@@ -2946,7 +2946,7 @@ export const EXERCISES_DATA = [
     {
       "bodyPart": "upper legs",
       "equipment": "barbell",
-      "gifUrl": "https://res.cloudinary.com/dysns4al9/image/upload/v1779592720/gifs/QshYrpxlJoJIn5.gif?alt=media",
+      "gifUrl": "https://firebasestorage.googleapis.com/v0/b/chatappfirebasetd.appspot.com/o/exercises%2FQshYrpxlJoJIn5.gif?alt=media",
       "id": "0063",
       "name": "barbell narrow stance squat",
       "target": "glutes",
@@ -2967,7 +2967,7 @@ export const EXERCISES_DATA = [
     {
       "bodyPart": "back",
       "equipment": "barbell",
-      "gifUrl": "https://res.cloudinary.com/dysns4al9/image/upload/v1779592720/gifs/fDas0-tMhloeTI.gif?alt=media",
+      "gifUrl": "https://firebasestorage.googleapis.com/v0/b/chatappfirebasetd.appspot.com/o/exercises%2FfDas0-tMhloeTI.gif?alt=media",
       "id": "0064",
       "name": "barbell one arm bent over row",
       "target": "upper back",
@@ -2986,7 +2986,7 @@ export const EXERCISES_DATA = [
     {
       "bodyPart": "upper arms",
       "equipment": "barbell",
-      "gifUrl": "https://res.cloudinary.com/dysns4al9/image/upload/v1779592720/gifs/ELsYpNNwaoVK7g.gif?alt=media",
+      "gifUrl": "https://firebasestorage.googleapis.com/v0/b/chatappfirebasetd.appspot.com/o/exercises%2FELsYpNNwaoVK7g.gif?alt=media",
       "id": "0065",
       "name": "barbell one arm floor press",
       "target": "triceps",
@@ -3005,7 +3005,7 @@ export const EXERCISES_DATA = [
     {
       "bodyPart": "upper legs",
       "equipment": "barbell",
-      "gifUrl": "https://res.cloudinary.com/dysns4al9/image/upload/v1779592720/gifs/2i-xZQojOHOsSW.gif?alt=media",
+      "gifUrl": "https://firebasestorage.googleapis.com/v0/b/chatappfirebasetd.appspot.com/o/exercises%2F2i-xZQojOHOsSW.gif?alt=media",
       "id": "0066",
       "name": "barbell one arm side deadlift",
       "target": "glutes",
@@ -3026,7 +3026,7 @@ export const EXERCISES_DATA = [
     {
       "bodyPart": "shoulders",
       "equipment": "barbell",
-      "gifUrl": "https://res.cloudinary.com/dysns4al9/image/upload/v1779592720/gifs/CnVxTfNYIop-rk.gif?alt=media",
+      "gifUrl": "https://firebasestorage.googleapis.com/v0/b/chatappfirebasetd.appspot.com/o/exercises%2FCnVxTfNYIop-rk.gif?alt=media",
       "id": "0067",
       "name": "barbell one arm snatch",
       "target": "delts",
@@ -3049,7 +3049,7 @@ export const EXERCISES_DATA = [
     {
       "bodyPart": "upper legs",
       "equipment": "barbell",
-      "gifUrl": "https://res.cloudinary.com/dysns4al9/image/upload/v1779592720/gifs/iwnWkpfyWT7L-F.gif?alt=media",
+      "gifUrl": "https://firebasestorage.googleapis.com/v0/b/chatappfirebasetd.appspot.com/o/exercises%2FiwnWkpfyWT7L-F.gif?alt=media",
       "id": "0068",
       "name": "barbell one leg squat",
       "target": "quads",
@@ -3069,7 +3069,7 @@ export const EXERCISES_DATA = [
     {
       "bodyPart": "upper legs",
       "equipment": "barbell",
-      "gifUrl": "https://res.cloudinary.com/dysns4al9/image/upload/v1779592720/gifs/PbVVsY0OTmjNIM.gif?alt=media",
+      "gifUrl": "https://firebasestorage.googleapis.com/v0/b/chatappfirebasetd.appspot.com/o/exercises%2FPbVVsY0OTmjNIM.gif?alt=media",
       "id": "0069",
       "name": "barbell overhead squat",
       "target": "quads",
@@ -3090,7 +3090,7 @@ export const EXERCISES_DATA = [
     {
       "bodyPart": "lower arms",
       "equipment": "barbell",
-      "gifUrl": "https://res.cloudinary.com/dysns4al9/image/upload/v1779592720/gifs/W7jYsLDQlLszTv.gif?alt=media",
+      "gifUrl": "https://firebasestorage.googleapis.com/v0/b/chatappfirebasetd.appspot.com/o/exercises%2FW7jYsLDQlLszTv.gif?alt=media",
       "id": "1411",
       "name": "barbell palms down wrist curl over a bench",
       "target": "forearms",
@@ -3109,7 +3109,7 @@ export const EXERCISES_DATA = [
     {
       "bodyPart": "lower arms",
       "equipment": "barbell",
-      "gifUrl": "https://res.cloudinary.com/dysns4al9/image/upload/v1779592720/gifs/KinTfUiNCBj6K9.gif?alt=media",
+      "gifUrl": "https://firebasestorage.googleapis.com/v0/b/chatappfirebasetd.appspot.com/o/exercises%2FKinTfUiNCBj6K9.gif?alt=media",
       "id": "1412",
       "name": "barbell palms up wrist curl over a bench",
       "target": "forearms",
@@ -3128,7 +3128,7 @@ export const EXERCISES_DATA = [
     {
       "bodyPart": "back",
       "equipment": "barbell",
-      "gifUrl": "https://res.cloudinary.com/dysns4al9/image/upload/v1779592720/gifs/V6HfTeQT6Qevn-.gif?alt=media",
+      "gifUrl": "https://firebasestorage.googleapis.com/v0/b/chatappfirebasetd.appspot.com/o/exercises%2FV6HfTeQT6Qevn-.gif?alt=media",
       "id": "3017",
       "name": "barbell pendlay row",
       "target": "upper back",
@@ -3148,7 +3148,7 @@ export const EXERCISES_DATA = [
     {
       "bodyPart": "upper arms",
       "equipment": "barbell",
-      "gifUrl": "https://res.cloudinary.com/dysns4al9/image/upload/v1779592720/gifs/7N7CGf37hJi7JP.gif?alt=media",
+      "gifUrl": "https://firebasestorage.googleapis.com/v0/b/chatappfirebasetd.appspot.com/o/exercises%2F7N7CGf37hJi7JP.gif?alt=media",
       "id": "1751",
       "name": "barbell pin presses",
       "target": "triceps",
@@ -3169,7 +3169,7 @@ export const EXERCISES_DATA = [
     {
       "bodyPart": "upper arms",
       "equipment": "barbell",
-      "gifUrl": "https://res.cloudinary.com/dysns4al9/image/upload/v1779592720/gifs/2m8mSPw3S7rCQs.gif?alt=media",
+      "gifUrl": "https://firebasestorage.googleapis.com/v0/b/chatappfirebasetd.appspot.com/o/exercises%2F2m8mSPw3S7rCQs.gif?alt=media",
       "id": "0070",
       "name": "barbell preacher curl",
       "target": "biceps",
@@ -3188,7 +3188,7 @@ export const EXERCISES_DATA = [
     {
       "bodyPart": "waist",
       "equipment": "barbell",
-      "gifUrl": "https://res.cloudinary.com/dysns4al9/image/upload/v1779592720/gifs/6AgwIMkrQDkjXp.gif?alt=media",
+      "gifUrl": "https://firebasestorage.googleapis.com/v0/b/chatappfirebasetd.appspot.com/o/exercises%2F6AgwIMkrQDkjXp.gif?alt=media",
       "id": "0071",
       "name": "barbell press sit-up",
       "target": "abs",
@@ -3207,7 +3207,7 @@ export const EXERCISES_DATA = [
     {
       "bodyPart": "upper arms",
       "equipment": "barbell",
-      "gifUrl": "https://res.cloudinary.com/dysns4al9/image/upload/v1779592720/gifs/y2Rc4enP8bOcuf.gif?alt=media",
+      "gifUrl": "https://firebasestorage.googleapis.com/v0/b/chatappfirebasetd.appspot.com/o/exercises%2Fy2Rc4enP8bOcuf.gif?alt=media",
       "id": "0072",
       "name": "barbell prone incline curl",
       "target": "biceps",
@@ -3229,7 +3229,7 @@ export const EXERCISES_DATA = [
     {
       "bodyPart": "back",
       "equipment": "barbell",
-      "gifUrl": "https://res.cloudinary.com/dysns4al9/image/upload/v1779592720/gifs/gEW-qlWCDCOb45.gif?alt=media",
+      "gifUrl": "https://firebasestorage.googleapis.com/v0/b/chatappfirebasetd.appspot.com/o/exercises%2FgEW-qlWCDCOb45.gif?alt=media",
       "id": "0073",
       "name": "barbell pullover",
       "target": "lats",
@@ -3248,7 +3248,7 @@ export const EXERCISES_DATA = [
     {
       "bodyPart": "back",
       "equipment": "barbell",
-      "gifUrl": "https://res.cloudinary.com/dysns4al9/image/upload/v1779592720/gifs/z4IbnjqzPWYIRB.gif?alt=media",
+      "gifUrl": "https://firebasestorage.googleapis.com/v0/b/chatappfirebasetd.appspot.com/o/exercises%2Fz4IbnjqzPWYIRB.gif?alt=media",
       "id": "0022",
       "name": "barbell pullover to press",
       "target": "lats",
@@ -3268,7 +3268,7 @@ export const EXERCISES_DATA = [
     {
       "bodyPart": "upper legs",
       "equipment": "barbell",
-      "gifUrl": "https://res.cloudinary.com/dysns4al9/image/upload/v1779592720/gifs/wbBt5RkJvMQ2za.gif?alt=media",
+      "gifUrl": "https://firebasestorage.googleapis.com/v0/b/chatappfirebasetd.appspot.com/o/exercises%2FwbBt5RkJvMQ2za.gif?alt=media",
       "id": "0074",
       "name": "barbell rack pull",
       "target": "glutes",
@@ -3288,7 +3288,7 @@ export const EXERCISES_DATA = [
     {
       "bodyPart": "shoulders",
       "equipment": "barbell",
-      "gifUrl": "https://res.cloudinary.com/dysns4al9/image/upload/v1779592720/gifs/l4q3z-OXWoskYv.gif?alt=media",
+      "gifUrl": "https://firebasestorage.googleapis.com/v0/b/chatappfirebasetd.appspot.com/o/exercises%2Fl4q3z-OXWoskYv.gif?alt=media",
       "id": "0075",
       "name": "barbell rear delt raise",
       "target": "delts",
@@ -3307,7 +3307,7 @@ export const EXERCISES_DATA = [
     {
       "bodyPart": "shoulders",
       "equipment": "barbell",
-      "gifUrl": "https://res.cloudinary.com/dysns4al9/image/upload/v1779592720/gifs/tStc7-rOdB4FWO.gif?alt=media",
+      "gifUrl": "https://firebasestorage.googleapis.com/v0/b/chatappfirebasetd.appspot.com/o/exercises%2FtStc7-rOdB4FWO.gif?alt=media",
       "id": "0076",
       "name": "barbell rear delt row",
       "target": "delts",
@@ -3328,7 +3328,7 @@ export const EXERCISES_DATA = [
     {
       "bodyPart": "upper legs",
       "equipment": "barbell",
-      "gifUrl": "https://res.cloudinary.com/dysns4al9/image/upload/v1779592720/gifs/5Eq2zoubnBKsDn.gif?alt=media",
+      "gifUrl": "https://firebasestorage.googleapis.com/v0/b/chatappfirebasetd.appspot.com/o/exercises%2F5Eq2zoubnBKsDn.gif?alt=media",
       "id": "0078",
       "name": "barbell rear lunge",
       "target": "glutes",
@@ -3348,7 +3348,7 @@ export const EXERCISES_DATA = [
     {
       "bodyPart": "upper legs",
       "equipment": "barbell",
-      "gifUrl": "https://res.cloudinary.com/dysns4al9/image/upload/v1779592720/gifs/QSd29roPkKYkqs.gif?alt=media",
+      "gifUrl": "https://firebasestorage.googleapis.com/v0/b/chatappfirebasetd.appspot.com/o/exercises%2FQSd29roPkKYkqs.gif?alt=media",
       "id": "0077",
       "name": "barbell rear lunge v. 2",
       "target": "glutes",
@@ -3368,7 +3368,7 @@ export const EXERCISES_DATA = [
     {
       "bodyPart": "lower arms",
       "equipment": "barbell",
-      "gifUrl": "https://res.cloudinary.com/dysns4al9/image/upload/v1779592720/gifs/UUzKsoue7Plhgq.gif?alt=media",
+      "gifUrl": "https://firebasestorage.googleapis.com/v0/b/chatappfirebasetd.appspot.com/o/exercises%2FUUzKsoue7Plhgq.gif?alt=media",
       "id": "0079",
       "name": "barbell revers wrist curl v. 2",
       "target": "forearms",
@@ -3388,7 +3388,7 @@ export const EXERCISES_DATA = [
     {
       "bodyPart": "upper arms",
       "equipment": "barbell",
-      "gifUrl": "https://res.cloudinary.com/dysns4al9/image/upload/v1779592720/gifs/FQMq0PCwiHWzSN.gif?alt=media",
+      "gifUrl": "https://firebasestorage.googleapis.com/v0/b/chatappfirebasetd.appspot.com/o/exercises%2FFQMq0PCwiHWzSN.gif?alt=media",
       "id": "2187",
       "name": "barbell reverse close-grip bench press",
       "target": "triceps",
@@ -3409,7 +3409,7 @@ export const EXERCISES_DATA = [
     {
       "bodyPart": "upper arms",
       "equipment": "barbell",
-      "gifUrl": "https://res.cloudinary.com/dysns4al9/image/upload/v1779592720/gifs/GExwW10mcxm9fI.gif?alt=media",
+      "gifUrl": "https://firebasestorage.googleapis.com/v0/b/chatappfirebasetd.appspot.com/o/exercises%2FGExwW10mcxm9fI.gif?alt=media",
       "id": "0080",
       "name": "barbell reverse curl",
       "target": "biceps",
@@ -3428,7 +3428,7 @@ export const EXERCISES_DATA = [
     {
       "bodyPart": "back",
       "equipment": "barbell",
-      "gifUrl": "https://res.cloudinary.com/dysns4al9/image/upload/v1779592720/gifs/UN5w-xUmKZFMZI.gif?alt=media",
+      "gifUrl": "https://firebasestorage.googleapis.com/v0/b/chatappfirebasetd.appspot.com/o/exercises%2FUN5w-xUmKZFMZI.gif?alt=media",
       "id": "0118",
       "name": "barbell reverse grip bent over row",
       "target": "upper back",
@@ -3448,7 +3448,7 @@ export const EXERCISES_DATA = [
     {
       "bodyPart": "chest",
       "equipment": "barbell",
-      "gifUrl": "https://res.cloudinary.com/dysns4al9/image/upload/v1779592720/gifs/TYh6aAgIzbo1rI.gif?alt=media",
+      "gifUrl": "https://firebasestorage.googleapis.com/v0/b/chatappfirebasetd.appspot.com/o/exercises%2FTYh6aAgIzbo1rI.gif?alt=media",
       "id": "1256",
       "name": "barbell reverse grip decline bench press",
       "target": "pectorals",
@@ -3467,7 +3467,7 @@ export const EXERCISES_DATA = [
     {
       "bodyPart": "chest",
       "equipment": "barbell",
-      "gifUrl": "https://res.cloudinary.com/dysns4al9/image/upload/v1779592720/gifs/zrMWj7n4-RKUDi.gif?alt=media",
+      "gifUrl": "https://firebasestorage.googleapis.com/v0/b/chatappfirebasetd.appspot.com/o/exercises%2FzrMWj7n4-RKUDi.gif?alt=media",
       "id": "1257",
       "name": "barbell reverse grip incline bench press",
       "target": "pectorals",
@@ -3488,7 +3488,7 @@ export const EXERCISES_DATA = [
     {
       "bodyPart": "back",
       "equipment": "barbell",
-      "gifUrl": "https://res.cloudinary.com/dysns4al9/image/upload/v1779592720/gifs/xL0PlyjjmxwZVW.gif?alt=media",
+      "gifUrl": "https://firebasestorage.googleapis.com/v0/b/chatappfirebasetd.appspot.com/o/exercises%2FxL0PlyjjmxwZVW.gif?alt=media",
       "id": "1317",
       "name": "barbell reverse grip incline bench row",
       "target": "upper back",
@@ -3510,7 +3510,7 @@ export const EXERCISES_DATA = [
     {
       "bodyPart": "upper arms",
       "equipment": "barbell",
-      "gifUrl": "https://res.cloudinary.com/dysns4al9/image/upload/v1779592720/gifs/9JV1P24lLfscWe.gif?alt=media",
+      "gifUrl": "https://firebasestorage.googleapis.com/v0/b/chatappfirebasetd.appspot.com/o/exercises%2F9JV1P24lLfscWe.gif?alt=media",
       "id": "1721",
       "name": "barbell reverse grip skullcrusher",
       "target": "triceps",
@@ -3529,7 +3529,7 @@ export const EXERCISES_DATA = [
     {
       "bodyPart": "upper arms",
       "equipment": "barbell",
-      "gifUrl": "https://res.cloudinary.com/dysns4al9/image/upload/v1779592720/gifs/x1vSOP-t8D74dd.gif?alt=media",
+      "gifUrl": "https://firebasestorage.googleapis.com/v0/b/chatappfirebasetd.appspot.com/o/exercises%2Fx1vSOP-t8D74dd.gif?alt=media",
       "id": "0081",
       "name": "barbell reverse preacher curl",
       "target": "biceps",
@@ -3548,7 +3548,7 @@ export const EXERCISES_DATA = [
     {
       "bodyPart": "lower arms",
       "equipment": "barbell",
-      "gifUrl": "https://res.cloudinary.com/dysns4al9/image/upload/v1779592720/gifs/Gp6jnn2MU8ETCl.gif?alt=media",
+      "gifUrl": "https://firebasestorage.googleapis.com/v0/b/chatappfirebasetd.appspot.com/o/exercises%2FGp6jnn2MU8ETCl.gif?alt=media",
       "id": "0082",
       "name": "barbell reverse wrist curl",
       "target": "forearms",
@@ -3567,7 +3567,7 @@ export const EXERCISES_DATA = [
     {
       "bodyPart": "waist",
       "equipment": "barbell",
-      "gifUrl": "https://res.cloudinary.com/dysns4al9/image/upload/v1779592720/gifs/kfSSZcKVIbhhMu.gif?alt=media",
+      "gifUrl": "https://firebasestorage.googleapis.com/v0/b/chatappfirebasetd.appspot.com/o/exercises%2FkfSSZcKVIbhhMu.gif?alt=media",
       "id": "0084",
       "name": "barbell rollerout",
       "target": "abs",
@@ -3585,7 +3585,7 @@ export const EXERCISES_DATA = [
     {
       "bodyPart": "waist",
       "equipment": "barbell",
-      "gifUrl": "https://res.cloudinary.com/dysns4al9/image/upload/v1779592720/gifs/LOHq6oMFvG7ESh.gif?alt=media",
+      "gifUrl": "https://firebasestorage.googleapis.com/v0/b/chatappfirebasetd.appspot.com/o/exercises%2FLOHq6oMFvG7ESh.gif?alt=media",
       "id": "0083",
       "name": "barbell rollerout from bench",
       "target": "abs",
@@ -3605,7 +3605,7 @@ export const EXERCISES_DATA = [
     {
       "bodyPart": "upper legs",
       "equipment": "barbell",
-      "gifUrl": "https://res.cloudinary.com/dysns4al9/image/upload/v1779592720/gifs/5wP8d2jQWXywsI.gif?alt=media",
+      "gifUrl": "https://firebasestorage.googleapis.com/v0/b/chatappfirebasetd.appspot.com/o/exercises%2F5wP8d2jQWXywsI.gif?alt=media",
       "id": "0085",
       "name": "barbell romanian deadlift",
       "target": "glutes",
@@ -3627,7 +3627,7 @@ export const EXERCISES_DATA = [
     {
       "bodyPart": "shoulders",
       "equipment": "barbell",
-      "gifUrl": "https://res.cloudinary.com/dysns4al9/image/upload/v1779592720/gifs/yNwjyjX6-X8Apg.gif?alt=media",
+      "gifUrl": "https://firebasestorage.googleapis.com/v0/b/chatappfirebasetd.appspot.com/o/exercises%2FyNwjyjX6-X8Apg.gif?alt=media",
       "id": "0086",
       "name": "barbell seated behind head military press",
       "target": "delts",
@@ -3647,7 +3647,7 @@ export const EXERCISES_DATA = [
     {
       "bodyPart": "shoulders",
       "equipment": "barbell",
-      "gifUrl": "https://res.cloudinary.com/dysns4al9/image/upload/v1779592720/gifs/EY6XzZN5CSq7mI.gif?alt=media",
+      "gifUrl": "https://firebasestorage.googleapis.com/v0/b/chatappfirebasetd.appspot.com/o/exercises%2FEY6XzZN5CSq7mI.gif?alt=media",
       "id": "0087",
       "name": "barbell seated bradford rocky press",
       "target": "delts",
@@ -3666,7 +3666,7 @@ export const EXERCISES_DATA = [
     {
       "bodyPart": "lower legs",
       "equipment": "barbell",
-      "gifUrl": "https://res.cloudinary.com/dysns4al9/image/upload/v1779592720/gifs/TbyjjDCPTtl0H7.gif?alt=media",
+      "gifUrl": "https://firebasestorage.googleapis.com/v0/b/chatappfirebasetd.appspot.com/o/exercises%2FTbyjjDCPTtl0H7.gif?alt=media",
       "id": "0088",
       "name": "barbell seated calf raise",
       "target": "calves",
@@ -3686,7 +3686,7 @@ export const EXERCISES_DATA = [
     {
       "bodyPart": "lower legs",
       "equipment": "barbell",
-      "gifUrl": "https://res.cloudinary.com/dysns4al9/image/upload/v1779592720/gifs/HyqmnY9Ke-G9XU.gif?alt=media",
+      "gifUrl": "https://firebasestorage.googleapis.com/v0/b/chatappfirebasetd.appspot.com/o/exercises%2FHyqmnY9Ke-G9XU.gif?alt=media",
       "id": "1371",
       "name": "barbell seated calf raise",
       "target": "calves",
@@ -3704,7 +3704,7 @@ export const EXERCISES_DATA = [
     {
       "bodyPart": "upper arms",
       "equipment": "barbell",
-      "gifUrl": "https://res.cloudinary.com/dysns4al9/image/upload/v1779592720/gifs/ceugH7IvnJdROG.gif?alt=media",
+      "gifUrl": "https://firebasestorage.googleapis.com/v0/b/chatappfirebasetd.appspot.com/o/exercises%2FceugH7IvnJdROG.gif?alt=media",
       "id": "1718",
       "name": "barbell seated close grip behind neck triceps extension",
       "target": "triceps",
@@ -3722,7 +3722,7 @@ export const EXERCISES_DATA = [
     {
       "bodyPart": "upper arms",
       "equipment": "barbell",
-      "gifUrl": "https://res.cloudinary.com/dysns4al9/image/upload/v1779592720/gifs/xqNTqiynjXt9W2.gif?alt=media",
+      "gifUrl": "https://firebasestorage.googleapis.com/v0/b/chatappfirebasetd.appspot.com/o/exercises%2FxqNTqiynjXt9W2.gif?alt=media",
       "id": "0089",
       "name": "barbell seated close-grip concentration curl",
       "target": "biceps",
@@ -3740,7 +3740,7 @@ export const EXERCISES_DATA = [
     {
       "bodyPart": "upper legs",
       "equipment": "barbell",
-      "gifUrl": "https://res.cloudinary.com/dysns4al9/image/upload/v1779592720/gifs/cc5R4eev4hOodd.gif?alt=media",
+      "gifUrl": "https://firebasestorage.googleapis.com/v0/b/chatappfirebasetd.appspot.com/o/exercises%2Fcc5R4eev4hOodd.gif?alt=media",
       "id": "0090",
       "name": "barbell seated good morning",
       "target": "glutes",
@@ -3759,7 +3759,7 @@ export const EXERCISES_DATA = [
     {
       "bodyPart": "shoulders",
       "equipment": "barbell",
-      "gifUrl": "https://res.cloudinary.com/dysns4al9/image/upload/v1779592720/gifs/yhr3ZcexFtKhTY.gif?alt=media",
+      "gifUrl": "https://firebasestorage.googleapis.com/v0/b/chatappfirebasetd.appspot.com/o/exercises%2Fyhr3ZcexFtKhTY.gif?alt=media",
       "id": "0091",
       "name": "barbell seated overhead press",
       "target": "delts",
@@ -3779,7 +3779,7 @@ export const EXERCISES_DATA = [
     {
       "bodyPart": "upper arms",
       "equipment": "barbell",
-      "gifUrl": "https://res.cloudinary.com/dysns4al9/image/upload/v1779592720/gifs/AmjPt0jjOV-LbL.gif?alt=media",
+      "gifUrl": "https://firebasestorage.googleapis.com/v0/b/chatappfirebasetd.appspot.com/o/exercises%2FAmjPt0jjOV-LbL.gif?alt=media",
       "id": "0092",
       "name": "barbell seated overhead triceps extension",
       "target": "triceps",
@@ -3797,7 +3797,7 @@ export const EXERCISES_DATA = [
     {
       "bodyPart": "waist",
       "equipment": "barbell",
-      "gifUrl": "https://res.cloudinary.com/dysns4al9/image/upload/v1779592720/gifs/iQdER4wmK1qiPr.gif?alt=media",
+      "gifUrl": "https://firebasestorage.googleapis.com/v0/b/chatappfirebasetd.appspot.com/o/exercises%2FiQdER4wmK1qiPr.gif?alt=media",
       "id": "0094",
       "name": "barbell seated twist",
       "target": "abs",
@@ -3817,7 +3817,7 @@ export const EXERCISES_DATA = [
     {
       "bodyPart": "back",
       "equipment": "barbell",
-      "gifUrl": "https://res.cloudinary.com/dysns4al9/image/upload/v1779592720/gifs/qZEeOKGfZZ9dMZ.gif?alt=media",
+      "gifUrl": "https://firebasestorage.googleapis.com/v0/b/chatappfirebasetd.appspot.com/o/exercises%2FqZEeOKGfZZ9dMZ.gif?alt=media",
       "id": "0095",
       "name": "barbell shrug",
       "target": "traps",
@@ -3835,7 +3835,7 @@ export const EXERCISES_DATA = [
     {
       "bodyPart": "waist",
       "equipment": "barbell",
-      "gifUrl": "https://res.cloudinary.com/dysns4al9/image/upload/v1779592720/gifs/OIzuwRaDhHItqg.gif?alt=media",
+      "gifUrl": "https://firebasestorage.googleapis.com/v0/b/chatappfirebasetd.appspot.com/o/exercises%2FOIzuwRaDhHItqg.gif?alt=media",
       "id": "0096",
       "name": "barbell side bent v. 2",
       "target": "abs",
@@ -3855,7 +3855,7 @@ export const EXERCISES_DATA = [
     {
       "bodyPart": "upper legs",
       "equipment": "barbell",
-      "gifUrl": "https://res.cloudinary.com/dysns4al9/image/upload/v1779592720/gifs/z1W3sxqdI9xJar.gif?alt=media",
+      "gifUrl": "https://firebasestorage.googleapis.com/v0/b/chatappfirebasetd.appspot.com/o/exercises%2Fz1W3sxqdI9xJar.gif?alt=media",
       "id": "0098",
       "name": "barbell side split squat",
       "target": "quads",
@@ -3876,7 +3876,7 @@ export const EXERCISES_DATA = [
     {
       "bodyPart": "upper legs",
       "equipment": "barbell",
-      "gifUrl": "https://res.cloudinary.com/dysns4al9/image/upload/v1779592720/gifs/wqwwVRcs9vrsqA.gif?alt=media",
+      "gifUrl": "https://firebasestorage.googleapis.com/v0/b/chatappfirebasetd.appspot.com/o/exercises%2FwqwwVRcs9vrsqA.gif?alt=media",
       "id": "0097",
       "name": "barbell side split squat v. 2",
       "target": "quads",
@@ -3898,7 +3898,7 @@ export const EXERCISES_DATA = [
     {
       "bodyPart": "upper legs",
       "equipment": "barbell",
-      "gifUrl": "https://res.cloudinary.com/dysns4al9/image/upload/v1779592720/gifs/T0jzEF5kFUC3cD.gif?alt=media",
+      "gifUrl": "https://firebasestorage.googleapis.com/v0/b/chatappfirebasetd.appspot.com/o/exercises%2FT0jzEF5kFUC3cD.gif?alt=media",
       "id": "1756",
       "name": "barbell single leg deadlift",
       "target": "glutes",
@@ -3918,7 +3918,7 @@ export const EXERCISES_DATA = [
     {
       "bodyPart": "upper legs",
       "equipment": "barbell",
-      "gifUrl": "https://res.cloudinary.com/dysns4al9/image/upload/v1779592720/gifs/ncfw2FuQOYdvZG.gif?alt=media",
+      "gifUrl": "https://firebasestorage.googleapis.com/v0/b/chatappfirebasetd.appspot.com/o/exercises%2Fncfw2FuQOYdvZG.gif?alt=media",
       "id": "0099",
       "name": "barbell single leg split squat",
       "target": "quads",
@@ -3939,7 +3939,7 @@ export const EXERCISES_DATA = [
     {
       "bodyPart": "waist",
       "equipment": "barbell",
-      "gifUrl": "https://res.cloudinary.com/dysns4al9/image/upload/v1779592720/gifs/g0VxbyLiE78RRD.gif?alt=media",
+      "gifUrl": "https://firebasestorage.googleapis.com/v0/b/chatappfirebasetd.appspot.com/o/exercises%2Fg0VxbyLiE78RRD.gif?alt=media",
       "id": "2799",
       "name": "barbell sitted alternate leg raise",
       "target": "abs",
@@ -3956,7 +3956,7 @@ export const EXERCISES_DATA = [
     {
       "bodyPart": "waist",
       "equipment": "barbell",
-      "gifUrl": "https://res.cloudinary.com/dysns4al9/image/upload/v1779592720/gifs/nXYlIdzN5-GwbU.gif?alt=media",
+      "gifUrl": "https://firebasestorage.googleapis.com/v0/b/chatappfirebasetd.appspot.com/o/exercises%2FnXYlIdzN5-GwbU.gif?alt=media",
       "id": "2800",
       "name": "barbell sitted alternate leg raise (female)",
       "target": "abs",
@@ -3975,7 +3975,7 @@ export const EXERCISES_DATA = [
     {
       "bodyPart": "shoulders",
       "equipment": "barbell",
-      "gifUrl": "https://res.cloudinary.com/dysns4al9/image/upload/v1779592720/gifs/tA29-1JNPxCpmM.gif?alt=media",
+      "gifUrl": "https://firebasestorage.googleapis.com/v0/b/chatappfirebasetd.appspot.com/o/exercises%2FtA29-1JNPxCpmM.gif?alt=media",
       "id": "0100",
       "name": "barbell skier",
       "target": "delts",
@@ -3994,7 +3994,7 @@ export const EXERCISES_DATA = [
     {
       "bodyPart": "upper legs",
       "equipment": "barbell",
-      "gifUrl": "https://res.cloudinary.com/dysns4al9/image/upload/v1779592720/gifs/Uyekr4xTccI49L.gif?alt=media",
+      "gifUrl": "https://firebasestorage.googleapis.com/v0/b/chatappfirebasetd.appspot.com/o/exercises%2FUyekr4xTccI49L.gif?alt=media",
       "id": "0101",
       "name": "barbell speed squat",
       "target": "glutes",
@@ -4015,7 +4015,7 @@ export const EXERCISES_DATA = [
     {
       "bodyPart": "upper legs",
       "equipment": "barbell",
-      "gifUrl": "https://res.cloudinary.com/dysns4al9/image/upload/v1779592720/gifs/QDVguVFOrwHB6Q.gif?alt=media",
+      "gifUrl": "https://firebasestorage.googleapis.com/v0/b/chatappfirebasetd.appspot.com/o/exercises%2FQDVguVFOrwHB6Q.gif?alt=media",
       "id": "2810",
       "name": "barbell split squat v. 2",
       "target": "quads",
@@ -4035,7 +4035,7 @@ export const EXERCISES_DATA = [
     {
       "bodyPart": "upper legs",
       "equipment": "barbell",
-      "gifUrl": "https://res.cloudinary.com/dysns4al9/image/upload/v1779592720/gifs/8zPAbm997j0GdN.gif?alt=media",
+      "gifUrl": "https://firebasestorage.googleapis.com/v0/b/chatappfirebasetd.appspot.com/o/exercises%2F8zPAbm997j0GdN.gif?alt=media",
       "id": "0102",
       "name": "barbell squat (on knees)",
       "target": "quads",
@@ -4056,7 +4056,7 @@ export const EXERCISES_DATA = [
     {
       "bodyPart": "upper legs",
       "equipment": "barbell",
-      "gifUrl": "https://res.cloudinary.com/dysns4al9/image/upload/v1779592720/gifs/833Frj4578idmr.gif?alt=media",
+      "gifUrl": "https://firebasestorage.googleapis.com/v0/b/chatappfirebasetd.appspot.com/o/exercises%2F833Frj4578idmr.gif?alt=media",
       "id": "2798",
       "name": "barbell squat jump step rear lunge",
       "target": "quads",
@@ -4079,7 +4079,7 @@ export const EXERCISES_DATA = [
     {
       "bodyPart": "waist",
       "equipment": "barbell",
-      "gifUrl": "https://res.cloudinary.com/dysns4al9/image/upload/v1779592720/gifs/9YUjuayHY00Wuw.gif?alt=media",
+      "gifUrl": "https://firebasestorage.googleapis.com/v0/b/chatappfirebasetd.appspot.com/o/exercises%2F9YUjuayHY00Wuw.gif?alt=media",
       "id": "0103",
       "name": "barbell standing ab rollerout",
       "target": "abs",
@@ -4098,7 +4098,7 @@ export const EXERCISES_DATA = [
     {
       "bodyPart": "lower arms",
       "equipment": "barbell",
-      "gifUrl": "https://res.cloudinary.com/dysns4al9/image/upload/v1779592720/gifs/yYSaSNNxhFhIZI.gif?alt=media",
+      "gifUrl": "https://firebasestorage.googleapis.com/v0/b/chatappfirebasetd.appspot.com/o/exercises%2FyYSaSNNxhFhIZI.gif?alt=media",
       "id": "0104",
       "name": "barbell standing back wrist curl",
       "target": "forearms",
@@ -4117,7 +4117,7 @@ export const EXERCISES_DATA = [
     {
       "bodyPart": "shoulders",
       "equipment": "barbell",
-      "gifUrl": "https://res.cloudinary.com/dysns4al9/image/upload/v1779592720/gifs/1Ln4lUTJyjiK0z.gif?alt=media",
+      "gifUrl": "https://firebasestorage.googleapis.com/v0/b/chatappfirebasetd.appspot.com/o/exercises%2F1Ln4lUTJyjiK0z.gif?alt=media",
       "id": "0105",
       "name": "barbell standing bradford press",
       "target": "delts",
@@ -4135,7 +4135,7 @@ export const EXERCISES_DATA = [
     {
       "bodyPart": "lower legs",
       "equipment": "barbell",
-      "gifUrl": "https://res.cloudinary.com/dysns4al9/image/upload/v1779592720/gifs/T8HVwMwgeIJMY6.gif?alt=media",
+      "gifUrl": "https://firebasestorage.googleapis.com/v0/b/chatappfirebasetd.appspot.com/o/exercises%2FT8HVwMwgeIJMY6.gif?alt=media",
       "id": "1372",
       "name": "barbell standing calf raise",
       "target": "calves",
@@ -4153,7 +4153,7 @@ export const EXERCISES_DATA = [
     {
       "bodyPart": "upper arms",
       "equipment": "barbell",
-      "gifUrl": "https://res.cloudinary.com/dysns4al9/image/upload/v1779592720/gifs/j5Ki-50CqN-tc8.gif?alt=media",
+      "gifUrl": "https://firebasestorage.googleapis.com/v0/b/chatappfirebasetd.appspot.com/o/exercises%2Fj5Ki-50CqN-tc8.gif?alt=media",
       "id": "0106",
       "name": "barbell standing close grip curl",
       "target": "biceps",
@@ -4172,7 +4172,7 @@ export const EXERCISES_DATA = [
     {
       "bodyPart": "shoulders",
       "equipment": "barbell",
-      "gifUrl": "https://res.cloudinary.com/dysns4al9/image/upload/v1779592720/gifs/YskMt4NdHeYgO4.gif?alt=media",
+      "gifUrl": "https://firebasestorage.googleapis.com/v0/b/chatappfirebasetd.appspot.com/o/exercises%2FYskMt4NdHeYgO4.gif?alt=media",
       "id": "1456",
       "name": "barbell standing close grip military press",
       "target": "delts",
@@ -4191,7 +4191,7 @@ export const EXERCISES_DATA = [
     {
       "bodyPart": "upper arms",
       "equipment": "barbell",
-      "gifUrl": "https://res.cloudinary.com/dysns4al9/image/upload/v1779592720/gifs/mx7lpuz7WIEdw-.gif?alt=media",
+      "gifUrl": "https://firebasestorage.googleapis.com/v0/b/chatappfirebasetd.appspot.com/o/exercises%2Fmx7lpuz7WIEdw-.gif?alt=media",
       "id": "2414",
       "name": "barbell standing concentration curl",
       "target": "biceps",
@@ -4210,7 +4210,7 @@ export const EXERCISES_DATA = [
     {
       "bodyPart": "shoulders",
       "equipment": "barbell",
-      "gifUrl": "https://res.cloudinary.com/dysns4al9/image/upload/v1779592720/gifs/tunyG7PYw3199x.gif?alt=media",
+      "gifUrl": "https://firebasestorage.googleapis.com/v0/b/chatappfirebasetd.appspot.com/o/exercises%2FtunyG7PYw3199x.gif?alt=media",
       "id": "0107",
       "name": "barbell standing front raise over head",
       "target": "delts",
@@ -4230,7 +4230,7 @@ export const EXERCISES_DATA = [
     {
       "bodyPart": "lower legs",
       "equipment": "barbell",
-      "gifUrl": "https://res.cloudinary.com/dysns4al9/image/upload/v1779592720/gifs/tPdE70UkBEnSrR.gif?alt=media",
+      "gifUrl": "https://firebasestorage.googleapis.com/v0/b/chatappfirebasetd.appspot.com/o/exercises%2FtPdE70UkBEnSrR.gif?alt=media",
       "id": "0108",
       "name": "barbell standing leg calf raise",
       "target": "calves",
@@ -4248,7 +4248,7 @@ export const EXERCISES_DATA = [
     {
       "bodyPart": "upper arms",
       "equipment": "barbell",
-      "gifUrl": "https://res.cloudinary.com/dysns4al9/image/upload/v1779592720/gifs/cfAoWONpiIAKBy.gif?alt=media",
+      "gifUrl": "https://firebasestorage.googleapis.com/v0/b/chatappfirebasetd.appspot.com/o/exercises%2FcfAoWONpiIAKBy.gif?alt=media",
       "id": "0109",
       "name": "barbell standing overhead triceps extension",
       "target": "triceps",
@@ -4266,7 +4266,7 @@ export const EXERCISES_DATA = [
     {
       "bodyPart": "upper arms",
       "equipment": "barbell",
-      "gifUrl": "https://res.cloudinary.com/dysns4al9/image/upload/v1779592720/gifs/tEWtPaGSTpc6OW.gif?alt=media",
+      "gifUrl": "https://firebasestorage.googleapis.com/v0/b/chatappfirebasetd.appspot.com/o/exercises%2FtEWtPaGSTpc6OW.gif?alt=media",
       "id": "0110",
       "name": "barbell standing reverse grip curl",
       "target": "biceps",
@@ -4285,7 +4285,7 @@ export const EXERCISES_DATA = [
     {
       "bodyPart": "lower legs",
       "equipment": "barbell",
-      "gifUrl": "https://res.cloudinary.com/dysns4al9/image/upload/v1779592720/gifs/IHIImCVBKoS9rQ.gif?alt=media",
+      "gifUrl": "https://firebasestorage.googleapis.com/v0/b/chatappfirebasetd.appspot.com/o/exercises%2FIHIImCVBKoS9rQ.gif?alt=media",
       "id": "0111",
       "name": "barbell standing rocking leg calf raise",
       "target": "calves",
@@ -4303,7 +4303,7 @@ export const EXERCISES_DATA = [
     {
       "bodyPart": "waist",
       "equipment": "barbell",
-      "gifUrl": "https://res.cloudinary.com/dysns4al9/image/upload/v1779592720/gifs/DK1P2YVqHAIaSy.gif?alt=media",
+      "gifUrl": "https://firebasestorage.googleapis.com/v0/b/chatappfirebasetd.appspot.com/o/exercises%2FDK1P2YVqHAIaSy.gif?alt=media",
       "id": "0112",
       "name": "barbell standing twist",
       "target": "abs",
@@ -4323,7 +4323,7 @@ export const EXERCISES_DATA = [
     {
       "bodyPart": "upper arms",
       "equipment": "barbell",
-      "gifUrl": "https://res.cloudinary.com/dysns4al9/image/upload/v1779592720/gifs/T62SA-eLi1-Ixf.gif?alt=media",
+      "gifUrl": "https://firebasestorage.googleapis.com/v0/b/chatappfirebasetd.appspot.com/o/exercises%2FT62SA-eLi1-Ixf.gif?alt=media",
       "id": "1629",
       "name": "barbell standing wide grip biceps curl",
       "target": "biceps",
@@ -4342,7 +4342,7 @@ export const EXERCISES_DATA = [
     {
       "bodyPart": "shoulders",
       "equipment": "barbell",
-      "gifUrl": "https://res.cloudinary.com/dysns4al9/image/upload/v1779592720/gifs/Vyv4vun8dmzm4q.gif?alt=media",
+      "gifUrl": "https://firebasestorage.googleapis.com/v0/b/chatappfirebasetd.appspot.com/o/exercises%2FVyv4vun8dmzm4q.gif?alt=media",
       "id": "1457",
       "name": "barbell standing wide military press",
       "target": "delts",
@@ -4360,7 +4360,7 @@ export const EXERCISES_DATA = [
     {
       "bodyPart": "upper arms",
       "equipment": "barbell",
-      "gifUrl": "https://res.cloudinary.com/dysns4al9/image/upload/v1779592720/gifs/f2e85qLbHifSpX.gif?alt=media",
+      "gifUrl": "https://firebasestorage.googleapis.com/v0/b/chatappfirebasetd.appspot.com/o/exercises%2Ff2e85qLbHifSpX.gif?alt=media",
       "id": "0113",
       "name": "barbell standing wide-grip curl",
       "target": "biceps",
@@ -4381,7 +4381,7 @@ export const EXERCISES_DATA = [
     {
       "bodyPart": "upper legs",
       "equipment": "barbell",
-      "gifUrl": "https://res.cloudinary.com/dysns4al9/image/upload/v1779592720/gifs/ivKRzYKybGoRRz.gif?alt=media",
+      "gifUrl": "https://firebasestorage.googleapis.com/v0/b/chatappfirebasetd.appspot.com/o/exercises%2FivKRzYKybGoRRz.gif?alt=media",
       "id": "0114",
       "name": "barbell step-up",
       "target": "glutes",
@@ -4402,7 +4402,7 @@ export const EXERCISES_DATA = [
     {
       "bodyPart": "upper legs",
       "equipment": "barbell",
-      "gifUrl": "https://res.cloudinary.com/dysns4al9/image/upload/v1779592720/gifs/O2r6D4dM71uEIf.gif?alt=media",
+      "gifUrl": "https://firebasestorage.googleapis.com/v0/b/chatappfirebasetd.appspot.com/o/exercises%2FO2r6D4dM71uEIf.gif?alt=media",
       "id": "0115",
       "name": "barbell stiff leg good morning",
       "target": "glutes",
@@ -4422,7 +4422,7 @@ export const EXERCISES_DATA = [
     {
       "bodyPart": "upper legs",
       "equipment": "barbell",
-      "gifUrl": "https://res.cloudinary.com/dysns4al9/image/upload/v1779592720/gifs/bn9eN3pWMKekBq.gif?alt=media",
+      "gifUrl": "https://firebasestorage.googleapis.com/v0/b/chatappfirebasetd.appspot.com/o/exercises%2Fbn9eN3pWMKekBq.gif?alt=media",
       "id": "0116",
       "name": "barbell straight leg deadlift",
       "target": "hamstrings",
@@ -4442,7 +4442,7 @@ export const EXERCISES_DATA = [
     {
       "bodyPart": "upper legs",
       "equipment": "barbell",
-      "gifUrl": "https://res.cloudinary.com/dysns4al9/image/upload/v1779592720/gifs/88hJiPQK36rcCs.gif?alt=media",
+      "gifUrl": "https://firebasestorage.googleapis.com/v0/b/chatappfirebasetd.appspot.com/o/exercises%2F88hJiPQK36rcCs.gif?alt=media",
       "id": "0117",
       "name": "barbell sumo deadlift",
       "target": "glutes",
@@ -4464,7 +4464,7 @@ export const EXERCISES_DATA = [
     {
       "bodyPart": "shoulders",
       "equipment": "barbell",
-      "gifUrl": "https://res.cloudinary.com/dysns4al9/image/upload/v1779592720/gifs/XNpEdebHPE8xgV.gif?alt=media",
+      "gifUrl": "https://firebasestorage.googleapis.com/v0/b/chatappfirebasetd.appspot.com/o/exercises%2FXNpEdebHPE8xgV.gif?alt=media",
       "id": "3305",
       "name": "barbell thruster",
       "target": "delts",
@@ -4485,7 +4485,7 @@ export const EXERCISES_DATA = [
     {
       "bodyPart": "shoulders",
       "equipment": "barbell",
-      "gifUrl": "https://res.cloudinary.com/dysns4al9/image/upload/v1779592720/gifs/9tAI8VrazDGnPV.gif?alt=media",
+      "gifUrl": "https://firebasestorage.googleapis.com/v0/b/chatappfirebasetd.appspot.com/o/exercises%2F9tAI8VrazDGnPV.gif?alt=media",
       "id": "0120",
       "name": "barbell upright row",
       "target": "delts",
@@ -4504,7 +4504,7 @@ export const EXERCISES_DATA = [
     {
       "bodyPart": "shoulders",
       "equipment": "barbell",
-      "gifUrl": "https://res.cloudinary.com/dysns4al9/image/upload/v1779592720/gifs/AfGyUw3hAesxa-.gif?alt=media",
+      "gifUrl": "https://firebasestorage.googleapis.com/v0/b/chatappfirebasetd.appspot.com/o/exercises%2FAfGyUw3hAesxa-.gif?alt=media",
       "id": "0119",
       "name": "barbell upright row v. 2",
       "target": "delts",
@@ -4523,7 +4523,7 @@ export const EXERCISES_DATA = [
     {
       "bodyPart": "shoulders",
       "equipment": "barbell",
-      "gifUrl": "https://res.cloudinary.com/dysns4al9/image/upload/v1779592720/gifs/SzotGRN2bVMAy1.gif?alt=media",
+      "gifUrl": "https://firebasestorage.googleapis.com/v0/b/chatappfirebasetd.appspot.com/o/exercises%2FSzotGRN2bVMAy1.gif?alt=media",
       "id": "0121",
       "name": "barbell upright row v. 3",
       "target": "delts",
@@ -4542,7 +4542,7 @@ export const EXERCISES_DATA = [
     {
       "bodyPart": "chest",
       "equipment": "barbell",
-      "gifUrl": "https://res.cloudinary.com/dysns4al9/image/upload/v1779592720/gifs/EUGH3jByWyZmH2.gif?alt=media",
+      "gifUrl": "https://firebasestorage.googleapis.com/v0/b/chatappfirebasetd.appspot.com/o/exercises%2FEUGH3jByWyZmH2.gif?alt=media",
       "id": "0122",
       "name": "barbell wide bench press",
       "target": "pectorals",
@@ -4562,7 +4562,7 @@ export const EXERCISES_DATA = [
     {
       "bodyPart": "chest",
       "equipment": "barbell",
-      "gifUrl": "https://res.cloudinary.com/dysns4al9/image/upload/v1779592720/gifs/rbFfbgnhrtjhVD.gif?alt=media",
+      "gifUrl": "https://firebasestorage.googleapis.com/v0/b/chatappfirebasetd.appspot.com/o/exercises%2FrbFfbgnhrtjhVD.gif?alt=media",
       "id": "1258",
       "name": "barbell wide reverse grip bench press",
       "target": "pectorals",
@@ -4582,7 +4582,7 @@ export const EXERCISES_DATA = [
     {
       "bodyPart": "upper legs",
       "equipment": "barbell",
-      "gifUrl": "https://res.cloudinary.com/dysns4al9/image/upload/v1779592720/gifs/GGf1X30c203Jtc.gif?alt=media",
+      "gifUrl": "https://firebasestorage.googleapis.com/v0/b/chatappfirebasetd.appspot.com/o/exercises%2FGGf1X30c203Jtc.gif?alt=media",
       "id": "0124",
       "name": "barbell wide squat",
       "target": "quads",
@@ -4603,7 +4603,7 @@ export const EXERCISES_DATA = [
     {
       "bodyPart": "shoulders",
       "equipment": "barbell",
-      "gifUrl": "https://res.cloudinary.com/dysns4al9/image/upload/v1779592720/gifs/nqEzZFyLA82xmq.gif?alt=media",
+      "gifUrl": "https://firebasestorage.googleapis.com/v0/b/chatappfirebasetd.appspot.com/o/exercises%2FnqEzZFyLA82xmq.gif?alt=media",
       "id": "0123",
       "name": "barbell wide-grip upright row",
       "target": "delts",
@@ -4622,7 +4622,7 @@ export const EXERCISES_DATA = [
     {
       "bodyPart": "lower arms",
       "equipment": "barbell",
-      "gifUrl": "https://res.cloudinary.com/dysns4al9/image/upload/v1779592720/gifs/prJLTxRmcrLt3d.gif?alt=media",
+      "gifUrl": "https://firebasestorage.googleapis.com/v0/b/chatappfirebasetd.appspot.com/o/exercises%2FprJLTxRmcrLt3d.gif?alt=media",
       "id": "0126",
       "name": "barbell wrist curl",
       "target": "forearms",
@@ -4641,7 +4641,7 @@ export const EXERCISES_DATA = [
     {
       "bodyPart": "lower arms",
       "equipment": "barbell",
-      "gifUrl": "https://res.cloudinary.com/dysns4al9/image/upload/v1779592720/gifs/d4waUOHkqu9qZs.gif?alt=media",
+      "gifUrl": "https://firebasestorage.googleapis.com/v0/b/chatappfirebasetd.appspot.com/o/exercises%2Fd4waUOHkqu9qZs.gif?alt=media",
       "id": "0125",
       "name": "barbell wrist curl v. 2",
       "target": "forearms",
@@ -4661,7 +4661,7 @@ export const EXERCISES_DATA = [
     {
       "bodyPart": "upper legs",
       "equipment": "barbell",
-      "gifUrl": "https://res.cloudinary.com/dysns4al9/image/upload/v1779592720/gifs/QfMqT2IjfpdZaS.gif?alt=media",
+      "gifUrl": "https://firebasestorage.googleapis.com/v0/b/chatappfirebasetd.appspot.com/o/exercises%2FQfMqT2IjfpdZaS.gif?alt=media",
       "id": "0127",
       "name": "barbell zercher squat",
       "target": "glutes",
@@ -4683,7 +4683,7 @@ export const EXERCISES_DATA = [
     {
       "bodyPart": "upper legs",
       "equipment": "body weight",
-      "gifUrl": "https://res.cloudinary.com/dysns4al9/image/upload/v1779592720/gifs/4l6S3BoxqPgnTq.gif?alt=media",
+      "gifUrl": "https://firebasestorage.googleapis.com/v0/b/chatappfirebasetd.appspot.com/o/exercises%2F4l6S3BoxqPgnTq.gif?alt=media",
       "id": "3212",
       "name": "basic toe touch (male)",
       "target": "glutes",
@@ -4702,7 +4702,7 @@ export const EXERCISES_DATA = [
     {
       "bodyPart": "shoulders",
       "equipment": "rope",
-      "gifUrl": "https://res.cloudinary.com/dysns4al9/image/upload/v1779592720/gifs/gLUzfcKInU3m3Y.gif?alt=media",
+      "gifUrl": "https://firebasestorage.googleapis.com/v0/b/chatappfirebasetd.appspot.com/o/exercises%2FgLUzfcKInU3m3Y.gif?alt=media",
       "id": "0128",
       "name": "battling ropes",
       "target": "delts",
@@ -4721,7 +4721,7 @@ export const EXERCISES_DATA = [
     {
       "bodyPart": "cardio",
       "equipment": "body weight",
-      "gifUrl": "https://res.cloudinary.com/dysns4al9/image/upload/v1779592720/gifs/IPnfOvXtPrC8lH.gif?alt=media",
+      "gifUrl": "https://firebasestorage.googleapis.com/v0/b/chatappfirebasetd.appspot.com/o/exercises%2FIPnfOvXtPrC8lH.gif?alt=media",
       "id": "3360",
       "name": "bear crawl",
       "target": "cardiovascular system",
@@ -4742,7 +4742,7 @@ export const EXERCISES_DATA = [
     {
       "bodyPart": "chest",
       "equipment": "assisted",
-      "gifUrl": "https://res.cloudinary.com/dysns4al9/image/upload/v1779592720/gifs/pkfIGVYyg0XmtZ.gif?alt=media",
+      "gifUrl": "https://firebasestorage.googleapis.com/v0/b/chatappfirebasetd.appspot.com/o/exercises%2FpkfIGVYyg0XmtZ.gif?alt=media",
       "id": "1259",
       "name": "behind head chest stretch",
       "target": "pectorals",
@@ -4761,7 +4761,7 @@ export const EXERCISES_DATA = [
     {
       "bodyPart": "upper arms",
       "equipment": "body weight",
-      "gifUrl": "https://res.cloudinary.com/dysns4al9/image/upload/v1779592720/gifs/GTIiqdEMGa4e2C.gif?alt=media",
+      "gifUrl": "https://firebasestorage.googleapis.com/v0/b/chatappfirebasetd.appspot.com/o/exercises%2FGTIiqdEMGa4e2C.gif?alt=media",
       "id": "0129",
       "name": "bench dip (knees bent)",
       "target": "triceps",
@@ -4780,7 +4780,7 @@ export const EXERCISES_DATA = [
     {
       "bodyPart": "upper arms",
       "equipment": "body weight",
-      "gifUrl": "https://res.cloudinary.com/dysns4al9/image/upload/v1779592720/gifs/NMZ5vflLH7QhBM.gif?alt=media",
+      "gifUrl": "https://firebasestorage.googleapis.com/v0/b/chatappfirebasetd.appspot.com/o/exercises%2FNMZ5vflLH7QhBM.gif?alt=media",
       "id": "1399",
       "name": "bench dip on floor",
       "target": "triceps",
@@ -4799,7 +4799,7 @@ export const EXERCISES_DATA = [
     {
       "bodyPart": "upper legs",
       "equipment": "body weight",
-      "gifUrl": "https://res.cloudinary.com/dysns4al9/image/upload/v1779592720/gifs/-Fx251bDvRYwab.gif?alt=media",
+      "gifUrl": "https://firebasestorage.googleapis.com/v0/b/chatappfirebasetd.appspot.com/o/exercises%2F-Fx251bDvRYwab.gif?alt=media",
       "id": "0130",
       "name": "bench hip extension",
       "target": "glutes",
@@ -4817,7 +4817,7 @@ export const EXERCISES_DATA = [
     {
       "bodyPart": "back",
       "equipment": "body weight",
-      "gifUrl": "https://res.cloudinary.com/dysns4al9/image/upload/v1779592720/gifs/4OFks8lKJuv41h.gif?alt=media",
+      "gifUrl": "https://firebasestorage.googleapis.com/v0/b/chatappfirebasetd.appspot.com/o/exercises%2F4OFks8lKJuv41h.gif?alt=media",
       "id": "3019",
       "name": "bench pull-ups",
       "target": "lats",
@@ -4838,7 +4838,7 @@ export const EXERCISES_DATA = [
     {
       "bodyPart": "upper legs",
       "equipment": "body weight",
-      "gifUrl": "https://res.cloudinary.com/dysns4al9/image/upload/v1779592720/gifs/7h1GCP2iZCRWf9.gif?alt=media",
+      "gifUrl": "https://firebasestorage.googleapis.com/v0/b/chatappfirebasetd.appspot.com/o/exercises%2F7h1GCP2iZCRWf9.gif?alt=media",
       "id": "3639",
       "name": "bent knee lying twist (male)",
       "target": "glutes",
@@ -4858,7 +4858,7 @@ export const EXERCISES_DATA = [
     {
       "bodyPart": "upper arms",
       "equipment": "body weight",
-      "gifUrl": "https://res.cloudinary.com/dysns4al9/image/upload/v1779592720/gifs/BQKVlTwUPSoOMw.gif?alt=media",
+      "gifUrl": "https://firebasestorage.googleapis.com/v0/b/chatappfirebasetd.appspot.com/o/exercises%2FBQKVlTwUPSoOMw.gif?alt=media",
       "id": "1770",
       "name": "biceps leg concentration curl",
       "target": "biceps",
@@ -4876,7 +4876,7 @@ export const EXERCISES_DATA = [
     {
       "bodyPart": "upper arms",
       "equipment": "body weight",
-      "gifUrl": "https://res.cloudinary.com/dysns4al9/image/upload/v1779592720/gifs/l34nVAaosU0mW7.gif?alt=media",
+      "gifUrl": "https://firebasestorage.googleapis.com/v0/b/chatappfirebasetd.appspot.com/o/exercises%2Fl34nVAaosU0mW7.gif?alt=media",
       "id": "0139",
       "name": "biceps narrow pull-ups",
       "target": "biceps",
@@ -4894,7 +4894,7 @@ export const EXERCISES_DATA = [
     {
       "bodyPart": "upper arms",
       "equipment": "body weight",
-      "gifUrl": "https://res.cloudinary.com/dysns4al9/image/upload/v1779592720/gifs/5UhAiNBs2UYOy2.gif?alt=media",
+      "gifUrl": "https://firebasestorage.googleapis.com/v0/b/chatappfirebasetd.appspot.com/o/exercises%2F5UhAiNBs2UYOy2.gif?alt=media",
       "id": "0140",
       "name": "biceps pull-up",
       "target": "biceps",
@@ -4912,7 +4912,7 @@ export const EXERCISES_DATA = [
     {
       "bodyPart": "upper arms",
       "equipment": "body weight",
-      "gifUrl": "https://res.cloudinary.com/dysns4al9/image/upload/v1779592720/gifs/qabhTmpDhFBzSE.gif?alt=media",
+      "gifUrl": "https://firebasestorage.googleapis.com/v0/b/chatappfirebasetd.appspot.com/o/exercises%2FqabhTmpDhFBzSE.gif?alt=media",
       "id": "0137",
       "name": "body-up",
       "target": "triceps",
@@ -4931,7 +4931,7 @@ export const EXERCISES_DATA = [
     {
       "bodyPart": "upper legs",
       "equipment": "body weight",
-      "gifUrl": "https://res.cloudinary.com/dysns4al9/image/upload/v1779592720/gifs/d0nKQaFn81LFFH.gif?alt=media",
+      "gifUrl": "https://firebasestorage.googleapis.com/v0/b/chatappfirebasetd.appspot.com/o/exercises%2Fd0nKQaFn81LFFH.gif?alt=media",
       "id": "3543",
       "name": "bodyweight drop jump squat",
       "target": "glutes",
@@ -4952,7 +4952,7 @@ export const EXERCISES_DATA = [
     {
       "bodyPart": "waist",
       "equipment": "body weight",
-      "gifUrl": "https://res.cloudinary.com/dysns4al9/image/upload/v1779592720/gifs/rEvM8rVUKNUsmp.gif?alt=media",
+      "gifUrl": "https://firebasestorage.googleapis.com/v0/b/chatappfirebasetd.appspot.com/o/exercises%2FrEvM8rVUKNUsmp.gif?alt=media",
       "id": "3544",
       "name": "bodyweight incline side plank",
       "target": "abs",
@@ -4971,7 +4971,7 @@ export const EXERCISES_DATA = [
     {
       "bodyPart": "upper arms",
       "equipment": "body weight",
-      "gifUrl": "https://res.cloudinary.com/dysns4al9/image/upload/v1779592720/gifs/3OKrkdP-c6dKe2.gif?alt=media",
+      "gifUrl": "https://firebasestorage.googleapis.com/v0/b/chatappfirebasetd.appspot.com/o/exercises%2F3OKrkdP-c6dKe2.gif?alt=media",
       "id": "1771",
       "name": "bodyweight kneeling triceps extension",
       "target": "triceps",
@@ -4991,7 +4991,7 @@ export const EXERCISES_DATA = [
     {
       "bodyPart": "upper arms",
       "equipment": "body weight",
-      "gifUrl": "https://res.cloudinary.com/dysns4al9/image/upload/v1779592720/gifs/uI5FPPwsWmhfME.gif?alt=media",
+      "gifUrl": "https://firebasestorage.googleapis.com/v0/b/chatappfirebasetd.appspot.com/o/exercises%2FuI5FPPwsWmhfME.gif?alt=media",
       "id": "1769",
       "name": "bodyweight side lying biceps curl",
       "target": "biceps",
@@ -5008,7 +5008,7 @@ export const EXERCISES_DATA = [
     {
       "bodyPart": "back",
       "equipment": "body weight",
-      "gifUrl": "https://res.cloudinary.com/dysns4al9/image/upload/v1779592720/gifs/g8C0vCEMb7ny8y.gif?alt=media",
+      "gifUrl": "https://firebasestorage.googleapis.com/v0/b/chatappfirebasetd.appspot.com/o/exercises%2Fg8C0vCEMb7ny8y.gif?alt=media",
       "id": "3168",
       "name": "bodyweight squatting row",
       "target": "upper back",
@@ -5027,7 +5027,7 @@ export const EXERCISES_DATA = [
     {
       "bodyPart": "back",
       "equipment": "body weight",
-      "gifUrl": "https://res.cloudinary.com/dysns4al9/image/upload/v1779592720/gifs/dkf-T9KHSVsswB.gif?alt=media",
+      "gifUrl": "https://firebasestorage.googleapis.com/v0/b/chatappfirebasetd.appspot.com/o/exercises%2Fdkf-T9KHSVsswB.gif?alt=media",
       "id": "3167",
       "name": "bodyweight squatting row (with towel)",
       "target": "upper back",
@@ -5046,7 +5046,7 @@ export const EXERCISES_DATA = [
     {
       "bodyPart": "lower legs",
       "equipment": "body weight",
-      "gifUrl": "https://res.cloudinary.com/dysns4al9/image/upload/v1779592720/gifs/xnjo0VFuV8l29s.gif?alt=media",
+      "gifUrl": "https://firebasestorage.googleapis.com/v0/b/chatappfirebasetd.appspot.com/o/exercises%2Fxnjo0VFuV8l29s.gif?alt=media",
       "id": "1373",
       "name": "bodyweight standing calf raise",
       "target": "calves",
@@ -5065,7 +5065,7 @@ export const EXERCISES_DATA = [
     {
       "bodyPart": "back",
       "equipment": "body weight",
-      "gifUrl": "https://res.cloudinary.com/dysns4al9/image/upload/v1779592720/gifs/FQjppVmaYq943e.gif?alt=media",
+      "gifUrl": "https://firebasestorage.googleapis.com/v0/b/chatappfirebasetd.appspot.com/o/exercises%2FFQjppVmaYq943e.gif?alt=media",
       "id": "3156",
       "name": "bodyweight standing close-grip one arm row",
       "target": "upper back",
@@ -5084,7 +5084,7 @@ export const EXERCISES_DATA = [
     {
       "bodyPart": "back",
       "equipment": "body weight",
-      "gifUrl": "https://res.cloudinary.com/dysns4al9/image/upload/v1779592720/gifs/5za7P2hOjXL1kb.gif?alt=media",
+      "gifUrl": "https://firebasestorage.googleapis.com/v0/b/chatappfirebasetd.appspot.com/o/exercises%2F5za7P2hOjXL1kb.gif?alt=media",
       "id": "3158",
       "name": "bodyweight standing close-grip row",
       "target": "upper back",
@@ -5104,7 +5104,7 @@ export const EXERCISES_DATA = [
     {
       "bodyPart": "back",
       "equipment": "body weight",
-      "gifUrl": "https://res.cloudinary.com/dysns4al9/image/upload/v1779592720/gifs/HiiDIjQ3noUMLn.gif?alt=media",
+      "gifUrl": "https://firebasestorage.googleapis.com/v0/b/chatappfirebasetd.appspot.com/o/exercises%2FHiiDIjQ3noUMLn.gif?alt=media",
       "id": "3162",
       "name": "bodyweight standing one arm row",
       "target": "upper back",
@@ -5125,7 +5125,7 @@ export const EXERCISES_DATA = [
     {
       "bodyPart": "back",
       "equipment": "body weight",
-      "gifUrl": "https://res.cloudinary.com/dysns4al9/image/upload/v1779592720/gifs/IExU55tTpNdlur.gif?alt=media",
+      "gifUrl": "https://firebasestorage.googleapis.com/v0/b/chatappfirebasetd.appspot.com/o/exercises%2FIExU55tTpNdlur.gif?alt=media",
       "id": "3161",
       "name": "bodyweight standing one arm row (with towel)",
       "target": "upper back",
@@ -5144,7 +5144,7 @@ export const EXERCISES_DATA = [
     {
       "bodyPart": "back",
       "equipment": "body weight",
-      "gifUrl": "https://res.cloudinary.com/dysns4al9/image/upload/v1779592720/gifs/TBCWPrBZMPUvsV.gif?alt=media",
+      "gifUrl": "https://firebasestorage.googleapis.com/v0/b/chatappfirebasetd.appspot.com/o/exercises%2FTBCWPrBZMPUvsV.gif?alt=media",
       "id": "3166",
       "name": "bodyweight standing row",
       "target": "upper back",
@@ -5165,7 +5165,7 @@ export const EXERCISES_DATA = [
     {
       "bodyPart": "back",
       "equipment": "body weight",
-      "gifUrl": "https://res.cloudinary.com/dysns4al9/image/upload/v1779592720/gifs/PZGJCqhc3KkYAu.gif?alt=media",
+      "gifUrl": "https://firebasestorage.googleapis.com/v0/b/chatappfirebasetd.appspot.com/o/exercises%2FPZGJCqhc3KkYAu.gif?alt=media",
       "id": "3165",
       "name": "bodyweight standing row (with towel)",
       "target": "upper back",
@@ -5184,7 +5184,7 @@ export const EXERCISES_DATA = [
     {
       "bodyPart": "waist",
       "equipment": "body weight",
-      "gifUrl": "https://res.cloudinary.com/dysns4al9/image/upload/v1779592720/gifs/7LxcK6C9VaVR75.gif?alt=media",
+      "gifUrl": "https://firebasestorage.googleapis.com/v0/b/chatappfirebasetd.appspot.com/o/exercises%2F7LxcK6C9VaVR75.gif?alt=media",
       "id": "0138",
       "name": "bottoms-up",
       "target": "abs",
@@ -5203,7 +5203,7 @@ export const EXERCISES_DATA = [
     {
       "bodyPart": "lower legs",
       "equipment": "body weight",
-      "gifUrl": "https://res.cloudinary.com/dysns4al9/image/upload/v1779592720/gifs/IUaAdqx6oCDczm.gif?alt=media",
+      "gifUrl": "https://firebasestorage.googleapis.com/v0/b/chatappfirebasetd.appspot.com/o/exercises%2FIUaAdqx6oCDczm.gif?alt=media",
       "id": "1374",
       "name": "box jump down with one leg stabilization",
       "target": "calves",
@@ -5224,7 +5224,7 @@ export const EXERCISES_DATA = [
     {
       "bodyPart": "waist",
       "equipment": "body weight",
-      "gifUrl": "https://res.cloudinary.com/dysns4al9/image/upload/v1779592720/gifs/obe1vF0HeNGiGv.gif?alt=media",
+      "gifUrl": "https://firebasestorage.googleapis.com/v0/b/chatappfirebasetd.appspot.com/o/exercises%2Fobe1vF0HeNGiGv.gif?alt=media",
       "id": "2466",
       "name": "bridge - mountain climber (cross body)",
       "target": "abs",
@@ -5248,7 +5248,7 @@ export const EXERCISES_DATA = [
     {
       "bodyPart": "cardio",
       "equipment": "body weight",
-      "gifUrl": "https://res.cloudinary.com/dysns4al9/image/upload/v1779592720/gifs/CkU838ffS0iD7E.gif?alt=media",
+      "gifUrl": "https://firebasestorage.googleapis.com/v0/b/chatappfirebasetd.appspot.com/o/exercises%2FCkU838ffS0iD7E.gif?alt=media",
       "id": "1160",
       "name": "burpee",
       "target": "cardiovascular system",
@@ -5272,7 +5272,7 @@ export const EXERCISES_DATA = [
     {
       "bodyPart": "waist",
       "equipment": "body weight",
-      "gifUrl": "https://res.cloudinary.com/dysns4al9/image/upload/v1779592720/gifs/eTj0oMyJ5wHnA5.gif?alt=media",
+      "gifUrl": "https://firebasestorage.googleapis.com/v0/b/chatappfirebasetd.appspot.com/o/exercises%2FeTj0oMyJ5wHnA5.gif?alt=media",
       "id": "0870",
       "name": "butt-ups",
       "target": "abs",
@@ -5292,7 +5292,7 @@ export const EXERCISES_DATA = [
     {
       "bodyPart": "upper legs",
       "equipment": "body weight",
-      "gifUrl": "https://res.cloudinary.com/dysns4al9/image/upload/v1779592720/gifs/H7tlkF6z-2Mnuw.gif?alt=media",
+      "gifUrl": "https://firebasestorage.googleapis.com/v0/b/chatappfirebasetd.appspot.com/o/exercises%2FH7tlkF6z-2Mnuw.gif?alt=media",
       "id": "1494",
       "name": "butterfly yoga pose",
       "target": "adductors",
@@ -5313,7 +5313,7 @@ export const EXERCISES_DATA = [
     {
       "bodyPart": "shoulders",
       "equipment": "cable",
-      "gifUrl": "https://res.cloudinary.com/dysns4al9/image/upload/v1779592720/gifs/-9uMYqzirVoAdi.gif?alt=media",
+      "gifUrl": "https://firebasestorage.googleapis.com/v0/b/chatappfirebasetd.appspot.com/o/exercises%2F-9uMYqzirVoAdi.gif?alt=media",
       "id": "0148",
       "name": "cable alternate shoulder press",
       "target": "delts",
@@ -5334,7 +5334,7 @@ export const EXERCISES_DATA = [
     {
       "bodyPart": "upper arms",
       "equipment": "cable",
-      "gifUrl": "https://res.cloudinary.com/dysns4al9/image/upload/v1779592720/gifs/G7pkrUL2ox5Mds.gif?alt=media",
+      "gifUrl": "https://firebasestorage.googleapis.com/v0/b/chatappfirebasetd.appspot.com/o/exercises%2FG7pkrUL2ox5Mds.gif?alt=media",
       "id": "0149",
       "name": "cable alternate triceps extension",
       "target": "triceps",
@@ -5353,7 +5353,7 @@ export const EXERCISES_DATA = [
     {
       "bodyPart": "upper legs",
       "equipment": "cable",
-      "gifUrl": "https://res.cloudinary.com/dysns4al9/image/upload/v1779592720/gifs/MXHCilnqHi5VX1.gif?alt=media",
+      "gifUrl": "https://firebasestorage.googleapis.com/v0/b/chatappfirebasetd.appspot.com/o/exercises%2FMXHCilnqHi5VX1.gif?alt=media",
       "id": "3235",
       "name": "cable assisted inverse leg curl",
       "target": "hamstrings",
@@ -5374,7 +5374,7 @@ export const EXERCISES_DATA = [
     {
       "bodyPart": "back",
       "equipment": "cable",
-      "gifUrl": "https://res.cloudinary.com/dysns4al9/image/upload/v1779592720/gifs/sXktk0ZqjidXjC.gif?alt=media",
+      "gifUrl": "https://firebasestorage.googleapis.com/v0/b/chatappfirebasetd.appspot.com/o/exercises%2FsXktk0ZqjidXjC.gif?alt=media",
       "id": "0150",
       "name": "cable bar lateral pulldown",
       "target": "lats",
@@ -5396,7 +5396,7 @@ export const EXERCISES_DATA = [
     {
       "bodyPart": "chest",
       "equipment": "cable",
-      "gifUrl": "https://res.cloudinary.com/dysns4al9/image/upload/v1779592720/gifs/ARygftMu8vdCq1.gif?alt=media",
+      "gifUrl": "https://firebasestorage.googleapis.com/v0/b/chatappfirebasetd.appspot.com/o/exercises%2FARygftMu8vdCq1.gif?alt=media",
       "id": "0151",
       "name": "cable bench press",
       "target": "pectorals",
@@ -5418,7 +5418,7 @@ export const EXERCISES_DATA = [
     {
       "bodyPart": "upper arms",
       "equipment": "cable",
-      "gifUrl": "https://res.cloudinary.com/dysns4al9/image/upload/v1779592720/gifs/DY0vop45sRguh9.gif?alt=media",
+      "gifUrl": "https://firebasestorage.googleapis.com/v0/b/chatappfirebasetd.appspot.com/o/exercises%2FDY0vop45sRguh9.gif?alt=media",
       "id": "1630",
       "name": "cable close grip curl",
       "target": "biceps",
@@ -5439,7 +5439,7 @@ export const EXERCISES_DATA = [
     {
       "bodyPart": "upper arms",
       "equipment": "cable",
-      "gifUrl": "https://res.cloudinary.com/dysns4al9/image/upload/v1779592720/gifs/qgOrxDS4JejWwK.gif?alt=media",
+      "gifUrl": "https://firebasestorage.googleapis.com/v0/b/chatappfirebasetd.appspot.com/o/exercises%2FqgOrxDS4JejWwK.gif?alt=media",
       "id": "1631",
       "name": "cable concentration curl",
       "target": "biceps",
@@ -5457,7 +5457,7 @@ export const EXERCISES_DATA = [
     {
       "bodyPart": "upper arms",
       "equipment": "cable",
-      "gifUrl": "https://res.cloudinary.com/dysns4al9/image/upload/v1779592720/gifs/pNN883rm-aqxPB.gif?alt=media",
+      "gifUrl": "https://firebasestorage.googleapis.com/v0/b/chatappfirebasetd.appspot.com/o/exercises%2FpNN883rm-aqxPB.gif?alt=media",
       "id": "0152",
       "name": "cable concentration extension (on knee)",
       "target": "triceps",
@@ -5475,7 +5475,7 @@ export const EXERCISES_DATA = [
     {
       "bodyPart": "back",
       "equipment": "cable",
-      "gifUrl": "https://res.cloudinary.com/dysns4al9/image/upload/v1779592720/gifs/BpRYHNOfd2YrE6.gif?alt=media",
+      "gifUrl": "https://firebasestorage.googleapis.com/v0/b/chatappfirebasetd.appspot.com/o/exercises%2FBpRYHNOfd2YrE6.gif?alt=media",
       "id": "0153",
       "name": "cable cross-over lateral pulldown",
       "target": "lats",
@@ -5497,7 +5497,7 @@ export const EXERCISES_DATA = [
     {
       "bodyPart": "shoulders",
       "equipment": "cable",
-      "gifUrl": "https://res.cloudinary.com/dysns4al9/image/upload/v1779592720/gifs/P0BpTUeo5m6PpB.gif?alt=media",
+      "gifUrl": "https://firebasestorage.googleapis.com/v0/b/chatappfirebasetd.appspot.com/o/exercises%2FP0BpTUeo5m6PpB.gif?alt=media",
       "id": "0154",
       "name": "cable cross-over revers fly",
       "target": "delts",
@@ -5517,7 +5517,7 @@ export const EXERCISES_DATA = [
     {
       "bodyPart": "chest",
       "equipment": "cable",
-      "gifUrl": "https://res.cloudinary.com/dysns4al9/image/upload/v1779592720/gifs/m2SHHQaxcSOWNl.gif?alt=media",
+      "gifUrl": "https://firebasestorage.googleapis.com/v0/b/chatappfirebasetd.appspot.com/o/exercises%2Fm2SHHQaxcSOWNl.gif?alt=media",
       "id": "0155",
       "name": "cable cross-over variation",
       "target": "pectorals",
@@ -5538,7 +5538,7 @@ export const EXERCISES_DATA = [
     {
       "bodyPart": "upper arms",
       "equipment": "cable",
-      "gifUrl": "https://res.cloudinary.com/dysns4al9/image/upload/v1779592720/gifs/qr435MK4h4q0Ar.gif?alt=media",
+      "gifUrl": "https://firebasestorage.googleapis.com/v0/b/chatappfirebasetd.appspot.com/o/exercises%2Fqr435MK4h4q0Ar.gif?alt=media",
       "id": "0868",
       "name": "cable curl",
       "target": "biceps",
@@ -5558,7 +5558,7 @@ export const EXERCISES_DATA = [
     {
       "bodyPart": "upper legs",
       "equipment": "cable",
-      "gifUrl": "https://res.cloudinary.com/dysns4al9/image/upload/v1779592720/gifs/U5Z27sum--pDYr.gif?alt=media",
+      "gifUrl": "https://firebasestorage.googleapis.com/v0/b/chatappfirebasetd.appspot.com/o/exercises%2FU5Z27sum--pDYr.gif?alt=media",
       "id": "0157",
       "name": "cable deadlift",
       "target": "glutes",
@@ -5579,7 +5579,7 @@ export const EXERCISES_DATA = [
     {
       "bodyPart": "chest",
       "equipment": "cable",
-      "gifUrl": "https://res.cloudinary.com/dysns4al9/image/upload/v1779592720/gifs/7aJzn7ufUjEH9i.gif?alt=media",
+      "gifUrl": "https://firebasestorage.googleapis.com/v0/b/chatappfirebasetd.appspot.com/o/exercises%2F7aJzn7ufUjEH9i.gif?alt=media",
       "id": "0158",
       "name": "cable decline fly",
       "target": "pectorals",
@@ -5599,7 +5599,7 @@ export const EXERCISES_DATA = [
     {
       "bodyPart": "chest",
       "equipment": "cable",
-      "gifUrl": "https://res.cloudinary.com/dysns4al9/image/upload/v1779592720/gifs/YwqE2GXYMIsScP.gif?alt=media",
+      "gifUrl": "https://firebasestorage.googleapis.com/v0/b/chatappfirebasetd.appspot.com/o/exercises%2FYwqE2GXYMIsScP.gif?alt=media",
       "id": "1260",
       "name": "cable decline one arm press",
       "target": "pectorals",
@@ -5619,7 +5619,7 @@ export const EXERCISES_DATA = [
     {
       "bodyPart": "chest",
       "equipment": "cable",
-      "gifUrl": "https://res.cloudinary.com/dysns4al9/image/upload/v1779592720/gifs/cgNKfIOhpybeuZ.gif?alt=media",
+      "gifUrl": "https://firebasestorage.googleapis.com/v0/b/chatappfirebasetd.appspot.com/o/exercises%2FcgNKfIOhpybeuZ.gif?alt=media",
       "id": "1261",
       "name": "cable decline press",
       "target": "pectorals",
@@ -5641,7 +5641,7 @@ export const EXERCISES_DATA = [
     {
       "bodyPart": "back",
       "equipment": "cable",
-      "gifUrl": "https://res.cloudinary.com/dysns4al9/image/upload/v1779592720/gifs/NDvZIqaK9XDpAu.gif?alt=media",
+      "gifUrl": "https://firebasestorage.googleapis.com/v0/b/chatappfirebasetd.appspot.com/o/exercises%2FNDvZIqaK9XDpAu.gif?alt=media",
       "id": "0159",
       "name": "cable decline seated wide-grip row",
       "target": "upper back",
@@ -5661,7 +5661,7 @@ export const EXERCISES_DATA = [
     {
       "bodyPart": "upper arms",
       "equipment": "cable",
-      "gifUrl": "https://res.cloudinary.com/dysns4al9/image/upload/v1779592720/gifs/zzCUmOzVZBwTpi.gif?alt=media",
+      "gifUrl": "https://firebasestorage.googleapis.com/v0/b/chatappfirebasetd.appspot.com/o/exercises%2FzzCUmOzVZBwTpi.gif?alt=media",
       "id": "1632",
       "name": "cable drag curl",
       "target": "biceps",
@@ -5680,7 +5680,7 @@ export const EXERCISES_DATA = [
     {
       "bodyPart": "back",
       "equipment": "cable",
-      "gifUrl": "https://res.cloudinary.com/dysns4al9/image/upload/v1779592720/gifs/mb1Lqq0n67576Y.gif?alt=media",
+      "gifUrl": "https://firebasestorage.googleapis.com/v0/b/chatappfirebasetd.appspot.com/o/exercises%2Fmb1Lqq0n67576Y.gif?alt=media",
       "id": "0160",
       "name": "cable floor seated wide-grip row",
       "target": "upper back",
@@ -5701,7 +5701,7 @@ export const EXERCISES_DATA = [
     {
       "bodyPart": "shoulders",
       "equipment": "cable",
-      "gifUrl": "https://res.cloudinary.com/dysns4al9/image/upload/v1779592720/gifs/YtH5VC2fc3R45w.gif?alt=media",
+      "gifUrl": "https://firebasestorage.googleapis.com/v0/b/chatappfirebasetd.appspot.com/o/exercises%2FYtH5VC2fc3R45w.gif?alt=media",
       "id": "0161",
       "name": "cable forward raise",
       "target": "delts",
@@ -5720,7 +5720,7 @@ export const EXERCISES_DATA = [
     {
       "bodyPart": "shoulders",
       "equipment": "cable",
-      "gifUrl": "https://res.cloudinary.com/dysns4al9/image/upload/v1779592720/gifs/cKP6qYNkkIPZQy.gif?alt=media",
+      "gifUrl": "https://firebasestorage.googleapis.com/v0/b/chatappfirebasetd.appspot.com/o/exercises%2FcKP6qYNkkIPZQy.gif?alt=media",
       "id": "0162",
       "name": "cable front raise",
       "target": "delts",
@@ -5740,7 +5740,7 @@ export const EXERCISES_DATA = [
     {
       "bodyPart": "shoulders",
       "equipment": "cable",
-      "gifUrl": "https://res.cloudinary.com/dysns4al9/image/upload/v1779592720/gifs/r9rbB1tABdSRNa.gif?alt=media",
+      "gifUrl": "https://firebasestorage.googleapis.com/v0/b/chatappfirebasetd.appspot.com/o/exercises%2Fr9rbB1tABdSRNa.gif?alt=media",
       "id": "0164",
       "name": "cable front shoulder raise",
       "target": "delts",
@@ -5760,7 +5760,7 @@ export const EXERCISES_DATA = [
     {
       "bodyPart": "upper arms",
       "equipment": "cable",
-      "gifUrl": "https://res.cloudinary.com/dysns4al9/image/upload/v1779592720/gifs/C5nHi7rj2wrkgA.gif?alt=media",
+      "gifUrl": "https://firebasestorage.googleapis.com/v0/b/chatappfirebasetd.appspot.com/o/exercises%2FC5nHi7rj2wrkgA.gif?alt=media",
       "id": "0165",
       "name": "cable hammer curl (with rope)",
       "target": "biceps",
@@ -5780,7 +5780,7 @@ export const EXERCISES_DATA = [
     {
       "bodyPart": "upper arms",
       "equipment": "cable",
-      "gifUrl": "https://res.cloudinary.com/dysns4al9/image/upload/v1779592720/gifs/1QsA2Hz2tpUX1M.gif?alt=media",
+      "gifUrl": "https://firebasestorage.googleapis.com/v0/b/chatappfirebasetd.appspot.com/o/exercises%2F1QsA2Hz2tpUX1M.gif?alt=media",
       "id": "1722",
       "name": "cable high pulley overhead tricep extension",
       "target": "triceps",
@@ -5799,7 +5799,7 @@ export const EXERCISES_DATA = [
     {
       "bodyPart": "back",
       "equipment": "cable",
-      "gifUrl": "https://res.cloudinary.com/dysns4al9/image/upload/v1779592720/gifs/O4rmlj7FMif3MF.gif?alt=media",
+      "gifUrl": "https://firebasestorage.googleapis.com/v0/b/chatappfirebasetd.appspot.com/o/exercises%2FO4rmlj7FMif3MF.gif?alt=media",
       "id": "0167",
       "name": "cable high row (kneeling)",
       "target": "upper back",
@@ -5819,7 +5819,7 @@ export const EXERCISES_DATA = [
     {
       "bodyPart": "upper legs",
       "equipment": "cable",
-      "gifUrl": "https://res.cloudinary.com/dysns4al9/image/upload/v1779592720/gifs/mjjsLETWXBlm9F.gif?alt=media",
+      "gifUrl": "https://firebasestorage.googleapis.com/v0/b/chatappfirebasetd.appspot.com/o/exercises%2FmjjsLETWXBlm9F.gif?alt=media",
       "id": "0168",
       "name": "cable hip adduction",
       "target": "adductors",
@@ -5839,7 +5839,7 @@ export const EXERCISES_DATA = [
     {
       "bodyPart": "chest",
       "equipment": "cable",
-      "gifUrl": "https://res.cloudinary.com/dysns4al9/image/upload/v1779592720/gifs/13zmOpqtKP53Sg.gif?alt=media",
+      "gifUrl": "https://firebasestorage.googleapis.com/v0/b/chatappfirebasetd.appspot.com/o/exercises%2F13zmOpqtKP53Sg.gif?alt=media",
       "id": "0169",
       "name": "cable incline bench press",
       "target": "pectorals",
@@ -5860,7 +5860,7 @@ export const EXERCISES_DATA = [
     {
       "bodyPart": "back",
       "equipment": "cable",
-      "gifUrl": "https://res.cloudinary.com/dysns4al9/image/upload/v1779592720/gifs/iiAxcBRoHcQbpp.gif?alt=media",
+      "gifUrl": "https://firebasestorage.googleapis.com/v0/b/chatappfirebasetd.appspot.com/o/exercises%2FiiAxcBRoHcQbpp.gif?alt=media",
       "id": "1318",
       "name": "cable incline bench row",
       "target": "upper back",
@@ -5881,7 +5881,7 @@ export const EXERCISES_DATA = [
     {
       "bodyPart": "chest",
       "equipment": "cable",
-      "gifUrl": "https://res.cloudinary.com/dysns4al9/image/upload/v1779592720/gifs/aOr5PSkO3A1mUl.gif?alt=media",
+      "gifUrl": "https://firebasestorage.googleapis.com/v0/b/chatappfirebasetd.appspot.com/o/exercises%2FaOr5PSkO3A1mUl.gif?alt=media",
       "id": "0171",
       "name": "cable incline fly",
       "target": "pectorals",
@@ -5901,7 +5901,7 @@ export const EXERCISES_DATA = [
     {
       "bodyPart": "chest",
       "equipment": "cable",
-      "gifUrl": "https://res.cloudinary.com/dysns4al9/image/upload/v1779592720/gifs/hEdxu0IxCC1CLj.gif?alt=media",
+      "gifUrl": "https://firebasestorage.googleapis.com/v0/b/chatappfirebasetd.appspot.com/o/exercises%2FhEdxu0IxCC1CLj.gif?alt=media",
       "id": "0170",
       "name": "cable incline fly (on stability ball)",
       "target": "pectorals",
@@ -5924,7 +5924,7 @@ export const EXERCISES_DATA = [
     {
       "bodyPart": "back",
       "equipment": "cable",
-      "gifUrl": "https://res.cloudinary.com/dysns4al9/image/upload/v1779592720/gifs/Gk8pZvSKXZKyhE.gif?alt=media",
+      "gifUrl": "https://firebasestorage.googleapis.com/v0/b/chatappfirebasetd.appspot.com/o/exercises%2FGk8pZvSKXZKyhE.gif?alt=media",
       "id": "0172",
       "name": "cable incline pushdown",
       "target": "lats",
@@ -5945,7 +5945,7 @@ export const EXERCISES_DATA = [
     {
       "bodyPart": "upper arms",
       "equipment": "cable",
-      "gifUrl": "https://res.cloudinary.com/dysns4al9/image/upload/v1779592720/gifs/SvR17rRhfCsKnw.gif?alt=media",
+      "gifUrl": "https://firebasestorage.googleapis.com/v0/b/chatappfirebasetd.appspot.com/o/exercises%2FSvR17rRhfCsKnw.gif?alt=media",
       "id": "0173",
       "name": "cable incline triceps extension",
       "target": "triceps",
@@ -5966,7 +5966,7 @@ export const EXERCISES_DATA = [
     {
       "bodyPart": "waist",
       "equipment": "cable",
-      "gifUrl": "https://res.cloudinary.com/dysns4al9/image/upload/v1779592720/gifs/A-I0sTmh3t8gKT.gif?alt=media",
+      "gifUrl": "https://firebasestorage.googleapis.com/v0/b/chatappfirebasetd.appspot.com/o/exercises%2FA-I0sTmh3t8gKT.gif?alt=media",
       "id": "0174",
       "name": "cable judo flip",
       "target": "abs",
@@ -5988,7 +5988,7 @@ export const EXERCISES_DATA = [
     {
       "bodyPart": "upper arms",
       "equipment": "cable",
-      "gifUrl": "https://res.cloudinary.com/dysns4al9/image/upload/v1779592720/gifs/qEOvBnwgDpQp9t.gif?alt=media",
+      "gifUrl": "https://firebasestorage.googleapis.com/v0/b/chatappfirebasetd.appspot.com/o/exercises%2FqEOvBnwgDpQp9t.gif?alt=media",
       "id": "0860",
       "name": "cable kickback",
       "target": "triceps",
@@ -6008,7 +6008,7 @@ export const EXERCISES_DATA = [
     {
       "bodyPart": "waist",
       "equipment": "cable",
-      "gifUrl": "https://res.cloudinary.com/dysns4al9/image/upload/v1779592720/gifs/U2RkCZpFJXM-5l.gif?alt=media",
+      "gifUrl": "https://firebasestorage.googleapis.com/v0/b/chatappfirebasetd.appspot.com/o/exercises%2FU2RkCZpFJXM-5l.gif?alt=media",
       "id": "0175",
       "name": "cable kneeling crunch",
       "target": "abs",
@@ -6026,7 +6026,7 @@ export const EXERCISES_DATA = [
     {
       "bodyPart": "shoulders",
       "equipment": "cable",
-      "gifUrl": "https://res.cloudinary.com/dysns4al9/image/upload/v1779592720/gifs/p4-BjTTlWhTCh2.gif?alt=media",
+      "gifUrl": "https://firebasestorage.googleapis.com/v0/b/chatappfirebasetd.appspot.com/o/exercises%2Fp4-BjTTlWhTCh2.gif?alt=media",
       "id": "3697",
       "name": "cable kneeling rear delt row (with rope) (male)",
       "target": "delts",
@@ -6047,7 +6047,7 @@ export const EXERCISES_DATA = [
     {
       "bodyPart": "upper arms",
       "equipment": "cable",
-      "gifUrl": "https://res.cloudinary.com/dysns4al9/image/upload/v1779592720/gifs/mWirW6RCBXm2qv.gif?alt=media",
+      "gifUrl": "https://firebasestorage.googleapis.com/v0/b/chatappfirebasetd.appspot.com/o/exercises%2FmWirW6RCBXm2qv.gif?alt=media",
       "id": "0176",
       "name": "cable kneeling triceps extension",
       "target": "triceps",
@@ -6066,7 +6066,7 @@ export const EXERCISES_DATA = [
     {
       "bodyPart": "back",
       "equipment": "cable",
-      "gifUrl": "https://res.cloudinary.com/dysns4al9/image/upload/v1779592720/gifs/wzibLulUYCe0y5.gif?alt=media",
+      "gifUrl": "https://firebasestorage.googleapis.com/v0/b/chatappfirebasetd.appspot.com/o/exercises%2FwzibLulUYCe0y5.gif?alt=media",
       "id": "2330",
       "name": "cable lat pulldown full range of motion",
       "target": "lats",
@@ -6087,7 +6087,7 @@ export const EXERCISES_DATA = [
     {
       "bodyPart": "back",
       "equipment": "cable",
-      "gifUrl": "https://res.cloudinary.com/dysns4al9/image/upload/v1779592720/gifs/JwXpQzHE96ZqDz.gif?alt=media",
+      "gifUrl": "https://firebasestorage.googleapis.com/v0/b/chatappfirebasetd.appspot.com/o/exercises%2FJwXpQzHE96ZqDz.gif?alt=media",
       "id": "0177",
       "name": "cable lateral pulldown (with rope attachment)",
       "target": "lats",
@@ -6109,7 +6109,7 @@ export const EXERCISES_DATA = [
     {
       "bodyPart": "back",
       "equipment": "cable",
-      "gifUrl": "https://res.cloudinary.com/dysns4al9/image/upload/v1779592720/gifs/LA3JWEX3zznFG3.gif?alt=media",
+      "gifUrl": "https://firebasestorage.googleapis.com/v0/b/chatappfirebasetd.appspot.com/o/exercises%2FLA3JWEX3zznFG3.gif?alt=media",
       "id": "2616",
       "name": "cable lateral pulldown with v-bar",
       "target": "lats",
@@ -6129,7 +6129,7 @@ export const EXERCISES_DATA = [
     {
       "bodyPart": "shoulders",
       "equipment": "cable",
-      "gifUrl": "https://res.cloudinary.com/dysns4al9/image/upload/v1779592720/gifs/iAB46bmgl4hA7t.gif?alt=media",
+      "gifUrl": "https://firebasestorage.googleapis.com/v0/b/chatappfirebasetd.appspot.com/o/exercises%2FiAB46bmgl4hA7t.gif?alt=media",
       "id": "0178",
       "name": "cable lateral raise",
       "target": "delts",
@@ -6148,7 +6148,7 @@ export const EXERCISES_DATA = [
     {
       "bodyPart": "chest",
       "equipment": "cable",
-      "gifUrl": "https://res.cloudinary.com/dysns4al9/image/upload/v1779592720/gifs/Uu0qpsDr5GLwlw.gif?alt=media",
+      "gifUrl": "https://firebasestorage.googleapis.com/v0/b/chatappfirebasetd.appspot.com/o/exercises%2FUu0qpsDr5GLwlw.gif?alt=media",
       "id": "0179",
       "name": "cable low fly",
       "target": "pectorals",
@@ -6169,7 +6169,7 @@ export const EXERCISES_DATA = [
     {
       "bodyPart": "back",
       "equipment": "cable",
-      "gifUrl": "https://res.cloudinary.com/dysns4al9/image/upload/v1779592720/gifs/oNAOFuq51kvL1Y.gif?alt=media",
+      "gifUrl": "https://firebasestorage.googleapis.com/v0/b/chatappfirebasetd.appspot.com/o/exercises%2FoNAOFuq51kvL1Y.gif?alt=media",
       "id": "0180",
       "name": "cable low seated row",
       "target": "upper back",
@@ -6189,7 +6189,7 @@ export const EXERCISES_DATA = [
     {
       "bodyPart": "upper arms",
       "equipment": "cable",
-      "gifUrl": "https://res.cloudinary.com/dysns4al9/image/upload/v1779592720/gifs/bfJRwGJevXO22S.gif?alt=media",
+      "gifUrl": "https://firebasestorage.googleapis.com/v0/b/chatappfirebasetd.appspot.com/o/exercises%2FbfJRwGJevXO22S.gif?alt=media",
       "id": "1634",
       "name": "cable lying bicep curl",
       "target": "biceps",
@@ -6210,7 +6210,7 @@ export const EXERCISES_DATA = [
     {
       "bodyPart": "upper arms",
       "equipment": "cable",
-      "gifUrl": "https://res.cloudinary.com/dysns4al9/image/upload/v1779592720/gifs/y22msfW-CUr8sM.gif?alt=media",
+      "gifUrl": "https://firebasestorage.googleapis.com/v0/b/chatappfirebasetd.appspot.com/o/exercises%2Fy22msfW-CUr8sM.gif?alt=media",
       "id": "0182",
       "name": "cable lying close-grip curl",
       "target": "biceps",
@@ -6231,7 +6231,7 @@ export const EXERCISES_DATA = [
     {
       "bodyPart": "back",
       "equipment": "cable",
-      "gifUrl": "https://res.cloudinary.com/dysns4al9/image/upload/v1779592720/gifs/sc8BbdPYSzHWRI.gif?alt=media",
+      "gifUrl": "https://firebasestorage.googleapis.com/v0/b/chatappfirebasetd.appspot.com/o/exercises%2Fsc8BbdPYSzHWRI.gif?alt=media",
       "id": "0184",
       "name": "cable lying extension pullover (with rope attachment)",
       "target": "lats",
@@ -6251,7 +6251,7 @@ export const EXERCISES_DATA = [
     {
       "bodyPart": "chest",
       "equipment": "cable",
-      "gifUrl": "https://res.cloudinary.com/dysns4al9/image/upload/v1779592720/gifs/nAVwNfO4IwHMNf.gif?alt=media",
+      "gifUrl": "https://firebasestorage.googleapis.com/v0/b/chatappfirebasetd.appspot.com/o/exercises%2FnAVwNfO4IwHMNf.gif?alt=media",
       "id": "0185",
       "name": "cable lying fly",
       "target": "pectorals",
@@ -6270,7 +6270,7 @@ export const EXERCISES_DATA = [
     {
       "bodyPart": "upper arms",
       "equipment": "cable",
-      "gifUrl": "https://res.cloudinary.com/dysns4al9/image/upload/v1779592720/gifs/hUn2g45Rxhg4k9.gif?alt=media",
+      "gifUrl": "https://firebasestorage.googleapis.com/v0/b/chatappfirebasetd.appspot.com/o/exercises%2FhUn2g45Rxhg4k9.gif?alt=media",
       "id": "0186",
       "name": "cable lying triceps extension v. 2",
       "target": "triceps",
@@ -6289,7 +6289,7 @@ export const EXERCISES_DATA = [
     {
       "bodyPart": "chest",
       "equipment": "cable",
-      "gifUrl": "https://res.cloudinary.com/dysns4al9/image/upload/v1779592720/gifs/-EZyCVvyu5MQLM.gif?alt=media",
+      "gifUrl": "https://firebasestorage.googleapis.com/v0/b/chatappfirebasetd.appspot.com/o/exercises%2F-EZyCVvyu5MQLM.gif?alt=media",
       "id": "0188",
       "name": "cable middle fly",
       "target": "pectorals",
@@ -6310,7 +6310,7 @@ export const EXERCISES_DATA = [
     {
       "bodyPart": "back",
       "equipment": "cable",
-      "gifUrl": "https://res.cloudinary.com/dysns4al9/image/upload/v1779592720/gifs/WSOcccekxA4P3F.gif?alt=media",
+      "gifUrl": "https://firebasestorage.googleapis.com/v0/b/chatappfirebasetd.appspot.com/o/exercises%2FWSOcccekxA4P3F.gif?alt=media",
       "id": "0189",
       "name": "cable one arm bent over row",
       "target": "upper back",
@@ -6330,7 +6330,7 @@ export const EXERCISES_DATA = [
     {
       "bodyPart": "upper arms",
       "equipment": "cable",
-      "gifUrl": "https://res.cloudinary.com/dysns4al9/image/upload/v1779592720/gifs/l1jNcAJTYKbWaJ.gif?alt=media",
+      "gifUrl": "https://firebasestorage.googleapis.com/v0/b/chatappfirebasetd.appspot.com/o/exercises%2Fl1jNcAJTYKbWaJ.gif?alt=media",
       "id": "0190",
       "name": "cable one arm curl",
       "target": "biceps",
@@ -6348,7 +6348,7 @@ export const EXERCISES_DATA = [
     {
       "bodyPart": "chest",
       "equipment": "cable",
-      "gifUrl": "https://res.cloudinary.com/dysns4al9/image/upload/v1779592720/gifs/S432b6pbQCm5iS.gif?alt=media",
+      "gifUrl": "https://firebasestorage.googleapis.com/v0/b/chatappfirebasetd.appspot.com/o/exercises%2FS432b6pbQCm5iS.gif?alt=media",
       "id": "1262",
       "name": "cable one arm decline chest fly",
       "target": "pectorals",
@@ -6368,7 +6368,7 @@ export const EXERCISES_DATA = [
     {
       "bodyPart": "chest",
       "equipment": "cable",
-      "gifUrl": "https://res.cloudinary.com/dysns4al9/image/upload/v1779592720/gifs/VLn2fHgw0CqAUd.gif?alt=media",
+      "gifUrl": "https://firebasestorage.googleapis.com/v0/b/chatappfirebasetd.appspot.com/o/exercises%2FVLn2fHgw0CqAUd.gif?alt=media",
       "id": "1263",
       "name": "cable one arm fly on exercise ball",
       "target": "pectorals",
@@ -6388,7 +6388,7 @@ export const EXERCISES_DATA = [
     {
       "bodyPart": "chest",
       "equipment": "cable",
-      "gifUrl": "https://res.cloudinary.com/dysns4al9/image/upload/v1779592720/gifs/Lr8eMsxD19rZSI.gif?alt=media",
+      "gifUrl": "https://firebasestorage.googleapis.com/v0/b/chatappfirebasetd.appspot.com/o/exercises%2FLr8eMsxD19rZSI.gif?alt=media",
       "id": "1264",
       "name": "cable one arm incline fly on exercise ball",
       "target": "pectorals",
@@ -6407,7 +6407,7 @@ export const EXERCISES_DATA = [
     {
       "bodyPart": "chest",
       "equipment": "cable",
-      "gifUrl": "https://res.cloudinary.com/dysns4al9/image/upload/v1779592720/gifs/6QVL9CUwSrkSpT.gif?alt=media",
+      "gifUrl": "https://firebasestorage.googleapis.com/v0/b/chatappfirebasetd.appspot.com/o/exercises%2F6QVL9CUwSrkSpT.gif?alt=media",
       "id": "1265",
       "name": "cable one arm incline press",
       "target": "pectorals",
@@ -6428,7 +6428,7 @@ export const EXERCISES_DATA = [
     {
       "bodyPart": "chest",
       "equipment": "cable",
-      "gifUrl": "https://res.cloudinary.com/dysns4al9/image/upload/v1779592720/gifs/2ghSzOX8F3yTWK.gif?alt=media",
+      "gifUrl": "https://firebasestorage.googleapis.com/v0/b/chatappfirebasetd.appspot.com/o/exercises%2F2ghSzOX8F3yTWK.gif?alt=media",
       "id": "1266",
       "name": "cable one arm incline press on exercise ball",
       "target": "pectorals",
@@ -6447,7 +6447,7 @@ export const EXERCISES_DATA = [
     {
       "bodyPart": "chest",
       "equipment": "cable",
-      "gifUrl": "https://res.cloudinary.com/dysns4al9/image/upload/v1779592720/gifs/wDsv5ccxXw6i61.gif?alt=media",
+      "gifUrl": "https://firebasestorage.googleapis.com/v0/b/chatappfirebasetd.appspot.com/o/exercises%2FwDsv5ccxXw6i61.gif?alt=media",
       "id": "0191",
       "name": "cable one arm lateral bent-over",
       "target": "pectorals",
@@ -6467,7 +6467,7 @@ export const EXERCISES_DATA = [
     {
       "bodyPart": "shoulders",
       "equipment": "cable",
-      "gifUrl": "https://res.cloudinary.com/dysns4al9/image/upload/v1779592720/gifs/DLbzFXi5Vybn6F.gif?alt=media",
+      "gifUrl": "https://firebasestorage.googleapis.com/v0/b/chatappfirebasetd.appspot.com/o/exercises%2FDLbzFXi5Vybn6F.gif?alt=media",
       "id": "0192",
       "name": "cable one arm lateral raise",
       "target": "delts",
@@ -6486,7 +6486,7 @@ export const EXERCISES_DATA = [
     {
       "bodyPart": "upper arms",
       "equipment": "cable",
-      "gifUrl": "https://res.cloudinary.com/dysns4al9/image/upload/v1779592720/gifs/f56RbfHw-rtVHh.gif?alt=media",
+      "gifUrl": "https://firebasestorage.googleapis.com/v0/b/chatappfirebasetd.appspot.com/o/exercises%2Ff56RbfHw-rtVHh.gif?alt=media",
       "id": "1633",
       "name": "cable one arm preacher curl",
       "target": "biceps",
@@ -6508,7 +6508,7 @@ export const EXERCISES_DATA = [
     {
       "bodyPart": "chest",
       "equipment": "cable",
-      "gifUrl": "https://res.cloudinary.com/dysns4al9/image/upload/v1779592720/gifs/yye84pxXMuPdqH.gif?alt=media",
+      "gifUrl": "https://firebasestorage.googleapis.com/v0/b/chatappfirebasetd.appspot.com/o/exercises%2Fyye84pxXMuPdqH.gif?alt=media",
       "id": "1267",
       "name": "cable one arm press on exercise ball",
       "target": "pectorals",
@@ -6528,7 +6528,7 @@ export const EXERCISES_DATA = [
     {
       "bodyPart": "back",
       "equipment": "cable",
-      "gifUrl": "https://res.cloudinary.com/dysns4al9/image/upload/v1779592720/gifs/7ggU7AP6E3iSy0.gif?alt=media",
+      "gifUrl": "https://firebasestorage.googleapis.com/v0/b/chatappfirebasetd.appspot.com/o/exercises%2F7ggU7AP6E3iSy0.gif?alt=media",
       "id": "3563",
       "name": "cable one arm pulldown",
       "target": "lats",
@@ -6551,7 +6551,7 @@ export const EXERCISES_DATA = [
     {
       "bodyPart": "upper arms",
       "equipment": "cable",
-      "gifUrl": "https://res.cloudinary.com/dysns4al9/image/upload/v1779592720/gifs/4iy-MsOwk03B5t.gif?alt=media",
+      "gifUrl": "https://firebasestorage.googleapis.com/v0/b/chatappfirebasetd.appspot.com/o/exercises%2F4iy-MsOwk03B5t.gif?alt=media",
       "id": "1635",
       "name": "cable one arm reverse preacher curl",
       "target": "biceps",
@@ -6573,7 +6573,7 @@ export const EXERCISES_DATA = [
     {
       "bodyPart": "back",
       "equipment": "cable",
-      "gifUrl": "https://res.cloudinary.com/dysns4al9/image/upload/v1779592720/gifs/S33SJTNpPB6qVX.gif?alt=media",
+      "gifUrl": "https://firebasestorage.googleapis.com/v0/b/chatappfirebasetd.appspot.com/o/exercises%2FS33SJTNpPB6qVX.gif?alt=media",
       "id": "0193",
       "name": "cable one arm straight back high row (kneeling)",
       "target": "upper back",
@@ -6595,7 +6595,7 @@ export const EXERCISES_DATA = [
     {
       "bodyPart": "upper arms",
       "equipment": "cable",
-      "gifUrl": "https://res.cloudinary.com/dysns4al9/image/upload/v1779592720/gifs/wXHrtXcyGWwy9S.gif?alt=media",
+      "gifUrl": "https://firebasestorage.googleapis.com/v0/b/chatappfirebasetd.appspot.com/o/exercises%2FwXHrtXcyGWwy9S.gif?alt=media",
       "id": "1723",
       "name": "cable one arm tricep pushdown",
       "target": "triceps",
@@ -6616,7 +6616,7 @@ export const EXERCISES_DATA = [
     {
       "bodyPart": "upper arms",
       "equipment": "cable",
-      "gifUrl": "https://res.cloudinary.com/dysns4al9/image/upload/v1779592720/gifs/7uUtxo9zzrtyo-.gif?alt=media",
+      "gifUrl": "https://firebasestorage.googleapis.com/v0/b/chatappfirebasetd.appspot.com/o/exercises%2F7uUtxo9zzrtyo-.gif?alt=media",
       "id": "1636",
       "name": "cable overhead curl",
       "target": "biceps",
@@ -6638,7 +6638,7 @@ export const EXERCISES_DATA = [
     {
       "bodyPart": "upper arms",
       "equipment": "cable",
-      "gifUrl": "https://res.cloudinary.com/dysns4al9/image/upload/v1779592720/gifs/dRbHAEjwnTMAgg.gif?alt=media",
+      "gifUrl": "https://firebasestorage.googleapis.com/v0/b/chatappfirebasetd.appspot.com/o/exercises%2FdRbHAEjwnTMAgg.gif?alt=media",
       "id": "1637",
       "name": "cable overhead curl on exercise ball",
       "target": "biceps",
@@ -6657,7 +6657,7 @@ export const EXERCISES_DATA = [
     {
       "bodyPart": "upper arms",
       "equipment": "cable",
-      "gifUrl": "https://res.cloudinary.com/dysns4al9/image/upload/v1779592720/gifs/rxKJgOMgxhimyS.gif?alt=media",
+      "gifUrl": "https://firebasestorage.googleapis.com/v0/b/chatappfirebasetd.appspot.com/o/exercises%2FrxKJgOMgxhimyS.gif?alt=media",
       "id": "0194",
       "name": "cable overhead triceps extension (rope attachment)",
       "target": "triceps",
@@ -6677,7 +6677,7 @@ export const EXERCISES_DATA = [
     {
       "bodyPart": "back",
       "equipment": "cable",
-      "gifUrl": "https://res.cloudinary.com/dysns4al9/image/upload/v1779592720/gifs/j9UkDdJdeqxErW.gif?alt=media",
+      "gifUrl": "https://firebasestorage.googleapis.com/v0/b/chatappfirebasetd.appspot.com/o/exercises%2Fj9UkDdJdeqxErW.gif?alt=media",
       "id": "1319",
       "name": "cable palm rotational row",
       "target": "upper back",
@@ -6699,7 +6699,7 @@ export const EXERCISES_DATA = [
     {
       "bodyPart": "upper arms",
       "equipment": "cable",
-      "gifUrl": "https://res.cloudinary.com/dysns4al9/image/upload/v1779592720/gifs/jgJuzZooQvjK6V.gif?alt=media",
+      "gifUrl": "https://firebasestorage.googleapis.com/v0/b/chatappfirebasetd.appspot.com/o/exercises%2FjgJuzZooQvjK6V.gif?alt=media",
       "id": "0195",
       "name": "cable preacher curl",
       "target": "biceps",
@@ -6718,7 +6718,7 @@ export const EXERCISES_DATA = [
     {
       "bodyPart": "chest",
       "equipment": "cable",
-      "gifUrl": "https://res.cloudinary.com/dysns4al9/image/upload/v1779592720/gifs/j76xWTespULB7Q.gif?alt=media",
+      "gifUrl": "https://firebasestorage.googleapis.com/v0/b/chatappfirebasetd.appspot.com/o/exercises%2Fj76xWTespULB7Q.gif?alt=media",
       "id": "1268",
       "name": "cable press on exercise ball",
       "target": "pectorals",
@@ -6737,7 +6737,7 @@ export const EXERCISES_DATA = [
     {
       "bodyPart": "upper legs",
       "equipment": "cable",
-      "gifUrl": "https://res.cloudinary.com/dysns4al9/image/upload/v1779592720/gifs/vwgHAn0QlZVL1n.gif?alt=media",
+      "gifUrl": "https://firebasestorage.googleapis.com/v0/b/chatappfirebasetd.appspot.com/o/exercises%2FvwgHAn0QlZVL1n.gif?alt=media",
       "id": "0196",
       "name": "cable pull through (with rope)",
       "target": "glutes",
@@ -6756,7 +6756,7 @@ export const EXERCISES_DATA = [
     {
       "bodyPart": "back",
       "equipment": "cable",
-      "gifUrl": "https://res.cloudinary.com/dysns4al9/image/upload/v1779592720/gifs/qzBNkS34VdXilC.gif?alt=media",
+      "gifUrl": "https://firebasestorage.googleapis.com/v0/b/chatappfirebasetd.appspot.com/o/exercises%2FqzBNkS34VdXilC.gif?alt=media",
       "id": "0198",
       "name": "cable pulldown",
       "target": "lats",
@@ -6777,7 +6777,7 @@ export const EXERCISES_DATA = [
     {
       "bodyPart": "back",
       "equipment": "cable",
-      "gifUrl": "https://res.cloudinary.com/dysns4al9/image/upload/v1779592720/gifs/2TdgVk-5ySfrpn.gif?alt=media",
+      "gifUrl": "https://firebasestorage.googleapis.com/v0/b/chatappfirebasetd.appspot.com/o/exercises%2F2TdgVk-5ySfrpn.gif?alt=media",
       "id": "0197",
       "name": "cable pulldown (pro lat bar)",
       "target": "lats",
@@ -6797,7 +6797,7 @@ export const EXERCISES_DATA = [
     {
       "bodyPart": "upper arms",
       "equipment": "cable",
-      "gifUrl": "https://res.cloudinary.com/dysns4al9/image/upload/v1779592720/gifs/fp6SXebJkyDha6.gif?alt=media",
+      "gifUrl": "https://firebasestorage.googleapis.com/v0/b/chatappfirebasetd.appspot.com/o/exercises%2Ffp6SXebJkyDha6.gif?alt=media",
       "id": "1638",
       "name": "cable pulldown bicep curl",
       "target": "biceps",
@@ -6818,7 +6818,7 @@ export const EXERCISES_DATA = [
     {
       "bodyPart": "upper arms",
       "equipment": "cable",
-      "gifUrl": "https://res.cloudinary.com/dysns4al9/image/upload/v1779592720/gifs/3-0LuaelhfjMSg.gif?alt=media",
+      "gifUrl": "https://firebasestorage.googleapis.com/v0/b/chatappfirebasetd.appspot.com/o/exercises%2F3-0LuaelhfjMSg.gif?alt=media",
       "id": "0201",
       "name": "cable pushdown",
       "target": "triceps",
@@ -6838,7 +6838,7 @@ export const EXERCISES_DATA = [
     {
       "bodyPart": "back",
       "equipment": "cable",
-      "gifUrl": "https://res.cloudinary.com/dysns4al9/image/upload/v1779592720/gifs/DMlHUJnk1P4AQ4.gif?alt=media",
+      "gifUrl": "https://firebasestorage.googleapis.com/v0/b/chatappfirebasetd.appspot.com/o/exercises%2FDMlHUJnk1P4AQ4.gif?alt=media",
       "id": "0199",
       "name": "cable pushdown (straight arm) v. 2",
       "target": "lats",
@@ -6858,7 +6858,7 @@ export const EXERCISES_DATA = [
     {
       "bodyPart": "upper arms",
       "equipment": "cable",
-      "gifUrl": "https://res.cloudinary.com/dysns4al9/image/upload/v1779592720/gifs/7bdnAYSqrMXwNU.gif?alt=media",
+      "gifUrl": "https://firebasestorage.googleapis.com/v0/b/chatappfirebasetd.appspot.com/o/exercises%2F7bdnAYSqrMXwNU.gif?alt=media",
       "id": "0200",
       "name": "cable pushdown (with rope attachment)",
       "target": "triceps",
@@ -6878,7 +6878,7 @@ export const EXERCISES_DATA = [
     {
       "bodyPart": "shoulders",
       "equipment": "cable",
-      "gifUrl": "https://res.cloudinary.com/dysns4al9/image/upload/v1779592720/gifs/9esLwrLT9AT3LY.gif?alt=media",
+      "gifUrl": "https://firebasestorage.googleapis.com/v0/b/chatappfirebasetd.appspot.com/o/exercises%2F9esLwrLT9AT3LY.gif?alt=media",
       "id": "0202",
       "name": "cable rear delt row (stirrups)",
       "target": "delts",
@@ -6900,7 +6900,7 @@ export const EXERCISES_DATA = [
     {
       "bodyPart": "shoulders",
       "equipment": "cable",
-      "gifUrl": "https://res.cloudinary.com/dysns4al9/image/upload/v1779592720/gifs/de-G3CkoIZ-Re0.gif?alt=media",
+      "gifUrl": "https://firebasestorage.googleapis.com/v0/b/chatappfirebasetd.appspot.com/o/exercises%2Fde-G3CkoIZ-Re0.gif?alt=media",
       "id": "0203",
       "name": "cable rear delt row (with rope)",
       "target": "delts",
@@ -6922,7 +6922,7 @@ export const EXERCISES_DATA = [
     {
       "bodyPart": "upper arms",
       "equipment": "cable",
-      "gifUrl": "https://res.cloudinary.com/dysns4al9/image/upload/v1779592720/gifs/Mkvm7x98nz2G6b.gif?alt=media",
+      "gifUrl": "https://firebasestorage.googleapis.com/v0/b/chatappfirebasetd.appspot.com/o/exercises%2FMkvm7x98nz2G6b.gif?alt=media",
       "id": "0204",
       "name": "cable rear drive",
       "target": "triceps",
@@ -6940,7 +6940,7 @@ export const EXERCISES_DATA = [
     {
       "bodyPart": "back",
       "equipment": "cable",
-      "gifUrl": "https://res.cloudinary.com/dysns4al9/image/upload/v1779592720/gifs/3ObJj1ypHPkvlY.gif?alt=media",
+      "gifUrl": "https://firebasestorage.googleapis.com/v0/b/chatappfirebasetd.appspot.com/o/exercises%2F3ObJj1ypHPkvlY.gif?alt=media",
       "id": "0205",
       "name": "cable rear pulldown",
       "target": "lats",
@@ -6962,7 +6962,7 @@ export const EXERCISES_DATA = [
     {
       "bodyPart": "waist",
       "equipment": "cable",
-      "gifUrl": "https://res.cloudinary.com/dysns4al9/image/upload/v1779592720/gifs/LqWVbxDHcKpK5j.gif?alt=media",
+      "gifUrl": "https://firebasestorage.googleapis.com/v0/b/chatappfirebasetd.appspot.com/o/exercises%2FLqWVbxDHcKpK5j.gif?alt=media",
       "id": "0873",
       "name": "cable reverse crunch",
       "target": "abs",
@@ -6981,7 +6981,7 @@ export const EXERCISES_DATA = [
     {
       "bodyPart": "upper arms",
       "equipment": "cable",
-      "gifUrl": "https://res.cloudinary.com/dysns4al9/image/upload/v1779592720/gifs/D0ezlcaCudfzXA.gif?alt=media",
+      "gifUrl": "https://firebasestorage.googleapis.com/v0/b/chatappfirebasetd.appspot.com/o/exercises%2FD0ezlcaCudfzXA.gif?alt=media",
       "id": "0206",
       "name": "cable reverse curl",
       "target": "biceps",
@@ -7002,7 +7002,7 @@ export const EXERCISES_DATA = [
     {
       "bodyPart": "upper arms",
       "equipment": "cable",
-      "gifUrl": "https://res.cloudinary.com/dysns4al9/image/upload/v1779592720/gifs/YejJpLZ53fXECV.gif?alt=media",
+      "gifUrl": "https://firebasestorage.googleapis.com/v0/b/chatappfirebasetd.appspot.com/o/exercises%2FYejJpLZ53fXECV.gif?alt=media",
       "id": "2406",
       "name": "cable reverse grip triceps pushdown (sz-bar) (with arm blaster)",
       "target": "triceps",
@@ -7022,7 +7022,7 @@ export const EXERCISES_DATA = [
     {
       "bodyPart": "upper arms",
       "equipment": "cable",
-      "gifUrl": "https://res.cloudinary.com/dysns4al9/image/upload/v1779592720/gifs/ExQ2F0f4MFJNqH.gif?alt=media",
+      "gifUrl": "https://firebasestorage.googleapis.com/v0/b/chatappfirebasetd.appspot.com/o/exercises%2FExQ2F0f4MFJNqH.gif?alt=media",
       "id": "1413",
       "name": "cable reverse one arm curl",
       "target": "biceps",
@@ -7040,7 +7040,7 @@ export const EXERCISES_DATA = [
     {
       "bodyPart": "upper arms",
       "equipment": "cable",
-      "gifUrl": "https://res.cloudinary.com/dysns4al9/image/upload/v1779592720/gifs/L5aAnMHt8ubodh.gif?alt=media",
+      "gifUrl": "https://firebasestorage.googleapis.com/v0/b/chatappfirebasetd.appspot.com/o/exercises%2FL5aAnMHt8ubodh.gif?alt=media",
       "id": "0209",
       "name": "cable reverse preacher curl",
       "target": "biceps",
@@ -7060,7 +7060,7 @@ export const EXERCISES_DATA = [
     {
       "bodyPart": "lower arms",
       "equipment": "cable",
-      "gifUrl": "https://res.cloudinary.com/dysns4al9/image/upload/v1779592720/gifs/fMZg6-JK2zH1f8.gif?alt=media",
+      "gifUrl": "https://firebasestorage.googleapis.com/v0/b/chatappfirebasetd.appspot.com/o/exercises%2FfMZg6-JK2zH1f8.gif?alt=media",
       "id": "0210",
       "name": "cable reverse wrist curl",
       "target": "forearms",
@@ -7080,7 +7080,7 @@ export const EXERCISES_DATA = [
     {
       "bodyPart": "upper arms",
       "equipment": "cable",
-      "gifUrl": "https://res.cloudinary.com/dysns4al9/image/upload/v1779592720/gifs/LMgbJhyvTpXJgl.gif?alt=media",
+      "gifUrl": "https://firebasestorage.googleapis.com/v0/b/chatappfirebasetd.appspot.com/o/exercises%2FLMgbJhyvTpXJgl.gif?alt=media",
       "id": "0207",
       "name": "cable reverse-grip pushdown",
       "target": "triceps",
@@ -7100,7 +7100,7 @@ export const EXERCISES_DATA = [
     {
       "bodyPart": "back",
       "equipment": "cable",
-      "gifUrl": "https://res.cloudinary.com/dysns4al9/image/upload/v1779592720/gifs/W2roBaJmGPJeBz.gif?alt=media",
+      "gifUrl": "https://firebasestorage.googleapis.com/v0/b/chatappfirebasetd.appspot.com/o/exercises%2FW2roBaJmGPJeBz.gif?alt=media",
       "id": "0208",
       "name": "cable reverse-grip straight back seated high row",
       "target": "upper back",
@@ -7120,7 +7120,7 @@ export const EXERCISES_DATA = [
     {
       "bodyPart": "back",
       "equipment": "cable",
-      "gifUrl": "https://res.cloudinary.com/dysns4al9/image/upload/v1779592720/gifs/Y3C8XPcH6AYOlH.gif?alt=media",
+      "gifUrl": "https://firebasestorage.googleapis.com/v0/b/chatappfirebasetd.appspot.com/o/exercises%2FY3C8XPcH6AYOlH.gif?alt=media",
       "id": "1320",
       "name": "cable rope crossover seated row",
       "target": "upper back",
@@ -7140,7 +7140,7 @@ export const EXERCISES_DATA = [
     {
       "bodyPart": "back",
       "equipment": "cable",
-      "gifUrl": "https://res.cloudinary.com/dysns4al9/image/upload/v1779592720/gifs/-zugdaA9aYeUkt.gif?alt=media",
+      "gifUrl": "https://firebasestorage.googleapis.com/v0/b/chatappfirebasetd.appspot.com/o/exercises%2F-zugdaA9aYeUkt.gif?alt=media",
       "id": "1321",
       "name": "cable rope elevated seated row",
       "target": "upper back",
@@ -7161,7 +7161,7 @@ export const EXERCISES_DATA = [
     {
       "bodyPart": "back",
       "equipment": "cable",
-      "gifUrl": "https://res.cloudinary.com/dysns4al9/image/upload/v1779592720/gifs/ZiF52P44bwTIod.gif?alt=media",
+      "gifUrl": "https://firebasestorage.googleapis.com/v0/b/chatappfirebasetd.appspot.com/o/exercises%2FZiF52P44bwTIod.gif?alt=media",
       "id": "1322",
       "name": "cable rope extension incline bench row",
       "target": "upper back",
@@ -7182,7 +7182,7 @@ export const EXERCISES_DATA = [
     {
       "bodyPart": "upper arms",
       "equipment": "cable",
-      "gifUrl": "https://res.cloudinary.com/dysns4al9/image/upload/v1779592720/gifs/MxqA1Rv9FgU2qK.gif?alt=media",
+      "gifUrl": "https://firebasestorage.googleapis.com/v0/b/chatappfirebasetd.appspot.com/o/exercises%2FMxqA1Rv9FgU2qK.gif?alt=media",
       "id": "1639",
       "name": "cable rope hammer preacher curl",
       "target": "biceps",
@@ -7203,7 +7203,7 @@ export const EXERCISES_DATA = [
     {
       "bodyPart": "upper arms",
       "equipment": "cable",
-      "gifUrl": "https://res.cloudinary.com/dysns4al9/image/upload/v1779592720/gifs/nTUGxEt8GWVEGo.gif?alt=media",
+      "gifUrl": "https://firebasestorage.googleapis.com/v0/b/chatappfirebasetd.appspot.com/o/exercises%2FnTUGxEt8GWVEGo.gif?alt=media",
       "id": "1724",
       "name": "cable rope high pulley overhead tricep extension",
       "target": "triceps",
@@ -7223,7 +7223,7 @@ export const EXERCISES_DATA = [
     {
       "bodyPart": "upper arms",
       "equipment": "cable",
-      "gifUrl": "https://res.cloudinary.com/dysns4al9/image/upload/v1779592720/gifs/0besjKlR7RGzDu.gif?alt=media",
+      "gifUrl": "https://firebasestorage.googleapis.com/v0/b/chatappfirebasetd.appspot.com/o/exercises%2F0besjKlR7RGzDu.gif?alt=media",
       "id": "1725",
       "name": "cable rope incline tricep extension",
       "target": "triceps",
@@ -7243,7 +7243,7 @@ export const EXERCISES_DATA = [
     {
       "bodyPart": "upper arms",
       "equipment": "cable",
-      "gifUrl": "https://res.cloudinary.com/dysns4al9/image/upload/v1779592720/gifs/4emYyeKO6ZkJkb.gif?alt=media",
+      "gifUrl": "https://firebasestorage.googleapis.com/v0/b/chatappfirebasetd.appspot.com/o/exercises%2F4emYyeKO6ZkJkb.gif?alt=media",
       "id": "1726",
       "name": "cable rope lying on floor tricep extension",
       "target": "triceps",
@@ -7262,7 +7262,7 @@ export const EXERCISES_DATA = [
     {
       "bodyPart": "upper arms",
       "equipment": "cable",
-      "gifUrl": "https://res.cloudinary.com/dysns4al9/image/upload/v1779592720/gifs/PggbaVfekpZWXU.gif?alt=media",
+      "gifUrl": "https://firebasestorage.googleapis.com/v0/b/chatappfirebasetd.appspot.com/o/exercises%2FPggbaVfekpZWXU.gif?alt=media",
       "id": "1640",
       "name": "cable rope one arm hammer preacher curl",
       "target": "biceps",
@@ -7283,7 +7283,7 @@ export const EXERCISES_DATA = [
     {
       "bodyPart": "back",
       "equipment": "cable",
-      "gifUrl": "https://res.cloudinary.com/dysns4al9/image/upload/v1779592720/gifs/t6SxmZURIW58lV.gif?alt=media",
+      "gifUrl": "https://firebasestorage.googleapis.com/v0/b/chatappfirebasetd.appspot.com/o/exercises%2Ft6SxmZURIW58lV.gif?alt=media",
       "id": "1323",
       "name": "cable rope seated row",
       "target": "upper back",
@@ -7303,7 +7303,7 @@ export const EXERCISES_DATA = [
     {
       "bodyPart": "waist",
       "equipment": "cable",
-      "gifUrl": "https://res.cloudinary.com/dysns4al9/image/upload/v1779592720/gifs/mXnHARXkdlBPBK.gif?alt=media",
+      "gifUrl": "https://firebasestorage.googleapis.com/v0/b/chatappfirebasetd.appspot.com/o/exercises%2FmXnHARXkdlBPBK.gif?alt=media",
       "id": "0211",
       "name": "cable russian twists (on stability ball)",
       "target": "abs",
@@ -7323,7 +7323,7 @@ export const EXERCISES_DATA = [
     {
       "bodyPart": "chest",
       "equipment": "cable",
-      "gifUrl": "https://res.cloudinary.com/dysns4al9/image/upload/v1779592720/gifs/Zdnmzj-MnyQ8hL.gif?alt=media",
+      "gifUrl": "https://firebasestorage.googleapis.com/v0/b/chatappfirebasetd.appspot.com/o/exercises%2FZdnmzj-MnyQ8hL.gif?alt=media",
       "id": "2144",
       "name": "cable seated chest press",
       "target": "pectorals",
@@ -7343,7 +7343,7 @@ export const EXERCISES_DATA = [
     {
       "bodyPart": "waist",
       "equipment": "cable",
-      "gifUrl": "https://res.cloudinary.com/dysns4al9/image/upload/v1779592720/gifs/PQvY5u2HhmdsH6.gif?alt=media",
+      "gifUrl": "https://firebasestorage.googleapis.com/v0/b/chatappfirebasetd.appspot.com/o/exercises%2FPQvY5u2HhmdsH6.gif?alt=media",
       "id": "0212",
       "name": "cable seated crunch",
       "target": "abs",
@@ -7361,7 +7361,7 @@ export const EXERCISES_DATA = [
     {
       "bodyPart": "upper arms",
       "equipment": "cable",
-      "gifUrl": "https://res.cloudinary.com/dysns4al9/image/upload/v1779592720/gifs/SA1ZR2g0XHOKc3.gif?alt=media",
+      "gifUrl": "https://firebasestorage.googleapis.com/v0/b/chatappfirebasetd.appspot.com/o/exercises%2FSA1ZR2g0XHOKc3.gif?alt=media",
       "id": "1641",
       "name": "cable seated curl",
       "target": "biceps",
@@ -7380,7 +7380,7 @@ export const EXERCISES_DATA = [
     {
       "bodyPart": "back",
       "equipment": "cable",
-      "gifUrl": "https://res.cloudinary.com/dysns4al9/image/upload/v1779592720/gifs/y0S6Gwi3-xY0-q.gif?alt=media",
+      "gifUrl": "https://firebasestorage.googleapis.com/v0/b/chatappfirebasetd.appspot.com/o/exercises%2Fy0S6Gwi3-xY0-q.gif?alt=media",
       "id": "0213",
       "name": "cable seated high row (v-bar)",
       "target": "lats",
@@ -7401,7 +7401,7 @@ export const EXERCISES_DATA = [
     {
       "bodyPart": "back",
       "equipment": "cable",
-      "gifUrl": "https://res.cloudinary.com/dysns4al9/image/upload/v1779592720/gifs/DvXtTJERaYTg9J.gif?alt=media",
+      "gifUrl": "https://firebasestorage.googleapis.com/v0/b/chatappfirebasetd.appspot.com/o/exercises%2FDvXtTJERaYTg9J.gif?alt=media",
       "id": "0214",
       "name": "cable seated one arm alternate row",
       "target": "upper back",
@@ -7422,7 +7422,7 @@ export const EXERCISES_DATA = [
     {
       "bodyPart": "upper arms",
       "equipment": "cable",
-      "gifUrl": "https://res.cloudinary.com/dysns4al9/image/upload/v1779592720/gifs/yUHwKk7GKjST8Q.gif?alt=media",
+      "gifUrl": "https://firebasestorage.googleapis.com/v0/b/chatappfirebasetd.appspot.com/o/exercises%2FyUHwKk7GKjST8Q.gif?alt=media",
       "id": "1642",
       "name": "cable seated one arm concentration curl",
       "target": "biceps",
@@ -7441,7 +7441,7 @@ export const EXERCISES_DATA = [
     {
       "bodyPart": "upper arms",
       "equipment": "cable",
-      "gifUrl": "https://res.cloudinary.com/dysns4al9/image/upload/v1779592720/gifs/uemvK2rBnVXIn5.gif?alt=media",
+      "gifUrl": "https://firebasestorage.googleapis.com/v0/b/chatappfirebasetd.appspot.com/o/exercises%2FuemvK2rBnVXIn5.gif?alt=media",
       "id": "1643",
       "name": "cable seated overhead curl",
       "target": "biceps",
@@ -7462,7 +7462,7 @@ export const EXERCISES_DATA = [
     {
       "bodyPart": "shoulders",
       "equipment": "cable",
-      "gifUrl": "https://res.cloudinary.com/dysns4al9/image/upload/v1779592720/gifs/BTfPETAdmwCuX0.gif?alt=media",
+      "gifUrl": "https://firebasestorage.googleapis.com/v0/b/chatappfirebasetd.appspot.com/o/exercises%2FBTfPETAdmwCuX0.gif?alt=media",
       "id": "0215",
       "name": "cable seated rear lateral raise",
       "target": "delts",
@@ -7481,7 +7481,7 @@ export const EXERCISES_DATA = [
     {
       "bodyPart": "back",
       "equipment": "cable",
-      "gifUrl": "https://res.cloudinary.com/dysns4al9/image/upload/v1779592720/gifs/nW-QKkIqZ-vZ2x.gif?alt=media",
+      "gifUrl": "https://firebasestorage.googleapis.com/v0/b/chatappfirebasetd.appspot.com/o/exercises%2FnW-QKkIqZ-vZ2x.gif?alt=media",
       "id": "0861",
       "name": "cable seated row",
       "target": "upper back",
@@ -7500,7 +7500,7 @@ export const EXERCISES_DATA = [
     {
       "bodyPart": "shoulders",
       "equipment": "cable",
-      "gifUrl": "https://res.cloudinary.com/dysns4al9/image/upload/v1779592720/gifs/sKlGiYqXZ6J-Na.gif?alt=media",
+      "gifUrl": "https://firebasestorage.googleapis.com/v0/b/chatappfirebasetd.appspot.com/o/exercises%2FsKlGiYqXZ6J-Na.gif?alt=media",
       "id": "0216",
       "name": "cable seated shoulder internal rotation",
       "target": "delts",
@@ -7520,7 +7520,7 @@ export const EXERCISES_DATA = [
     {
       "bodyPart": "waist",
       "equipment": "cable",
-      "gifUrl": "https://res.cloudinary.com/dysns4al9/image/upload/v1779592720/gifs/VEI0AKN96GOb8s.gif?alt=media",
+      "gifUrl": "https://firebasestorage.googleapis.com/v0/b/chatappfirebasetd.appspot.com/o/exercises%2FVEI0AKN96GOb8s.gif?alt=media",
       "id": "2399",
       "name": "cable seated twist",
       "target": "abs",
@@ -7539,7 +7539,7 @@ export const EXERCISES_DATA = [
     {
       "bodyPart": "back",
       "equipment": "cable",
-      "gifUrl": "https://res.cloudinary.com/dysns4al9/image/upload/v1779592720/gifs/Lkd87TgBxY2Hha.gif?alt=media",
+      "gifUrl": "https://firebasestorage.googleapis.com/v0/b/chatappfirebasetd.appspot.com/o/exercises%2FLkd87TgBxY2Hha.gif?alt=media",
       "id": "0218",
       "name": "cable seated wide-grip row",
       "target": "upper back",
@@ -7560,7 +7560,7 @@ export const EXERCISES_DATA = [
     {
       "bodyPart": "shoulders",
       "equipment": "cable",
-      "gifUrl": "https://res.cloudinary.com/dysns4al9/image/upload/v1779592720/gifs/LC8IcASYlqhx8m.gif?alt=media",
+      "gifUrl": "https://firebasestorage.googleapis.com/v0/b/chatappfirebasetd.appspot.com/o/exercises%2FLC8IcASYlqhx8m.gif?alt=media",
       "id": "0219",
       "name": "cable shoulder press",
       "target": "delts",
@@ -7580,7 +7580,7 @@ export const EXERCISES_DATA = [
     {
       "bodyPart": "back",
       "equipment": "cable",
-      "gifUrl": "https://res.cloudinary.com/dysns4al9/image/upload/v1779592720/gifs/WM6CWhpHgt6XaP.gif?alt=media",
+      "gifUrl": "https://firebasestorage.googleapis.com/v0/b/chatappfirebasetd.appspot.com/o/exercises%2FWM6CWhpHgt6XaP.gif?alt=media",
       "id": "0220",
       "name": "cable shrug",
       "target": "traps",
@@ -7598,7 +7598,7 @@ export const EXERCISES_DATA = [
     {
       "bodyPart": "waist",
       "equipment": "cable",
-      "gifUrl": "https://res.cloudinary.com/dysns4al9/image/upload/v1779592720/gifs/hudhRhE828PNzS.gif?alt=media",
+      "gifUrl": "https://firebasestorage.googleapis.com/v0/b/chatappfirebasetd.appspot.com/o/exercises%2FhudhRhE828PNzS.gif?alt=media",
       "id": "0222",
       "name": "cable side bend",
       "target": "abs",
@@ -7617,7 +7617,7 @@ export const EXERCISES_DATA = [
     {
       "bodyPart": "waist",
       "equipment": "cable",
-      "gifUrl": "https://res.cloudinary.com/dysns4al9/image/upload/v1779592720/gifs/VOk45awn8pgvmm.gif?alt=media",
+      "gifUrl": "https://firebasestorage.googleapis.com/v0/b/chatappfirebasetd.appspot.com/o/exercises%2FVOk45awn8pgvmm.gif?alt=media",
       "id": "0221",
       "name": "cable side bend crunch (bosu ball)",
       "target": "abs",
@@ -7635,7 +7635,7 @@ export const EXERCISES_DATA = [
     {
       "bodyPart": "waist",
       "equipment": "cable",
-      "gifUrl": "https://res.cloudinary.com/dysns4al9/image/upload/v1779592720/gifs/uqzZtH3EW28x4t.gif?alt=media",
+      "gifUrl": "https://firebasestorage.googleapis.com/v0/b/chatappfirebasetd.appspot.com/o/exercises%2FuqzZtH3EW28x4t.gif?alt=media",
       "id": "0223",
       "name": "cable side crunch",
       "target": "abs",
@@ -7654,7 +7654,7 @@ export const EXERCISES_DATA = [
     {
       "bodyPart": "back",
       "equipment": "cable",
-      "gifUrl": "https://res.cloudinary.com/dysns4al9/image/upload/v1779592720/gifs/gSsBLYxLqf7TG5.gif?alt=media",
+      "gifUrl": "https://firebasestorage.googleapis.com/v0/b/chatappfirebasetd.appspot.com/o/exercises%2FgSsBLYxLqf7TG5.gif?alt=media",
       "id": "1717",
       "name": "cable squat row (with rope attachment)",
       "target": "lats",
@@ -7677,7 +7677,7 @@ export const EXERCISES_DATA = [
     {
       "bodyPart": "upper arms",
       "equipment": "cable",
-      "gifUrl": "https://res.cloudinary.com/dysns4al9/image/upload/v1779592720/gifs/4UGnDgW7gXQExH.gif?alt=media",
+      "gifUrl": "https://firebasestorage.googleapis.com/v0/b/chatappfirebasetd.appspot.com/o/exercises%2F4UGnDgW7gXQExH.gif?alt=media",
       "id": "1644",
       "name": "cable squatting curl",
       "target": "biceps",
@@ -7698,7 +7698,7 @@ export const EXERCISES_DATA = [
     {
       "bodyPart": "lower arms",
       "equipment": "cable",
-      "gifUrl": "https://res.cloudinary.com/dysns4al9/image/upload/v1779592720/gifs/4tW7-zUfbQI09X.gif?alt=media",
+      "gifUrl": "https://firebasestorage.googleapis.com/v0/b/chatappfirebasetd.appspot.com/o/exercises%2F4tW7-zUfbQI09X.gif?alt=media",
       "id": "0224",
       "name": "cable standing back wrist curl",
       "target": "forearms",
@@ -7718,7 +7718,7 @@ export const EXERCISES_DATA = [
     {
       "bodyPart": "lower legs",
       "equipment": "cable",
-      "gifUrl": "https://res.cloudinary.com/dysns4al9/image/upload/v1779592720/gifs/v4zN24O6h2FFqE.gif?alt=media",
+      "gifUrl": "https://firebasestorage.googleapis.com/v0/b/chatappfirebasetd.appspot.com/o/exercises%2Fv4zN24O6h2FFqE.gif?alt=media",
       "id": "1375",
       "name": "cable standing calf raise",
       "target": "calves",
@@ -7737,7 +7737,7 @@ export const EXERCISES_DATA = [
     {
       "bodyPart": "shoulders",
       "equipment": "cable",
-      "gifUrl": "https://res.cloudinary.com/dysns4al9/image/upload/v1779592720/gifs/i0aROGoUaFvVgp.gif?alt=media",
+      "gifUrl": "https://firebasestorage.googleapis.com/v0/b/chatappfirebasetd.appspot.com/o/exercises%2Fi0aROGoUaFvVgp.gif?alt=media",
       "id": "0225",
       "name": "cable standing cross-over high reverse fly",
       "target": "delts",
@@ -7759,7 +7759,7 @@ export const EXERCISES_DATA = [
     {
       "bodyPart": "waist",
       "equipment": "cable",
-      "gifUrl": "https://res.cloudinary.com/dysns4al9/image/upload/v1779592720/gifs/OkXfs7iBXLWq4l.gif?alt=media",
+      "gifUrl": "https://firebasestorage.googleapis.com/v0/b/chatappfirebasetd.appspot.com/o/exercises%2FOkXfs7iBXLWq4l.gif?alt=media",
       "id": "0226",
       "name": "cable standing crunch",
       "target": "abs",
@@ -7778,7 +7778,7 @@ export const EXERCISES_DATA = [
     {
       "bodyPart": "waist",
       "equipment": "cable",
-      "gifUrl": "https://res.cloudinary.com/dysns4al9/image/upload/v1779592720/gifs/CUU9GJfjGVMOnH.gif?alt=media",
+      "gifUrl": "https://firebasestorage.googleapis.com/v0/b/chatappfirebasetd.appspot.com/o/exercises%2FCUU9GJfjGVMOnH.gif?alt=media",
       "id": "0874",
       "name": "cable standing crunch (with rope attachment)",
       "target": "abs",
@@ -7797,7 +7797,7 @@ export const EXERCISES_DATA = [
     {
       "bodyPart": "chest",
       "equipment": "cable",
-      "gifUrl": "https://res.cloudinary.com/dysns4al9/image/upload/v1779592720/gifs/zaiXDv1ZJTC0cz.gif?alt=media",
+      "gifUrl": "https://firebasestorage.googleapis.com/v0/b/chatappfirebasetd.appspot.com/o/exercises%2FzaiXDv1ZJTC0cz.gif?alt=media",
       "id": "0227",
       "name": "cable standing fly",
       "target": "pectorals",
@@ -7820,7 +7820,7 @@ export const EXERCISES_DATA = [
     {
       "bodyPart": "upper legs",
       "equipment": "cable",
-      "gifUrl": "https://res.cloudinary.com/dysns4al9/image/upload/v1779592720/gifs/Gkdw4dTD772bZd.gif?alt=media",
+      "gifUrl": "https://firebasestorage.googleapis.com/v0/b/chatappfirebasetd.appspot.com/o/exercises%2FGkdw4dTD772bZd.gif?alt=media",
       "id": "0228",
       "name": "cable standing hip extension",
       "target": "glutes",
@@ -7841,7 +7841,7 @@ export const EXERCISES_DATA = [
     {
       "bodyPart": "upper arms",
       "equipment": "cable",
-      "gifUrl": "https://res.cloudinary.com/dysns4al9/image/upload/v1779592720/gifs/r2QTjvrRC8RaQT.gif?alt=media",
+      "gifUrl": "https://firebasestorage.googleapis.com/v0/b/chatappfirebasetd.appspot.com/o/exercises%2Fr2QTjvrRC8RaQT.gif?alt=media",
       "id": "0229",
       "name": "cable standing inner curl",
       "target": "biceps",
@@ -7861,7 +7861,7 @@ export const EXERCISES_DATA = [
     {
       "bodyPart": "waist",
       "equipment": "cable",
-      "gifUrl": "https://res.cloudinary.com/dysns4al9/image/upload/v1779592720/gifs/wAkrOylk1daQrF.gif?alt=media",
+      "gifUrl": "https://firebasestorage.googleapis.com/v0/b/chatappfirebasetd.appspot.com/o/exercises%2FwAkrOylk1daQrF.gif?alt=media",
       "id": "0230",
       "name": "cable standing lift",
       "target": "abs",
@@ -7881,7 +7881,7 @@ export const EXERCISES_DATA = [
     {
       "bodyPart": "upper arms",
       "equipment": "cable",
-      "gifUrl": "https://res.cloudinary.com/dysns4al9/image/upload/v1779592720/gifs/Rzg-ExGQGHHDLc.gif?alt=media",
+      "gifUrl": "https://firebasestorage.googleapis.com/v0/b/chatappfirebasetd.appspot.com/o/exercises%2FRzg-ExGQGHHDLc.gif?alt=media",
       "id": "0231",
       "name": "cable standing one arm triceps extension",
       "target": "triceps",
@@ -7900,7 +7900,7 @@ export const EXERCISES_DATA = [
     {
       "bodyPart": "lower legs",
       "equipment": "cable",
-      "gifUrl": "https://res.cloudinary.com/dysns4al9/image/upload/v1779592720/gifs/7AkHZTXQOAiLMc.gif?alt=media",
+      "gifUrl": "https://firebasestorage.googleapis.com/v0/b/chatappfirebasetd.appspot.com/o/exercises%2F7AkHZTXQOAiLMc.gif?alt=media",
       "id": "1376",
       "name": "cable standing one leg calf raise",
       "target": "calves",
@@ -7920,7 +7920,7 @@ export const EXERCISES_DATA = [
     {
       "bodyPart": "upper arms",
       "equipment": "cable",
-      "gifUrl": "https://res.cloudinary.com/dysns4al9/image/upload/v1779592720/gifs/eCIjnntMDFv7Bj.gif?alt=media",
+      "gifUrl": "https://firebasestorage.googleapis.com/v0/b/chatappfirebasetd.appspot.com/o/exercises%2FeCIjnntMDFv7Bj.gif?alt=media",
       "id": "0232",
       "name": "cable standing pulldown (with rope)",
       "target": "biceps",
@@ -7941,7 +7941,7 @@ export const EXERCISES_DATA = [
     {
       "bodyPart": "shoulders",
       "equipment": "cable",
-      "gifUrl": "https://res.cloudinary.com/dysns4al9/image/upload/v1779592720/gifs/zIMSdqj601Y6M5.gif?alt=media",
+      "gifUrl": "https://firebasestorage.googleapis.com/v0/b/chatappfirebasetd.appspot.com/o/exercises%2FzIMSdqj601Y6M5.gif?alt=media",
       "id": "0233",
       "name": "cable standing rear delt row (with rope)",
       "target": "delts",
@@ -7962,7 +7962,7 @@ export const EXERCISES_DATA = [
     {
       "bodyPart": "upper arms",
       "equipment": "cable",
-      "gifUrl": "https://res.cloudinary.com/dysns4al9/image/upload/v1779592720/gifs/FvKqwOQNif2ycS.gif?alt=media",
+      "gifUrl": "https://firebasestorage.googleapis.com/v0/b/chatappfirebasetd.appspot.com/o/exercises%2FFvKqwOQNif2ycS.gif?alt=media",
       "id": "1727",
       "name": "cable standing reverse grip one arm overhead tricep extension",
       "target": "triceps",
@@ -7980,7 +7980,7 @@ export const EXERCISES_DATA = [
     {
       "bodyPart": "back",
       "equipment": "cable",
-      "gifUrl": "https://res.cloudinary.com/dysns4al9/image/upload/v1779592720/gifs/eGFRs4Elj2xiWm.gif?alt=media",
+      "gifUrl": "https://firebasestorage.googleapis.com/v0/b/chatappfirebasetd.appspot.com/o/exercises%2FeGFRs4Elj2xiWm.gif?alt=media",
       "id": "0234",
       "name": "cable standing row (v-bar)",
       "target": "upper back",
@@ -8000,7 +8000,7 @@ export const EXERCISES_DATA = [
     {
       "bodyPart": "shoulders",
       "equipment": "cable",
-      "gifUrl": "https://res.cloudinary.com/dysns4al9/image/upload/v1779592720/gifs/vZ9EQWIDhzkAp7.gif?alt=media",
+      "gifUrl": "https://firebasestorage.googleapis.com/v0/b/chatappfirebasetd.appspot.com/o/exercises%2FvZ9EQWIDhzkAp7.gif?alt=media",
       "id": "0235",
       "name": "cable standing shoulder external rotation",
       "target": "delts",
@@ -8020,7 +8020,7 @@ export const EXERCISES_DATA = [
     {
       "bodyPart": "back",
       "equipment": "cable",
-      "gifUrl": "https://res.cloudinary.com/dysns4al9/image/upload/v1779592720/gifs/BVSUBs2rQ677OQ.gif?alt=media",
+      "gifUrl": "https://firebasestorage.googleapis.com/v0/b/chatappfirebasetd.appspot.com/o/exercises%2FBVSUBs2rQ677OQ.gif?alt=media",
       "id": "0236",
       "name": "cable standing twist row (v-bar)",
       "target": "upper back",
@@ -8044,7 +8044,7 @@ export const EXERCISES_DATA = [
     {
       "bodyPart": "chest",
       "equipment": "cable",
-      "gifUrl": "https://res.cloudinary.com/dysns4al9/image/upload/v1779592720/gifs/5b8bXH6CFiJW5b.gif?alt=media",
+      "gifUrl": "https://firebasestorage.googleapis.com/v0/b/chatappfirebasetd.appspot.com/o/exercises%2F5b8bXH6CFiJW5b.gif?alt=media",
       "id": "1269",
       "name": "cable standing up straight crossovers",
       "target": "pectorals",
@@ -8063,7 +8063,7 @@ export const EXERCISES_DATA = [
     {
       "bodyPart": "back",
       "equipment": "cable",
-      "gifUrl": "https://res.cloudinary.com/dysns4al9/image/upload/v1779592720/gifs/wMHK6EG9AdFYUp.gif?alt=media",
+      "gifUrl": "https://firebasestorage.googleapis.com/v0/b/chatappfirebasetd.appspot.com/o/exercises%2FwMHK6EG9AdFYUp.gif?alt=media",
       "id": "0238",
       "name": "cable straight arm pulldown",
       "target": "lats",
@@ -8083,7 +8083,7 @@ export const EXERCISES_DATA = [
     {
       "bodyPart": "back",
       "equipment": "cable",
-      "gifUrl": "https://res.cloudinary.com/dysns4al9/image/upload/v1779592720/gifs/RmTU3-nLVLOqX4.gif?alt=media",
+      "gifUrl": "https://firebasestorage.googleapis.com/v0/b/chatappfirebasetd.appspot.com/o/exercises%2FRmTU3-nLVLOqX4.gif?alt=media",
       "id": "0237",
       "name": "cable straight arm pulldown (with rope)",
       "target": "lats",
@@ -8104,7 +8104,7 @@ export const EXERCISES_DATA = [
     {
       "bodyPart": "back",
       "equipment": "cable",
-      "gifUrl": "https://res.cloudinary.com/dysns4al9/image/upload/v1779592720/gifs/C5FuN4pY-fG5GW.gif?alt=media",
+      "gifUrl": "https://firebasestorage.googleapis.com/v0/b/chatappfirebasetd.appspot.com/o/exercises%2FC5FuN4pY-fG5GW.gif?alt=media",
       "id": "0239",
       "name": "cable straight back seated row",
       "target": "upper back",
@@ -8125,7 +8125,7 @@ export const EXERCISES_DATA = [
     {
       "bodyPart": "shoulders",
       "equipment": "cable",
-      "gifUrl": "https://res.cloudinary.com/dysns4al9/image/upload/v1779592720/gifs/Vz6bMXUXpHR3ai.gif?alt=media",
+      "gifUrl": "https://firebasestorage.googleapis.com/v0/b/chatappfirebasetd.appspot.com/o/exercises%2FVz6bMXUXpHR3ai.gif?alt=media",
       "id": "0240",
       "name": "cable supine reverse fly",
       "target": "delts",
@@ -8144,7 +8144,7 @@ export const EXERCISES_DATA = [
     {
       "bodyPart": "back",
       "equipment": "cable",
-      "gifUrl": "https://res.cloudinary.com/dysns4al9/image/upload/v1779592720/gifs/tSU6nj7LWfG4SB.gif?alt=media",
+      "gifUrl": "https://firebasestorage.googleapis.com/v0/b/chatappfirebasetd.appspot.com/o/exercises%2FtSU6nj7LWfG4SB.gif?alt=media",
       "id": "2464",
       "name": "cable thibaudeau kayak row",
       "target": "lats",
@@ -8165,7 +8165,7 @@ export const EXERCISES_DATA = [
     {
       "bodyPart": "upper arms",
       "equipment": "cable",
-      "gifUrl": "https://res.cloudinary.com/dysns4al9/image/upload/v1779592720/gifs/JTSCCqyiv3Q80o.gif?alt=media",
+      "gifUrl": "https://firebasestorage.googleapis.com/v0/b/chatappfirebasetd.appspot.com/o/exercises%2FJTSCCqyiv3Q80o.gif?alt=media",
       "id": "0241",
       "name": "cable triceps pushdown (v-bar)",
       "target": "triceps",
@@ -8186,7 +8186,7 @@ export const EXERCISES_DATA = [
     {
       "bodyPart": "upper arms",
       "equipment": "cable",
-      "gifUrl": "https://res.cloudinary.com/dysns4al9/image/upload/v1779592720/gifs/DIdckuDweNHeX4.gif?alt=media",
+      "gifUrl": "https://firebasestorage.googleapis.com/v0/b/chatappfirebasetd.appspot.com/o/exercises%2FDIdckuDweNHeX4.gif?alt=media",
       "id": "2405",
       "name": "cable triceps pushdown (v-bar) (with arm blaster)",
       "target": "triceps",
@@ -8207,7 +8207,7 @@ export const EXERCISES_DATA = [
     {
       "bodyPart": "waist",
       "equipment": "cable",
-      "gifUrl": "https://res.cloudinary.com/dysns4al9/image/upload/v1779592720/gifs/e25ojFrpsgn2OC.gif?alt=media",
+      "gifUrl": "https://firebasestorage.googleapis.com/v0/b/chatappfirebasetd.appspot.com/o/exercises%2Fe25ojFrpsgn2OC.gif?alt=media",
       "id": "0242",
       "name": "cable tuck reverse crunch",
       "target": "abs",
@@ -8226,7 +8226,7 @@ export const EXERCISES_DATA = [
     {
       "bodyPart": "waist",
       "equipment": "cable",
-      "gifUrl": "https://res.cloudinary.com/dysns4al9/image/upload/v1779592720/gifs/APbZeLZbiBbisH.gif?alt=media",
+      "gifUrl": "https://firebasestorage.googleapis.com/v0/b/chatappfirebasetd.appspot.com/o/exercises%2FAPbZeLZbiBbisH.gif?alt=media",
       "id": "0243",
       "name": "cable twist",
       "target": "abs",
@@ -8246,7 +8246,7 @@ export const EXERCISES_DATA = [
     {
       "bodyPart": "waist",
       "equipment": "cable",
-      "gifUrl": "https://res.cloudinary.com/dysns4al9/image/upload/v1779592720/gifs/pX9QMkHztuZiFy.gif?alt=media",
+      "gifUrl": "https://firebasestorage.googleapis.com/v0/b/chatappfirebasetd.appspot.com/o/exercises%2FpX9QMkHztuZiFy.gif?alt=media",
       "id": "0862",
       "name": "cable twist (up-down)",
       "target": "abs",
@@ -8266,7 +8266,7 @@ export const EXERCISES_DATA = [
     {
       "bodyPart": "back",
       "equipment": "cable",
-      "gifUrl": "https://res.cloudinary.com/dysns4al9/image/upload/v1779592720/gifs/nRpJhTgMx3Khtk.gif?alt=media",
+      "gifUrl": "https://firebasestorage.googleapis.com/v0/b/chatappfirebasetd.appspot.com/o/exercises%2FnRpJhTgMx3Khtk.gif?alt=media",
       "id": "0244",
       "name": "cable twisting pull",
       "target": "lats",
@@ -8288,7 +8288,7 @@ export const EXERCISES_DATA = [
     {
       "bodyPart": "upper arms",
       "equipment": "cable",
-      "gifUrl": "https://res.cloudinary.com/dysns4al9/image/upload/v1779592720/gifs/sjV9UgdaUpZZoi.gif?alt=media",
+      "gifUrl": "https://firebasestorage.googleapis.com/v0/b/chatappfirebasetd.appspot.com/o/exercises%2FsjV9UgdaUpZZoi.gif?alt=media",
       "id": "1645",
       "name": "cable two arm curl on incline bench",
       "target": "biceps",
@@ -8307,7 +8307,7 @@ export const EXERCISES_DATA = [
     {
       "bodyPart": "upper arms",
       "equipment": "cable",
-      "gifUrl": "https://res.cloudinary.com/dysns4al9/image/upload/v1779592720/gifs/1hBEG8rgXb8DT3.gif?alt=media",
+      "gifUrl": "https://firebasestorage.googleapis.com/v0/b/chatappfirebasetd.appspot.com/o/exercises%2F1hBEG8rgXb8DT3.gif?alt=media",
       "id": "1728",
       "name": "cable two arm tricep kickback",
       "target": "triceps",
@@ -8325,7 +8325,7 @@ export const EXERCISES_DATA = [
     {
       "bodyPart": "back",
       "equipment": "cable",
-      "gifUrl": "https://res.cloudinary.com/dysns4al9/image/upload/v1779592720/gifs/IJejIFJFVF7C17.gif?alt=media",
+      "gifUrl": "https://firebasestorage.googleapis.com/v0/b/chatappfirebasetd.appspot.com/o/exercises%2FIJejIFJFVF7C17.gif?alt=media",
       "id": "0245",
       "name": "cable underhand pulldown",
       "target": "lats",
@@ -8345,7 +8345,7 @@ export const EXERCISES_DATA = [
     {
       "bodyPart": "chest",
       "equipment": "cable",
-      "gifUrl": "https://res.cloudinary.com/dysns4al9/image/upload/v1779592720/gifs/Gjyjgc5ASIpSpp.gif?alt=media",
+      "gifUrl": "https://firebasestorage.googleapis.com/v0/b/chatappfirebasetd.appspot.com/o/exercises%2FGjyjgc5ASIpSpp.gif?alt=media",
       "id": "1270",
       "name": "cable upper chest crossovers",
       "target": "pectorals",
@@ -8367,7 +8367,7 @@ export const EXERCISES_DATA = [
     {
       "bodyPart": "back",
       "equipment": "cable",
-      "gifUrl": "https://res.cloudinary.com/dysns4al9/image/upload/v1779592720/gifs/JtAfymEKBNvSIt.gif?alt=media",
+      "gifUrl": "https://firebasestorage.googleapis.com/v0/b/chatappfirebasetd.appspot.com/o/exercises%2FJtAfymEKBNvSIt.gif?alt=media",
       "id": "1324",
       "name": "cable upper row",
       "target": "upper back",
@@ -8389,7 +8389,7 @@ export const EXERCISES_DATA = [
     {
       "bodyPart": "shoulders",
       "equipment": "cable",
-      "gifUrl": "https://res.cloudinary.com/dysns4al9/image/upload/v1779592720/gifs/tVrjS4F098d0vQ.gif?alt=media",
+      "gifUrl": "https://firebasestorage.googleapis.com/v0/b/chatappfirebasetd.appspot.com/o/exercises%2FtVrjS4F098d0vQ.gif?alt=media",
       "id": "0246",
       "name": "cable upright row",
       "target": "delts",
@@ -8409,7 +8409,7 @@ export const EXERCISES_DATA = [
     {
       "bodyPart": "back",
       "equipment": "cable",
-      "gifUrl": "https://res.cloudinary.com/dysns4al9/image/upload/v1779592720/gifs/qSG8xYwwZCf8wJ.gif?alt=media",
+      "gifUrl": "https://firebasestorage.googleapis.com/v0/b/chatappfirebasetd.appspot.com/o/exercises%2FqSG8xYwwZCf8wJ.gif?alt=media",
       "id": "1325",
       "name": "cable wide grip rear pulldown behind neck",
       "target": "lats",
@@ -8430,7 +8430,7 @@ export const EXERCISES_DATA = [
     {
       "bodyPart": "lower arms",
       "equipment": "cable",
-      "gifUrl": "https://res.cloudinary.com/dysns4al9/image/upload/v1779592720/gifs/u4yRazgxvmGSvn.gif?alt=media",
+      "gifUrl": "https://firebasestorage.googleapis.com/v0/b/chatappfirebasetd.appspot.com/o/exercises%2Fu4yRazgxvmGSvn.gif?alt=media",
       "id": "0247",
       "name": "cable wrist curl",
       "target": "forearms",
@@ -8451,7 +8451,7 @@ export const EXERCISES_DATA = [
     {
       "bodyPart": "lower legs",
       "equipment": "body weight",
-      "gifUrl": "https://res.cloudinary.com/dysns4al9/image/upload/v1779592720/gifs/Wysbvyxtlq4LvG.gif?alt=media",
+      "gifUrl": "https://firebasestorage.googleapis.com/v0/b/chatappfirebasetd.appspot.com/o/exercises%2FWysbvyxtlq4LvG.gif?alt=media",
       "id": "1407",
       "name": "calf push stretch with hands against wall",
       "target": "calves",
@@ -8470,7 +8470,7 @@ export const EXERCISES_DATA = [
     {
       "bodyPart": "lower legs",
       "equipment": "body weight",
-      "gifUrl": "https://res.cloudinary.com/dysns4al9/image/upload/v1779592720/gifs/ErKmDfD2lnKX02.gif?alt=media",
+      "gifUrl": "https://firebasestorage.googleapis.com/v0/b/chatappfirebasetd.appspot.com/o/exercises%2FErKmDfD2lnKX02.gif?alt=media",
       "id": "1377",
       "name": "calf stretch with hands against wall",
       "target": "calves",
@@ -8489,7 +8489,7 @@ export const EXERCISES_DATA = [
     {
       "bodyPart": "lower legs",
       "equipment": "rope",
-      "gifUrl": "https://res.cloudinary.com/dysns4al9/image/upload/v1779592720/gifs/P6oJtAd199wM4D.gif?alt=media",
+      "gifUrl": "https://firebasestorage.googleapis.com/v0/b/chatappfirebasetd.appspot.com/o/exercises%2FP6oJtAd199wM4D.gif?alt=media",
       "id": "1378",
       "name": "calf stretch with rope",
       "target": "calves",
@@ -8508,7 +8508,7 @@ export const EXERCISES_DATA = [
     {
       "bodyPart": "back",
       "equipment": "barbell",
-      "gifUrl": "https://res.cloudinary.com/dysns4al9/image/upload/v1779592720/gifs/DBmQvJUpVB2vH0.gif?alt=media",
+      "gifUrl": "https://firebasestorage.googleapis.com/v0/b/chatappfirebasetd.appspot.com/o/exercises%2FDBmQvJUpVB2vH0.gif?alt=media",
       "id": "0248",
       "name": "cambered bar lying row",
       "target": "upper back",
@@ -8527,7 +8527,7 @@ export const EXERCISES_DATA = [
     {
       "bodyPart": "waist",
       "equipment": "body weight",
-      "gifUrl": "https://res.cloudinary.com/dysns4al9/image/upload/v1779592720/gifs/79IAVB393yo07S.gif?alt=media",
+      "gifUrl": "https://firebasestorage.googleapis.com/v0/b/chatappfirebasetd.appspot.com/o/exercises%2F79IAVB393yo07S.gif?alt=media",
       "id": "2963",
       "name": "captains chair straight leg raise",
       "target": "abs",
@@ -8546,7 +8546,7 @@ export const EXERCISES_DATA = [
     {
       "bodyPart": "upper legs",
       "equipment": "body weight",
-      "gifUrl": "https://res.cloudinary.com/dysns4al9/image/upload/v1779592720/gifs/GFVP4Adrjigaid.gif?alt=media",
+      "gifUrl": "https://firebasestorage.googleapis.com/v0/b/chatappfirebasetd.appspot.com/o/exercises%2FGFVP4Adrjigaid.gif?alt=media",
       "id": "1548",
       "name": "chair leg extended stretch",
       "target": "quads",
@@ -8565,7 +8565,7 @@ export const EXERCISES_DATA = [
     {
       "bodyPart": "chest",
       "equipment": "body weight",
-      "gifUrl": "https://res.cloudinary.com/dysns4al9/image/upload/v1779592720/gifs/gu6oR-PyOdw1vJ.gif?alt=media",
+      "gifUrl": "https://firebasestorage.googleapis.com/v0/b/chatappfirebasetd.appspot.com/o/exercises%2Fgu6oR-PyOdw1vJ.gif?alt=media",
       "id": "1271",
       "name": "chest and front of shoulder stretch",
       "target": "pectorals",
@@ -8585,7 +8585,7 @@ export const EXERCISES_DATA = [
     {
       "bodyPart": "chest",
       "equipment": "body weight",
-      "gifUrl": "https://res.cloudinary.com/dysns4al9/image/upload/v1779592720/gifs/f23FhtMzMUWoKC.gif?alt=media",
+      "gifUrl": "https://firebasestorage.googleapis.com/v0/b/chatappfirebasetd.appspot.com/o/exercises%2Ff23FhtMzMUWoKC.gif?alt=media",
       "id": "0251",
       "name": "chest dip",
       "target": "pectorals",
@@ -8603,7 +8603,7 @@ export const EXERCISES_DATA = [
     {
       "bodyPart": "chest",
       "equipment": "body weight",
-      "gifUrl": "https://res.cloudinary.com/dysns4al9/image/upload/v1779592720/gifs/IHojFBo8F53sP8.gif?alt=media",
+      "gifUrl": "https://firebasestorage.googleapis.com/v0/b/chatappfirebasetd.appspot.com/o/exercises%2FIHojFBo8F53sP8.gif?alt=media",
       "id": "1430",
       "name": "chest dip (on dip-pull-up cage)",
       "target": "pectorals",
@@ -8625,7 +8625,7 @@ export const EXERCISES_DATA = [
     {
       "bodyPart": "chest",
       "equipment": "body weight",
-      "gifUrl": "https://res.cloudinary.com/dysns4al9/image/upload/v1779592720/gifs/2fbirZMODOldVB.gif?alt=media",
+      "gifUrl": "https://firebasestorage.googleapis.com/v0/b/chatappfirebasetd.appspot.com/o/exercises%2F2fbirZMODOldVB.gif?alt=media",
       "id": "2462",
       "name": "chest dip on straight bar",
       "target": "pectorals",
@@ -8644,7 +8644,7 @@ export const EXERCISES_DATA = [
     {
       "bodyPart": "chest",
       "equipment": "stability ball",
-      "gifUrl": "https://res.cloudinary.com/dysns4al9/image/upload/v1779592720/gifs/Ncjf1Ar-lnghu5.gif?alt=media",
+      "gifUrl": "https://firebasestorage.googleapis.com/v0/b/chatappfirebasetd.appspot.com/o/exercises%2FNcjf1Ar-lnghu5.gif?alt=media",
       "id": "1272",
       "name": "chest stretch with exercise ball",
       "target": "pectorals",
@@ -8663,7 +8663,7 @@ export const EXERCISES_DATA = [
     {
       "bodyPart": "chest",
       "equipment": "body weight",
-      "gifUrl": "https://res.cloudinary.com/dysns4al9/image/upload/v1779592720/gifs/EB1D14qdzuaQot.gif?alt=media",
+      "gifUrl": "https://firebasestorage.googleapis.com/v0/b/chatappfirebasetd.appspot.com/o/exercises%2FEB1D14qdzuaQot.gif?alt=media",
       "id": "3216",
       "name": "chest tap push-up (male)",
       "target": "pectorals",
@@ -8683,7 +8683,7 @@ export const EXERCISES_DATA = [
     {
       "bodyPart": "back",
       "equipment": "body weight",
-      "gifUrl": "https://res.cloudinary.com/dysns4al9/image/upload/v1779592720/gifs/Wb0GGe4Li74jhT.gif?alt=media",
+      "gifUrl": "https://firebasestorage.googleapis.com/v0/b/chatappfirebasetd.appspot.com/o/exercises%2FWb0GGe4Li74jhT.gif?alt=media",
       "id": "1326",
       "name": "chin-up",
       "target": "lats",
@@ -8702,7 +8702,7 @@ export const EXERCISES_DATA = [
     {
       "bodyPart": "back",
       "equipment": "body weight",
-      "gifUrl": "https://res.cloudinary.com/dysns4al9/image/upload/v1779592720/gifs/IwwnHn2Yn9WAd0.gif?alt=media",
+      "gifUrl": "https://firebasestorage.googleapis.com/v0/b/chatappfirebasetd.appspot.com/o/exercises%2FIwwnHn2Yn9WAd0.gif?alt=media",
       "id": "0253",
       "name": "chin-ups (narrow parallel grip)",
       "target": "upper back",
@@ -8721,7 +8721,7 @@ export const EXERCISES_DATA = [
     {
       "bodyPart": "lower legs",
       "equipment": "body weight",
-      "gifUrl": "https://res.cloudinary.com/dysns4al9/image/upload/v1779592720/gifs/nQezjAYUNdGus8.gif?alt=media",
+      "gifUrl": "https://firebasestorage.googleapis.com/v0/b/chatappfirebasetd.appspot.com/o/exercises%2FnQezjAYUNdGus8.gif?alt=media",
       "id": "0257",
       "name": "circles knee stretch",
       "target": "calves",
@@ -8739,7 +8739,7 @@ export const EXERCISES_DATA = [
     {
       "bodyPart": "chest",
       "equipment": "body weight",
-      "gifUrl": "https://res.cloudinary.com/dysns4al9/image/upload/v1779592720/gifs/Rz2168GXm8IcIy.gif?alt=media",
+      "gifUrl": "https://firebasestorage.googleapis.com/v0/b/chatappfirebasetd.appspot.com/o/exercises%2FRz2168GXm8IcIy.gif?alt=media",
       "id": "1273",
       "name": "clap push up",
       "target": "pectorals",
@@ -8758,7 +8758,7 @@ export const EXERCISES_DATA = [
     {
       "bodyPart": "chest",
       "equipment": "body weight",
-      "gifUrl": "https://res.cloudinary.com/dysns4al9/image/upload/v1779592720/gifs/IPps8SvcJofZwj.gif?alt=media",
+      "gifUrl": "https://firebasestorage.googleapis.com/v0/b/chatappfirebasetd.appspot.com/o/exercises%2FIPps8SvcJofZwj.gif?alt=media",
       "id": "0258",
       "name": "clock push-up",
       "target": "pectorals",
@@ -8779,7 +8779,7 @@ export const EXERCISES_DATA = [
     {
       "bodyPart": "back",
       "equipment": "body weight",
-      "gifUrl": "https://res.cloudinary.com/dysns4al9/image/upload/v1779592720/gifs/vMcaZIV1ttoMCa.gif?alt=media",
+      "gifUrl": "https://firebasestorage.googleapis.com/v0/b/chatappfirebasetd.appspot.com/o/exercises%2FvMcaZIV1ttoMCa.gif?alt=media",
       "id": "1327",
       "name": "close grip chin-up",
       "target": "lats",
@@ -8799,7 +8799,7 @@ export const EXERCISES_DATA = [
     {
       "bodyPart": "upper arms",
       "equipment": "body weight",
-      "gifUrl": "https://res.cloudinary.com/dysns4al9/image/upload/v1779592720/gifs/aAaFdYOOPYx4sm.gif?alt=media",
+      "gifUrl": "https://firebasestorage.googleapis.com/v0/b/chatappfirebasetd.appspot.com/o/exercises%2FaAaFdYOOPYx4sm.gif?alt=media",
       "id": "0259",
       "name": "close-grip push-up",
       "target": "triceps",
@@ -8817,7 +8817,7 @@ export const EXERCISES_DATA = [
     {
       "bodyPart": "upper arms",
       "equipment": "body weight",
-      "gifUrl": "https://res.cloudinary.com/dysns4al9/image/upload/v1779592720/gifs/IpPQqmg-8p7PkY.gif?alt=media",
+      "gifUrl": "https://firebasestorage.googleapis.com/v0/b/chatappfirebasetd.appspot.com/o/exercises%2FIpPQqmg-8p7PkY.gif?alt=media",
       "id": "2398",
       "name": "close-grip push-up (on knees)",
       "target": "triceps",
@@ -8836,7 +8836,7 @@ export const EXERCISES_DATA = [
     {
       "bodyPart": "waist",
       "equipment": "body weight",
-      "gifUrl": "https://res.cloudinary.com/dysns4al9/image/upload/v1779592720/gifs/p93caORbc15ba4.gif?alt=media",
+      "gifUrl": "https://firebasestorage.googleapis.com/v0/b/chatappfirebasetd.appspot.com/o/exercises%2Fp93caORbc15ba4.gif?alt=media",
       "id": "0260",
       "name": "cocoons",
       "target": "abs",
@@ -8855,7 +8855,7 @@ export const EXERCISES_DATA = [
     {
       "bodyPart": "waist",
       "equipment": "body weight",
-      "gifUrl": "https://res.cloudinary.com/dysns4al9/image/upload/v1779592720/gifs/0IzFvxpoi2UwfX.gif?alt=media",
+      "gifUrl": "https://firebasestorage.googleapis.com/v0/b/chatappfirebasetd.appspot.com/o/exercises%2F0IzFvxpoi2UwfX.gif?alt=media",
       "id": "1468",
       "name": "crab twist toe touch",
       "target": "abs",
@@ -8874,7 +8874,7 @@ export const EXERCISES_DATA = [
     {
       "bodyPart": "waist",
       "equipment": "body weight",
-      "gifUrl": "https://res.cloudinary.com/dysns4al9/image/upload/v1779592720/gifs/yVr2X3fkUslSkf.gif?alt=media",
+      "gifUrl": "https://firebasestorage.googleapis.com/v0/b/chatappfirebasetd.appspot.com/o/exercises%2FyVr2X3fkUslSkf.gif?alt=media",
       "id": "0262",
       "name": "cross body crunch",
       "target": "abs",
@@ -8893,7 +8893,7 @@ export const EXERCISES_DATA = [
     {
       "bodyPart": "waist",
       "equipment": "body weight",
-      "gifUrl": "https://res.cloudinary.com/dysns4al9/image/upload/v1779592720/gifs/yStbp4hvAI6Xsf.gif?alt=media",
+      "gifUrl": "https://firebasestorage.googleapis.com/v0/b/chatappfirebasetd.appspot.com/o/exercises%2FyStbp4hvAI6Xsf.gif?alt=media",
       "id": "0267",
       "name": "crunch (hands overhead)",
       "target": "abs",
@@ -8911,7 +8911,7 @@ export const EXERCISES_DATA = [
     {
       "bodyPart": "waist",
       "equipment": "stability ball",
-      "gifUrl": "https://res.cloudinary.com/dysns4al9/image/upload/v1779592720/gifs/W-2-1HYJGSLcar.gif?alt=media",
+      "gifUrl": "https://firebasestorage.googleapis.com/v0/b/chatappfirebasetd.appspot.com/o/exercises%2FW-2-1HYJGSLcar.gif?alt=media",
       "id": "0271",
       "name": "crunch (on stability ball)",
       "target": "abs",
@@ -8930,7 +8930,7 @@ export const EXERCISES_DATA = [
     {
       "bodyPart": "waist",
       "equipment": "stability ball",
-      "gifUrl": "https://res.cloudinary.com/dysns4al9/image/upload/v1779592720/gifs/NUqvjMn9tV7dAE.gif?alt=media",
+      "gifUrl": "https://firebasestorage.googleapis.com/v0/b/chatappfirebasetd.appspot.com/o/exercises%2FNUqvjMn9tV7dAE.gif?alt=media",
       "id": "0272",
       "name": "crunch (on stability ball, arms straight)",
       "target": "abs",
@@ -8949,7 +8949,7 @@ export const EXERCISES_DATA = [
     {
       "bodyPart": "waist",
       "equipment": "body weight",
-      "gifUrl": "https://res.cloudinary.com/dysns4al9/image/upload/v1779592720/gifs/9BnuyCV758-5P9.gif?alt=media",
+      "gifUrl": "https://firebasestorage.googleapis.com/v0/b/chatappfirebasetd.appspot.com/o/exercises%2F9BnuyCV758-5P9.gif?alt=media",
       "id": "0274",
       "name": "crunch floor",
       "target": "abs",
@@ -8967,7 +8967,7 @@ export const EXERCISES_DATA = [
     {
       "bodyPart": "waist",
       "equipment": "body weight",
-      "gifUrl": "https://res.cloudinary.com/dysns4al9/image/upload/v1779592720/gifs/YsamWV6KzUVeM4.gif?alt=media",
+      "gifUrl": "https://firebasestorage.googleapis.com/v0/b/chatappfirebasetd.appspot.com/o/exercises%2FYsamWV6KzUVeM4.gif?alt=media",
       "id": "3016",
       "name": "curl-up",
       "target": "abs",
@@ -8985,7 +8985,7 @@ export const EXERCISES_DATA = [
     {
       "bodyPart": "upper legs",
       "equipment": "body weight",
-      "gifUrl": "https://res.cloudinary.com/dysns4al9/image/upload/v1779592720/gifs/3uw-ZZP1-ENM6E.gif?alt=media",
+      "gifUrl": "https://firebasestorage.googleapis.com/v0/b/chatappfirebasetd.appspot.com/o/exercises%2F3uw-ZZP1-ENM6E.gif?alt=media",
       "id": "3769",
       "name": "curtsey squat",
       "target": "glutes",
@@ -9006,7 +9006,7 @@ export const EXERCISES_DATA = [
     {
       "bodyPart": "cardio",
       "equipment": "leverage machine",
-      "gifUrl": "https://res.cloudinary.com/dysns4al9/image/upload/v1779592720/gifs/9XGHnSYI8BaS-q.gif?alt=media",
+      "gifUrl": "https://firebasestorage.googleapis.com/v0/b/chatappfirebasetd.appspot.com/o/exercises%2F9XGHnSYI8BaS-q.gif?alt=media",
       "id": "2331",
       "name": "cycle cross trainer",
       "target": "cardiovascular system",
@@ -9026,7 +9026,7 @@ export const EXERCISES_DATA = [
     {
       "bodyPart": "waist",
       "equipment": "body weight",
-      "gifUrl": "https://res.cloudinary.com/dysns4al9/image/upload/v1779592720/gifs/IZ93TPezipJ1Hf.gif?alt=media",
+      "gifUrl": "https://firebasestorage.googleapis.com/v0/b/chatappfirebasetd.appspot.com/o/exercises%2FIZ93TPezipJ1Hf.gif?alt=media",
       "id": "0276",
       "name": "dead bug",
       "target": "abs",
@@ -9047,7 +9047,7 @@ export const EXERCISES_DATA = [
     {
       "bodyPart": "waist",
       "equipment": "body weight",
-      "gifUrl": "https://res.cloudinary.com/dysns4al9/image/upload/v1779592720/gifs/zLq79G7hQoCNVM.gif?alt=media",
+      "gifUrl": "https://firebasestorage.googleapis.com/v0/b/chatappfirebasetd.appspot.com/o/exercises%2FzLq79G7hQoCNVM.gif?alt=media",
       "id": "0277",
       "name": "decline crunch",
       "target": "abs",
@@ -9065,7 +9065,7 @@ export const EXERCISES_DATA = [
     {
       "bodyPart": "chest",
       "equipment": "body weight",
-      "gifUrl": "https://res.cloudinary.com/dysns4al9/image/upload/v1779592720/gifs/XLHQnUvaXGDZXy.gif?alt=media",
+      "gifUrl": "https://firebasestorage.googleapis.com/v0/b/chatappfirebasetd.appspot.com/o/exercises%2FXLHQnUvaXGDZXy.gif?alt=media",
       "id": "0279",
       "name": "decline push-up",
       "target": "pectorals",
@@ -9084,7 +9084,7 @@ export const EXERCISES_DATA = [
     {
       "bodyPart": "waist",
       "equipment": "body weight",
-      "gifUrl": "https://res.cloudinary.com/dysns4al9/image/upload/v1779592720/gifs/p8MtlGaik5dVLx.gif?alt=media",
+      "gifUrl": "https://firebasestorage.googleapis.com/v0/b/chatappfirebasetd.appspot.com/o/exercises%2Fp8MtlGaik5dVLx.gif?alt=media",
       "id": "0282",
       "name": "decline sit-up",
       "target": "abs",
@@ -9103,7 +9103,7 @@ export const EXERCISES_DATA = [
     {
       "bodyPart": "chest",
       "equipment": "dumbbell",
-      "gifUrl": "https://res.cloudinary.com/dysns4al9/image/upload/v1779592720/gifs/9eABtIK6wBbaEN.gif?alt=media",
+      "gifUrl": "https://firebasestorage.googleapis.com/v0/b/chatappfirebasetd.appspot.com/o/exercises%2F9eABtIK6wBbaEN.gif?alt=media",
       "id": "1274",
       "name": "deep push up",
       "target": "pectorals",
@@ -9121,7 +9121,7 @@ export const EXERCISES_DATA = [
     {
       "bodyPart": "upper arms",
       "equipment": "body weight",
-      "gifUrl": "https://res.cloudinary.com/dysns4al9/image/upload/v1779592720/gifs/bjnWkS0FOsniY6.gif?alt=media",
+      "gifUrl": "https://firebasestorage.googleapis.com/v0/b/chatappfirebasetd.appspot.com/o/exercises%2FbjnWkS0FOsniY6.gif?alt=media",
       "id": "0283",
       "name": "diamond push-up",
       "target": "triceps",
@@ -9140,7 +9140,7 @@ export const EXERCISES_DATA = [
     {
       "bodyPart": "lower legs",
       "equipment": "body weight",
-      "gifUrl": "https://res.cloudinary.com/dysns4al9/image/upload/v1779592720/gifs/Eg1Or6055tbchZ.gif?alt=media",
+      "gifUrl": "https://firebasestorage.googleapis.com/v0/b/chatappfirebasetd.appspot.com/o/exercises%2FEg1Or6055tbchZ.gif?alt=media",
       "id": "0284",
       "name": "donkey calf raise",
       "target": "calves",
@@ -9159,7 +9159,7 @@ export const EXERCISES_DATA = [
     {
       "bodyPart": "chest",
       "equipment": "body weight",
-      "gifUrl": "https://res.cloudinary.com/dysns4al9/image/upload/v1779592720/gifs/xkKHm6reCFgOJ3.gif?alt=media",
+      "gifUrl": "https://firebasestorage.googleapis.com/v0/b/chatappfirebasetd.appspot.com/o/exercises%2FxkKHm6reCFgOJ3.gif?alt=media",
       "id": "1275",
       "name": "drop push up",
       "target": "pectorals",
@@ -9178,7 +9178,7 @@ export const EXERCISES_DATA = [
     {
       "bodyPart": "upper arms",
       "equipment": "dumbbell",
-      "gifUrl": "https://res.cloudinary.com/dysns4al9/image/upload/v1779592720/gifs/aYk3qBREeh-xJQ.gif?alt=media",
+      "gifUrl": "https://firebasestorage.googleapis.com/v0/b/chatappfirebasetd.appspot.com/o/exercises%2FaYk3qBREeh-xJQ.gif?alt=media",
       "id": "0285",
       "name": "dumbbell alternate biceps curl",
       "target": "biceps",
@@ -9197,7 +9197,7 @@ export const EXERCISES_DATA = [
     {
       "bodyPart": "upper arms",
       "equipment": "dumbbell",
-      "gifUrl": "https://res.cloudinary.com/dysns4al9/image/upload/v1779592720/gifs/NSQMdP4ullu0ET.gif?alt=media",
+      "gifUrl": "https://firebasestorage.googleapis.com/v0/b/chatappfirebasetd.appspot.com/o/exercises%2FNSQMdP4ullu0ET.gif?alt=media",
       "id": "2403",
       "name": "dumbbell alternate biceps curl (with arm blaster)",
       "target": "biceps",
@@ -9218,7 +9218,7 @@ export const EXERCISES_DATA = [
     {
       "bodyPart": "upper arms",
       "equipment": "dumbbell",
-      "gifUrl": "https://res.cloudinary.com/dysns4al9/image/upload/v1779592720/gifs/JLfZFQsf2QA4hv.gif?alt=media",
+      "gifUrl": "https://firebasestorage.googleapis.com/v0/b/chatappfirebasetd.appspot.com/o/exercises%2FJLfZFQsf2QA4hv.gif?alt=media",
       "id": "1646",
       "name": "dumbbell alternate hammer preacher curl",
       "target": "biceps",
@@ -9237,7 +9237,7 @@ export const EXERCISES_DATA = [
     {
       "bodyPart": "upper arms",
       "equipment": "dumbbell",
-      "gifUrl": "https://res.cloudinary.com/dysns4al9/image/upload/v1779592720/gifs/qvLoe-E2YbONFm.gif?alt=media",
+      "gifUrl": "https://firebasestorage.googleapis.com/v0/b/chatappfirebasetd.appspot.com/o/exercises%2FqvLoe-E2YbONFm.gif?alt=media",
       "id": "1647",
       "name": "dumbbell alternate preacher curl",
       "target": "biceps",
@@ -9257,7 +9257,7 @@ export const EXERCISES_DATA = [
     {
       "bodyPart": "upper arms",
       "equipment": "dumbbell",
-      "gifUrl": "https://res.cloudinary.com/dysns4al9/image/upload/v1779592720/gifs/oa4jWnfwOYVrhU.gif?alt=media",
+      "gifUrl": "https://firebasestorage.googleapis.com/v0/b/chatappfirebasetd.appspot.com/o/exercises%2Foa4jWnfwOYVrhU.gif?alt=media",
       "id": "1648",
       "name": "dumbbell alternate seated hammer curl",
       "target": "biceps",
@@ -9277,7 +9277,7 @@ export const EXERCISES_DATA = [
     {
       "bodyPart": "shoulders",
       "equipment": "dumbbell",
-      "gifUrl": "https://res.cloudinary.com/dysns4al9/image/upload/v1779592720/gifs/baENIvs4TjiBpV.gif?alt=media",
+      "gifUrl": "https://firebasestorage.googleapis.com/v0/b/chatappfirebasetd.appspot.com/o/exercises%2FbaENIvs4TjiBpV.gif?alt=media",
       "id": "0286",
       "name": "dumbbell alternate side press",
       "target": "delts",
@@ -9295,7 +9295,7 @@ export const EXERCISES_DATA = [
     {
       "bodyPart": "upper arms",
       "equipment": "dumbbell",
-      "gifUrl": "https://res.cloudinary.com/dysns4al9/image/upload/v1779592720/gifs/Gg8C2K-TTpI-BF.gif?alt=media",
+      "gifUrl": "https://firebasestorage.googleapis.com/v0/b/chatappfirebasetd.appspot.com/o/exercises%2FGg8C2K-TTpI-BF.gif?alt=media",
       "id": "1649",
       "name": "dumbbell alternating bicep curl with leg raised on exercise ball",
       "target": "biceps",
@@ -9314,7 +9314,7 @@ export const EXERCISES_DATA = [
     {
       "bodyPart": "upper arms",
       "equipment": "dumbbell",
-      "gifUrl": "https://res.cloudinary.com/dysns4al9/image/upload/v1779592720/gifs/vEfND1PQDFL9j2.gif?alt=media",
+      "gifUrl": "https://firebasestorage.googleapis.com/v0/b/chatappfirebasetd.appspot.com/o/exercises%2FvEfND1PQDFL9j2.gif?alt=media",
       "id": "1650",
       "name": "dumbbell alternating seated bicep curl on exercise ball",
       "target": "biceps",
@@ -9333,7 +9333,7 @@ export const EXERCISES_DATA = [
     {
       "bodyPart": "shoulders",
       "equipment": "dumbbell",
-      "gifUrl": "https://res.cloudinary.com/dysns4al9/image/upload/v1779592720/gifs/xaMP8hMOS0-3x2.gif?alt=media",
+      "gifUrl": "https://firebasestorage.googleapis.com/v0/b/chatappfirebasetd.appspot.com/o/exercises%2FxaMP8hMOS0-3x2.gif?alt=media",
       "id": "2137",
       "name": "dumbbell arnold press",
       "target": "delts",
@@ -9352,7 +9352,7 @@ export const EXERCISES_DATA = [
     {
       "bodyPart": "shoulders",
       "equipment": "dumbbell",
-      "gifUrl": "https://res.cloudinary.com/dysns4al9/image/upload/v1779592720/gifs/dVYKtnLvfbgDkq.gif?alt=media",
+      "gifUrl": "https://firebasestorage.googleapis.com/v0/b/chatappfirebasetd.appspot.com/o/exercises%2FdVYKtnLvfbgDkq.gif?alt=media",
       "id": "0287",
       "name": "dumbbell arnold press v. 2",
       "target": "delts",
@@ -9371,7 +9371,7 @@ export const EXERCISES_DATA = [
     {
       "bodyPart": "chest",
       "equipment": "dumbbell",
-      "gifUrl": "https://res.cloudinary.com/dysns4al9/image/upload/v1779592720/gifs/1FXgTGvE0OBsM-.gif?alt=media",
+      "gifUrl": "https://firebasestorage.googleapis.com/v0/b/chatappfirebasetd.appspot.com/o/exercises%2F1FXgTGvE0OBsM-.gif?alt=media",
       "id": "0288",
       "name": "dumbbell around pullover",
       "target": "pectorals",
@@ -9390,7 +9390,7 @@ export const EXERCISES_DATA = [
     {
       "bodyPart": "chest",
       "equipment": "dumbbell",
-      "gifUrl": "https://res.cloudinary.com/dysns4al9/image/upload/v1779592720/gifs/DtAPBEjr95u0j3.gif?alt=media",
+      "gifUrl": "https://firebasestorage.googleapis.com/v0/b/chatappfirebasetd.appspot.com/o/exercises%2FDtAPBEjr95u0j3.gif?alt=media",
       "id": "0289",
       "name": "dumbbell bench press",
       "target": "pectorals",
@@ -9409,7 +9409,7 @@ export const EXERCISES_DATA = [
     {
       "bodyPart": "shoulders",
       "equipment": "dumbbell",
-      "gifUrl": "https://res.cloudinary.com/dysns4al9/image/upload/v1779592720/gifs/hI0OI1h6tRm-Rs.gif?alt=media",
+      "gifUrl": "https://firebasestorage.googleapis.com/v0/b/chatappfirebasetd.appspot.com/o/exercises%2FhI0OI1h6tRm-Rs.gif?alt=media",
       "id": "0290",
       "name": "dumbbell bench seated press",
       "target": "delts",
@@ -9428,7 +9428,7 @@ export const EXERCISES_DATA = [
     {
       "bodyPart": "upper legs",
       "equipment": "dumbbell",
-      "gifUrl": "https://res.cloudinary.com/dysns4al9/image/upload/v1779592720/gifs/ZxyPviG9cjknpA.gif?alt=media",
+      "gifUrl": "https://firebasestorage.googleapis.com/v0/b/chatappfirebasetd.appspot.com/o/exercises%2FZxyPviG9cjknpA.gif?alt=media",
       "id": "0291",
       "name": "dumbbell bench squat",
       "target": "glutes",
@@ -9448,7 +9448,7 @@ export const EXERCISES_DATA = [
     {
       "bodyPart": "back",
       "equipment": "dumbbell",
-      "gifUrl": "https://res.cloudinary.com/dysns4al9/image/upload/v1779592720/gifs/KNjh7xPM0vvBlS.gif?alt=media",
+      "gifUrl": "https://firebasestorage.googleapis.com/v0/b/chatappfirebasetd.appspot.com/o/exercises%2FKNjh7xPM0vvBlS.gif?alt=media",
       "id": "0293",
       "name": "dumbbell bent over row",
       "target": "upper back",
@@ -9468,7 +9468,7 @@ export const EXERCISES_DATA = [
     {
       "bodyPart": "upper arms",
       "equipment": "dumbbell",
-      "gifUrl": "https://res.cloudinary.com/dysns4al9/image/upload/v1779592720/gifs/6ZoEMtokKAU3jP.gif?alt=media",
+      "gifUrl": "https://firebasestorage.googleapis.com/v0/b/chatappfirebasetd.appspot.com/o/exercises%2F6ZoEMtokKAU3jP.gif?alt=media",
       "id": "1651",
       "name": "dumbbell bicep curl lunge with bowling motion",
       "target": "biceps",
@@ -9489,7 +9489,7 @@ export const EXERCISES_DATA = [
     {
       "bodyPart": "upper arms",
       "equipment": "dumbbell",
-      "gifUrl": "https://res.cloudinary.com/dysns4al9/image/upload/v1779592720/gifs/OMn3PbPOCYGF5h.gif?alt=media",
+      "gifUrl": "https://firebasestorage.googleapis.com/v0/b/chatappfirebasetd.appspot.com/o/exercises%2FOMn3PbPOCYGF5h.gif?alt=media",
       "id": "1652",
       "name": "dumbbell bicep curl on exercise ball with leg raised",
       "target": "biceps",
@@ -9509,7 +9509,7 @@ export const EXERCISES_DATA = [
     {
       "bodyPart": "upper arms",
       "equipment": "dumbbell",
-      "gifUrl": "https://res.cloudinary.com/dysns4al9/image/upload/v1779592720/gifs/W-sq57Ijug2TAo.gif?alt=media",
+      "gifUrl": "https://firebasestorage.googleapis.com/v0/b/chatappfirebasetd.appspot.com/o/exercises%2FW-sq57Ijug2TAo.gif?alt=media",
       "id": "1653",
       "name": "dumbbell bicep curl with stork stance",
       "target": "biceps",
@@ -9529,7 +9529,7 @@ export const EXERCISES_DATA = [
     {
       "bodyPart": "upper arms",
       "equipment": "dumbbell",
-      "gifUrl": "https://res.cloudinary.com/dysns4al9/image/upload/v1779592720/gifs/ok3pr0OjcJKgDp.gif?alt=media",
+      "gifUrl": "https://firebasestorage.googleapis.com/v0/b/chatappfirebasetd.appspot.com/o/exercises%2Fok3pr0OjcJKgDp.gif?alt=media",
       "id": "0294",
       "name": "dumbbell biceps curl",
       "target": "biceps",
@@ -9548,7 +9548,7 @@ export const EXERCISES_DATA = [
     {
       "bodyPart": "upper arms",
       "equipment": "dumbbell",
-      "gifUrl": "https://res.cloudinary.com/dysns4al9/image/upload/v1779592720/gifs/knr96y5dqVlCy9.gif?alt=media",
+      "gifUrl": "https://firebasestorage.googleapis.com/v0/b/chatappfirebasetd.appspot.com/o/exercises%2Fknr96y5dqVlCy9.gif?alt=media",
       "id": "2401",
       "name": "dumbbell biceps curl (with arm blaster)",
       "target": "biceps",
@@ -9568,7 +9568,7 @@ export const EXERCISES_DATA = [
     {
       "bodyPart": "upper arms",
       "equipment": "dumbbell",
-      "gifUrl": "https://res.cloudinary.com/dysns4al9/image/upload/v1779592720/gifs/7f5MPVkh4MpTHA.gif?alt=media",
+      "gifUrl": "https://firebasestorage.googleapis.com/v0/b/chatappfirebasetd.appspot.com/o/exercises%2F7f5MPVkh4MpTHA.gif?alt=media",
       "id": "1654",
       "name": "dumbbell biceps curl reverse",
       "target": "biceps",
@@ -9587,7 +9587,7 @@ export const EXERCISES_DATA = [
     {
       "bodyPart": "upper arms",
       "equipment": "dumbbell",
-      "gifUrl": "https://res.cloudinary.com/dysns4al9/image/upload/v1779592720/gifs/mVMVmtqmQ9JGgb.gif?alt=media",
+      "gifUrl": "https://firebasestorage.googleapis.com/v0/b/chatappfirebasetd.appspot.com/o/exercises%2FmVMVmtqmQ9JGgb.gif?alt=media",
       "id": "1655",
       "name": "dumbbell biceps curl squat",
       "target": "biceps",
@@ -9605,7 +9605,7 @@ export const EXERCISES_DATA = [
     {
       "bodyPart": "upper arms",
       "equipment": "dumbbell",
-      "gifUrl": "https://res.cloudinary.com/dysns4al9/image/upload/v1779592720/gifs/z-NV7JtfTGKEAW.gif?alt=media",
+      "gifUrl": "https://firebasestorage.googleapis.com/v0/b/chatappfirebasetd.appspot.com/o/exercises%2Fz-NV7JtfTGKEAW.gif?alt=media",
       "id": "1656",
       "name": "dumbbell biceps curl v sit on bosu ball",
       "target": "biceps",
@@ -9626,7 +9626,7 @@ export const EXERCISES_DATA = [
     {
       "bodyPart": "cardio",
       "equipment": "dumbbell",
-      "gifUrl": "https://res.cloudinary.com/dysns4al9/image/upload/v1779592720/gifs/aiRTwiVCGNMTGs.gif?alt=media",
+      "gifUrl": "https://firebasestorage.googleapis.com/v0/b/chatappfirebasetd.appspot.com/o/exercises%2FaiRTwiVCGNMTGs.gif?alt=media",
       "id": "1201",
       "name": "dumbbell burpee",
       "target": "cardiovascular system",
@@ -9652,7 +9652,7 @@ export const EXERCISES_DATA = [
     {
       "bodyPart": "upper legs",
       "equipment": "dumbbell",
-      "gifUrl": "https://res.cloudinary.com/dysns4al9/image/upload/v1779592720/gifs/QRlUZQAuLbxf2S.gif?alt=media",
+      "gifUrl": "https://firebasestorage.googleapis.com/v0/b/chatappfirebasetd.appspot.com/o/exercises%2FQRlUZQAuLbxf2S.gif?alt=media",
       "id": "0295",
       "name": "dumbbell clean",
       "target": "glutes",
@@ -9674,7 +9674,7 @@ export const EXERCISES_DATA = [
     {
       "bodyPart": "upper arms",
       "equipment": "dumbbell",
-      "gifUrl": "https://res.cloudinary.com/dysns4al9/image/upload/v1779592720/gifs/lJOuIpJEb5nz0z.gif?alt=media",
+      "gifUrl": "https://firebasestorage.googleapis.com/v0/b/chatappfirebasetd.appspot.com/o/exercises%2FlJOuIpJEb5nz0z.gif?alt=media",
       "id": "1731",
       "name": "dumbbell close grip press",
       "target": "triceps",
@@ -9694,7 +9694,7 @@ export const EXERCISES_DATA = [
     {
       "bodyPart": "upper arms",
       "equipment": "dumbbell",
-      "gifUrl": "https://res.cloudinary.com/dysns4al9/image/upload/v1779592720/gifs/87TqgzsMW-uSAd.gif?alt=media",
+      "gifUrl": "https://firebasestorage.googleapis.com/v0/b/chatappfirebasetd.appspot.com/o/exercises%2F87TqgzsMW-uSAd.gif?alt=media",
       "id": "0296",
       "name": "dumbbell close-grip press",
       "target": "triceps",
@@ -9714,7 +9714,7 @@ export const EXERCISES_DATA = [
     {
       "bodyPart": "upper arms",
       "equipment": "dumbbell",
-      "gifUrl": "https://res.cloudinary.com/dysns4al9/image/upload/v1779592720/gifs/XrCW4DfalnSxVG.gif?alt=media",
+      "gifUrl": "https://firebasestorage.googleapis.com/v0/b/chatappfirebasetd.appspot.com/o/exercises%2FXrCW4DfalnSxVG.gif?alt=media",
       "id": "0297",
       "name": "dumbbell concentration curl",
       "target": "biceps",
@@ -9734,7 +9734,7 @@ export const EXERCISES_DATA = [
     {
       "bodyPart": "upper legs",
       "equipment": "dumbbell",
-      "gifUrl": "https://res.cloudinary.com/dysns4al9/image/upload/v1779592720/gifs/HZfpXJrJFWvQl0.gif?alt=media",
+      "gifUrl": "https://firebasestorage.googleapis.com/v0/b/chatappfirebasetd.appspot.com/o/exercises%2FHZfpXJrJFWvQl0.gif?alt=media",
       "id": "3635",
       "name": "dumbbell contralateral forward lunge",
       "target": "glutes",
@@ -9755,7 +9755,7 @@ export const EXERCISES_DATA = [
     {
       "bodyPart": "upper arms",
       "equipment": "dumbbell",
-      "gifUrl": "https://res.cloudinary.com/dysns4al9/image/upload/v1779592720/gifs/yz0dFuFz5Wngu-.gif?alt=media",
+      "gifUrl": "https://firebasestorage.googleapis.com/v0/b/chatappfirebasetd.appspot.com/o/exercises%2Fyz0dFuFz5Wngu-.gif?alt=media",
       "id": "0298",
       "name": "dumbbell cross body hammer curl",
       "target": "biceps",
@@ -9775,7 +9775,7 @@ export const EXERCISES_DATA = [
     {
       "bodyPart": "upper arms",
       "equipment": "dumbbell",
-      "gifUrl": "https://res.cloudinary.com/dysns4al9/image/upload/v1779592720/gifs/sRePIxvN1hjzbl.gif?alt=media",
+      "gifUrl": "https://firebasestorage.googleapis.com/v0/b/chatappfirebasetd.appspot.com/o/exercises%2FsRePIxvN1hjzbl.gif?alt=media",
       "id": "1657",
       "name": "dumbbell cross body hammer curl v. 2",
       "target": "biceps",
@@ -9794,7 +9794,7 @@ export const EXERCISES_DATA = [
     {
       "bodyPart": "shoulders",
       "equipment": "dumbbell",
-      "gifUrl": "https://res.cloudinary.com/dysns4al9/image/upload/v1779592720/gifs/HLWh2VTa9zOGGc.gif?alt=media",
+      "gifUrl": "https://firebasestorage.googleapis.com/v0/b/chatappfirebasetd.appspot.com/o/exercises%2FHLWh2VTa9zOGGc.gif?alt=media",
       "id": "0299",
       "name": "dumbbell cuban press",
       "target": "delts",
@@ -9813,7 +9813,7 @@ export const EXERCISES_DATA = [
     {
       "bodyPart": "shoulders",
       "equipment": "dumbbell",
-      "gifUrl": "https://res.cloudinary.com/dysns4al9/image/upload/v1779592720/gifs/ZlMbpaG3xjHcqq.gif?alt=media",
+      "gifUrl": "https://firebasestorage.googleapis.com/v0/b/chatappfirebasetd.appspot.com/o/exercises%2FZlMbpaG3xjHcqq.gif?alt=media",
       "id": "2136",
       "name": "dumbbell cuban press v. 2",
       "target": "delts",
@@ -9832,7 +9832,7 @@ export const EXERCISES_DATA = [
     {
       "bodyPart": "upper legs",
       "equipment": "dumbbell",
-      "gifUrl": "https://res.cloudinary.com/dysns4al9/image/upload/v1779592720/gifs/A6wmTBa6avLeoW.gif?alt=media",
+      "gifUrl": "https://firebasestorage.googleapis.com/v0/b/chatappfirebasetd.appspot.com/o/exercises%2FA6wmTBa6avLeoW.gif?alt=media",
       "id": "0300",
       "name": "dumbbell deadlift",
       "target": "glutes",
@@ -9851,7 +9851,7 @@ export const EXERCISES_DATA = [
     {
       "bodyPart": "chest",
       "equipment": "dumbbell",
-      "gifUrl": "https://res.cloudinary.com/dysns4al9/image/upload/v1779592720/gifs/rh7fKYUS5S4xwL.gif?alt=media",
+      "gifUrl": "https://firebasestorage.googleapis.com/v0/b/chatappfirebasetd.appspot.com/o/exercises%2Frh7fKYUS5S4xwL.gif?alt=media",
       "id": "0301",
       "name": "dumbbell decline bench press",
       "target": "pectorals",
@@ -9870,7 +9870,7 @@ export const EXERCISES_DATA = [
     {
       "bodyPart": "chest",
       "equipment": "dumbbell",
-      "gifUrl": "https://res.cloudinary.com/dysns4al9/image/upload/v1779592720/gifs/5XelC7Axevmj-r.gif?alt=media",
+      "gifUrl": "https://firebasestorage.googleapis.com/v0/b/chatappfirebasetd.appspot.com/o/exercises%2F5XelC7Axevmj-r.gif?alt=media",
       "id": "0302",
       "name": "dumbbell decline fly",
       "target": "pectorals",
@@ -9888,7 +9888,7 @@ export const EXERCISES_DATA = [
     {
       "bodyPart": "chest",
       "equipment": "dumbbell",
-      "gifUrl": "https://res.cloudinary.com/dysns4al9/image/upload/v1779592720/gifs/jzn9wPWH8iK4hh.gif?alt=media",
+      "gifUrl": "https://firebasestorage.googleapis.com/v0/b/chatappfirebasetd.appspot.com/o/exercises%2Fjzn9wPWH8iK4hh.gif?alt=media",
       "id": "0303",
       "name": "dumbbell decline hammer press",
       "target": "pectorals",
@@ -9907,7 +9907,7 @@ export const EXERCISES_DATA = [
     {
       "bodyPart": "chest",
       "equipment": "dumbbell",
-      "gifUrl": "https://res.cloudinary.com/dysns4al9/image/upload/v1779592720/gifs/G6kywVGgSHiDjf.gif?alt=media",
+      "gifUrl": "https://firebasestorage.googleapis.com/v0/b/chatappfirebasetd.appspot.com/o/exercises%2FG6kywVGgSHiDjf.gif?alt=media",
       "id": "1276",
       "name": "dumbbell decline one arm fly",
       "target": "pectorals",
@@ -9926,7 +9926,7 @@ export const EXERCISES_DATA = [
     {
       "bodyPart": "upper arms",
       "equipment": "dumbbell",
-      "gifUrl": "https://res.cloudinary.com/dysns4al9/image/upload/v1779592720/gifs/vX2f41maV78PlG.gif?alt=media",
+      "gifUrl": "https://firebasestorage.googleapis.com/v0/b/chatappfirebasetd.appspot.com/o/exercises%2FvX2f41maV78PlG.gif?alt=media",
       "id": "1617",
       "name": "dumbbell decline one arm hammer press",
       "target": "triceps",
@@ -9945,7 +9945,7 @@ export const EXERCISES_DATA = [
     {
       "bodyPart": "back",
       "equipment": "dumbbell",
-      "gifUrl": "https://res.cloudinary.com/dysns4al9/image/upload/v1779592720/gifs/FH-92qizHEQrTz.gif?alt=media",
+      "gifUrl": "https://firebasestorage.googleapis.com/v0/b/chatappfirebasetd.appspot.com/o/exercises%2FFH-92qizHEQrTz.gif?alt=media",
       "id": "0305",
       "name": "dumbbell decline shrug",
       "target": "traps",
@@ -9965,7 +9965,7 @@ export const EXERCISES_DATA = [
     {
       "bodyPart": "back",
       "equipment": "dumbbell",
-      "gifUrl": "https://res.cloudinary.com/dysns4al9/image/upload/v1779592720/gifs/g7mCHmGs4A2nX2.gif?alt=media",
+      "gifUrl": "https://firebasestorage.googleapis.com/v0/b/chatappfirebasetd.appspot.com/o/exercises%2Fg7mCHmGs4A2nX2.gif?alt=media",
       "id": "0304",
       "name": "dumbbell decline shrug v. 2",
       "target": "traps",
@@ -9985,7 +9985,7 @@ export const EXERCISES_DATA = [
     {
       "bodyPart": "upper arms",
       "equipment": "dumbbell",
-      "gifUrl": "https://res.cloudinary.com/dysns4al9/image/upload/v1779592720/gifs/5NLG52lOHp8TlN.gif?alt=media",
+      "gifUrl": "https://firebasestorage.googleapis.com/v0/b/chatappfirebasetd.appspot.com/o/exercises%2F5NLG52lOHp8TlN.gif?alt=media",
       "id": "0306",
       "name": "dumbbell decline triceps extension",
       "target": "triceps",
@@ -10003,7 +10003,7 @@ export const EXERCISES_DATA = [
     {
       "bodyPart": "chest",
       "equipment": "dumbbell",
-      "gifUrl": "https://res.cloudinary.com/dysns4al9/image/upload/v1779592720/gifs/ip04j4gbBooL7-.gif?alt=media",
+      "gifUrl": "https://firebasestorage.googleapis.com/v0/b/chatappfirebasetd.appspot.com/o/exercises%2Fip04j4gbBooL7-.gif?alt=media",
       "id": "0307",
       "name": "dumbbell decline twist fly",
       "target": "pectorals",
@@ -10023,7 +10023,7 @@ export const EXERCISES_DATA = [
     {
       "bodyPart": "lower arms",
       "equipment": "dumbbell",
-      "gifUrl": "https://res.cloudinary.com/dysns4al9/image/upload/v1779592720/gifs/nFrXrJm2RKswa0.gif?alt=media",
+      "gifUrl": "https://firebasestorage.googleapis.com/v0/b/chatappfirebasetd.appspot.com/o/exercises%2FnFrXrJm2RKswa0.gif?alt=media",
       "id": "1437",
       "name": "dumbbell finger curls",
       "target": "forearms",
@@ -10041,7 +10041,7 @@ export const EXERCISES_DATA = [
     {
       "bodyPart": "chest",
       "equipment": "dumbbell",
-      "gifUrl": "https://res.cloudinary.com/dysns4al9/image/upload/v1779592720/gifs/hPh7xJzKSMOrma.gif?alt=media",
+      "gifUrl": "https://firebasestorage.googleapis.com/v0/b/chatappfirebasetd.appspot.com/o/exercises%2FhPh7xJzKSMOrma.gif?alt=media",
       "id": "0308",
       "name": "dumbbell fly",
       "target": "pectorals",
@@ -10059,7 +10059,7 @@ export const EXERCISES_DATA = [
     {
       "bodyPart": "chest",
       "equipment": "dumbbell",
-      "gifUrl": "https://res.cloudinary.com/dysns4al9/image/upload/v1779592720/gifs/P7DjVSiwdnYkam.gif?alt=media",
+      "gifUrl": "https://firebasestorage.googleapis.com/v0/b/chatappfirebasetd.appspot.com/o/exercises%2FP7DjVSiwdnYkam.gif?alt=media",
       "id": "1277",
       "name": "dumbbell fly on exercise ball",
       "target": "pectorals",
@@ -10079,7 +10079,7 @@ export const EXERCISES_DATA = [
     {
       "bodyPart": "upper arms",
       "equipment": "dumbbell",
-      "gifUrl": "https://res.cloudinary.com/dysns4al9/image/upload/v1779592720/gifs/7gjsqm2OG9NR7R.gif?alt=media",
+      "gifUrl": "https://firebasestorage.googleapis.com/v0/b/chatappfirebasetd.appspot.com/o/exercises%2F7gjsqm2OG9NR7R.gif?alt=media",
       "id": "1732",
       "name": "dumbbell forward lunge triceps extension",
       "target": "triceps",
@@ -10100,7 +10100,7 @@ export const EXERCISES_DATA = [
     {
       "bodyPart": "shoulders",
       "equipment": "dumbbell",
-      "gifUrl": "https://res.cloudinary.com/dysns4al9/image/upload/v1779592720/gifs/ZwyYhxn5mv8E0I.gif?alt=media",
+      "gifUrl": "https://firebasestorage.googleapis.com/v0/b/chatappfirebasetd.appspot.com/o/exercises%2FZwyYhxn5mv8E0I.gif?alt=media",
       "id": "0310",
       "name": "dumbbell front raise",
       "target": "delts",
@@ -10118,7 +10118,7 @@ export const EXERCISES_DATA = [
     {
       "bodyPart": "shoulders",
       "equipment": "dumbbell",
-      "gifUrl": "https://res.cloudinary.com/dysns4al9/image/upload/v1779592720/gifs/BZcXrje9WxVTbP.gif?alt=media",
+      "gifUrl": "https://firebasestorage.googleapis.com/v0/b/chatappfirebasetd.appspot.com/o/exercises%2FBZcXrje9WxVTbP.gif?alt=media",
       "id": "0309",
       "name": "dumbbell front raise v. 2",
       "target": "delts",
@@ -10137,7 +10137,7 @@ export const EXERCISES_DATA = [
     {
       "bodyPart": "shoulders",
       "equipment": "dumbbell",
-      "gifUrl": "https://res.cloudinary.com/dysns4al9/image/upload/v1779592720/gifs/TCOOwufkAzOKW3.gif?alt=media",
+      "gifUrl": "https://firebasestorage.googleapis.com/v0/b/chatappfirebasetd.appspot.com/o/exercises%2FTCOOwufkAzOKW3.gif?alt=media",
       "id": "0311",
       "name": "dumbbell full can lateral raise",
       "target": "delts",
@@ -10156,7 +10156,7 @@ export const EXERCISES_DATA = [
     {
       "bodyPart": "upper legs",
       "equipment": "dumbbell",
-      "gifUrl": "https://res.cloudinary.com/dysns4al9/image/upload/v1779592720/gifs/vxFc9edO0U7mHE.gif?alt=media",
+      "gifUrl": "https://firebasestorage.googleapis.com/v0/b/chatappfirebasetd.appspot.com/o/exercises%2FvxFc9edO0U7mHE.gif?alt=media",
       "id": "1760",
       "name": "dumbbell goblet squat",
       "target": "quads",
@@ -10176,7 +10176,7 @@ export const EXERCISES_DATA = [
     {
       "bodyPart": "upper arms",
       "equipment": "dumbbell",
-      "gifUrl": "https://res.cloudinary.com/dysns4al9/image/upload/v1779592720/gifs/PI30FCQcz0FCwk.gif?alt=media",
+      "gifUrl": "https://firebasestorage.googleapis.com/v0/b/chatappfirebasetd.appspot.com/o/exercises%2FPI30FCQcz0FCwk.gif?alt=media",
       "id": "0313",
       "name": "dumbbell hammer curl",
       "target": "biceps",
@@ -10197,7 +10197,7 @@ export const EXERCISES_DATA = [
     {
       "bodyPart": "upper arms",
       "equipment": "dumbbell",
-      "gifUrl": "https://res.cloudinary.com/dysns4al9/image/upload/v1779592720/gifs/PeBgr-vGY9nrXt.gif?alt=media",
+      "gifUrl": "https://firebasestorage.googleapis.com/v0/b/chatappfirebasetd.appspot.com/o/exercises%2FPeBgr-vGY9nrXt.gif?alt=media",
       "id": "1659",
       "name": "dumbbell hammer curl on exercise ball",
       "target": "biceps",
@@ -10217,7 +10217,7 @@ export const EXERCISES_DATA = [
     {
       "bodyPart": "upper arms",
       "equipment": "dumbbell",
-      "gifUrl": "https://res.cloudinary.com/dysns4al9/image/upload/v1779592720/gifs/kItyApmEbjxhZ8.gif?alt=media",
+      "gifUrl": "https://firebasestorage.googleapis.com/v0/b/chatappfirebasetd.appspot.com/o/exercises%2FkItyApmEbjxhZ8.gif?alt=media",
       "id": "0312",
       "name": "dumbbell hammer curl v. 2",
       "target": "biceps",
@@ -10238,7 +10238,7 @@ export const EXERCISES_DATA = [
     {
       "bodyPart": "upper arms",
       "equipment": "dumbbell",
-      "gifUrl": "https://res.cloudinary.com/dysns4al9/image/upload/v1779592720/gifs/MWifVHWZEy8uUE.gif?alt=media",
+      "gifUrl": "https://firebasestorage.googleapis.com/v0/b/chatappfirebasetd.appspot.com/o/exercises%2FMWifVHWZEy8uUE.gif?alt=media",
       "id": "2402",
       "name": "dumbbell hammer curls (with arm blaster)",
       "target": "biceps",
@@ -10259,7 +10259,7 @@ export const EXERCISES_DATA = [
     {
       "bodyPart": "upper arms",
       "equipment": "dumbbell",
-      "gifUrl": "https://res.cloudinary.com/dysns4al9/image/upload/v1779592720/gifs/SnFT-B7z-knVt8.gif?alt=media",
+      "gifUrl": "https://firebasestorage.googleapis.com/v0/b/chatappfirebasetd.appspot.com/o/exercises%2FSnFT-B7z-knVt8.gif?alt=media",
       "id": "1664",
       "name": "dumbbell high curl",
       "target": "biceps",
@@ -10276,7 +10276,7 @@ export const EXERCISES_DATA = [
     {
       "bodyPart": "chest",
       "equipment": "dumbbell",
-      "gifUrl": "https://res.cloudinary.com/dysns4al9/image/upload/v1779592720/gifs/ne7664pmaFg0n1.gif?alt=media",
+      "gifUrl": "https://firebasestorage.googleapis.com/v0/b/chatappfirebasetd.appspot.com/o/exercises%2Fne7664pmaFg0n1.gif?alt=media",
       "id": "3545",
       "name": "dumbbell incline alternate press",
       "target": "pectorals",
@@ -10296,7 +10296,7 @@ export const EXERCISES_DATA = [
     {
       "bodyPart": "chest",
       "equipment": "dumbbell",
-      "gifUrl": "https://res.cloudinary.com/dysns4al9/image/upload/v1779592720/gifs/d5KC3gLZWelPzG.gif?alt=media",
+      "gifUrl": "https://firebasestorage.googleapis.com/v0/b/chatappfirebasetd.appspot.com/o/exercises%2Fd5KC3gLZWelPzG.gif?alt=media",
       "id": "0314",
       "name": "dumbbell incline bench press",
       "target": "pectorals",
@@ -10316,7 +10316,7 @@ export const EXERCISES_DATA = [
     {
       "bodyPart": "upper arms",
       "equipment": "dumbbell",
-      "gifUrl": "https://res.cloudinary.com/dysns4al9/image/upload/v1779592720/gifs/XBspMIRIoij10c.gif?alt=media",
+      "gifUrl": "https://firebasestorage.googleapis.com/v0/b/chatappfirebasetd.appspot.com/o/exercises%2FXBspMIRIoij10c.gif?alt=media",
       "id": "0315",
       "name": "dumbbell incline biceps curl",
       "target": "biceps",
@@ -10335,7 +10335,7 @@ export const EXERCISES_DATA = [
     {
       "bodyPart": "chest",
       "equipment": "dumbbell",
-      "gifUrl": "https://res.cloudinary.com/dysns4al9/image/upload/v1779592720/gifs/Ux1U276k3FyElY.gif?alt=media",
+      "gifUrl": "https://firebasestorage.googleapis.com/v0/b/chatappfirebasetd.appspot.com/o/exercises%2FUx1U276k3FyElY.gif?alt=media",
       "id": "0316",
       "name": "dumbbell incline breeding",
       "target": "pectorals",
@@ -10356,7 +10356,7 @@ export const EXERCISES_DATA = [
     {
       "bodyPart": "upper arms",
       "equipment": "dumbbell",
-      "gifUrl": "https://res.cloudinary.com/dysns4al9/image/upload/v1779592720/gifs/S3K03plSAkK00u.gif?alt=media",
+      "gifUrl": "https://firebasestorage.googleapis.com/v0/b/chatappfirebasetd.appspot.com/o/exercises%2FS3K03plSAkK00u.gif?alt=media",
       "id": "0318",
       "name": "dumbbell incline curl",
       "target": "biceps",
@@ -10376,7 +10376,7 @@ export const EXERCISES_DATA = [
     {
       "bodyPart": "upper arms",
       "equipment": "dumbbell",
-      "gifUrl": "https://res.cloudinary.com/dysns4al9/image/upload/v1779592720/gifs/GV7BSRbifswOu3.gif?alt=media",
+      "gifUrl": "https://firebasestorage.googleapis.com/v0/b/chatappfirebasetd.appspot.com/o/exercises%2FGV7BSRbifswOu3.gif?alt=media",
       "id": "0317",
       "name": "dumbbell incline curl v. 2",
       "target": "biceps",
@@ -10395,7 +10395,7 @@ export const EXERCISES_DATA = [
     {
       "bodyPart": "chest",
       "equipment": "dumbbell",
-      "gifUrl": "https://res.cloudinary.com/dysns4al9/image/upload/v1779592720/gifs/Dzahe8Fje6ImPb.gif?alt=media",
+      "gifUrl": "https://firebasestorage.googleapis.com/v0/b/chatappfirebasetd.appspot.com/o/exercises%2FDzahe8Fje6ImPb.gif?alt=media",
       "id": "0319",
       "name": "dumbbell incline fly",
       "target": "pectorals",
@@ -10414,7 +10414,7 @@ export const EXERCISES_DATA = [
     {
       "bodyPart": "chest",
       "equipment": "dumbbell",
-      "gifUrl": "https://res.cloudinary.com/dysns4al9/image/upload/v1779592720/gifs/uHykclpj8un8pc.gif?alt=media",
+      "gifUrl": "https://firebasestorage.googleapis.com/v0/b/chatappfirebasetd.appspot.com/o/exercises%2FuHykclpj8un8pc.gif?alt=media",
       "id": "1278",
       "name": "dumbbell incline fly on exercise ball",
       "target": "pectorals",
@@ -10433,7 +10433,7 @@ export const EXERCISES_DATA = [
     {
       "bodyPart": "upper arms",
       "equipment": "dumbbell",
-      "gifUrl": "https://res.cloudinary.com/dysns4al9/image/upload/v1779592720/gifs/7SsnRUW1kqYh1L.gif?alt=media",
+      "gifUrl": "https://firebasestorage.googleapis.com/v0/b/chatappfirebasetd.appspot.com/o/exercises%2F7SsnRUW1kqYh1L.gif?alt=media",
       "id": "0320",
       "name": "dumbbell incline hammer curl",
       "target": "biceps",
@@ -10453,7 +10453,7 @@ export const EXERCISES_DATA = [
     {
       "bodyPart": "chest",
       "equipment": "dumbbell",
-      "gifUrl": "https://res.cloudinary.com/dysns4al9/image/upload/v1779592720/gifs/Z60U3AuAjg4Rdc.gif?alt=media",
+      "gifUrl": "https://firebasestorage.googleapis.com/v0/b/chatappfirebasetd.appspot.com/o/exercises%2FZ60U3AuAjg4Rdc.gif?alt=media",
       "id": "0321",
       "name": "dumbbell incline hammer press",
       "target": "pectorals",
@@ -10472,7 +10472,7 @@ export const EXERCISES_DATA = [
     {
       "bodyPart": "upper arms",
       "equipment": "dumbbell",
-      "gifUrl": "https://res.cloudinary.com/dysns4al9/image/upload/v1779592720/gifs/xehN44MpeGyvSZ.gif?alt=media",
+      "gifUrl": "https://firebasestorage.googleapis.com/v0/b/chatappfirebasetd.appspot.com/o/exercises%2FxehN44MpeGyvSZ.gif?alt=media",
       "id": "1618",
       "name": "dumbbell incline hammer press on exercise ball",
       "target": "triceps",
@@ -10493,7 +10493,7 @@ export const EXERCISES_DATA = [
     {
       "bodyPart": "upper arms",
       "equipment": "dumbbell",
-      "gifUrl": "https://res.cloudinary.com/dysns4al9/image/upload/v1779592720/gifs/rELsuT050yauGh.gif?alt=media",
+      "gifUrl": "https://firebasestorage.googleapis.com/v0/b/chatappfirebasetd.appspot.com/o/exercises%2FrELsuT050yauGh.gif?alt=media",
       "id": "0322",
       "name": "dumbbell incline inner biceps curl",
       "target": "biceps",
@@ -10513,7 +10513,7 @@ export const EXERCISES_DATA = [
     {
       "bodyPart": "chest",
       "equipment": "dumbbell",
-      "gifUrl": "https://res.cloudinary.com/dysns4al9/image/upload/v1779592720/gifs/TWaQhkpiBKD3mC.gif?alt=media",
+      "gifUrl": "https://firebasestorage.googleapis.com/v0/b/chatappfirebasetd.appspot.com/o/exercises%2FTWaQhkpiBKD3mC.gif?alt=media",
       "id": "1279",
       "name": "dumbbell incline one arm fly",
       "target": "pectorals",
@@ -10534,7 +10534,7 @@ export const EXERCISES_DATA = [
     {
       "bodyPart": "chest",
       "equipment": "dumbbell",
-      "gifUrl": "https://res.cloudinary.com/dysns4al9/image/upload/v1779592720/gifs/pSGoGJdrKnOOWI.gif?alt=media",
+      "gifUrl": "https://firebasestorage.googleapis.com/v0/b/chatappfirebasetd.appspot.com/o/exercises%2FpSGoGJdrKnOOWI.gif?alt=media",
       "id": "1280",
       "name": "dumbbell incline one arm fly on exercise ball",
       "target": "pectorals",
@@ -10554,7 +10554,7 @@ export const EXERCISES_DATA = [
     {
       "bodyPart": "upper arms",
       "equipment": "dumbbell",
-      "gifUrl": "https://res.cloudinary.com/dysns4al9/image/upload/v1779592720/gifs/2XQO4IzrsBOKur.gif?alt=media",
+      "gifUrl": "https://firebasestorage.googleapis.com/v0/b/chatappfirebasetd.appspot.com/o/exercises%2F2XQO4IzrsBOKur.gif?alt=media",
       "id": "1619",
       "name": "dumbbell incline one arm hammer press",
       "target": "triceps",
@@ -10574,7 +10574,7 @@ export const EXERCISES_DATA = [
     {
       "bodyPart": "upper arms",
       "equipment": "dumbbell",
-      "gifUrl": "https://res.cloudinary.com/dysns4al9/image/upload/v1779592720/gifs/w-qzuSGFOgqzpU.gif?alt=media",
+      "gifUrl": "https://firebasestorage.googleapis.com/v0/b/chatappfirebasetd.appspot.com/o/exercises%2Fw-qzuSGFOgqzpU.gif?alt=media",
       "id": "1620",
       "name": "dumbbell incline one arm hammer press on exercise ball",
       "target": "triceps",
@@ -10594,7 +10594,7 @@ export const EXERCISES_DATA = [
     {
       "bodyPart": "shoulders",
       "equipment": "dumbbell",
-      "gifUrl": "https://res.cloudinary.com/dysns4al9/image/upload/v1779592720/gifs/XCo-auy2Efr7AV.gif?alt=media",
+      "gifUrl": "https://firebasestorage.googleapis.com/v0/b/chatappfirebasetd.appspot.com/o/exercises%2FXCo-auy2Efr7AV.gif?alt=media",
       "id": "0323",
       "name": "dumbbell incline one arm lateral raise",
       "target": "delts",
@@ -10614,7 +10614,7 @@ export const EXERCISES_DATA = [
     {
       "bodyPart": "chest",
       "equipment": "dumbbell",
-      "gifUrl": "https://res.cloudinary.com/dysns4al9/image/upload/v1779592720/gifs/HWX3Nb-xvHT9uk.gif?alt=media",
+      "gifUrl": "https://firebasestorage.googleapis.com/v0/b/chatappfirebasetd.appspot.com/o/exercises%2FHWX3Nb-xvHT9uk.gif?alt=media",
       "id": "1281",
       "name": "dumbbell incline one arm press",
       "target": "pectorals",
@@ -10633,7 +10633,7 @@ export const EXERCISES_DATA = [
     {
       "bodyPart": "chest",
       "equipment": "dumbbell",
-      "gifUrl": "https://res.cloudinary.com/dysns4al9/image/upload/v1779592720/gifs/umolGJkhIiAGpd.gif?alt=media",
+      "gifUrl": "https://firebasestorage.googleapis.com/v0/b/chatappfirebasetd.appspot.com/o/exercises%2FumolGJkhIiAGpd.gif?alt=media",
       "id": "1282",
       "name": "dumbbell incline one arm press on exercise ball",
       "target": "pectorals",
@@ -10653,7 +10653,7 @@ export const EXERCISES_DATA = [
     {
       "bodyPart": "chest",
       "equipment": "dumbbell",
-      "gifUrl": "https://res.cloudinary.com/dysns4al9/image/upload/v1779592720/gifs/eyAjIYrdSMiAa8.gif?alt=media",
+      "gifUrl": "https://firebasestorage.googleapis.com/v0/b/chatappfirebasetd.appspot.com/o/exercises%2FeyAjIYrdSMiAa8.gif?alt=media",
       "id": "0324",
       "name": "dumbbell incline palm-in press",
       "target": "pectorals",
@@ -10674,7 +10674,7 @@ export const EXERCISES_DATA = [
     {
       "bodyPart": "chest",
       "equipment": "dumbbell",
-      "gifUrl": "https://res.cloudinary.com/dysns4al9/image/upload/v1779592720/gifs/9LWM0XSzegaLq-.gif?alt=media",
+      "gifUrl": "https://firebasestorage.googleapis.com/v0/b/chatappfirebasetd.appspot.com/o/exercises%2F9LWM0XSzegaLq-.gif?alt=media",
       "id": "1283",
       "name": "dumbbell incline press on exercise ball",
       "target": "pectorals",
@@ -10694,7 +10694,7 @@ export const EXERCISES_DATA = [
     {
       "bodyPart": "shoulders",
       "equipment": "dumbbell",
-      "gifUrl": "https://res.cloudinary.com/dysns4al9/image/upload/v1779592720/gifs/f4f7Peel8AFBU2.gif?alt=media",
+      "gifUrl": "https://firebasestorage.googleapis.com/v0/b/chatappfirebasetd.appspot.com/o/exercises%2Ff4f7Peel8AFBU2.gif?alt=media",
       "id": "0325",
       "name": "dumbbell incline raise",
       "target": "delts",
@@ -10713,7 +10713,7 @@ export const EXERCISES_DATA = [
     {
       "bodyPart": "shoulders",
       "equipment": "dumbbell",
-      "gifUrl": "https://res.cloudinary.com/dysns4al9/image/upload/v1779592720/gifs/y0m69WVhc40zOu.gif?alt=media",
+      "gifUrl": "https://firebasestorage.googleapis.com/v0/b/chatappfirebasetd.appspot.com/o/exercises%2Fy0m69WVhc40zOu.gif?alt=media",
       "id": "0326",
       "name": "dumbbell incline rear lateral raise",
       "target": "delts",
@@ -10733,7 +10733,7 @@ export const EXERCISES_DATA = [
     {
       "bodyPart": "back",
       "equipment": "dumbbell",
-      "gifUrl": "https://res.cloudinary.com/dysns4al9/image/upload/v1779592720/gifs/LQV3leEvzTpTWY.gif?alt=media",
+      "gifUrl": "https://firebasestorage.googleapis.com/v0/b/chatappfirebasetd.appspot.com/o/exercises%2FLQV3leEvzTpTWY.gif?alt=media",
       "id": "0327",
       "name": "dumbbell incline row",
       "target": "upper back",
@@ -10753,7 +10753,7 @@ export const EXERCISES_DATA = [
     {
       "bodyPart": "chest",
       "equipment": "dumbbell",
-      "gifUrl": "https://res.cloudinary.com/dysns4al9/image/upload/v1779592720/gifs/IIw5QYdxLcxiTJ.gif?alt=media",
+      "gifUrl": "https://firebasestorage.googleapis.com/v0/b/chatappfirebasetd.appspot.com/o/exercises%2FIIw5QYdxLcxiTJ.gif?alt=media",
       "id": "0328",
       "name": "dumbbell incline shoulder raise",
       "target": "serratus anterior",
@@ -10773,7 +10773,7 @@ export const EXERCISES_DATA = [
     {
       "bodyPart": "back",
       "equipment": "dumbbell",
-      "gifUrl": "https://res.cloudinary.com/dysns4al9/image/upload/v1779592720/gifs/i6ahzCfUh2UJCq.gif?alt=media",
+      "gifUrl": "https://firebasestorage.googleapis.com/v0/b/chatappfirebasetd.appspot.com/o/exercises%2Fi6ahzCfUh2UJCq.gif?alt=media",
       "id": "0329",
       "name": "dumbbell incline shrug",
       "target": "traps",
@@ -10791,7 +10791,7 @@ export const EXERCISES_DATA = [
     {
       "bodyPart": "shoulders",
       "equipment": "dumbbell",
-      "gifUrl": "https://res.cloudinary.com/dysns4al9/image/upload/v1779592720/gifs/RbNHevvYFqNsVm.gif?alt=media",
+      "gifUrl": "https://firebasestorage.googleapis.com/v0/b/chatappfirebasetd.appspot.com/o/exercises%2FRbNHevvYFqNsVm.gif?alt=media",
       "id": "3542",
       "name": "dumbbell incline t-raise",
       "target": "delts",
@@ -10810,7 +10810,7 @@ export const EXERCISES_DATA = [
     {
       "bodyPart": "upper arms",
       "equipment": "dumbbell",
-      "gifUrl": "https://res.cloudinary.com/dysns4al9/image/upload/v1779592720/gifs/Wal2pjScrvTt7O.gif?alt=media",
+      "gifUrl": "https://firebasestorage.googleapis.com/v0/b/chatappfirebasetd.appspot.com/o/exercises%2FWal2pjScrvTt7O.gif?alt=media",
       "id": "0330",
       "name": "dumbbell incline triceps extension",
       "target": "triceps",
@@ -10828,7 +10828,7 @@ export const EXERCISES_DATA = [
     {
       "bodyPart": "chest",
       "equipment": "dumbbell",
-      "gifUrl": "https://res.cloudinary.com/dysns4al9/image/upload/v1779592720/gifs/pd-v2kp1Oa6TOv.gif?alt=media",
+      "gifUrl": "https://firebasestorage.googleapis.com/v0/b/chatappfirebasetd.appspot.com/o/exercises%2Fpd-v2kp1Oa6TOv.gif?alt=media",
       "id": "0331",
       "name": "dumbbell incline twisted flyes",
       "target": "pectorals",
@@ -10848,7 +10848,7 @@ export const EXERCISES_DATA = [
     {
       "bodyPart": "upper arms",
       "equipment": "dumbbell",
-      "gifUrl": "https://res.cloudinary.com/dysns4al9/image/upload/v1779592720/gifs/WZ4h07TxyaQMyo.gif?alt=media",
+      "gifUrl": "https://firebasestorage.googleapis.com/v0/b/chatappfirebasetd.appspot.com/o/exercises%2FWZ4h07TxyaQMyo.gif?alt=media",
       "id": "1733",
       "name": "dumbbell incline two arm extension",
       "target": "triceps",
@@ -10866,7 +10866,7 @@ export const EXERCISES_DATA = [
     {
       "bodyPart": "back",
       "equipment": "dumbbell",
-      "gifUrl": "https://res.cloudinary.com/dysns4al9/image/upload/v1779592720/gifs/8Y0F0BTGshMbdI.gif?alt=media",
+      "gifUrl": "https://firebasestorage.googleapis.com/v0/b/chatappfirebasetd.appspot.com/o/exercises%2F8Y0F0BTGshMbdI.gif?alt=media",
       "id": "3541",
       "name": "dumbbell incline y-raise",
       "target": "upper back",
@@ -10885,7 +10885,7 @@ export const EXERCISES_DATA = [
     {
       "bodyPart": "shoulders",
       "equipment": "dumbbell",
-      "gifUrl": "https://res.cloudinary.com/dysns4al9/image/upload/v1779592720/gifs/wAIhJ86wdwqOTA.gif?alt=media",
+      "gifUrl": "https://firebasestorage.googleapis.com/v0/b/chatappfirebasetd.appspot.com/o/exercises%2FwAIhJ86wdwqOTA.gif?alt=media",
       "id": "0332",
       "name": "dumbbell iron cross",
       "target": "delts",
@@ -10903,7 +10903,7 @@ export const EXERCISES_DATA = [
     {
       "bodyPart": "upper arms",
       "equipment": "dumbbell",
-      "gifUrl": "https://res.cloudinary.com/dysns4al9/image/upload/v1779592720/gifs/UNhzQBZJ0FJZyE.gif?alt=media",
+      "gifUrl": "https://firebasestorage.googleapis.com/v0/b/chatappfirebasetd.appspot.com/o/exercises%2FUNhzQBZJ0FJZyE.gif?alt=media",
       "id": "0333",
       "name": "dumbbell kickback",
       "target": "triceps",
@@ -10922,7 +10922,7 @@ export const EXERCISES_DATA = [
     {
       "bodyPart": "upper arms",
       "equipment": "dumbbell",
-      "gifUrl": "https://res.cloudinary.com/dysns4al9/image/upload/v1779592720/gifs/ZvxEIBg3UFZ6xS.gif?alt=media",
+      "gifUrl": "https://firebasestorage.googleapis.com/v0/b/chatappfirebasetd.appspot.com/o/exercises%2FZvxEIBg3UFZ6xS.gif?alt=media",
       "id": "1734",
       "name": "dumbbell kickbacks on exercise ball",
       "target": "triceps",
@@ -10941,7 +10941,7 @@ export const EXERCISES_DATA = [
     {
       "bodyPart": "upper arms",
       "equipment": "dumbbell",
-      "gifUrl": "https://res.cloudinary.com/dysns4al9/image/upload/v1779592720/gifs/IaJ5U4CvlPaZ9p.gif?alt=media",
+      "gifUrl": "https://firebasestorage.googleapis.com/v0/b/chatappfirebasetd.appspot.com/o/exercises%2FIaJ5U4CvlPaZ9p.gif?alt=media",
       "id": "1660",
       "name": "dumbbell kneeling bicep curl exercise ball",
       "target": "biceps",
@@ -10961,7 +10961,7 @@ export const EXERCISES_DATA = [
     {
       "bodyPart": "shoulders",
       "equipment": "dumbbell",
-      "gifUrl": "https://res.cloudinary.com/dysns4al9/image/upload/v1779592720/gifs/5eS-9DA5xjD0qD.gif?alt=media",
+      "gifUrl": "https://firebasestorage.googleapis.com/v0/b/chatappfirebasetd.appspot.com/o/exercises%2F5eS-9DA5xjD0qD.gif?alt=media",
       "id": "0334",
       "name": "dumbbell lateral raise",
       "target": "delts",
@@ -10979,7 +10979,7 @@ export const EXERCISES_DATA = [
     {
       "bodyPart": "shoulders",
       "equipment": "dumbbell",
-      "gifUrl": "https://res.cloudinary.com/dysns4al9/image/upload/v1779592720/gifs/t05DrAGKv2A7P7.gif?alt=media",
+      "gifUrl": "https://firebasestorage.googleapis.com/v0/b/chatappfirebasetd.appspot.com/o/exercises%2Ft05DrAGKv2A7P7.gif?alt=media",
       "id": "0335",
       "name": "dumbbell lateral to front raise",
       "target": "delts",
@@ -11000,7 +11000,7 @@ export const EXERCISES_DATA = [
     {
       "bodyPart": "upper legs",
       "equipment": "dumbbell",
-      "gifUrl": "https://res.cloudinary.com/dysns4al9/image/upload/v1779592720/gifs/seVRZXbTaWsU8c.gif?alt=media",
+      "gifUrl": "https://firebasestorage.googleapis.com/v0/b/chatappfirebasetd.appspot.com/o/exercises%2FseVRZXbTaWsU8c.gif?alt=media",
       "id": "0336",
       "name": "dumbbell lunge",
       "target": "glutes",
@@ -11021,7 +11021,7 @@ export const EXERCISES_DATA = [
     {
       "bodyPart": "upper arms",
       "equipment": "dumbbell",
-      "gifUrl": "https://res.cloudinary.com/dysns4al9/image/upload/v1779592720/gifs/Mno6vopNekd6eF.gif?alt=media",
+      "gifUrl": "https://firebasestorage.googleapis.com/v0/b/chatappfirebasetd.appspot.com/o/exercises%2FMno6vopNekd6eF.gif?alt=media",
       "id": "1658",
       "name": "dumbbell lunge with bicep curl",
       "target": "biceps",
@@ -11041,7 +11041,7 @@ export const EXERCISES_DATA = [
     {
       "bodyPart": "upper arms",
       "equipment": "dumbbell",
-      "gifUrl": "https://res.cloudinary.com/dysns4al9/image/upload/v1779592720/gifs/9fAEbvVd88k60k.gif?alt=media",
+      "gifUrl": "https://firebasestorage.googleapis.com/v0/b/chatappfirebasetd.appspot.com/o/exercises%2F9fAEbvVd88k60k.gif?alt=media",
       "id": "0337",
       "name": "dumbbell lying extension (across face)",
       "target": "triceps",
@@ -11059,7 +11059,7 @@ export const EXERCISES_DATA = [
     {
       "bodyPart": "upper arms",
       "equipment": "dumbbell",
-      "gifUrl": "https://res.cloudinary.com/dysns4al9/image/upload/v1779592720/gifs/vmaIH9sSAcf7dU.gif?alt=media",
+      "gifUrl": "https://firebasestorage.googleapis.com/v0/b/chatappfirebasetd.appspot.com/o/exercises%2FvmaIH9sSAcf7dU.gif?alt=media",
       "id": "1729",
       "name": "dumbbell lying alternate extension",
       "target": "triceps",
@@ -11077,7 +11077,7 @@ export const EXERCISES_DATA = [
     {
       "bodyPart": "upper arms",
       "equipment": "dumbbell",
-      "gifUrl": "https://res.cloudinary.com/dysns4al9/image/upload/v1779592720/gifs/XyarDFdSKqhGdY.gif?alt=media",
+      "gifUrl": "https://firebasestorage.googleapis.com/v0/b/chatappfirebasetd.appspot.com/o/exercises%2FXyarDFdSKqhGdY.gif?alt=media",
       "id": "0338",
       "name": "dumbbell lying elbow press",
       "target": "triceps",
@@ -11095,7 +11095,7 @@ export const EXERCISES_DATA = [
     {
       "bodyPart": "shoulders",
       "equipment": "dumbbell",
-      "gifUrl": "https://res.cloudinary.com/dysns4al9/image/upload/v1779592720/gifs/slhKKCNjRWEnHt.gif?alt=media",
+      "gifUrl": "https://firebasestorage.googleapis.com/v0/b/chatappfirebasetd.appspot.com/o/exercises%2FslhKKCNjRWEnHt.gif?alt=media",
       "id": "0863",
       "name": "dumbbell lying external shoulder rotation",
       "target": "delts",
@@ -11114,7 +11114,7 @@ export const EXERCISES_DATA = [
     {
       "bodyPart": "upper legs",
       "equipment": "dumbbell",
-      "gifUrl": "https://res.cloudinary.com/dysns4al9/image/upload/v1779592720/gifs/Q6LLWxO61ywT-c.gif?alt=media",
+      "gifUrl": "https://firebasestorage.googleapis.com/v0/b/chatappfirebasetd.appspot.com/o/exercises%2FQ6LLWxO61ywT-c.gif?alt=media",
       "id": "0339",
       "name": "dumbbell lying femoral",
       "target": "hamstrings",
@@ -11131,7 +11131,7 @@ export const EXERCISES_DATA = [
     {
       "bodyPart": "chest",
       "equipment": "dumbbell",
-      "gifUrl": "https://res.cloudinary.com/dysns4al9/image/upload/v1779592720/gifs/19jtgfIBLXyL04.gif?alt=media",
+      "gifUrl": "https://firebasestorage.googleapis.com/v0/b/chatappfirebasetd.appspot.com/o/exercises%2F19jtgfIBLXyL04.gif?alt=media",
       "id": "0340",
       "name": "dumbbell lying hammer press",
       "target": "pectorals",
@@ -11149,7 +11149,7 @@ export const EXERCISES_DATA = [
     {
       "bodyPart": "shoulders",
       "equipment": "dumbbell",
-      "gifUrl": "https://res.cloudinary.com/dysns4al9/image/upload/v1779592720/gifs/B56r6Mm1GSvjiK.gif?alt=media",
+      "gifUrl": "https://firebasestorage.googleapis.com/v0/b/chatappfirebasetd.appspot.com/o/exercises%2FB56r6Mm1GSvjiK.gif?alt=media",
       "id": "2470",
       "name": "dumbbell lying on floor rear delt raise",
       "target": "delts",
@@ -11168,7 +11168,7 @@ export const EXERCISES_DATA = [
     {
       "bodyPart": "shoulders",
       "equipment": "dumbbell",
-      "gifUrl": "https://res.cloudinary.com/dysns4al9/image/upload/v1779592720/gifs/8GTSL97jDNF3Ye.gif?alt=media",
+      "gifUrl": "https://firebasestorage.googleapis.com/v0/b/chatappfirebasetd.appspot.com/o/exercises%2F8GTSL97jDNF3Ye.gif?alt=media",
       "id": "0341",
       "name": "dumbbell lying one arm deltoid rear",
       "target": "delts",
@@ -11187,7 +11187,7 @@ export const EXERCISES_DATA = [
     {
       "bodyPart": "chest",
       "equipment": "dumbbell",
-      "gifUrl": "https://res.cloudinary.com/dysns4al9/image/upload/v1779592720/gifs/uOZQzP5lGzi04y.gif?alt=media",
+      "gifUrl": "https://firebasestorage.googleapis.com/v0/b/chatappfirebasetd.appspot.com/o/exercises%2FuOZQzP5lGzi04y.gif?alt=media",
       "id": "0343",
       "name": "dumbbell lying one arm press",
       "target": "pectorals",
@@ -11206,7 +11206,7 @@ export const EXERCISES_DATA = [
     {
       "bodyPart": "chest",
       "equipment": "dumbbell",
-      "gifUrl": "https://res.cloudinary.com/dysns4al9/image/upload/v1779592720/gifs/WTql4TITiGNCG8.gif?alt=media",
+      "gifUrl": "https://firebasestorage.googleapis.com/v0/b/chatappfirebasetd.appspot.com/o/exercises%2FWTql4TITiGNCG8.gif?alt=media",
       "id": "0342",
       "name": "dumbbell lying one arm press v. 2",
       "target": "pectorals",
@@ -11226,7 +11226,7 @@ export const EXERCISES_DATA = [
     {
       "bodyPart": "upper arms",
       "equipment": "dumbbell",
-      "gifUrl": "https://res.cloudinary.com/dysns4al9/image/upload/v1779592720/gifs/9V2ep5pQBY2wnY.gif?alt=media",
+      "gifUrl": "https://firebasestorage.googleapis.com/v0/b/chatappfirebasetd.appspot.com/o/exercises%2F9V2ep5pQBY2wnY.gif?alt=media",
       "id": "0344",
       "name": "dumbbell lying one arm pronated triceps extension",
       "target": "triceps",
@@ -11244,7 +11244,7 @@ export const EXERCISES_DATA = [
     {
       "bodyPart": "shoulders",
       "equipment": "dumbbell",
-      "gifUrl": "https://res.cloudinary.com/dysns4al9/image/upload/v1779592720/gifs/AODYH6GvyGEezb.gif?alt=media",
+      "gifUrl": "https://firebasestorage.googleapis.com/v0/b/chatappfirebasetd.appspot.com/o/exercises%2FAODYH6GvyGEezb.gif?alt=media",
       "id": "0345",
       "name": "dumbbell lying one arm rear lateral raise",
       "target": "delts",
@@ -11262,7 +11262,7 @@ export const EXERCISES_DATA = [
     {
       "bodyPart": "upper arms",
       "equipment": "dumbbell",
-      "gifUrl": "https://res.cloudinary.com/dysns4al9/image/upload/v1779592720/gifs/zdhYWnXKZb4ckU.gif?alt=media",
+      "gifUrl": "https://firebasestorage.googleapis.com/v0/b/chatappfirebasetd.appspot.com/o/exercises%2FzdhYWnXKZb4ckU.gif?alt=media",
       "id": "0346",
       "name": "dumbbell lying one arm supinated triceps extension",
       "target": "triceps",
@@ -11280,7 +11280,7 @@ export const EXERCISES_DATA = [
     {
       "bodyPart": "lower arms",
       "equipment": "dumbbell",
-      "gifUrl": "https://res.cloudinary.com/dysns4al9/image/upload/v1779592720/gifs/1JAVAydJUloXMH.gif?alt=media",
+      "gifUrl": "https://firebasestorage.googleapis.com/v0/b/chatappfirebasetd.appspot.com/o/exercises%2F1JAVAydJUloXMH.gif?alt=media",
       "id": "0347",
       "name": "dumbbell lying pronation",
       "target": "forearms",
@@ -11299,7 +11299,7 @@ export const EXERCISES_DATA = [
     {
       "bodyPart": "lower arms",
       "equipment": "dumbbell",
-      "gifUrl": "https://res.cloudinary.com/dysns4al9/image/upload/v1779592720/gifs/2WPhz17RUV5Ad-.gif?alt=media",
+      "gifUrl": "https://firebasestorage.googleapis.com/v0/b/chatappfirebasetd.appspot.com/o/exercises%2F2WPhz17RUV5Ad-.gif?alt=media",
       "id": "2705",
       "name": "dumbbell lying pronation on floor",
       "target": "forearms",
@@ -11319,7 +11319,7 @@ export const EXERCISES_DATA = [
     {
       "bodyPart": "chest",
       "equipment": "dumbbell",
-      "gifUrl": "https://res.cloudinary.com/dysns4al9/image/upload/v1779592720/gifs/Jmv0WHeZeQJOe3.gif?alt=media",
+      "gifUrl": "https://firebasestorage.googleapis.com/v0/b/chatappfirebasetd.appspot.com/o/exercises%2FJmv0WHeZeQJOe3.gif?alt=media",
       "id": "1284",
       "name": "dumbbell lying pullover on exercise ball",
       "target": "pectorals",
@@ -11339,7 +11339,7 @@ export const EXERCISES_DATA = [
     {
       "bodyPart": "back",
       "equipment": "dumbbell",
-      "gifUrl": "https://res.cloudinary.com/dysns4al9/image/upload/v1779592720/gifs/IG5mEJyTTPYAqD.gif?alt=media",
+      "gifUrl": "https://firebasestorage.googleapis.com/v0/b/chatappfirebasetd.appspot.com/o/exercises%2FIG5mEJyTTPYAqD.gif?alt=media",
       "id": "1328",
       "name": "dumbbell lying rear delt row",
       "target": "upper back",
@@ -11358,7 +11358,7 @@ export const EXERCISES_DATA = [
     {
       "bodyPart": "shoulders",
       "equipment": "dumbbell",
-      "gifUrl": "https://res.cloudinary.com/dysns4al9/image/upload/v1779592720/gifs/uqKIAnPSxe46gG.gif?alt=media",
+      "gifUrl": "https://firebasestorage.googleapis.com/v0/b/chatappfirebasetd.appspot.com/o/exercises%2FuqKIAnPSxe46gG.gif?alt=media",
       "id": "0348",
       "name": "dumbbell lying rear lateral raise",
       "target": "delts",
@@ -11377,7 +11377,7 @@ export const EXERCISES_DATA = [
     {
       "bodyPart": "upper arms",
       "equipment": "dumbbell",
-      "gifUrl": "https://res.cloudinary.com/dysns4al9/image/upload/v1779592720/gifs/-wZfaozSWDQwvN.gif?alt=media",
+      "gifUrl": "https://firebasestorage.googleapis.com/v0/b/chatappfirebasetd.appspot.com/o/exercises%2F-wZfaozSWDQwvN.gif?alt=media",
       "id": "1735",
       "name": "dumbbell lying single extension",
       "target": "triceps",
@@ -11394,7 +11394,7 @@ export const EXERCISES_DATA = [
     {
       "bodyPart": "lower arms",
       "equipment": "dumbbell",
-      "gifUrl": "https://res.cloudinary.com/dysns4al9/image/upload/v1779592720/gifs/zkZt2utwuXFgUJ.gif?alt=media",
+      "gifUrl": "https://firebasestorage.googleapis.com/v0/b/chatappfirebasetd.appspot.com/o/exercises%2FzkZt2utwuXFgUJ.gif?alt=media",
       "id": "0349",
       "name": "dumbbell lying supination",
       "target": "forearms",
@@ -11413,7 +11413,7 @@ export const EXERCISES_DATA = [
     {
       "bodyPart": "lower arms",
       "equipment": "dumbbell",
-      "gifUrl": "https://res.cloudinary.com/dysns4al9/image/upload/v1779592720/gifs/d4PSZ-hXwZZ1wF.gif?alt=media",
+      "gifUrl": "https://firebasestorage.googleapis.com/v0/b/chatappfirebasetd.appspot.com/o/exercises%2Fd4PSZ-hXwZZ1wF.gif?alt=media",
       "id": "2706",
       "name": "dumbbell lying supination on floor",
       "target": "forearms",
@@ -11432,7 +11432,7 @@ export const EXERCISES_DATA = [
     {
       "bodyPart": "upper arms",
       "equipment": "dumbbell",
-      "gifUrl": "https://res.cloudinary.com/dysns4al9/image/upload/v1779592720/gifs/50ridwmXyal1lt.gif?alt=media",
+      "gifUrl": "https://firebasestorage.googleapis.com/v0/b/chatappfirebasetd.appspot.com/o/exercises%2F50ridwmXyal1lt.gif?alt=media",
       "id": "1661",
       "name": "dumbbell lying supine biceps curl",
       "target": "biceps",
@@ -11452,7 +11452,7 @@ export const EXERCISES_DATA = [
     {
       "bodyPart": "upper arms",
       "equipment": "dumbbell",
-      "gifUrl": "https://res.cloudinary.com/dysns4al9/image/upload/v1779592720/gifs/bP8GSitxhQdE0j.gif?alt=media",
+      "gifUrl": "https://firebasestorage.googleapis.com/v0/b/chatappfirebasetd.appspot.com/o/exercises%2FbP8GSitxhQdE0j.gif?alt=media",
       "id": "0350",
       "name": "dumbbell lying supine curl",
       "target": "biceps",
@@ -11471,7 +11471,7 @@ export const EXERCISES_DATA = [
     {
       "bodyPart": "upper arms",
       "equipment": "dumbbell",
-      "gifUrl": "https://res.cloudinary.com/dysns4al9/image/upload/v1779592720/gifs/jnkLPO0uU37cH3.gif?alt=media",
+      "gifUrl": "https://firebasestorage.googleapis.com/v0/b/chatappfirebasetd.appspot.com/o/exercises%2FjnkLPO0uU37cH3.gif?alt=media",
       "id": "0351",
       "name": "dumbbell lying triceps extension",
       "target": "triceps",
@@ -11489,7 +11489,7 @@ export const EXERCISES_DATA = [
     {
       "bodyPart": "upper arms",
       "equipment": "dumbbell",
-      "gifUrl": "https://res.cloudinary.com/dysns4al9/image/upload/v1779592720/gifs/M6yNT2fnr5UdNB.gif?alt=media",
+      "gifUrl": "https://firebasestorage.googleapis.com/v0/b/chatappfirebasetd.appspot.com/o/exercises%2FM6yNT2fnr5UdNB.gif?alt=media",
       "id": "1662",
       "name": "dumbbell lying wide curl",
       "target": "biceps",
@@ -11508,7 +11508,7 @@ export const EXERCISES_DATA = [
     {
       "bodyPart": "upper arms",
       "equipment": "dumbbell",
-      "gifUrl": "https://res.cloudinary.com/dysns4al9/image/upload/v1779592720/gifs/Rj4sxN6HB8DvVa.gif?alt=media",
+      "gifUrl": "https://firebasestorage.googleapis.com/v0/b/chatappfirebasetd.appspot.com/o/exercises%2FRj4sxN6HB8DvVa.gif?alt=media",
       "id": "0352",
       "name": "dumbbell neutral grip bench press",
       "target": "triceps",
@@ -11527,7 +11527,7 @@ export const EXERCISES_DATA = [
     {
       "bodyPart": "chest",
       "equipment": "dumbbell",
-      "gifUrl": "https://res.cloudinary.com/dysns4al9/image/upload/v1779592720/gifs/-WrrHgYs9hYxBn.gif?alt=media",
+      "gifUrl": "https://firebasestorage.googleapis.com/v0/b/chatappfirebasetd.appspot.com/o/exercises%2F-WrrHgYs9hYxBn.gif?alt=media",
       "id": "1285",
       "name": "dumbbell one arm bench fly",
       "target": "pectorals",
@@ -11547,7 +11547,7 @@ export const EXERCISES_DATA = [
     {
       "bodyPart": "back",
       "equipment": "dumbbell",
-      "gifUrl": "https://res.cloudinary.com/dysns4al9/image/upload/v1779592720/gifs/Z77wNg3PJ3iulT.gif?alt=media",
+      "gifUrl": "https://firebasestorage.googleapis.com/v0/b/chatappfirebasetd.appspot.com/o/exercises%2FZ77wNg3PJ3iulT.gif?alt=media",
       "id": "0292",
       "name": "dumbbell one arm bent-over row",
       "target": "upper back",
@@ -11567,7 +11567,7 @@ export const EXERCISES_DATA = [
     {
       "bodyPart": "chest",
       "equipment": "dumbbell",
-      "gifUrl": "https://res.cloudinary.com/dysns4al9/image/upload/v1779592720/gifs/7PynkCfYDxyTA8.gif?alt=media",
+      "gifUrl": "https://firebasestorage.googleapis.com/v0/b/chatappfirebasetd.appspot.com/o/exercises%2F7PynkCfYDxyTA8.gif?alt=media",
       "id": "1286",
       "name": "dumbbell one arm chest fly on exercise ball",
       "target": "pectorals",
@@ -11588,7 +11588,7 @@ export const EXERCISES_DATA = [
     {
       "bodyPart": "upper arms",
       "equipment": "dumbbell",
-      "gifUrl": "https://res.cloudinary.com/dysns4al9/image/upload/v1779592720/gifs/oT5pERXvi7a2WE.gif?alt=media",
+      "gifUrl": "https://firebasestorage.googleapis.com/v0/b/chatappfirebasetd.appspot.com/o/exercises%2FoT5pERXvi7a2WE.gif?alt=media",
       "id": "0353",
       "name": "dumbbell one arm concentration curl (on stability ball)",
       "target": "biceps",
@@ -11607,7 +11607,7 @@ export const EXERCISES_DATA = [
     {
       "bodyPart": "chest",
       "equipment": "dumbbell",
-      "gifUrl": "https://res.cloudinary.com/dysns4al9/image/upload/v1779592720/gifs/ER0X9IevzQwR2x.gif?alt=media",
+      "gifUrl": "https://firebasestorage.googleapis.com/v0/b/chatappfirebasetd.appspot.com/o/exercises%2FER0X9IevzQwR2x.gif?alt=media",
       "id": "1287",
       "name": "dumbbell one arm decline chest press",
       "target": "pectorals",
@@ -11626,7 +11626,7 @@ export const EXERCISES_DATA = [
     {
       "bodyPart": "chest",
       "equipment": "dumbbell",
-      "gifUrl": "https://res.cloudinary.com/dysns4al9/image/upload/v1779592720/gifs/2qht1X6B9biclB.gif?alt=media",
+      "gifUrl": "https://firebasestorage.googleapis.com/v0/b/chatappfirebasetd.appspot.com/o/exercises%2F2qht1X6B9biclB.gif?alt=media",
       "id": "1288",
       "name": "dumbbell one arm fly on exercise ball",
       "target": "pectorals",
@@ -11646,7 +11646,7 @@ export const EXERCISES_DATA = [
     {
       "bodyPart": "upper arms",
       "equipment": "dumbbell",
-      "gifUrl": "https://res.cloudinary.com/dysns4al9/image/upload/v1779592720/gifs/U4fII3aWFHWgmp.gif?alt=media",
+      "gifUrl": "https://firebasestorage.googleapis.com/v0/b/chatappfirebasetd.appspot.com/o/exercises%2FU4fII3aWFHWgmp.gif?alt=media",
       "id": "1736",
       "name": "dumbbell one arm french press on exercise ball",
       "target": "triceps",
@@ -11664,7 +11664,7 @@ export const EXERCISES_DATA = [
     {
       "bodyPart": "upper arms",
       "equipment": "dumbbell",
-      "gifUrl": "https://res.cloudinary.com/dysns4al9/image/upload/v1779592720/gifs/EjFAh1nMXlsAHq.gif?alt=media",
+      "gifUrl": "https://firebasestorage.googleapis.com/v0/b/chatappfirebasetd.appspot.com/o/exercises%2FEjFAh1nMXlsAHq.gif?alt=media",
       "id": "1663",
       "name": "dumbbell one arm hammer preacher curl",
       "target": "biceps",
@@ -11683,7 +11683,7 @@ export const EXERCISES_DATA = [
     {
       "bodyPart": "upper arms",
       "equipment": "dumbbell",
-      "gifUrl": "https://res.cloudinary.com/dysns4al9/image/upload/v1779592720/gifs/XT0N0DAKOMha5w.gif?alt=media",
+      "gifUrl": "https://firebasestorage.googleapis.com/v0/b/chatappfirebasetd.appspot.com/o/exercises%2FXT0N0DAKOMha5w.gif?alt=media",
       "id": "1621",
       "name": "dumbbell one arm hammer press on exercise ball",
       "target": "triceps",
@@ -11703,7 +11703,7 @@ export const EXERCISES_DATA = [
     {
       "bodyPart": "chest",
       "equipment": "dumbbell",
-      "gifUrl": "https://res.cloudinary.com/dysns4al9/image/upload/v1779592720/gifs/gPolYZwr6nfUyz.gif?alt=media",
+      "gifUrl": "https://firebasestorage.googleapis.com/v0/b/chatappfirebasetd.appspot.com/o/exercises%2FgPolYZwr6nfUyz.gif?alt=media",
       "id": "1289",
       "name": "dumbbell one arm incline chest press",
       "target": "pectorals",
@@ -11723,7 +11723,7 @@ export const EXERCISES_DATA = [
     {
       "bodyPart": "upper arms",
       "equipment": "dumbbell",
-      "gifUrl": "https://res.cloudinary.com/dysns4al9/image/upload/v1779592720/gifs/AIjMdCpnAR0iwY.gif?alt=media",
+      "gifUrl": "https://firebasestorage.googleapis.com/v0/b/chatappfirebasetd.appspot.com/o/exercises%2FAIjMdCpnAR0iwY.gif?alt=media",
       "id": "0354",
       "name": "dumbbell one arm kickback",
       "target": "triceps",
@@ -11742,7 +11742,7 @@ export const EXERCISES_DATA = [
     {
       "bodyPart": "shoulders",
       "equipment": "dumbbell",
-      "gifUrl": "https://res.cloudinary.com/dysns4al9/image/upload/v1779592720/gifs/KYe0PnK0RVIlSD.gif?alt=media",
+      "gifUrl": "https://firebasestorage.googleapis.com/v0/b/chatappfirebasetd.appspot.com/o/exercises%2FKYe0PnK0RVIlSD.gif?alt=media",
       "id": "0355",
       "name": "dumbbell one arm lateral raise",
       "target": "delts",
@@ -11762,7 +11762,7 @@ export const EXERCISES_DATA = [
     {
       "bodyPart": "shoulders",
       "equipment": "dumbbell",
-      "gifUrl": "https://res.cloudinary.com/dysns4al9/image/upload/v1779592720/gifs/UWMfVOG3YJZKyQ.gif?alt=media",
+      "gifUrl": "https://firebasestorage.googleapis.com/v0/b/chatappfirebasetd.appspot.com/o/exercises%2FUWMfVOG3YJZKyQ.gif?alt=media",
       "id": "0356",
       "name": "dumbbell one arm lateral raise with support",
       "target": "delts",
@@ -11783,7 +11783,7 @@ export const EXERCISES_DATA = [
     {
       "bodyPart": "chest",
       "equipment": "dumbbell",
-      "gifUrl": "https://res.cloudinary.com/dysns4al9/image/upload/v1779592720/gifs/HdTBjNjpTYkjfa.gif?alt=media",
+      "gifUrl": "https://firebasestorage.googleapis.com/v0/b/chatappfirebasetd.appspot.com/o/exercises%2FHdTBjNjpTYkjfa.gif?alt=media",
       "id": "1290",
       "name": "dumbbell one arm press on exercise ball",
       "target": "pectorals",
@@ -11803,7 +11803,7 @@ export const EXERCISES_DATA = [
     {
       "bodyPart": "upper arms",
       "equipment": "dumbbell",
-      "gifUrl": "https://res.cloudinary.com/dysns4al9/image/upload/v1779592720/gifs/F4TmpU-h9mMGIg.gif?alt=media",
+      "gifUrl": "https://firebasestorage.googleapis.com/v0/b/chatappfirebasetd.appspot.com/o/exercises%2FF4TmpU-h9mMGIg.gif?alt=media",
       "id": "1665",
       "name": "dumbbell one arm prone curl",
       "target": "biceps",
@@ -11821,7 +11821,7 @@ export const EXERCISES_DATA = [
     {
       "bodyPart": "upper arms",
       "equipment": "dumbbell",
-      "gifUrl": "https://res.cloudinary.com/dysns4al9/image/upload/v1779592720/gifs/IIB3XMPvhMv1Jp.gif?alt=media",
+      "gifUrl": "https://firebasestorage.googleapis.com/v0/b/chatappfirebasetd.appspot.com/o/exercises%2FIIB3XMPvhMv1Jp.gif?alt=media",
       "id": "1666",
       "name": "dumbbell one arm prone hammer curl",
       "target": "biceps",
@@ -11838,7 +11838,7 @@ export const EXERCISES_DATA = [
     {
       "bodyPart": "chest",
       "equipment": "dumbbell",
-      "gifUrl": "https://res.cloudinary.com/dysns4al9/image/upload/v1779592720/gifs/SkGZvFMKbYmbub.gif?alt=media",
+      "gifUrl": "https://firebasestorage.googleapis.com/v0/b/chatappfirebasetd.appspot.com/o/exercises%2FSkGZvFMKbYmbub.gif?alt=media",
       "id": "1291",
       "name": "dumbbell one arm pullover on exercise ball",
       "target": "pectorals",
@@ -11858,7 +11858,7 @@ export const EXERCISES_DATA = [
     {
       "bodyPart": "lower arms",
       "equipment": "dumbbell",
-      "gifUrl": "https://res.cloudinary.com/dysns4al9/image/upload/v1779592720/gifs/8G7sZzTg5bgWmX.gif?alt=media",
+      "gifUrl": "https://firebasestorage.googleapis.com/v0/b/chatappfirebasetd.appspot.com/o/exercises%2F8G7sZzTg5bgWmX.gif?alt=media",
       "id": "0358",
       "name": "dumbbell one arm reverse wrist curl",
       "target": "forearms",
@@ -11877,7 +11877,7 @@ export const EXERCISES_DATA = [
     {
       "bodyPart": "shoulders",
       "equipment": "dumbbell",
-      "gifUrl": "https://res.cloudinary.com/dysns4al9/image/upload/v1779592720/gifs/639kHvvGxCfMMH.gif?alt=media",
+      "gifUrl": "https://firebasestorage.googleapis.com/v0/b/chatappfirebasetd.appspot.com/o/exercises%2F639kHvvGxCfMMH.gif?alt=media",
       "id": "0359",
       "name": "dumbbell one arm reverse fly (with support)",
       "target": "delts",
@@ -11897,7 +11897,7 @@ export const EXERCISES_DATA = [
     {
       "bodyPart": "chest",
       "equipment": "dumbbell",
-      "gifUrl": "https://res.cloudinary.com/dysns4al9/image/upload/v1779592720/gifs/P344-9YcXtS93M.gif?alt=media",
+      "gifUrl": "https://firebasestorage.googleapis.com/v0/b/chatappfirebasetd.appspot.com/o/exercises%2FP344-9YcXtS93M.gif?alt=media",
       "id": "1622",
       "name": "dumbbell one arm reverse grip press",
       "target": "pectorals",
@@ -11917,7 +11917,7 @@ export const EXERCISES_DATA = [
     {
       "bodyPart": "upper arms",
       "equipment": "dumbbell",
-      "gifUrl": "https://res.cloudinary.com/dysns4al9/image/upload/v1779592720/gifs/0x8ov29dj3uJ4l.gif?alt=media",
+      "gifUrl": "https://firebasestorage.googleapis.com/v0/b/chatappfirebasetd.appspot.com/o/exercises%2F0x8ov29dj3uJ4l.gif?alt=media",
       "id": "1414",
       "name": "dumbbell one arm reverse preacher curl",
       "target": "biceps",
@@ -11935,7 +11935,7 @@ export const EXERCISES_DATA = [
     {
       "bodyPart": "upper arms",
       "equipment": "dumbbell",
-      "gifUrl": "https://res.cloudinary.com/dysns4al9/image/upload/v1779592720/gifs/Q38YedsgIlPEDm.gif?alt=media",
+      "gifUrl": "https://firebasestorage.googleapis.com/v0/b/chatappfirebasetd.appspot.com/o/exercises%2FQ38YedsgIlPEDm.gif?alt=media",
       "id": "1667",
       "name": "dumbbell one arm reverse spider curl",
       "target": "biceps",
@@ -11952,7 +11952,7 @@ export const EXERCISES_DATA = [
     {
       "bodyPart": "upper arms",
       "equipment": "dumbbell",
-      "gifUrl": "https://res.cloudinary.com/dysns4al9/image/upload/v1779592720/gifs/u8xZDGTG2YktdP.gif?alt=media",
+      "gifUrl": "https://firebasestorage.googleapis.com/v0/b/chatappfirebasetd.appspot.com/o/exercises%2Fu8xZDGTG2YktdP.gif?alt=media",
       "id": "1668",
       "name": "dumbbell one arm seated bicep curl on exercise ball",
       "target": "biceps",
@@ -11970,7 +11970,7 @@ export const EXERCISES_DATA = [
     {
       "bodyPart": "upper arms",
       "equipment": "dumbbell",
-      "gifUrl": "https://res.cloudinary.com/dysns4al9/image/upload/v1779592720/gifs/yDXhSWDs578JoZ.gif?alt=media",
+      "gifUrl": "https://firebasestorage.googleapis.com/v0/b/chatappfirebasetd.appspot.com/o/exercises%2FyDXhSWDs578JoZ.gif?alt=media",
       "id": "1669",
       "name": "dumbbell one arm seated hammer curl",
       "target": "biceps",
@@ -11990,7 +11990,7 @@ export const EXERCISES_DATA = [
     {
       "bodyPart": "lower arms",
       "equipment": "dumbbell",
-      "gifUrl": "https://res.cloudinary.com/dysns4al9/image/upload/v1779592720/gifs/-AmZiTtHzEXUeW.gif?alt=media",
+      "gifUrl": "https://firebasestorage.googleapis.com/v0/b/chatappfirebasetd.appspot.com/o/exercises%2F-AmZiTtHzEXUeW.gif?alt=media",
       "id": "1415",
       "name": "dumbbell one arm seated neutral wrist curl",
       "target": "forearms",
@@ -12009,7 +12009,7 @@ export const EXERCISES_DATA = [
     {
       "bodyPart": "shoulders",
       "equipment": "dumbbell",
-      "gifUrl": "https://res.cloudinary.com/dysns4al9/image/upload/v1779592720/gifs/Ed6PGWC47CwdxU.gif?alt=media",
+      "gifUrl": "https://firebasestorage.googleapis.com/v0/b/chatappfirebasetd.appspot.com/o/exercises%2FEd6PGWC47CwdxU.gif?alt=media",
       "id": "0361",
       "name": "dumbbell one arm shoulder press",
       "target": "delts",
@@ -12027,7 +12027,7 @@ export const EXERCISES_DATA = [
     {
       "bodyPart": "shoulders",
       "equipment": "dumbbell",
-      "gifUrl": "https://res.cloudinary.com/dysns4al9/image/upload/v1779592720/gifs/e6sKwagWZUiPJ7.gif?alt=media",
+      "gifUrl": "https://firebasestorage.googleapis.com/v0/b/chatappfirebasetd.appspot.com/o/exercises%2Fe6sKwagWZUiPJ7.gif?alt=media",
       "id": "0360",
       "name": "dumbbell one arm shoulder press v. 2",
       "target": "delts",
@@ -12045,7 +12045,7 @@ export const EXERCISES_DATA = [
     {
       "bodyPart": "upper legs",
       "equipment": "dumbbell",
-      "gifUrl": "https://res.cloudinary.com/dysns4al9/image/upload/v1779592720/gifs/WLuoUQ7ucpXo8U.gif?alt=media",
+      "gifUrl": "https://firebasestorage.googleapis.com/v0/b/chatappfirebasetd.appspot.com/o/exercises%2FWLuoUQ7ucpXo8U.gif?alt=media",
       "id": "3888",
       "name": "dumbbell one arm snatch",
       "target": "glutes",
@@ -12068,7 +12068,7 @@ export const EXERCISES_DATA = [
     {
       "bodyPart": "upper arms",
       "equipment": "dumbbell",
-      "gifUrl": "https://res.cloudinary.com/dysns4al9/image/upload/v1779592720/gifs/AQX0GFjYhSuA6g.gif?alt=media",
+      "gifUrl": "https://firebasestorage.googleapis.com/v0/b/chatappfirebasetd.appspot.com/o/exercises%2FAQX0GFjYhSuA6g.gif?alt=media",
       "id": "1670",
       "name": "dumbbell one arm standing curl",
       "target": "biceps",
@@ -12087,7 +12087,7 @@ export const EXERCISES_DATA = [
     {
       "bodyPart": "upper arms",
       "equipment": "dumbbell",
-      "gifUrl": "https://res.cloudinary.com/dysns4al9/image/upload/v1779592720/gifs/vyhgCbvy2IJihZ.gif?alt=media",
+      "gifUrl": "https://firebasestorage.googleapis.com/v0/b/chatappfirebasetd.appspot.com/o/exercises%2FvyhgCbvy2IJihZ.gif?alt=media",
       "id": "1671",
       "name": "dumbbell one arm standing hammer curl",
       "target": "biceps",
@@ -12107,7 +12107,7 @@ export const EXERCISES_DATA = [
     {
       "bodyPart": "upper arms",
       "equipment": "dumbbell",
-      "gifUrl": "https://res.cloudinary.com/dysns4al9/image/upload/v1779592720/gifs/zz8amz6TdLIYq2.gif?alt=media",
+      "gifUrl": "https://firebasestorage.googleapis.com/v0/b/chatappfirebasetd.appspot.com/o/exercises%2Fzz8amz6TdLIYq2.gif?alt=media",
       "id": "0362",
       "name": "dumbbell one arm triceps extension (on bench)",
       "target": "triceps",
@@ -12126,7 +12126,7 @@ export const EXERCISES_DATA = [
     {
       "bodyPart": "shoulders",
       "equipment": "dumbbell",
-      "gifUrl": "https://res.cloudinary.com/dysns4al9/image/upload/v1779592720/gifs/4224RTnwnw9xfv.gif?alt=media",
+      "gifUrl": "https://firebasestorage.googleapis.com/v0/b/chatappfirebasetd.appspot.com/o/exercises%2F4224RTnwnw9xfv.gif?alt=media",
       "id": "0363",
       "name": "dumbbell one arm upright row",
       "target": "delts",
@@ -12145,7 +12145,7 @@ export const EXERCISES_DATA = [
     {
       "bodyPart": "lower arms",
       "equipment": "dumbbell",
-      "gifUrl": "https://res.cloudinary.com/dysns4al9/image/upload/v1779592720/gifs/YYnjx7ILGm5xtS.gif?alt=media",
+      "gifUrl": "https://firebasestorage.googleapis.com/v0/b/chatappfirebasetd.appspot.com/o/exercises%2FYYnjx7ILGm5xtS.gif?alt=media",
       "id": "0364",
       "name": "dumbbell one arm wrist curl",
       "target": "forearms",
@@ -12164,7 +12164,7 @@ export const EXERCISES_DATA = [
     {
       "bodyPart": "upper arms",
       "equipment": "dumbbell",
-      "gifUrl": "https://res.cloudinary.com/dysns4al9/image/upload/v1779592720/gifs/57Tp3hbD5SNB3L.gif?alt=media",
+      "gifUrl": "https://firebasestorage.googleapis.com/v0/b/chatappfirebasetd.appspot.com/o/exercises%2F57Tp3hbD5SNB3L.gif?alt=media",
       "id": "1672",
       "name": "dumbbell one arm zottman preacher curl",
       "target": "biceps",
@@ -12183,7 +12183,7 @@ export const EXERCISES_DATA = [
     {
       "bodyPart": "chest",
       "equipment": "dumbbell",
-      "gifUrl": "https://res.cloudinary.com/dysns4al9/image/upload/v1779592720/gifs/DTO8tLQ1REPMWr.gif?alt=media",
+      "gifUrl": "https://firebasestorage.googleapis.com/v0/b/chatappfirebasetd.appspot.com/o/exercises%2FDTO8tLQ1REPMWr.gif?alt=media",
       "id": "1292",
       "name": "dumbbell one leg fly on exercise ball",
       "target": "pectorals",
@@ -12203,7 +12203,7 @@ export const EXERCISES_DATA = [
     {
       "bodyPart": "upper arms",
       "equipment": "dumbbell",
-      "gifUrl": "https://res.cloudinary.com/dysns4al9/image/upload/v1779592720/gifs/Y4WuvvCyh-Nlr2.gif?alt=media",
+      "gifUrl": "https://firebasestorage.googleapis.com/v0/b/chatappfirebasetd.appspot.com/o/exercises%2FY4WuvvCyh-Nlr2.gif?alt=media",
       "id": "0365",
       "name": "dumbbell over bench neutral wrist curl",
       "target": "biceps",
@@ -12221,7 +12221,7 @@ export const EXERCISES_DATA = [
     {
       "bodyPart": "upper arms",
       "equipment": "dumbbell",
-      "gifUrl": "https://res.cloudinary.com/dysns4al9/image/upload/v1779592720/gifs/reNRHag0BVY3AD.gif?alt=media",
+      "gifUrl": "https://firebasestorage.googleapis.com/v0/b/chatappfirebasetd.appspot.com/o/exercises%2FreNRHag0BVY3AD.gif?alt=media",
       "id": "0366",
       "name": "dumbbell over bench one arm neutral wrist curl",
       "target": "biceps",
@@ -12238,7 +12238,7 @@ export const EXERCISES_DATA = [
     {
       "bodyPart": "lower arms",
       "equipment": "dumbbell",
-      "gifUrl": "https://res.cloudinary.com/dysns4al9/image/upload/v1779592720/gifs/Ltlwasu-guYcgB.gif?alt=media",
+      "gifUrl": "https://firebasestorage.googleapis.com/v0/b/chatappfirebasetd.appspot.com/o/exercises%2FLtlwasu-guYcgB.gif?alt=media",
       "id": "1441",
       "name": "dumbbell over bench one arm reverse wrist curl",
       "target": "forearms",
@@ -12257,7 +12257,7 @@ export const EXERCISES_DATA = [
     {
       "bodyPart": "lower arms",
       "equipment": "dumbbell",
-      "gifUrl": "https://res.cloudinary.com/dysns4al9/image/upload/v1779592720/gifs/rGCKYcMPzVfSHL.gif?alt=media",
+      "gifUrl": "https://firebasestorage.googleapis.com/v0/b/chatappfirebasetd.appspot.com/o/exercises%2FrGCKYcMPzVfSHL.gif?alt=media",
       "id": "0367",
       "name": "dumbbell over bench one arm wrist curl",
       "target": "forearms",
@@ -12276,7 +12276,7 @@ export const EXERCISES_DATA = [
     {
       "bodyPart": "lower arms",
       "equipment": "dumbbell",
-      "gifUrl": "https://res.cloudinary.com/dysns4al9/image/upload/v1779592720/gifs/8-Hp8hYYBLOaKY.gif?alt=media",
+      "gifUrl": "https://firebasestorage.googleapis.com/v0/b/chatappfirebasetd.appspot.com/o/exercises%2F8-Hp8hYYBLOaKY.gif?alt=media",
       "id": "0368",
       "name": "dumbbell over bench revers wrist curl",
       "target": "forearms",
@@ -12295,7 +12295,7 @@ export const EXERCISES_DATA = [
     {
       "bodyPart": "lower arms",
       "equipment": "dumbbell",
-      "gifUrl": "https://res.cloudinary.com/dysns4al9/image/upload/v1779592720/gifs/QqKW5Cjrvd12IW.gif?alt=media",
+      "gifUrl": "https://firebasestorage.googleapis.com/v0/b/chatappfirebasetd.appspot.com/o/exercises%2FQqKW5Cjrvd12IW.gif?alt=media",
       "id": "0369",
       "name": "dumbbell over bench wrist curl",
       "target": "forearms",
@@ -12314,7 +12314,7 @@ export const EXERCISES_DATA = [
     {
       "bodyPart": "back",
       "equipment": "dumbbell",
-      "gifUrl": "https://res.cloudinary.com/dysns4al9/image/upload/v1779592720/gifs/cJADMn0hyBZacw.gif?alt=media",
+      "gifUrl": "https://firebasestorage.googleapis.com/v0/b/chatappfirebasetd.appspot.com/o/exercises%2FcJADMn0hyBZacw.gif?alt=media",
       "id": "1329",
       "name": "dumbbell palm rotational bent over row",
       "target": "upper back",
@@ -12336,7 +12336,7 @@ export const EXERCISES_DATA = [
     {
       "bodyPart": "upper arms",
       "equipment": "dumbbell",
-      "gifUrl": "https://res.cloudinary.com/dysns4al9/image/upload/v1779592720/gifs/QJtDxVEbVSvawS.gif?alt=media",
+      "gifUrl": "https://firebasestorage.googleapis.com/v0/b/chatappfirebasetd.appspot.com/o/exercises%2FQJtDxVEbVSvawS.gif?alt=media",
       "id": "1623",
       "name": "dumbbell palms in incline bench press",
       "target": "triceps",
@@ -12357,7 +12357,7 @@ export const EXERCISES_DATA = [
     {
       "bodyPart": "upper arms",
       "equipment": "dumbbell",
-      "gifUrl": "https://res.cloudinary.com/dysns4al9/image/upload/v1779592720/gifs/dPdiz-k7UwyazX.gif?alt=media",
+      "gifUrl": "https://firebasestorage.googleapis.com/v0/b/chatappfirebasetd.appspot.com/o/exercises%2FdPdiz-k7UwyazX.gif?alt=media",
       "id": "0370",
       "name": "dumbbell peacher hammer curl",
       "target": "biceps",
@@ -12378,7 +12378,7 @@ export const EXERCISES_DATA = [
     {
       "bodyPart": "upper legs",
       "equipment": "dumbbell",
-      "gifUrl": "https://res.cloudinary.com/dysns4al9/image/upload/v1779592720/gifs/LdCVM5T6WGfNuH.gif?alt=media",
+      "gifUrl": "https://firebasestorage.googleapis.com/v0/b/chatappfirebasetd.appspot.com/o/exercises%2FLdCVM5T6WGfNuH.gif?alt=media",
       "id": "0371",
       "name": "dumbbell plyo squat",
       "target": "glutes",
@@ -12399,7 +12399,7 @@ export const EXERCISES_DATA = [
     {
       "bodyPart": "upper arms",
       "equipment": "dumbbell",
-      "gifUrl": "https://res.cloudinary.com/dysns4al9/image/upload/v1779592720/gifs/pVXhVwywllv0G3.gif?alt=media",
+      "gifUrl": "https://firebasestorage.googleapis.com/v0/b/chatappfirebasetd.appspot.com/o/exercises%2FpVXhVwywllv0G3.gif?alt=media",
       "id": "0372",
       "name": "dumbbell preacher curl",
       "target": "biceps",
@@ -12419,7 +12419,7 @@ export const EXERCISES_DATA = [
     {
       "bodyPart": "upper arms",
       "equipment": "dumbbell",
-      "gifUrl": "https://res.cloudinary.com/dysns4al9/image/upload/v1779592720/gifs/hCCgUdlhxb8GgD.gif?alt=media",
+      "gifUrl": "https://firebasestorage.googleapis.com/v0/b/chatappfirebasetd.appspot.com/o/exercises%2FhCCgUdlhxb8GgD.gif?alt=media",
       "id": "1673",
       "name": "dumbbell preacher curl over exercise ball",
       "target": "biceps",
@@ -12437,7 +12437,7 @@ export const EXERCISES_DATA = [
     {
       "bodyPart": "chest",
       "equipment": "dumbbell",
-      "gifUrl": "https://res.cloudinary.com/dysns4al9/image/upload/v1779592720/gifs/Npch3aRM2OGBID.gif?alt=media",
+      "gifUrl": "https://firebasestorage.googleapis.com/v0/b/chatappfirebasetd.appspot.com/o/exercises%2FNpch3aRM2OGBID.gif?alt=media",
       "id": "1293",
       "name": "dumbbell press on exercise ball",
       "target": "pectorals",
@@ -12457,7 +12457,7 @@ export const EXERCISES_DATA = [
     {
       "bodyPart": "upper arms",
       "equipment": "dumbbell",
-      "gifUrl": "https://res.cloudinary.com/dysns4al9/image/upload/v1779592720/gifs/mLMeFaSY-wuXcS.gif?alt=media",
+      "gifUrl": "https://firebasestorage.googleapis.com/v0/b/chatappfirebasetd.appspot.com/o/exercises%2FmLMeFaSY-wuXcS.gif?alt=media",
       "id": "0373",
       "name": "dumbbell pronate-grip triceps extension",
       "target": "triceps",
@@ -12475,7 +12475,7 @@ export const EXERCISES_DATA = [
     {
       "bodyPart": "upper arms",
       "equipment": "dumbbell",
-      "gifUrl": "https://res.cloudinary.com/dysns4al9/image/upload/v1779592720/gifs/OBwhg7xca2I2iZ.gif?alt=media",
+      "gifUrl": "https://firebasestorage.googleapis.com/v0/b/chatappfirebasetd.appspot.com/o/exercises%2FOBwhg7xca2I2iZ.gif?alt=media",
       "id": "0374",
       "name": "dumbbell prone incline curl",
       "target": "biceps",
@@ -12496,7 +12496,7 @@ export const EXERCISES_DATA = [
     {
       "bodyPart": "upper arms",
       "equipment": "dumbbell",
-      "gifUrl": "https://res.cloudinary.com/dysns4al9/image/upload/v1779592720/gifs/pqWqwfz2DPh07O.gif?alt=media",
+      "gifUrl": "https://firebasestorage.googleapis.com/v0/b/chatappfirebasetd.appspot.com/o/exercises%2FpqWqwfz2DPh07O.gif?alt=media",
       "id": "1674",
       "name": "dumbbell prone incline hammer curl",
       "target": "biceps",
@@ -12517,7 +12517,7 @@ export const EXERCISES_DATA = [
     {
       "bodyPart": "chest",
       "equipment": "dumbbell",
-      "gifUrl": "https://res.cloudinary.com/dysns4al9/image/upload/v1779592720/gifs/S93ox4wuZ-6lds.gif?alt=media",
+      "gifUrl": "https://firebasestorage.googleapis.com/v0/b/chatappfirebasetd.appspot.com/o/exercises%2FS93ox4wuZ-6lds.gif?alt=media",
       "id": "0375",
       "name": "dumbbell pullover",
       "target": "pectorals",
@@ -12536,7 +12536,7 @@ export const EXERCISES_DATA = [
     {
       "bodyPart": "chest",
       "equipment": "dumbbell",
-      "gifUrl": "https://res.cloudinary.com/dysns4al9/image/upload/v1779592720/gifs/cuRboZWYVTy58q.gif?alt=media",
+      "gifUrl": "https://firebasestorage.googleapis.com/v0/b/chatappfirebasetd.appspot.com/o/exercises%2FcuRboZWYVTy58q.gif?alt=media",
       "id": "1294",
       "name": "dumbbell pullover hip extension on exercise ball",
       "target": "pectorals",
@@ -12559,7 +12559,7 @@ export const EXERCISES_DATA = [
     {
       "bodyPart": "chest",
       "equipment": "dumbbell",
-      "gifUrl": "https://res.cloudinary.com/dysns4al9/image/upload/v1779592720/gifs/i-RgswCr2bjdSC.gif?alt=media",
+      "gifUrl": "https://firebasestorage.googleapis.com/v0/b/chatappfirebasetd.appspot.com/o/exercises%2Fi-RgswCr2bjdSC.gif?alt=media",
       "id": "1295",
       "name": "dumbbell pullover on exercise ball",
       "target": "pectorals",
@@ -12577,7 +12577,7 @@ export const EXERCISES_DATA = [
     {
       "bodyPart": "shoulders",
       "equipment": "dumbbell",
-      "gifUrl": "https://res.cloudinary.com/dysns4al9/image/upload/v1779592720/gifs/peyJMMQ52MsJKD.gif?alt=media",
+      "gifUrl": "https://firebasestorage.googleapis.com/v0/b/chatappfirebasetd.appspot.com/o/exercises%2FpeyJMMQ52MsJKD.gif?alt=media",
       "id": "1700",
       "name": "dumbbell push press",
       "target": "delts",
@@ -12595,7 +12595,7 @@ export const EXERCISES_DATA = [
     {
       "bodyPart": "shoulders",
       "equipment": "dumbbell",
-      "gifUrl": "https://res.cloudinary.com/dysns4al9/image/upload/v1779592720/gifs/baLEfWg9prYgVV.gif?alt=media",
+      "gifUrl": "https://firebasestorage.googleapis.com/v0/b/chatappfirebasetd.appspot.com/o/exercises%2FbaLEfWg9prYgVV.gif?alt=media",
       "id": "0376",
       "name": "dumbbell raise",
       "target": "delts",
@@ -12614,7 +12614,7 @@ export const EXERCISES_DATA = [
     {
       "bodyPart": "shoulders",
       "equipment": "dumbbell",
-      "gifUrl": "https://res.cloudinary.com/dysns4al9/image/upload/v1779592720/gifs/yIPXFTf2UBToOi.gif?alt=media",
+      "gifUrl": "https://firebasestorage.googleapis.com/v0/b/chatappfirebasetd.appspot.com/o/exercises%2FyIPXFTf2UBToOi.gif?alt=media",
       "id": "2292",
       "name": "dumbbell rear delt raise",
       "target": "delts",
@@ -12633,7 +12633,7 @@ export const EXERCISES_DATA = [
     {
       "bodyPart": "shoulders",
       "equipment": "dumbbell",
-      "gifUrl": "https://res.cloudinary.com/dysns4al9/image/upload/v1779592720/gifs/wqANL-bXyLT9wn.gif?alt=media",
+      "gifUrl": "https://firebasestorage.googleapis.com/v0/b/chatappfirebasetd.appspot.com/o/exercises%2FwqANL-bXyLT9wn.gif?alt=media",
       "id": "0377",
       "name": "dumbbell rear delt row_shoulder",
       "target": "delts",
@@ -12654,7 +12654,7 @@ export const EXERCISES_DATA = [
     {
       "bodyPart": "shoulders",
       "equipment": "dumbbell",
-      "gifUrl": "https://res.cloudinary.com/dysns4al9/image/upload/v1779592720/gifs/mKdoCxF1Bb4Umo.gif?alt=media",
+      "gifUrl": "https://firebasestorage.googleapis.com/v0/b/chatappfirebasetd.appspot.com/o/exercises%2FmKdoCxF1Bb4Umo.gif?alt=media",
       "id": "0378",
       "name": "dumbbell rear fly",
       "target": "delts",
@@ -12674,7 +12674,7 @@ export const EXERCISES_DATA = [
     {
       "bodyPart": "shoulders",
       "equipment": "dumbbell",
-      "gifUrl": "https://res.cloudinary.com/dysns4al9/image/upload/v1779592720/gifs/bpAQTg5a7flKNL.gif?alt=media",
+      "gifUrl": "https://firebasestorage.googleapis.com/v0/b/chatappfirebasetd.appspot.com/o/exercises%2FbpAQTg5a7flKNL.gif?alt=media",
       "id": "0380",
       "name": "dumbbell rear lateral raise",
       "target": "delts",
@@ -12693,7 +12693,7 @@ export const EXERCISES_DATA = [
     {
       "bodyPart": "shoulders",
       "equipment": "dumbbell",
-      "gifUrl": "https://res.cloudinary.com/dysns4al9/image/upload/v1779592720/gifs/YbySDw7whgUSWg.gif?alt=media",
+      "gifUrl": "https://firebasestorage.googleapis.com/v0/b/chatappfirebasetd.appspot.com/o/exercises%2FYbySDw7whgUSWg.gif?alt=media",
       "id": "0379",
       "name": "dumbbell rear lateral raise (support head)",
       "target": "delts",
@@ -12712,7 +12712,7 @@ export const EXERCISES_DATA = [
     {
       "bodyPart": "upper legs",
       "equipment": "dumbbell",
-      "gifUrl": "https://res.cloudinary.com/dysns4al9/image/upload/v1779592720/gifs/L1yyrdY5DKttu9.gif?alt=media",
+      "gifUrl": "https://firebasestorage.googleapis.com/v0/b/chatappfirebasetd.appspot.com/o/exercises%2FL1yyrdY5DKttu9.gif?alt=media",
       "id": "0381",
       "name": "dumbbell rear lunge",
       "target": "glutes",
@@ -12732,7 +12732,7 @@ export const EXERCISES_DATA = [
     {
       "bodyPart": "upper arms",
       "equipment": "dumbbell",
-      "gifUrl": "https://res.cloudinary.com/dysns4al9/image/upload/v1779592720/gifs/RCMYMJ2YD4mire.gif?alt=media",
+      "gifUrl": "https://firebasestorage.googleapis.com/v0/b/chatappfirebasetd.appspot.com/o/exercises%2FRCMYMJ2YD4mire.gif?alt=media",
       "id": "0382",
       "name": "dumbbell revers grip biceps curl",
       "target": "biceps",
@@ -12751,7 +12751,7 @@ export const EXERCISES_DATA = [
     {
       "bodyPart": "chest",
       "equipment": "dumbbell",
-      "gifUrl": "https://res.cloudinary.com/dysns4al9/image/upload/v1779592720/gifs/J4a7PGAEdCZHhb.gif?alt=media",
+      "gifUrl": "https://firebasestorage.googleapis.com/v0/b/chatappfirebasetd.appspot.com/o/exercises%2FJ4a7PGAEdCZHhb.gif?alt=media",
       "id": "1624",
       "name": "dumbbell reverse bench press",
       "target": "pectorals",
@@ -12771,7 +12771,7 @@ export const EXERCISES_DATA = [
     {
       "bodyPart": "shoulders",
       "equipment": "dumbbell",
-      "gifUrl": "https://res.cloudinary.com/dysns4al9/image/upload/v1779592720/gifs/q7ehoHgBiHfzhq.gif?alt=media",
+      "gifUrl": "https://firebasestorage.googleapis.com/v0/b/chatappfirebasetd.appspot.com/o/exercises%2Fq7ehoHgBiHfzhq.gif?alt=media",
       "id": "0383",
       "name": "dumbbell reverse fly",
       "target": "delts",
@@ -12791,7 +12791,7 @@ export const EXERCISES_DATA = [
     {
       "bodyPart": "back",
       "equipment": "dumbbell",
-      "gifUrl": "https://res.cloudinary.com/dysns4al9/image/upload/v1779592720/gifs/ag-cBnTvZnUvdw.gif?alt=media",
+      "gifUrl": "https://firebasestorage.googleapis.com/v0/b/chatappfirebasetd.appspot.com/o/exercises%2Fag-cBnTvZnUvdw.gif?alt=media",
       "id": "1330",
       "name": "dumbbell reverse grip incline bench one arm row",
       "target": "upper back",
@@ -12816,7 +12816,7 @@ export const EXERCISES_DATA = [
     {
       "bodyPart": "back",
       "equipment": "dumbbell",
-      "gifUrl": "https://res.cloudinary.com/dysns4al9/image/upload/v1779592720/gifs/CqFP893MOnXYuJ.gif?alt=media",
+      "gifUrl": "https://firebasestorage.googleapis.com/v0/b/chatappfirebasetd.appspot.com/o/exercises%2FCqFP893MOnXYuJ.gif?alt=media",
       "id": "1331",
       "name": "dumbbell reverse grip incline bench two arm row",
       "target": "upper back",
@@ -12837,7 +12837,7 @@ export const EXERCISES_DATA = [
     {
       "bodyPart": "back",
       "equipment": "dumbbell",
-      "gifUrl": "https://res.cloudinary.com/dysns4al9/image/upload/v1779592720/gifs/PC3-bZv7Y0txTD.gif?alt=media",
+      "gifUrl": "https://firebasestorage.googleapis.com/v0/b/chatappfirebasetd.appspot.com/o/exercises%2FPC3-bZv7Y0txTD.gif?alt=media",
       "id": "2327",
       "name": "dumbbell reverse grip row (female)",
       "target": "upper back",
@@ -12858,7 +12858,7 @@ export const EXERCISES_DATA = [
     {
       "bodyPart": "upper arms",
       "equipment": "dumbbell",
-      "gifUrl": "https://res.cloudinary.com/dysns4al9/image/upload/v1779592720/gifs/mz7rZ1nNNj8Qpp.gif?alt=media",
+      "gifUrl": "https://firebasestorage.googleapis.com/v0/b/chatappfirebasetd.appspot.com/o/exercises%2Fmz7rZ1nNNj8Qpp.gif?alt=media",
       "id": "0384",
       "name": "dumbbell reverse preacher curl",
       "target": "biceps",
@@ -12878,7 +12878,7 @@ export const EXERCISES_DATA = [
     {
       "bodyPart": "upper arms",
       "equipment": "dumbbell",
-      "gifUrl": "https://res.cloudinary.com/dysns4al9/image/upload/v1779592720/gifs/OIgi29XLCOA-kN.gif?alt=media",
+      "gifUrl": "https://firebasestorage.googleapis.com/v0/b/chatappfirebasetd.appspot.com/o/exercises%2FOIgi29XLCOA-kN.gif?alt=media",
       "id": "1675",
       "name": "dumbbell reverse spider curl",
       "target": "biceps",
@@ -12897,7 +12897,7 @@ export const EXERCISES_DATA = [
     {
       "bodyPart": "lower arms",
       "equipment": "dumbbell",
-      "gifUrl": "https://res.cloudinary.com/dysns4al9/image/upload/v1779592720/gifs/x069sDpX-TU3J6.gif?alt=media",
+      "gifUrl": "https://firebasestorage.googleapis.com/v0/b/chatappfirebasetd.appspot.com/o/exercises%2Fx069sDpX-TU3J6.gif?alt=media",
       "id": "0385",
       "name": "dumbbell reverse wrist curl",
       "target": "forearms",
@@ -12917,7 +12917,7 @@ export const EXERCISES_DATA = [
     {
       "bodyPart": "upper legs",
       "equipment": "dumbbell",
-      "gifUrl": "https://res.cloudinary.com/dysns4al9/image/upload/v1779592720/gifs/UwIqXBvEFlSKAO.gif?alt=media",
+      "gifUrl": "https://firebasestorage.googleapis.com/v0/b/chatappfirebasetd.appspot.com/o/exercises%2FUwIqXBvEFlSKAO.gif?alt=media",
       "id": "1459",
       "name": "dumbbell romanian deadlift",
       "target": "glutes",
@@ -12935,7 +12935,7 @@ export const EXERCISES_DATA = [
     {
       "bodyPart": "shoulders",
       "equipment": "dumbbell",
-      "gifUrl": "https://res.cloudinary.com/dysns4al9/image/upload/v1779592720/gifs/NZJqaG8t83f2en.gif?alt=media",
+      "gifUrl": "https://firebasestorage.googleapis.com/v0/b/chatappfirebasetd.appspot.com/o/exercises%2FNZJqaG8t83f2en.gif?alt=media",
       "id": "0386",
       "name": "dumbbell rotation reverse fly",
       "target": "delts",
@@ -12955,7 +12955,7 @@ export const EXERCISES_DATA = [
     {
       "bodyPart": "shoulders",
       "equipment": "dumbbell",
-      "gifUrl": "https://res.cloudinary.com/dysns4al9/image/upload/v1779592720/gifs/IeHK8ZdlI8yssd.gif?alt=media",
+      "gifUrl": "https://firebasestorage.googleapis.com/v0/b/chatappfirebasetd.appspot.com/o/exercises%2FIeHK8ZdlI8yssd.gif?alt=media",
       "id": "2397",
       "name": "dumbbell scott press",
       "target": "delts",
@@ -12974,7 +12974,7 @@ export const EXERCISES_DATA = [
     {
       "bodyPart": "shoulders",
       "equipment": "dumbbell",
-      "gifUrl": "https://res.cloudinary.com/dysns4al9/image/upload/v1779592720/gifs/9QPqbdMQqGM6WT.gif?alt=media",
+      "gifUrl": "https://firebasestorage.googleapis.com/v0/b/chatappfirebasetd.appspot.com/o/exercises%2F9QPqbdMQqGM6WT.gif?alt=media",
       "id": "0387",
       "name": "dumbbell seated alternate front raise",
       "target": "delts",
@@ -12994,7 +12994,7 @@ export const EXERCISES_DATA = [
     {
       "bodyPart": "upper arms",
       "equipment": "dumbbell",
-      "gifUrl": "https://res.cloudinary.com/dysns4al9/image/upload/v1779592720/gifs/kYTevhpNzLlmZp.gif?alt=media",
+      "gifUrl": "https://firebasestorage.googleapis.com/v0/b/chatappfirebasetd.appspot.com/o/exercises%2FkYTevhpNzLlmZp.gif?alt=media",
       "id": "1676",
       "name": "dumbbell seated alternate hammer curl on exercise ball",
       "target": "biceps",
@@ -13015,7 +13015,7 @@ export const EXERCISES_DATA = [
     {
       "bodyPart": "shoulders",
       "equipment": "dumbbell",
-      "gifUrl": "https://res.cloudinary.com/dysns4al9/image/upload/v1779592720/gifs/ih73Lox-kaFG4A.gif?alt=media",
+      "gifUrl": "https://firebasestorage.googleapis.com/v0/b/chatappfirebasetd.appspot.com/o/exercises%2Fih73Lox-kaFG4A.gif?alt=media",
       "id": "0388",
       "name": "dumbbell seated alternate press",
       "target": "delts",
@@ -13035,7 +13035,7 @@ export const EXERCISES_DATA = [
     {
       "bodyPart": "shoulders",
       "equipment": "dumbbell",
-      "gifUrl": "https://res.cloudinary.com/dysns4al9/image/upload/v1779592720/gifs/Qf2LrXOha-T4XT.gif?alt=media",
+      "gifUrl": "https://firebasestorage.googleapis.com/v0/b/chatappfirebasetd.appspot.com/o/exercises%2FQf2LrXOha-T4XT.gif?alt=media",
       "id": "3546",
       "name": "dumbbell seated alternate shoulder",
       "target": "delts",
@@ -13054,7 +13054,7 @@ export const EXERCISES_DATA = [
     {
       "bodyPart": "upper arms",
       "equipment": "dumbbell",
-      "gifUrl": "https://res.cloudinary.com/dysns4al9/image/upload/v1779592720/gifs/TAWG74RaAIRrc6.gif?alt=media",
+      "gifUrl": "https://firebasestorage.googleapis.com/v0/b/chatappfirebasetd.appspot.com/o/exercises%2FTAWG74RaAIRrc6.gif?alt=media",
       "id": "0389",
       "name": "dumbbell seated bench extension",
       "target": "triceps",
@@ -13072,7 +13072,7 @@ export const EXERCISES_DATA = [
     {
       "bodyPart": "shoulders",
       "equipment": "dumbbell",
-      "gifUrl": "https://res.cloudinary.com/dysns4al9/image/upload/v1779592720/gifs/eLxx4QjKkMOb0J.gif?alt=media",
+      "gifUrl": "https://firebasestorage.googleapis.com/v0/b/chatappfirebasetd.appspot.com/o/exercises%2FeLxx4QjKkMOb0J.gif?alt=media",
       "id": "2317",
       "name": "dumbbell seated bent arm lateral raise",
       "target": "delts",
@@ -13091,7 +13091,7 @@ export const EXERCISES_DATA = [
     {
       "bodyPart": "upper arms",
       "equipment": "dumbbell",
-      "gifUrl": "https://res.cloudinary.com/dysns4al9/image/upload/v1779592720/gifs/qu5nS6GY3DEBbt.gif?alt=media",
+      "gifUrl": "https://firebasestorage.googleapis.com/v0/b/chatappfirebasetd.appspot.com/o/exercises%2Fqu5nS6GY3DEBbt.gif?alt=media",
       "id": "1730",
       "name": "dumbbell seated bent over alternate kickback",
       "target": "triceps",
@@ -13111,7 +13111,7 @@ export const EXERCISES_DATA = [
     {
       "bodyPart": "upper arms",
       "equipment": "dumbbell",
-      "gifUrl": "https://res.cloudinary.com/dysns4al9/image/upload/v1779592720/gifs/XM0yFab3vcmGZ9.gif?alt=media",
+      "gifUrl": "https://firebasestorage.googleapis.com/v0/b/chatappfirebasetd.appspot.com/o/exercises%2FXM0yFab3vcmGZ9.gif?alt=media",
       "id": "1737",
       "name": "dumbbell seated bent over triceps extension",
       "target": "triceps",
@@ -13130,7 +13130,7 @@ export const EXERCISES_DATA = [
     {
       "bodyPart": "upper arms",
       "equipment": "dumbbell",
-      "gifUrl": "https://res.cloudinary.com/dysns4al9/image/upload/v1779592720/gifs/UQxgVs6kS5wfiP.gif?alt=media",
+      "gifUrl": "https://firebasestorage.googleapis.com/v0/b/chatappfirebasetd.appspot.com/o/exercises%2FUQxgVs6kS5wfiP.gif?alt=media",
       "id": "1677",
       "name": "dumbbell seated bicep curl",
       "target": "biceps",
@@ -13148,7 +13148,7 @@ export const EXERCISES_DATA = [
     {
       "bodyPart": "upper arms",
       "equipment": "dumbbell",
-      "gifUrl": "https://res.cloudinary.com/dysns4al9/image/upload/v1779592720/gifs/00IpN6wkCcOs6m.gif?alt=media",
+      "gifUrl": "https://firebasestorage.googleapis.com/v0/b/chatappfirebasetd.appspot.com/o/exercises%2F00IpN6wkCcOs6m.gif?alt=media",
       "id": "0390",
       "name": "dumbbell seated biceps curl (on stability ball)",
       "target": "biceps",
@@ -13168,7 +13168,7 @@ export const EXERCISES_DATA = [
     {
       "bodyPart": "upper arms",
       "equipment": "dumbbell",
-      "gifUrl": "https://res.cloudinary.com/dysns4al9/image/upload/v1779592720/gifs/V-dfd3r8J3HlIc.gif?alt=media",
+      "gifUrl": "https://firebasestorage.googleapis.com/v0/b/chatappfirebasetd.appspot.com/o/exercises%2FV-dfd3r8J3HlIc.gif?alt=media",
       "id": "3547",
       "name": "dumbbell seated biceps curl to shoulder press",
       "target": "biceps",
@@ -13188,7 +13188,7 @@ export const EXERCISES_DATA = [
     {
       "bodyPart": "lower legs",
       "equipment": "dumbbell",
-      "gifUrl": "https://res.cloudinary.com/dysns4al9/image/upload/v1779592720/gifs/ya4X7A7XV0oieU.gif?alt=media",
+      "gifUrl": "https://firebasestorage.googleapis.com/v0/b/chatappfirebasetd.appspot.com/o/exercises%2Fya4X7A7XV0oieU.gif?alt=media",
       "id": "1379",
       "name": "dumbbell seated calf raise",
       "target": "calves",
@@ -13207,7 +13207,7 @@ export const EXERCISES_DATA = [
     {
       "bodyPart": "upper arms",
       "equipment": "dumbbell",
-      "gifUrl": "https://res.cloudinary.com/dysns4al9/image/upload/v1779592720/gifs/cRWdhogpKeZcCY.gif?alt=media",
+      "gifUrl": "https://firebasestorage.googleapis.com/v0/b/chatappfirebasetd.appspot.com/o/exercises%2FcRWdhogpKeZcCY.gif?alt=media",
       "id": "0391",
       "name": "dumbbell seated curl",
       "target": "biceps",
@@ -13225,7 +13225,7 @@ export const EXERCISES_DATA = [
     {
       "bodyPart": "shoulders",
       "equipment": "dumbbell",
-      "gifUrl": "https://res.cloudinary.com/dysns4al9/image/upload/v1779592720/gifs/4zVwLCsUWG5a-2.gif?alt=media",
+      "gifUrl": "https://firebasestorage.googleapis.com/v0/b/chatappfirebasetd.appspot.com/o/exercises%2F4zVwLCsUWG5a-2.gif?alt=media",
       "id": "0392",
       "name": "dumbbell seated front raise",
       "target": "delts",
@@ -13244,7 +13244,7 @@ export const EXERCISES_DATA = [
     {
       "bodyPart": "upper arms",
       "equipment": "dumbbell",
-      "gifUrl": "https://res.cloudinary.com/dysns4al9/image/upload/v1779592720/gifs/3d0u62Nv8alGCY.gif?alt=media",
+      "gifUrl": "https://firebasestorage.googleapis.com/v0/b/chatappfirebasetd.appspot.com/o/exercises%2F3d0u62Nv8alGCY.gif?alt=media",
       "id": "1678",
       "name": "dumbbell seated hammer curl",
       "target": "biceps",
@@ -13263,7 +13263,7 @@ export const EXERCISES_DATA = [
     {
       "bodyPart": "upper arms",
       "equipment": "dumbbell",
-      "gifUrl": "https://res.cloudinary.com/dysns4al9/image/upload/v1779592720/gifs/pLxucqr4QvIPxb.gif?alt=media",
+      "gifUrl": "https://firebasestorage.googleapis.com/v0/b/chatappfirebasetd.appspot.com/o/exercises%2FpLxucqr4QvIPxb.gif?alt=media",
       "id": "0393",
       "name": "dumbbell seated inner biceps curl",
       "target": "biceps",
@@ -13281,7 +13281,7 @@ export const EXERCISES_DATA = [
     {
       "bodyPart": "upper arms",
       "equipment": "dumbbell",
-      "gifUrl": "https://res.cloudinary.com/dysns4al9/image/upload/v1779592720/gifs/dE2je1MMKRTzes.gif?alt=media",
+      "gifUrl": "https://firebasestorage.googleapis.com/v0/b/chatappfirebasetd.appspot.com/o/exercises%2FdE2je1MMKRTzes.gif?alt=media",
       "id": "0394",
       "name": "dumbbell seated kickback",
       "target": "triceps",
@@ -13300,7 +13300,7 @@ export const EXERCISES_DATA = [
     {
       "bodyPart": "shoulders",
       "equipment": "dumbbell",
-      "gifUrl": "https://res.cloudinary.com/dysns4al9/image/upload/v1779592720/gifs/SHcyMiuG2DJeDr.gif?alt=media",
+      "gifUrl": "https://firebasestorage.googleapis.com/v0/b/chatappfirebasetd.appspot.com/o/exercises%2FSHcyMiuG2DJeDr.gif?alt=media",
       "id": "0396",
       "name": "dumbbell seated lateral raise",
       "target": "delts",
@@ -13319,7 +13319,7 @@ export const EXERCISES_DATA = [
     {
       "bodyPart": "shoulders",
       "equipment": "dumbbell",
-      "gifUrl": "https://res.cloudinary.com/dysns4al9/image/upload/v1779592720/gifs/8xmHL30Nxz9tCI.gif?alt=media",
+      "gifUrl": "https://firebasestorage.googleapis.com/v0/b/chatappfirebasetd.appspot.com/o/exercises%2F8xmHL30Nxz9tCI.gif?alt=media",
       "id": "0395",
       "name": "dumbbell seated lateral raise v. 2",
       "target": "delts",
@@ -13338,7 +13338,7 @@ export const EXERCISES_DATA = [
     {
       "bodyPart": "upper arms",
       "equipment": "dumbbell",
-      "gifUrl": "https://res.cloudinary.com/dysns4al9/image/upload/v1779592720/gifs/BWnjAODfcwsFAb.gif?alt=media",
+      "gifUrl": "https://firebasestorage.googleapis.com/v0/b/chatappfirebasetd.appspot.com/o/exercises%2FBWnjAODfcwsFAb.gif?alt=media",
       "id": "0397",
       "name": "dumbbell seated neutral wrist curl",
       "target": "biceps",
@@ -13356,7 +13356,7 @@ export const EXERCISES_DATA = [
     {
       "bodyPart": "upper arms",
       "equipment": "dumbbell",
-      "gifUrl": "https://res.cloudinary.com/dysns4al9/image/upload/v1779592720/gifs/AYNjSRgm9NTKll.gif?alt=media",
+      "gifUrl": "https://firebasestorage.googleapis.com/v0/b/chatappfirebasetd.appspot.com/o/exercises%2FAYNjSRgm9NTKll.gif?alt=media",
       "id": "1679",
       "name": "dumbbell seated one arm bicep curl on exercise ball with leg raised",
       "target": "biceps",
@@ -13378,7 +13378,7 @@ export const EXERCISES_DATA = [
     {
       "bodyPart": "upper arms",
       "equipment": "dumbbell",
-      "gifUrl": "https://res.cloudinary.com/dysns4al9/image/upload/v1779592720/gifs/U2d6Pgz3RKO5Cg.gif?alt=media",
+      "gifUrl": "https://firebasestorage.googleapis.com/v0/b/chatappfirebasetd.appspot.com/o/exercises%2FU2d6Pgz3RKO5Cg.gif?alt=media",
       "id": "0398",
       "name": "dumbbell seated one arm kickback",
       "target": "triceps",
@@ -13396,7 +13396,7 @@ export const EXERCISES_DATA = [
     {
       "bodyPart": "lower arms",
       "equipment": "dumbbell",
-      "gifUrl": "https://res.cloudinary.com/dysns4al9/image/upload/v1779592720/gifs/GST4ywpCCOIZxS.gif?alt=media",
+      "gifUrl": "https://firebasestorage.googleapis.com/v0/b/chatappfirebasetd.appspot.com/o/exercises%2FGST4ywpCCOIZxS.gif?alt=media",
       "id": "0399",
       "name": "dumbbell seated one arm rotate",
       "target": "forearms",
@@ -13415,7 +13415,7 @@ export const EXERCISES_DATA = [
     {
       "bodyPart": "lower legs",
       "equipment": "dumbbell",
-      "gifUrl": "https://res.cloudinary.com/dysns4al9/image/upload/v1779592720/gifs/hlOWTWQqdL4Lus.gif?alt=media",
+      "gifUrl": "https://firebasestorage.googleapis.com/v0/b/chatappfirebasetd.appspot.com/o/exercises%2FhlOWTWQqdL4Lus.gif?alt=media",
       "id": "0400",
       "name": "dumbbell seated one leg calf raise",
       "target": "calves",
@@ -13435,7 +13435,7 @@ export const EXERCISES_DATA = [
     {
       "bodyPart": "lower legs",
       "equipment": "dumbbell",
-      "gifUrl": "https://res.cloudinary.com/dysns4al9/image/upload/v1779592720/gifs/aJlyKrjT6pWL4-.gif?alt=media",
+      "gifUrl": "https://firebasestorage.googleapis.com/v0/b/chatappfirebasetd.appspot.com/o/exercises%2FaJlyKrjT6pWL4-.gif?alt=media",
       "id": "1380",
       "name": "dumbbell seated one leg calf raise - hammer grip",
       "target": "calves",
@@ -13455,7 +13455,7 @@ export const EXERCISES_DATA = [
     {
       "bodyPart": "lower legs",
       "equipment": "dumbbell",
-      "gifUrl": "https://res.cloudinary.com/dysns4al9/image/upload/v1779592720/gifs/PDYZJGU4ejXCQd.gif?alt=media",
+      "gifUrl": "https://firebasestorage.googleapis.com/v0/b/chatappfirebasetd.appspot.com/o/exercises%2FPDYZJGU4ejXCQd.gif?alt=media",
       "id": "1381",
       "name": "dumbbell seated one leg calf raise - palm up",
       "target": "calves",
@@ -13475,7 +13475,7 @@ export const EXERCISES_DATA = [
     {
       "bodyPart": "lower arms",
       "equipment": "dumbbell",
-      "gifUrl": "https://res.cloudinary.com/dysns4al9/image/upload/v1779592720/gifs/MUVXD4shdPuxqA.gif?alt=media",
+      "gifUrl": "https://firebasestorage.googleapis.com/v0/b/chatappfirebasetd.appspot.com/o/exercises%2FMUVXD4shdPuxqA.gif?alt=media",
       "id": "0401",
       "name": "dumbbell seated palms up wrist curl",
       "target": "forearms",
@@ -13494,7 +13494,7 @@ export const EXERCISES_DATA = [
     {
       "bodyPart": "upper arms",
       "equipment": "dumbbell",
-      "gifUrl": "https://res.cloudinary.com/dysns4al9/image/upload/v1779592720/gifs/4y08M8p72LpxHF.gif?alt=media",
+      "gifUrl": "https://firebasestorage.googleapis.com/v0/b/chatappfirebasetd.appspot.com/o/exercises%2F4y08M8p72LpxHF.gif?alt=media",
       "id": "0402",
       "name": "dumbbell seated preacher curl",
       "target": "biceps",
@@ -13512,7 +13512,7 @@ export const EXERCISES_DATA = [
     {
       "bodyPart": "upper arms",
       "equipment": "dumbbell",
-      "gifUrl": "https://res.cloudinary.com/dysns4al9/image/upload/v1779592720/gifs/G-QOAZUlJlmL0q.gif?alt=media",
+      "gifUrl": "https://firebasestorage.googleapis.com/v0/b/chatappfirebasetd.appspot.com/o/exercises%2FG-QOAZUlJlmL0q.gif?alt=media",
       "id": "0403",
       "name": "dumbbell seated revers grip concentration curl",
       "target": "biceps",
@@ -13531,7 +13531,7 @@ export const EXERCISES_DATA = [
     {
       "bodyPart": "upper arms",
       "equipment": "dumbbell",
-      "gifUrl": "https://res.cloudinary.com/dysns4al9/image/upload/v1779592720/gifs/FY6IfoW9yexO3p.gif?alt=media",
+      "gifUrl": "https://firebasestorage.googleapis.com/v0/b/chatappfirebasetd.appspot.com/o/exercises%2FFY6IfoW9yexO3p.gif?alt=media",
       "id": "1738",
       "name": "dumbbell seated reverse grip one arm overhead tricep extension",
       "target": "triceps",
@@ -13549,7 +13549,7 @@ export const EXERCISES_DATA = [
     {
       "bodyPart": "shoulders",
       "equipment": "dumbbell",
-      "gifUrl": "https://res.cloudinary.com/dysns4al9/image/upload/v1779592720/gifs/3g5FrPOa60sL6l.gif?alt=media",
+      "gifUrl": "https://firebasestorage.googleapis.com/v0/b/chatappfirebasetd.appspot.com/o/exercises%2F3g5FrPOa60sL6l.gif?alt=media",
       "id": "0405",
       "name": "dumbbell seated shoulder press",
       "target": "delts",
@@ -13568,7 +13568,7 @@ export const EXERCISES_DATA = [
     {
       "bodyPart": "shoulders",
       "equipment": "dumbbell",
-      "gifUrl": "https://res.cloudinary.com/dysns4al9/image/upload/v1779592720/gifs/DS8XNB1MPvPQ6h.gif?alt=media",
+      "gifUrl": "https://firebasestorage.googleapis.com/v0/b/chatappfirebasetd.appspot.com/o/exercises%2FDS8XNB1MPvPQ6h.gif?alt=media",
       "id": "0404",
       "name": "dumbbell seated shoulder press (parallel grip)",
       "target": "delts",
@@ -13587,7 +13587,7 @@ export const EXERCISES_DATA = [
     {
       "bodyPart": "upper arms",
       "equipment": "dumbbell",
-      "gifUrl": "https://res.cloudinary.com/dysns4al9/image/upload/v1779592720/gifs/UkvallJ3eO1gW2.gif?alt=media",
+      "gifUrl": "https://firebasestorage.googleapis.com/v0/b/chatappfirebasetd.appspot.com/o/exercises%2FUkvallJ3eO1gW2.gif?alt=media",
       "id": "2188",
       "name": "dumbbell seated triceps extension",
       "target": "triceps",
@@ -13605,7 +13605,7 @@ export const EXERCISES_DATA = [
     {
       "bodyPart": "back",
       "equipment": "dumbbell",
-      "gifUrl": "https://res.cloudinary.com/dysns4al9/image/upload/v1779592720/gifs/IpKgovcp0r1IJ7.gif?alt=media",
+      "gifUrl": "https://firebasestorage.googleapis.com/v0/b/chatappfirebasetd.appspot.com/o/exercises%2FIpKgovcp0r1IJ7.gif?alt=media",
       "id": "0406",
       "name": "dumbbell shrug",
       "target": "traps",
@@ -13623,7 +13623,7 @@ export const EXERCISES_DATA = [
     {
       "bodyPart": "waist",
       "equipment": "dumbbell",
-      "gifUrl": "https://res.cloudinary.com/dysns4al9/image/upload/v1779592720/gifs/ChvW-8fjDKecZu.gif?alt=media",
+      "gifUrl": "https://firebasestorage.googleapis.com/v0/b/chatappfirebasetd.appspot.com/o/exercises%2FChvW-8fjDKecZu.gif?alt=media",
       "id": "0407",
       "name": "dumbbell side bend",
       "target": "abs",
@@ -13640,7 +13640,7 @@ export const EXERCISES_DATA = [
     {
       "bodyPart": "shoulders",
       "equipment": "dumbbell",
-      "gifUrl": "https://res.cloudinary.com/dysns4al9/image/upload/v1779592720/gifs/1w-O5Nhl5amZyV.gif?alt=media",
+      "gifUrl": "https://firebasestorage.googleapis.com/v0/b/chatappfirebasetd.appspot.com/o/exercises%2F1w-O5Nhl5amZyV.gif?alt=media",
       "id": "0408",
       "name": "dumbbell side lying one hand raise",
       "target": "delts",
@@ -13659,7 +13659,7 @@ export const EXERCISES_DATA = [
     {
       "bodyPart": "back",
       "equipment": "dumbbell",
-      "gifUrl": "https://res.cloudinary.com/dysns4al9/image/upload/v1779592720/gifs/mDCWASD4Az9J35.gif?alt=media",
+      "gifUrl": "https://firebasestorage.googleapis.com/v0/b/chatappfirebasetd.appspot.com/o/exercises%2FmDCWASD4Az9J35.gif?alt=media",
       "id": "3664",
       "name": "dumbbell side plank with rear fly",
       "target": "upper back",
@@ -13680,7 +13680,7 @@ export const EXERCISES_DATA = [
     {
       "bodyPart": "shoulders",
       "equipment": "dumbbell",
-      "gifUrl": "https://res.cloudinary.com/dysns4al9/image/upload/v1779592720/gifs/MpR6QZzjnDF3Ad.gif?alt=media",
+      "gifUrl": "https://firebasestorage.googleapis.com/v0/b/chatappfirebasetd.appspot.com/o/exercises%2FMpR6QZzjnDF3Ad.gif?alt=media",
       "id": "3548",
       "name": "dumbbell single arm overhead carry",
       "target": "delts",
@@ -13699,7 +13699,7 @@ export const EXERCISES_DATA = [
     {
       "bodyPart": "lower legs",
       "equipment": "dumbbell",
-      "gifUrl": "https://res.cloudinary.com/dysns4al9/image/upload/v1779592720/gifs/hpOjYN35qK18F0.gif?alt=media",
+      "gifUrl": "https://firebasestorage.googleapis.com/v0/b/chatappfirebasetd.appspot.com/o/exercises%2FhpOjYN35qK18F0.gif?alt=media",
       "id": "0409",
       "name": "dumbbell single leg calf raise",
       "target": "calves",
@@ -13717,7 +13717,7 @@ export const EXERCISES_DATA = [
     {
       "bodyPart": "upper legs",
       "equipment": "dumbbell",
-      "gifUrl": "https://res.cloudinary.com/dysns4al9/image/upload/v1779592720/gifs/prXBjXnz5Wud03.gif?alt=media",
+      "gifUrl": "https://firebasestorage.googleapis.com/v0/b/chatappfirebasetd.appspot.com/o/exercises%2FprXBjXnz5Wud03.gif?alt=media",
       "id": "1757",
       "name": "dumbbell single leg deadlift",
       "target": "glutes",
@@ -13738,7 +13738,7 @@ export const EXERCISES_DATA = [
     {
       "bodyPart": "upper legs",
       "equipment": "dumbbell",
-      "gifUrl": "https://res.cloudinary.com/dysns4al9/image/upload/v1779592720/gifs/fTX6o2stKsR5c1.gif?alt=media",
+      "gifUrl": "https://firebasestorage.googleapis.com/v0/b/chatappfirebasetd.appspot.com/o/exercises%2FfTX6o2stKsR5c1.gif?alt=media",
       "id": "2805",
       "name": "dumbbell single leg deadlift with stepbox support",
       "target": "glutes",
@@ -13758,7 +13758,7 @@ export const EXERCISES_DATA = [
     {
       "bodyPart": "upper legs",
       "equipment": "dumbbell",
-      "gifUrl": "https://res.cloudinary.com/dysns4al9/image/upload/v1779592720/gifs/ea36BoDJNAuGqB.gif?alt=media",
+      "gifUrl": "https://firebasestorage.googleapis.com/v0/b/chatappfirebasetd.appspot.com/o/exercises%2Fea36BoDJNAuGqB.gif?alt=media",
       "id": "0410",
       "name": "dumbbell single leg split squat",
       "target": "quads",
@@ -13778,7 +13778,7 @@ export const EXERCISES_DATA = [
     {
       "bodyPart": "upper legs",
       "equipment": "dumbbell",
-      "gifUrl": "https://res.cloudinary.com/dysns4al9/image/upload/v1779592720/gifs/qUAh9VnsJqDkpV.gif?alt=media",
+      "gifUrl": "https://firebasestorage.googleapis.com/v0/b/chatappfirebasetd.appspot.com/o/exercises%2FqUAh9VnsJqDkpV.gif?alt=media",
       "id": "0411",
       "name": "dumbbell single leg squat",
       "target": "glutes",
@@ -13799,7 +13799,7 @@ export const EXERCISES_DATA = [
     {
       "bodyPart": "upper legs",
       "equipment": "dumbbell",
-      "gifUrl": "https://res.cloudinary.com/dysns4al9/image/upload/v1779592720/gifs/B0l8als3zaupZd.gif?alt=media",
+      "gifUrl": "https://firebasestorage.googleapis.com/v0/b/chatappfirebasetd.appspot.com/o/exercises%2FB0l8als3zaupZd.gif?alt=media",
       "id": "0413",
       "name": "dumbbell squat",
       "target": "glutes",
@@ -13819,7 +13819,7 @@ export const EXERCISES_DATA = [
     {
       "bodyPart": "upper arms",
       "equipment": "dumbbell",
-      "gifUrl": "https://res.cloudinary.com/dysns4al9/image/upload/v1779592720/gifs/28Ss7LNokmtb9X.gif?alt=media",
+      "gifUrl": "https://firebasestorage.googleapis.com/v0/b/chatappfirebasetd.appspot.com/o/exercises%2F28Ss7LNokmtb9X.gif?alt=media",
       "id": "3560",
       "name": "dumbbell standing alternate hammer curl and press",
       "target": "biceps",
@@ -13844,7 +13844,7 @@ export const EXERCISES_DATA = [
     {
       "bodyPart": "shoulders",
       "equipment": "dumbbell",
-      "gifUrl": "https://res.cloudinary.com/dysns4al9/image/upload/v1779592720/gifs/rzq0z2gYlP7rJP.gif?alt=media",
+      "gifUrl": "https://firebasestorage.googleapis.com/v0/b/chatappfirebasetd.appspot.com/o/exercises%2Frzq0z2gYlP7rJP.gif?alt=media",
       "id": "0414",
       "name": "dumbbell standing alternate overhead press",
       "target": "delts",
@@ -13863,7 +13863,7 @@ export const EXERCISES_DATA = [
     {
       "bodyPart": "shoulders",
       "equipment": "dumbbell",
-      "gifUrl": "https://res.cloudinary.com/dysns4al9/image/upload/v1779592720/gifs/OOnVVnM4qOjhSq.gif?alt=media",
+      "gifUrl": "https://firebasestorage.googleapis.com/v0/b/chatappfirebasetd.appspot.com/o/exercises%2FOOnVVnM4qOjhSq.gif?alt=media",
       "id": "0415",
       "name": "dumbbell standing alternate raise",
       "target": "delts",
@@ -13884,7 +13884,7 @@ export const EXERCISES_DATA = [
     {
       "bodyPart": "upper arms",
       "equipment": "dumbbell",
-      "gifUrl": "https://res.cloudinary.com/dysns4al9/image/upload/v1779592720/gifs/esK-r52K-Bg593.gif?alt=media",
+      "gifUrl": "https://firebasestorage.googleapis.com/v0/b/chatappfirebasetd.appspot.com/o/exercises%2FesK-r52K-Bg593.gif?alt=media",
       "id": "1739",
       "name": "dumbbell standing alternating tricep kickback",
       "target": "triceps",
@@ -13902,7 +13902,7 @@ export const EXERCISES_DATA = [
     {
       "bodyPart": "shoulders",
       "equipment": "dumbbell",
-      "gifUrl": "https://res.cloudinary.com/dysns4al9/image/upload/v1779592720/gifs/T6aCwQnDlcK8MI.gif?alt=media",
+      "gifUrl": "https://firebasestorage.googleapis.com/v0/b/chatappfirebasetd.appspot.com/o/exercises%2FT6aCwQnDlcK8MI.gif?alt=media",
       "id": "2143",
       "name": "dumbbell standing around world",
       "target": "delts",
@@ -13921,7 +13921,7 @@ export const EXERCISES_DATA = [
     {
       "bodyPart": "upper arms",
       "equipment": "dumbbell",
-      "gifUrl": "https://res.cloudinary.com/dysns4al9/image/upload/v1779592720/gifs/jmrg3Js6BYzsVJ.gif?alt=media",
+      "gifUrl": "https://firebasestorage.googleapis.com/v0/b/chatappfirebasetd.appspot.com/o/exercises%2Fjmrg3Js6BYzsVJ.gif?alt=media",
       "id": "1740",
       "name": "dumbbell standing bent over one arm triceps extension",
       "target": "triceps",
@@ -13940,7 +13940,7 @@ export const EXERCISES_DATA = [
     {
       "bodyPart": "upper arms",
       "equipment": "dumbbell",
-      "gifUrl": "https://res.cloudinary.com/dysns4al9/image/upload/v1779592720/gifs/jmsX9-Nysuh0nE.gif?alt=media",
+      "gifUrl": "https://firebasestorage.googleapis.com/v0/b/chatappfirebasetd.appspot.com/o/exercises%2FjmsX9-Nysuh0nE.gif?alt=media",
       "id": "1741",
       "name": "dumbbell standing bent over two arm triceps extension",
       "target": "triceps",
@@ -13959,7 +13959,7 @@ export const EXERCISES_DATA = [
     {
       "bodyPart": "upper arms",
       "equipment": "dumbbell",
-      "gifUrl": "https://res.cloudinary.com/dysns4al9/image/upload/v1779592720/gifs/t2BpQsH4jtZjPV.gif?alt=media",
+      "gifUrl": "https://firebasestorage.googleapis.com/v0/b/chatappfirebasetd.appspot.com/o/exercises%2Ft2BpQsH4jtZjPV.gif?alt=media",
       "id": "0416",
       "name": "dumbbell standing biceps curl",
       "target": "biceps",
@@ -13978,7 +13978,7 @@ export const EXERCISES_DATA = [
     {
       "bodyPart": "lower legs",
       "equipment": "dumbbell",
-      "gifUrl": "https://res.cloudinary.com/dysns4al9/image/upload/v1779592720/gifs/yVXTzawiRQ86ki.gif?alt=media",
+      "gifUrl": "https://firebasestorage.googleapis.com/v0/b/chatappfirebasetd.appspot.com/o/exercises%2FyVXTzawiRQ86ki.gif?alt=media",
       "id": "0417",
       "name": "dumbbell standing calf raise",
       "target": "calves",
@@ -13995,7 +13995,7 @@ export const EXERCISES_DATA = [
     {
       "bodyPart": "upper arms",
       "equipment": "dumbbell",
-      "gifUrl": "https://res.cloudinary.com/dysns4al9/image/upload/v1779592720/gifs/JfadOlLCjCQ45z.gif?alt=media",
+      "gifUrl": "https://firebasestorage.googleapis.com/v0/b/chatappfirebasetd.appspot.com/o/exercises%2FJfadOlLCjCQ45z.gif?alt=media",
       "id": "0418",
       "name": "dumbbell standing concentration curl",
       "target": "biceps",
@@ -14015,7 +14015,7 @@ export const EXERCISES_DATA = [
     {
       "bodyPart": "shoulders",
       "equipment": "dumbbell",
-      "gifUrl": "https://res.cloudinary.com/dysns4al9/image/upload/v1779592720/gifs/heyRuku2Y49zOp.gif?alt=media",
+      "gifUrl": "https://firebasestorage.googleapis.com/v0/b/chatappfirebasetd.appspot.com/o/exercises%2FheyRuku2Y49zOp.gif?alt=media",
       "id": "0419",
       "name": "dumbbell standing front raise above head",
       "target": "delts",
@@ -14033,7 +14033,7 @@ export const EXERCISES_DATA = [
     {
       "bodyPart": "upper arms",
       "equipment": "dumbbell",
-      "gifUrl": "https://res.cloudinary.com/dysns4al9/image/upload/v1779592720/gifs/kvpojhOmBDQLX9.gif?alt=media",
+      "gifUrl": "https://firebasestorage.googleapis.com/v0/b/chatappfirebasetd.appspot.com/o/exercises%2FkvpojhOmBDQLX9.gif?alt=media",
       "id": "2321",
       "name": "dumbbell standing inner biceps curl v. 2",
       "target": "biceps",
@@ -14053,7 +14053,7 @@ export const EXERCISES_DATA = [
     {
       "bodyPart": "upper arms",
       "equipment": "dumbbell",
-      "gifUrl": "https://res.cloudinary.com/dysns4al9/image/upload/v1779592720/gifs/8B3L4XAb2HqREc.gif?alt=media",
+      "gifUrl": "https://firebasestorage.googleapis.com/v0/b/chatappfirebasetd.appspot.com/o/exercises%2F8B3L4XAb2HqREc.gif?alt=media",
       "id": "0420",
       "name": "dumbbell standing kickback",
       "target": "triceps",
@@ -14071,7 +14071,7 @@ export const EXERCISES_DATA = [
     {
       "bodyPart": "upper arms",
       "equipment": "dumbbell",
-      "gifUrl": "https://res.cloudinary.com/dysns4al9/image/upload/v1779592720/gifs/baByciqrxsft5D.gif?alt=media",
+      "gifUrl": "https://firebasestorage.googleapis.com/v0/b/chatappfirebasetd.appspot.com/o/exercises%2FbaByciqrxsft5D.gif?alt=media",
       "id": "0421",
       "name": "dumbbell standing one arm concentration curl",
       "target": "biceps",
@@ -14091,7 +14091,7 @@ export const EXERCISES_DATA = [
     {
       "bodyPart": "upper arms",
       "equipment": "dumbbell",
-      "gifUrl": "https://res.cloudinary.com/dysns4al9/image/upload/v1779592720/gifs/eAWlb2yzfNkwLr.gif?alt=media",
+      "gifUrl": "https://firebasestorage.googleapis.com/v0/b/chatappfirebasetd.appspot.com/o/exercises%2FeAWlb2yzfNkwLr.gif?alt=media",
       "id": "0422",
       "name": "dumbbell standing one arm curl (over incline bench)",
       "target": "biceps",
@@ -14109,7 +14109,7 @@ export const EXERCISES_DATA = [
     {
       "bodyPart": "upper arms",
       "equipment": "dumbbell",
-      "gifUrl": "https://res.cloudinary.com/dysns4al9/image/upload/v1779592720/gifs/pSnggqPx8ua6u7.gif?alt=media",
+      "gifUrl": "https://firebasestorage.googleapis.com/v0/b/chatappfirebasetd.appspot.com/o/exercises%2FpSnggqPx8ua6u7.gif?alt=media",
       "id": "1680",
       "name": "dumbbell standing one arm curl over incline bench",
       "target": "biceps",
@@ -14127,7 +14127,7 @@ export const EXERCISES_DATA = [
     {
       "bodyPart": "upper arms",
       "equipment": "dumbbell",
-      "gifUrl": "https://res.cloudinary.com/dysns4al9/image/upload/v1779592720/gifs/LaAxf96PwDBysF.gif?alt=media",
+      "gifUrl": "https://firebasestorage.googleapis.com/v0/b/chatappfirebasetd.appspot.com/o/exercises%2FLaAxf96PwDBysF.gif?alt=media",
       "id": "0423",
       "name": "dumbbell standing one arm extension",
       "target": "triceps",
@@ -14146,7 +14146,7 @@ export const EXERCISES_DATA = [
     {
       "bodyPart": "shoulders",
       "equipment": "dumbbell",
-      "gifUrl": "https://res.cloudinary.com/dysns4al9/image/upload/v1779592720/gifs/8bYM1g7jrJJkjH.gif?alt=media",
+      "gifUrl": "https://firebasestorage.googleapis.com/v0/b/chatappfirebasetd.appspot.com/o/exercises%2F8bYM1g7jrJJkjH.gif?alt=media",
       "id": "0424",
       "name": "dumbbell standing one arm palm in press",
       "target": "delts",
@@ -14165,7 +14165,7 @@ export const EXERCISES_DATA = [
     {
       "bodyPart": "upper arms",
       "equipment": "dumbbell",
-      "gifUrl": "https://res.cloudinary.com/dysns4al9/image/upload/v1779592720/gifs/RYLg10FOFghwQX.gif?alt=media",
+      "gifUrl": "https://firebasestorage.googleapis.com/v0/b/chatappfirebasetd.appspot.com/o/exercises%2FRYLg10FOFghwQX.gif?alt=media",
       "id": "0425",
       "name": "dumbbell standing one arm reverse curl",
       "target": "biceps",
@@ -14183,7 +14183,7 @@ export const EXERCISES_DATA = [
     {
       "bodyPart": "shoulders",
       "equipment": "dumbbell",
-      "gifUrl": "https://res.cloudinary.com/dysns4al9/image/upload/v1779592720/gifs/fKxZ-wQmH5pcwD.gif?alt=media",
+      "gifUrl": "https://firebasestorage.googleapis.com/v0/b/chatappfirebasetd.appspot.com/o/exercises%2FfKxZ-wQmH5pcwD.gif?alt=media",
       "id": "0426",
       "name": "dumbbell standing overhead press",
       "target": "delts",
@@ -14201,7 +14201,7 @@ export const EXERCISES_DATA = [
     {
       "bodyPart": "shoulders",
       "equipment": "dumbbell",
-      "gifUrl": "https://res.cloudinary.com/dysns4al9/image/upload/v1779592720/gifs/XStcUmGza601je.gif?alt=media",
+      "gifUrl": "https://firebasestorage.googleapis.com/v0/b/chatappfirebasetd.appspot.com/o/exercises%2FXStcUmGza601je.gif?alt=media",
       "id": "0427",
       "name": "dumbbell standing palms in press",
       "target": "delts",
@@ -14219,7 +14219,7 @@ export const EXERCISES_DATA = [
     {
       "bodyPart": "upper arms",
       "equipment": "dumbbell",
-      "gifUrl": "https://res.cloudinary.com/dysns4al9/image/upload/v1779592720/gifs/fki0aaOTfvjTpu.gif?alt=media",
+      "gifUrl": "https://firebasestorage.googleapis.com/v0/b/chatappfirebasetd.appspot.com/o/exercises%2Ffki0aaOTfvjTpu.gif?alt=media",
       "id": "0428",
       "name": "dumbbell standing preacher curl",
       "target": "biceps",
@@ -14239,7 +14239,7 @@ export const EXERCISES_DATA = [
     {
       "bodyPart": "upper arms",
       "equipment": "dumbbell",
-      "gifUrl": "https://res.cloudinary.com/dysns4al9/image/upload/v1779592720/gifs/imzwkvIB3Bct8I.gif?alt=media",
+      "gifUrl": "https://firebasestorage.googleapis.com/v0/b/chatappfirebasetd.appspot.com/o/exercises%2FimzwkvIB3Bct8I.gif?alt=media",
       "id": "0429",
       "name": "dumbbell standing reverse curl",
       "target": "biceps",
@@ -14257,7 +14257,7 @@ export const EXERCISES_DATA = [
     {
       "bodyPart": "upper arms",
       "equipment": "dumbbell",
-      "gifUrl": "https://res.cloudinary.com/dysns4al9/image/upload/v1779592720/gifs/6iIJRaPaS6006a.gif?alt=media",
+      "gifUrl": "https://firebasestorage.googleapis.com/v0/b/chatappfirebasetd.appspot.com/o/exercises%2F6iIJRaPaS6006a.gif?alt=media",
       "id": "0430",
       "name": "dumbbell standing triceps extension",
       "target": "triceps",
@@ -14275,7 +14275,7 @@ export const EXERCISES_DATA = [
     {
       "bodyPart": "upper arms",
       "equipment": "dumbbell",
-      "gifUrl": "https://res.cloudinary.com/dysns4al9/image/upload/v1779592720/gifs/GK-wpPtSZnK4qR.gif?alt=media",
+      "gifUrl": "https://firebasestorage.googleapis.com/v0/b/chatappfirebasetd.appspot.com/o/exercises%2FGK-wpPtSZnK4qR.gif?alt=media",
       "id": "2293",
       "name": "dumbbell standing zottman preacher curl",
       "target": "biceps",
@@ -14294,7 +14294,7 @@ export const EXERCISES_DATA = [
     {
       "bodyPart": "upper arms",
       "equipment": "dumbbell",
-      "gifUrl": "https://res.cloudinary.com/dysns4al9/image/upload/v1779592720/gifs/M9sYieerINfGpb.gif?alt=media",
+      "gifUrl": "https://firebasestorage.googleapis.com/v0/b/chatappfirebasetd.appspot.com/o/exercises%2FM9sYieerINfGpb.gif?alt=media",
       "id": "1684",
       "name": "dumbbell step up single leg balance with bicep curl",
       "target": "biceps",
@@ -14316,7 +14316,7 @@ export const EXERCISES_DATA = [
     {
       "bodyPart": "upper legs",
       "equipment": "dumbbell",
-      "gifUrl": "https://res.cloudinary.com/dysns4al9/image/upload/v1779592720/gifs/jOLS6ppJN3515x.gif?alt=media",
+      "gifUrl": "https://firebasestorage.googleapis.com/v0/b/chatappfirebasetd.appspot.com/o/exercises%2FjOLS6ppJN3515x.gif?alt=media",
       "id": "0431",
       "name": "dumbbell step-up",
       "target": "glutes",
@@ -14337,7 +14337,7 @@ export const EXERCISES_DATA = [
     {
       "bodyPart": "upper legs",
       "equipment": "dumbbell",
-      "gifUrl": "https://res.cloudinary.com/dysns4al9/image/upload/v1779592720/gifs/fLN9RO-Mq5O65F.gif?alt=media",
+      "gifUrl": "https://firebasestorage.googleapis.com/v0/b/chatappfirebasetd.appspot.com/o/exercises%2FfLN9RO-Mq5O65F.gif?alt=media",
       "id": "2796",
       "name": "dumbbell step-up lunge",
       "target": "quads",
@@ -14358,7 +14358,7 @@ export const EXERCISES_DATA = [
     {
       "bodyPart": "upper legs",
       "equipment": "dumbbell",
-      "gifUrl": "https://res.cloudinary.com/dysns4al9/image/upload/v1779592720/gifs/ztfr7TqAtibS63.gif?alt=media",
+      "gifUrl": "https://firebasestorage.googleapis.com/v0/b/chatappfirebasetd.appspot.com/o/exercises%2Fztfr7TqAtibS63.gif?alt=media",
       "id": "2812",
       "name": "dumbbell step-up split squat",
       "target": "quads",
@@ -14380,7 +14380,7 @@ export const EXERCISES_DATA = [
     {
       "bodyPart": "upper legs",
       "equipment": "dumbbell",
-      "gifUrl": "https://res.cloudinary.com/dysns4al9/image/upload/v1779592720/gifs/aFCsTeHVapN2hZ.gif?alt=media",
+      "gifUrl": "https://firebasestorage.googleapis.com/v0/b/chatappfirebasetd.appspot.com/o/exercises%2FaFCsTeHVapN2hZ.gif?alt=media",
       "id": "0432",
       "name": "dumbbell stiff leg deadlift",
       "target": "glutes",
@@ -14398,7 +14398,7 @@ export const EXERCISES_DATA = [
     {
       "bodyPart": "chest",
       "equipment": "dumbbell",
-      "gifUrl": "https://res.cloudinary.com/dysns4al9/image/upload/v1779592720/gifs/wYkoKZ6ksESeBs.gif?alt=media",
+      "gifUrl": "https://firebasestorage.googleapis.com/v0/b/chatappfirebasetd.appspot.com/o/exercises%2FwYkoKZ6ksESeBs.gif?alt=media",
       "id": "0433",
       "name": "dumbbell straight arm pullover",
       "target": "pectorals",
@@ -14417,7 +14417,7 @@ export const EXERCISES_DATA = [
     {
       "bodyPart": "upper legs",
       "equipment": "dumbbell",
-      "gifUrl": "https://res.cloudinary.com/dysns4al9/image/upload/v1779592720/gifs/jkk2S2E6NIXEBi.gif?alt=media",
+      "gifUrl": "https://firebasestorage.googleapis.com/v0/b/chatappfirebasetd.appspot.com/o/exercises%2Fjkk2S2E6NIXEBi.gif?alt=media",
       "id": "0434",
       "name": "dumbbell straight leg deadlift",
       "target": "glutes",
@@ -14436,7 +14436,7 @@ export const EXERCISES_DATA = [
     {
       "bodyPart": "upper legs",
       "equipment": "dumbbell",
-      "gifUrl": "https://res.cloudinary.com/dysns4al9/image/upload/v1779592720/gifs/WvugDKND0jueQi.gif?alt=media",
+      "gifUrl": "https://firebasestorage.googleapis.com/v0/b/chatappfirebasetd.appspot.com/o/exercises%2FWvugDKND0jueQi.gif?alt=media",
       "id": "2808",
       "name": "dumbbell sumo pull through",
       "target": "glutes",
@@ -14458,7 +14458,7 @@ export const EXERCISES_DATA = [
     {
       "bodyPart": "upper legs",
       "equipment": "dumbbell",
-      "gifUrl": "https://res.cloudinary.com/dysns4al9/image/upload/v1779592720/gifs/QzEuwPus9Q4YsP.gif?alt=media",
+      "gifUrl": "https://firebasestorage.googleapis.com/v0/b/chatappfirebasetd.appspot.com/o/exercises%2FQzEuwPus9Q4YsP.gif?alt=media",
       "id": "2803",
       "name": "dumbbell supported squat",
       "target": "quads",
@@ -14478,7 +14478,7 @@ export const EXERCISES_DATA = [
     {
       "bodyPart": "upper arms",
       "equipment": "dumbbell",
-      "gifUrl": "https://res.cloudinary.com/dysns4al9/image/upload/v1779592720/gifs/wSPNSn39ipYrGG.gif?alt=media",
+      "gifUrl": "https://firebasestorage.googleapis.com/v0/b/chatappfirebasetd.appspot.com/o/exercises%2FwSPNSn39ipYrGG.gif?alt=media",
       "id": "0436",
       "name": "dumbbell tate press",
       "target": "triceps",
@@ -14495,7 +14495,7 @@ export const EXERCISES_DATA = [
     {
       "bodyPart": "upper arms",
       "equipment": "dumbbell",
-      "gifUrl": "https://res.cloudinary.com/dysns4al9/image/upload/v1779592720/gifs/ROfOKsWOo8DTxk.gif?alt=media",
+      "gifUrl": "https://firebasestorage.googleapis.com/v0/b/chatappfirebasetd.appspot.com/o/exercises%2FROfOKsWOo8DTxk.gif?alt=media",
       "id": "1742",
       "name": "dumbbell tricep kickback with stork stance",
       "target": "triceps",
@@ -14514,7 +14514,7 @@ export const EXERCISES_DATA = [
     {
       "bodyPart": "upper arms",
       "equipment": "dumbbell",
-      "gifUrl": "https://res.cloudinary.com/dysns4al9/image/upload/v1779592720/gifs/vxG6emaHICxeRp.gif?alt=media",
+      "gifUrl": "https://firebasestorage.googleapis.com/v0/b/chatappfirebasetd.appspot.com/o/exercises%2FvxG6emaHICxeRp.gif?alt=media",
       "id": "1743",
       "name": "dumbbell twisting bench press",
       "target": "triceps",
@@ -14536,7 +14536,7 @@ export const EXERCISES_DATA = [
     {
       "bodyPart": "shoulders",
       "equipment": "dumbbell",
-      "gifUrl": "https://res.cloudinary.com/dysns4al9/image/upload/v1779592720/gifs/gYQkkp0JR7pg-l.gif?alt=media",
+      "gifUrl": "https://firebasestorage.googleapis.com/v0/b/chatappfirebasetd.appspot.com/o/exercises%2FgYQkkp0JR7pg-l.gif?alt=media",
       "id": "0437",
       "name": "dumbbell upright row",
       "target": "delts",
@@ -14555,7 +14555,7 @@ export const EXERCISES_DATA = [
     {
       "bodyPart": "shoulders",
       "equipment": "dumbbell",
-      "gifUrl": "https://res.cloudinary.com/dysns4al9/image/upload/v1779592720/gifs/kuKqETwKCwwjkr.gif?alt=media",
+      "gifUrl": "https://firebasestorage.googleapis.com/v0/b/chatappfirebasetd.appspot.com/o/exercises%2FkuKqETwKCwwjkr.gif?alt=media",
       "id": "1765",
       "name": "dumbbell upright row (back pov)",
       "target": "delts",
@@ -14575,7 +14575,7 @@ export const EXERCISES_DATA = [
     {
       "bodyPart": "shoulders",
       "equipment": "dumbbell",
-      "gifUrl": "https://res.cloudinary.com/dysns4al9/image/upload/v1779592720/gifs/1NwHIfTmmN7S-p.gif?alt=media",
+      "gifUrl": "https://firebasestorage.googleapis.com/v0/b/chatappfirebasetd.appspot.com/o/exercises%2F1NwHIfTmmN7S-p.gif?alt=media",
       "id": "0864",
       "name": "dumbbell upright shoulder external rotation",
       "target": "delts",
@@ -14594,7 +14594,7 @@ export const EXERCISES_DATA = [
     {
       "bodyPart": "upper arms",
       "equipment": "dumbbell",
-      "gifUrl": "https://res.cloudinary.com/dysns4al9/image/upload/v1779592720/gifs/EoOinCTUeVhkif.gif?alt=media",
+      "gifUrl": "https://firebasestorage.googleapis.com/v0/b/chatappfirebasetd.appspot.com/o/exercises%2FEoOinCTUeVhkif.gif?alt=media",
       "id": "5201",
       "name": "dumbbell waiter biceps curl",
       "target": "biceps",
@@ -14613,7 +14613,7 @@ export const EXERCISES_DATA = [
     {
       "bodyPart": "shoulders",
       "equipment": "dumbbell",
-      "gifUrl": "https://res.cloudinary.com/dysns4al9/image/upload/v1779592720/gifs/GjP0ohYossoMhq.gif?alt=media",
+      "gifUrl": "https://firebasestorage.googleapis.com/v0/b/chatappfirebasetd.appspot.com/o/exercises%2FGjP0ohYossoMhq.gif?alt=media",
       "id": "0438",
       "name": "dumbbell w-press",
       "target": "delts",
@@ -14632,7 +14632,7 @@ export const EXERCISES_DATA = [
     {
       "bodyPart": "upper arms",
       "equipment": "dumbbell",
-      "gifUrl": "https://res.cloudinary.com/dysns4al9/image/upload/v1779592720/gifs/umzAeCgh7Dgb05.gif?alt=media",
+      "gifUrl": "https://firebasestorage.googleapis.com/v0/b/chatappfirebasetd.appspot.com/o/exercises%2FumzAeCgh7Dgb05.gif?alt=media",
       "id": "0439",
       "name": "dumbbell zottman curl",
       "target": "biceps",
@@ -14651,7 +14651,7 @@ export const EXERCISES_DATA = [
     {
       "bodyPart": "upper arms",
       "equipment": "dumbbell",
-      "gifUrl": "https://res.cloudinary.com/dysns4al9/image/upload/v1779592720/gifs/3py8R2f88tziRL.gif?alt=media",
+      "gifUrl": "https://firebasestorage.googleapis.com/v0/b/chatappfirebasetd.appspot.com/o/exercises%2F3py8R2f88tziRL.gif?alt=media",
       "id": "2294",
       "name": "dumbbell zottman preacher curl",
       "target": "biceps",
@@ -14669,7 +14669,7 @@ export const EXERCISES_DATA = [
     {
       "bodyPart": "upper arms",
       "equipment": "dumbbell",
-      "gifUrl": "https://res.cloudinary.com/dysns4al9/image/upload/v1779592720/gifs/1x0Ti0uMHtjnVe.gif?alt=media",
+      "gifUrl": "https://firebasestorage.googleapis.com/v0/b/chatappfirebasetd.appspot.com/o/exercises%2F1x0Ti0uMHtjnVe.gif?alt=media",
       "id": "2189",
       "name": "dumbbells seated triceps extension",
       "target": "triceps",
@@ -14687,7 +14687,7 @@ export const EXERCISES_DATA = [
     {
       "bodyPart": "chest",
       "equipment": "body weight",
-      "gifUrl": "https://res.cloudinary.com/dysns4al9/image/upload/v1779592720/gifs/Xr6CAt53T18F1Z.gif?alt=media",
+      "gifUrl": "https://firebasestorage.googleapis.com/v0/b/chatappfirebasetd.appspot.com/o/exercises%2FXr6CAt53T18F1Z.gif?alt=media",
       "id": "1167",
       "name": "dynamic chest stretch (male)",
       "target": "pectorals",
@@ -14707,7 +14707,7 @@ export const EXERCISES_DATA = [
     {
       "bodyPart": "upper arms",
       "equipment": "body weight",
-      "gifUrl": "https://res.cloudinary.com/dysns4al9/image/upload/v1779592720/gifs/64N3byyloecQtW.gif?alt=media",
+      "gifUrl": "https://firebasestorage.googleapis.com/v0/b/chatappfirebasetd.appspot.com/o/exercises%2F64N3byyloecQtW.gif?alt=media",
       "id": "3287",
       "name": "elbow dips",
       "target": "triceps",
@@ -14726,7 +14726,7 @@ export const EXERCISES_DATA = [
     {
       "bodyPart": "back",
       "equipment": "body weight",
-      "gifUrl": "https://res.cloudinary.com/dysns4al9/image/upload/v1779592720/gifs/oG2KNG-4mJ9DD0.gif?alt=media",
+      "gifUrl": "https://firebasestorage.googleapis.com/v0/b/chatappfirebasetd.appspot.com/o/exercises%2FoG2KNG-4mJ9DD0.gif?alt=media",
       "id": "1772",
       "name": "elbow lift - reverse push-up",
       "target": "upper back",
@@ -14745,7 +14745,7 @@ export const EXERCISES_DATA = [
     {
       "bodyPart": "waist",
       "equipment": "body weight",
-      "gifUrl": "https://res.cloudinary.com/dysns4al9/image/upload/v1779592720/gifs/gsz-0TfFcuHKYv.gif?alt=media",
+      "gifUrl": "https://firebasestorage.googleapis.com/v0/b/chatappfirebasetd.appspot.com/o/exercises%2Fgsz-0TfFcuHKYv.gif?alt=media",
       "id": "0443",
       "name": "elbow-to-knee",
       "target": "abs",
@@ -14765,7 +14765,7 @@ export const EXERCISES_DATA = [
     {
       "bodyPart": "back",
       "equipment": "body weight",
-      "gifUrl": "https://res.cloudinary.com/dysns4al9/image/upload/v1779592720/gifs/1095Z1vryBkGbE.gif?alt=media",
+      "gifUrl": "https://firebasestorage.googleapis.com/v0/b/chatappfirebasetd.appspot.com/o/exercises%2F1095Z1vryBkGbE.gif?alt=media",
       "id": "3292",
       "name": "elevator",
       "target": "upper back",
@@ -14784,7 +14784,7 @@ export const EXERCISES_DATA = [
     {
       "bodyPart": "back",
       "equipment": "stability ball",
-      "gifUrl": "https://res.cloudinary.com/dysns4al9/image/upload/v1779592720/gifs/ErH6jfvD8Cn27x.gif?alt=media",
+      "gifUrl": "https://firebasestorage.googleapis.com/v0/b/chatappfirebasetd.appspot.com/o/exercises%2FErH6jfvD8Cn27x.gif?alt=media",
       "id": "1332",
       "name": "exercise ball alternating arm ups",
       "target": "lats",
@@ -14804,7 +14804,7 @@ export const EXERCISES_DATA = [
     {
       "bodyPart": "back",
       "equipment": "stability ball",
-      "gifUrl": "https://res.cloudinary.com/dysns4al9/image/upload/v1779592720/gifs/9Hb3yvDDKwB0Rf.gif?alt=media",
+      "gifUrl": "https://firebasestorage.googleapis.com/v0/b/chatappfirebasetd.appspot.com/o/exercises%2F9Hb3yvDDKwB0Rf.gif?alt=media",
       "id": "1333",
       "name": "exercise ball back extension with arms extended",
       "target": "spine",
@@ -14823,7 +14823,7 @@ export const EXERCISES_DATA = [
     {
       "bodyPart": "back",
       "equipment": "stability ball",
-      "gifUrl": "https://res.cloudinary.com/dysns4al9/image/upload/v1779592720/gifs/AavhrT27dwlHJh.gif?alt=media",
+      "gifUrl": "https://firebasestorage.googleapis.com/v0/b/chatappfirebasetd.appspot.com/o/exercises%2FAavhrT27dwlHJh.gif?alt=media",
       "id": "1334",
       "name": "exercise ball back extension with hands behind head",
       "target": "spine",
@@ -14843,7 +14843,7 @@ export const EXERCISES_DATA = [
     {
       "bodyPart": "back",
       "equipment": "stability ball",
-      "gifUrl": "https://res.cloudinary.com/dysns4al9/image/upload/v1779592720/gifs/otO5PkMhSFICyU.gif?alt=media",
+      "gifUrl": "https://firebasestorage.googleapis.com/v0/b/chatappfirebasetd.appspot.com/o/exercises%2FotO5PkMhSFICyU.gif?alt=media",
       "id": "1335",
       "name": "exercise ball back extension with knees off ground",
       "target": "spine",
@@ -14862,7 +14862,7 @@ export const EXERCISES_DATA = [
     {
       "bodyPart": "back",
       "equipment": "stability ball",
-      "gifUrl": "https://res.cloudinary.com/dysns4al9/image/upload/v1779592720/gifs/Rjp1ix3AF-YTeJ.gif?alt=media",
+      "gifUrl": "https://firebasestorage.googleapis.com/v0/b/chatappfirebasetd.appspot.com/o/exercises%2FRjp1ix3AF-YTeJ.gif?alt=media",
       "id": "1336",
       "name": "exercise ball back extension with rotation",
       "target": "spine",
@@ -14882,7 +14882,7 @@ export const EXERCISES_DATA = [
     {
       "bodyPart": "upper arms",
       "equipment": "stability ball",
-      "gifUrl": "https://res.cloudinary.com/dysns4al9/image/upload/v1779592720/gifs/wQOSwGBJUYQAoa.gif?alt=media",
+      "gifUrl": "https://firebasestorage.googleapis.com/v0/b/chatappfirebasetd.appspot.com/o/exercises%2FwQOSwGBJUYQAoa.gif?alt=media",
       "id": "1744",
       "name": "exercise ball dip",
       "target": "triceps",
@@ -14901,7 +14901,7 @@ export const EXERCISES_DATA = [
     {
       "bodyPart": "upper legs",
       "equipment": "stability ball",
-      "gifUrl": "https://res.cloudinary.com/dysns4al9/image/upload/v1779592720/gifs/8XOp7g3NxUuIwR.gif?alt=media",
+      "gifUrl": "https://firebasestorage.googleapis.com/v0/b/chatappfirebasetd.appspot.com/o/exercises%2F8XOp7g3NxUuIwR.gif?alt=media",
       "id": "1559",
       "name": "exercise ball hip flexor stretch",
       "target": "glutes",
@@ -14920,7 +14920,7 @@ export const EXERCISES_DATA = [
     {
       "bodyPart": "back",
       "equipment": "stability ball",
-      "gifUrl": "https://res.cloudinary.com/dysns4al9/image/upload/v1779592720/gifs/rKM24Ws64hnAvc.gif?alt=media",
+      "gifUrl": "https://firebasestorage.googleapis.com/v0/b/chatappfirebasetd.appspot.com/o/exercises%2FrKM24Ws64hnAvc.gif?alt=media",
       "id": "1338",
       "name": "exercise ball hug",
       "target": "spine",
@@ -14940,7 +14940,7 @@ export const EXERCISES_DATA = [
     {
       "bodyPart": "back",
       "equipment": "stability ball",
-      "gifUrl": "https://res.cloudinary.com/dysns4al9/image/upload/v1779592720/gifs/QbMkPmxBrgvPlU.gif?alt=media",
+      "gifUrl": "https://firebasestorage.googleapis.com/v0/b/chatappfirebasetd.appspot.com/o/exercises%2FQbMkPmxBrgvPlU.gif?alt=media",
       "id": "1339",
       "name": "exercise ball lat stretch",
       "target": "lats",
@@ -14959,7 +14959,7 @@ export const EXERCISES_DATA = [
     {
       "bodyPart": "back",
       "equipment": "stability ball",
-      "gifUrl": "https://res.cloudinary.com/dysns4al9/image/upload/v1779592720/gifs/0CG-fxHMGu-hag.gif?alt=media",
+      "gifUrl": "https://firebasestorage.googleapis.com/v0/b/chatappfirebasetd.appspot.com/o/exercises%2F0CG-fxHMGu-hag.gif?alt=media",
       "id": "1341",
       "name": "exercise ball lower back stretch (pyramid)",
       "target": "lats",
@@ -14979,7 +14979,7 @@ export const EXERCISES_DATA = [
     {
       "bodyPart": "back",
       "equipment": "stability ball",
-      "gifUrl": "https://res.cloudinary.com/dysns4al9/image/upload/v1779592720/gifs/xBUixaPn4uxOQx.gif?alt=media",
+      "gifUrl": "https://firebasestorage.googleapis.com/v0/b/chatappfirebasetd.appspot.com/o/exercises%2FxBUixaPn4uxOQx.gif?alt=media",
       "id": "1342",
       "name": "exercise ball lying side lat stretch",
       "target": "lats",
@@ -14998,7 +14998,7 @@ export const EXERCISES_DATA = [
     {
       "bodyPart": "lower legs",
       "equipment": "dumbbell",
-      "gifUrl": "https://res.cloudinary.com/dysns4al9/image/upload/v1779592720/gifs/aU42wq2keI8bNO.gif?alt=media",
+      "gifUrl": "https://firebasestorage.googleapis.com/v0/b/chatappfirebasetd.appspot.com/o/exercises%2FaU42wq2keI8bNO.gif?alt=media",
       "id": "1382",
       "name": "exercise ball on the wall calf raise",
       "target": "calves",
@@ -15018,7 +15018,7 @@ export const EXERCISES_DATA = [
     {
       "bodyPart": "lower legs",
       "equipment": "dumbbell",
-      "gifUrl": "https://res.cloudinary.com/dysns4al9/image/upload/v1779592720/gifs/6EiBd-iln01VB-.gif?alt=media",
+      "gifUrl": "https://firebasestorage.googleapis.com/v0/b/chatappfirebasetd.appspot.com/o/exercises%2F6EiBd-iln01VB-.gif?alt=media",
       "id": "3241",
       "name": "exercise ball on the wall calf raise (tennis ball between ankles)",
       "target": "calves",
@@ -15039,7 +15039,7 @@ export const EXERCISES_DATA = [
     {
       "bodyPart": "lower legs",
       "equipment": "dumbbell",
-      "gifUrl": "https://res.cloudinary.com/dysns4al9/image/upload/v1779592720/gifs/3z0cERLneO8iRw.gif?alt=media",
+      "gifUrl": "https://firebasestorage.googleapis.com/v0/b/chatappfirebasetd.appspot.com/o/exercises%2F3z0cERLneO8iRw.gif?alt=media",
       "id": "3240",
       "name": "exercise ball on the wall calf raise (tennis ball between knees)",
       "target": "calves",
@@ -15060,7 +15060,7 @@ export const EXERCISES_DATA = [
     {
       "bodyPart": "upper legs",
       "equipment": "stability ball",
-      "gifUrl": "https://res.cloudinary.com/dysns4al9/image/upload/v1779592720/gifs/DozeE01m6v7A3-.gif?alt=media",
+      "gifUrl": "https://firebasestorage.googleapis.com/v0/b/chatappfirebasetd.appspot.com/o/exercises%2FDozeE01m6v7A3-.gif?alt=media",
       "id": "1416",
       "name": "exercise ball one leg prone lower body rotation",
       "target": "glutes",
@@ -15083,7 +15083,7 @@ export const EXERCISES_DATA = [
     {
       "bodyPart": "upper legs",
       "equipment": "stability ball",
-      "gifUrl": "https://res.cloudinary.com/dysns4al9/image/upload/v1779592720/gifs/yPBY8RAOiMREuz.gif?alt=media",
+      "gifUrl": "https://firebasestorage.googleapis.com/v0/b/chatappfirebasetd.appspot.com/o/exercises%2FyPBY8RAOiMREuz.gif?alt=media",
       "id": "1417",
       "name": "exercise ball one legged diagonal kick hamstring curl",
       "target": "glutes",
@@ -15104,7 +15104,7 @@ export const EXERCISES_DATA = [
     {
       "bodyPart": "chest",
       "equipment": "stability ball",
-      "gifUrl": "https://res.cloudinary.com/dysns4al9/image/upload/v1779592720/gifs/OHO83Y71CYR0WP.gif?alt=media",
+      "gifUrl": "https://firebasestorage.googleapis.com/v0/b/chatappfirebasetd.appspot.com/o/exercises%2FOHO83Y71CYR0WP.gif?alt=media",
       "id": "1296",
       "name": "exercise ball pike push up",
       "target": "pectorals",
@@ -15125,7 +15125,7 @@ export const EXERCISES_DATA = [
     {
       "bodyPart": "back",
       "equipment": "stability ball",
-      "gifUrl": "https://res.cloudinary.com/dysns4al9/image/upload/v1779592720/gifs/yLOPckSLOTNHSr.gif?alt=media",
+      "gifUrl": "https://firebasestorage.googleapis.com/v0/b/chatappfirebasetd.appspot.com/o/exercises%2FyLOPckSLOTNHSr.gif?alt=media",
       "id": "1343",
       "name": "exercise ball prone leg raise",
       "target": "spine",
@@ -15144,7 +15144,7 @@ export const EXERCISES_DATA = [
     {
       "bodyPart": "upper legs",
       "equipment": "stability ball",
-      "gifUrl": "https://res.cloudinary.com/dysns4al9/image/upload/v1779592720/gifs/i4RoaCw8LHfv-X.gif?alt=media",
+      "gifUrl": "https://firebasestorage.googleapis.com/v0/b/chatappfirebasetd.appspot.com/o/exercises%2Fi4RoaCw8LHfv-X.gif?alt=media",
       "id": "1560",
       "name": "exercise ball seated hamstring stretch",
       "target": "hamstrings",
@@ -15165,7 +15165,7 @@ export const EXERCISES_DATA = [
     {
       "bodyPart": "upper arms",
       "equipment": "stability ball",
-      "gifUrl": "https://res.cloudinary.com/dysns4al9/image/upload/v1779592720/gifs/5Fh0Kw8ORN5OGt.gif?alt=media",
+      "gifUrl": "https://firebasestorage.googleapis.com/v0/b/chatappfirebasetd.appspot.com/o/exercises%2F5Fh0Kw8ORN5OGt.gif?alt=media",
       "id": "1745",
       "name": "exercise ball seated triceps stretch",
       "target": "triceps",
@@ -15183,7 +15183,7 @@ export const EXERCISES_DATA = [
     {
       "bodyPart": "upper arms",
       "equipment": "dumbbell",
-      "gifUrl": "https://res.cloudinary.com/dysns4al9/image/upload/v1779592720/gifs/4IRrCiKjJHK2t-.gif?alt=media",
+      "gifUrl": "https://firebasestorage.googleapis.com/v0/b/chatappfirebasetd.appspot.com/o/exercises%2F4IRrCiKjJHK2t-.gif?alt=media",
       "id": "1746",
       "name": "exercise ball supine triceps extension",
       "target": "triceps",
@@ -15201,7 +15201,7 @@ export const EXERCISES_DATA = [
     {
       "bodyPart": "upper arms",
       "equipment": "ez barbell",
-      "gifUrl": "https://res.cloudinary.com/dysns4al9/image/upload/v1779592720/gifs/U1twspXtBdyiQ1.gif?alt=media",
+      "gifUrl": "https://firebasestorage.googleapis.com/v0/b/chatappfirebasetd.appspot.com/o/exercises%2FU1twspXtBdyiQ1.gif?alt=media",
       "id": "1747",
       "name": "ez bar french press on exercise ball",
       "target": "triceps",
@@ -15219,7 +15219,7 @@ export const EXERCISES_DATA = [
     {
       "bodyPart": "back",
       "equipment": "ez barbell",
-      "gifUrl": "https://res.cloudinary.com/dysns4al9/image/upload/v1779592720/gifs/kD1yyRl1k2yaQR.gif?alt=media",
+      "gifUrl": "https://firebasestorage.googleapis.com/v0/b/chatappfirebasetd.appspot.com/o/exercises%2FkD1yyRl1k2yaQR.gif?alt=media",
       "id": "3010",
       "name": "ez bar lying bent arms pullover",
       "target": "lats",
@@ -15239,7 +15239,7 @@ export const EXERCISES_DATA = [
     {
       "bodyPart": "upper arms",
       "equipment": "ez barbell",
-      "gifUrl": "https://res.cloudinary.com/dysns4al9/image/upload/v1779592720/gifs/ZrWK-kQxs9Yz0s.gif?alt=media",
+      "gifUrl": "https://firebasestorage.googleapis.com/v0/b/chatappfirebasetd.appspot.com/o/exercises%2FZrWK-kQxs9Yz0s.gif?alt=media",
       "id": "1748",
       "name": "ez bar lying close grip triceps extension behind head",
       "target": "triceps",
@@ -15257,7 +15257,7 @@ export const EXERCISES_DATA = [
     {
       "bodyPart": "back",
       "equipment": "ez barbell",
-      "gifUrl": "https://res.cloudinary.com/dysns4al9/image/upload/v1779592720/gifs/swAHHsoC26Orvy.gif?alt=media",
+      "gifUrl": "https://firebasestorage.googleapis.com/v0/b/chatappfirebasetd.appspot.com/o/exercises%2FswAHHsoC26Orvy.gif?alt=media",
       "id": "1344",
       "name": "ez bar reverse grip bent over row",
       "target": "upper back",
@@ -15277,7 +15277,7 @@ export const EXERCISES_DATA = [
     {
       "bodyPart": "upper arms",
       "equipment": "ez barbell",
-      "gifUrl": "https://res.cloudinary.com/dysns4al9/image/upload/v1779592720/gifs/ZYq5G4EjGb8CsX.gif?alt=media",
+      "gifUrl": "https://firebasestorage.googleapis.com/v0/b/chatappfirebasetd.appspot.com/o/exercises%2FZYq5G4EjGb8CsX.gif?alt=media",
       "id": "1682",
       "name": "ez bar seated close grip concentration curl",
       "target": "biceps",
@@ -15295,7 +15295,7 @@ export const EXERCISES_DATA = [
     {
       "bodyPart": "upper arms",
       "equipment": "ez barbell",
-      "gifUrl": "https://res.cloudinary.com/dysns4al9/image/upload/v1779592720/gifs/oOrMrmJuDR3uIS.gif?alt=media",
+      "gifUrl": "https://firebasestorage.googleapis.com/v0/b/chatappfirebasetd.appspot.com/o/exercises%2FoOrMrmJuDR3uIS.gif?alt=media",
       "id": "1749",
       "name": "ez bar standing french press",
       "target": "triceps",
@@ -15313,7 +15313,7 @@ export const EXERCISES_DATA = [
     {
       "bodyPart": "shoulders",
       "equipment": "ez barbell",
-      "gifUrl": "https://res.cloudinary.com/dysns4al9/image/upload/v1779592720/gifs/WIJ2mC7ZDmMQkg.gif?alt=media",
+      "gifUrl": "https://firebasestorage.googleapis.com/v0/b/chatappfirebasetd.appspot.com/o/exercises%2FWIJ2mC7ZDmMQkg.gif?alt=media",
       "id": "0445",
       "name": "ez barbell anti gravity press",
       "target": "delts",
@@ -15331,7 +15331,7 @@ export const EXERCISES_DATA = [
     {
       "bodyPart": "upper arms",
       "equipment": "ez barbell",
-      "gifUrl": "https://res.cloudinary.com/dysns4al9/image/upload/v1779592720/gifs/Zu3Z9rQTKBaTIH.gif?alt=media",
+      "gifUrl": "https://firebasestorage.googleapis.com/v0/b/chatappfirebasetd.appspot.com/o/exercises%2FZu3Z9rQTKBaTIH.gif?alt=media",
       "id": "1627",
       "name": "ez barbell close grip preacher curl",
       "target": "biceps",
@@ -15350,7 +15350,7 @@ export const EXERCISES_DATA = [
     {
       "bodyPart": "upper arms",
       "equipment": "ez barbell",
-      "gifUrl": "https://res.cloudinary.com/dysns4al9/image/upload/v1779592720/gifs/taTKa563yBYRI-.gif?alt=media",
+      "gifUrl": "https://firebasestorage.googleapis.com/v0/b/chatappfirebasetd.appspot.com/o/exercises%2FtaTKa563yBYRI-.gif?alt=media",
       "id": "0446",
       "name": "ez barbell close-grip curl",
       "target": "biceps",
@@ -15368,7 +15368,7 @@ export const EXERCISES_DATA = [
     {
       "bodyPart": "upper arms",
       "equipment": "ez barbell",
-      "gifUrl": "https://res.cloudinary.com/dysns4al9/image/upload/v1779592720/gifs/XcubQJk4D4tyjJ.gif?alt=media",
+      "gifUrl": "https://firebasestorage.googleapis.com/v0/b/chatappfirebasetd.appspot.com/o/exercises%2FXcubQJk4D4tyjJ.gif?alt=media",
       "id": "0447",
       "name": "ez barbell curl",
       "target": "biceps",
@@ -15386,7 +15386,7 @@ export const EXERCISES_DATA = [
     {
       "bodyPart": "upper arms",
       "equipment": "ez barbell",
-      "gifUrl": "https://res.cloudinary.com/dysns4al9/image/upload/v1779592720/gifs/4DS1wQzJTUYozF.gif?alt=media",
+      "gifUrl": "https://firebasestorage.googleapis.com/v0/b/chatappfirebasetd.appspot.com/o/exercises%2F4DS1wQzJTUYozF.gif?alt=media",
       "id": "0448",
       "name": "ez barbell decline close grip face press",
       "target": "triceps",
@@ -15406,7 +15406,7 @@ export const EXERCISES_DATA = [
     {
       "bodyPart": "upper arms",
       "equipment": "ez barbell",
-      "gifUrl": "https://res.cloudinary.com/dysns4al9/image/upload/v1779592720/gifs/yGvNc0yp9hyOkA.gif?alt=media",
+      "gifUrl": "https://firebasestorage.googleapis.com/v0/b/chatappfirebasetd.appspot.com/o/exercises%2FyGvNc0yp9hyOkA.gif?alt=media",
       "id": "2186",
       "name": "ez barbell decline triceps extension",
       "target": "triceps",
@@ -15425,7 +15425,7 @@ export const EXERCISES_DATA = [
     {
       "bodyPart": "upper arms",
       "equipment": "ez barbell",
-      "gifUrl": "https://res.cloudinary.com/dysns4al9/image/upload/v1779592720/gifs/LPrZipVRpyygtv.gif?alt=media",
+      "gifUrl": "https://firebasestorage.googleapis.com/v0/b/chatappfirebasetd.appspot.com/o/exercises%2FLPrZipVRpyygtv.gif?alt=media",
       "id": "0449",
       "name": "ez barbell incline triceps extension",
       "target": "triceps",
@@ -15444,7 +15444,7 @@ export const EXERCISES_DATA = [
     {
       "bodyPart": "upper arms",
       "equipment": "ez barbell",
-      "gifUrl": "https://res.cloudinary.com/dysns4al9/image/upload/v1779592720/gifs/pJcoxdlFc77HFL.gif?alt=media",
+      "gifUrl": "https://firebasestorage.googleapis.com/v0/b/chatappfirebasetd.appspot.com/o/exercises%2FpJcoxdlFc77HFL.gif?alt=media",
       "id": "0450",
       "name": "ez barbell jm bench press",
       "target": "triceps",
@@ -15463,7 +15463,7 @@ export const EXERCISES_DATA = [
     {
       "bodyPart": "upper arms",
       "equipment": "ez barbell",
-      "gifUrl": "https://res.cloudinary.com/dysns4al9/image/upload/v1779592720/gifs/fDK8PYrHQKf3OS.gif?alt=media",
+      "gifUrl": "https://firebasestorage.googleapis.com/v0/b/chatappfirebasetd.appspot.com/o/exercises%2FfDK8PYrHQKf3OS.gif?alt=media",
       "id": "0451",
       "name": "ez barbell reverse grip curl",
       "target": "biceps",
@@ -15483,7 +15483,7 @@ export const EXERCISES_DATA = [
     {
       "bodyPart": "upper arms",
       "equipment": "ez barbell",
-      "gifUrl": "https://res.cloudinary.com/dysns4al9/image/upload/v1779592720/gifs/6VwWGORPqUPgk-.gif?alt=media",
+      "gifUrl": "https://firebasestorage.googleapis.com/v0/b/chatappfirebasetd.appspot.com/o/exercises%2F6VwWGORPqUPgk-.gif?alt=media",
       "id": "0452",
       "name": "ez barbell reverse grip preacher curl",
       "target": "biceps",
@@ -15502,7 +15502,7 @@ export const EXERCISES_DATA = [
     {
       "bodyPart": "upper arms",
       "equipment": "ez barbell",
-      "gifUrl": "https://res.cloudinary.com/dysns4al9/image/upload/v1779592720/gifs/gghRPbNliXjS6U.gif?alt=media",
+      "gifUrl": "https://firebasestorage.googleapis.com/v0/b/chatappfirebasetd.appspot.com/o/exercises%2FgghRPbNliXjS6U.gif?alt=media",
       "id": "1458",
       "name": "ez barbell seated curls",
       "target": "biceps",
@@ -15522,7 +15522,7 @@ export const EXERCISES_DATA = [
     {
       "bodyPart": "upper arms",
       "equipment": "ez barbell",
-      "gifUrl": "https://res.cloudinary.com/dysns4al9/image/upload/v1779592720/gifs/qK-fpx2LbQs2zl.gif?alt=media",
+      "gifUrl": "https://firebasestorage.googleapis.com/v0/b/chatappfirebasetd.appspot.com/o/exercises%2FqK-fpx2LbQs2zl.gif?alt=media",
       "id": "0453",
       "name": "ez barbell seated triceps extension",
       "target": "triceps",
@@ -15541,7 +15541,7 @@ export const EXERCISES_DATA = [
     {
       "bodyPart": "upper arms",
       "equipment": "ez barbell",
-      "gifUrl": "https://res.cloudinary.com/dysns4al9/image/upload/v1779592720/gifs/d3eh-raXM6x-Ij.gif?alt=media",
+      "gifUrl": "https://firebasestorage.googleapis.com/v0/b/chatappfirebasetd.appspot.com/o/exercises%2Fd3eh-raXM6x-Ij.gif?alt=media",
       "id": "0454",
       "name": "ez barbell spider curl",
       "target": "biceps",
@@ -15560,7 +15560,7 @@ export const EXERCISES_DATA = [
     {
       "bodyPart": "upper arms",
       "equipment": "ez barbell",
-      "gifUrl": "https://res.cloudinary.com/dysns4al9/image/upload/v1779592720/gifs/06W55IXbWvAJnV.gif?alt=media",
+      "gifUrl": "https://firebasestorage.googleapis.com/v0/b/chatappfirebasetd.appspot.com/o/exercises%2F06W55IXbWvAJnV.gif?alt=media",
       "id": "1628",
       "name": "ez barbell spider curl",
       "target": "biceps",
@@ -15579,7 +15579,7 @@ export const EXERCISES_DATA = [
     {
       "bodyPart": "upper arms",
       "equipment": "ez barbell",
-      "gifUrl": "https://res.cloudinary.com/dysns4al9/image/upload/v1779592720/gifs/ZFazwLuEaJcjji.gif?alt=media",
+      "gifUrl": "https://firebasestorage.googleapis.com/v0/b/chatappfirebasetd.appspot.com/o/exercises%2FZFazwLuEaJcjji.gif?alt=media",
       "id": "2404",
       "name": "ez-bar biceps curl (with arm blaster)",
       "target": "biceps",
@@ -15598,7 +15598,7 @@ export const EXERCISES_DATA = [
     {
       "bodyPart": "upper arms",
       "equipment": "ez barbell",
-      "gifUrl": "https://res.cloudinary.com/dysns4al9/image/upload/v1779592720/gifs/6-RLH7GRT3kLvM.gif?alt=media",
+      "gifUrl": "https://firebasestorage.googleapis.com/v0/b/chatappfirebasetd.appspot.com/o/exercises%2F6-RLH7GRT3kLvM.gif?alt=media",
       "id": "2432",
       "name": "ez-bar close-grip bench press",
       "target": "triceps",
@@ -15619,7 +15619,7 @@ export const EXERCISES_DATA = [
     {
       "bodyPart": "upper arms",
       "equipment": "ez barbell",
-      "gifUrl": "https://res.cloudinary.com/dysns4al9/image/upload/v1779592720/gifs/5h41WxzmFp7Ti6.gif?alt=media",
+      "gifUrl": "https://firebasestorage.googleapis.com/v0/b/chatappfirebasetd.appspot.com/o/exercises%2F5h41WxzmFp7Ti6.gif?alt=media",
       "id": "2741",
       "name": "ez-barbell standing wide grip biceps curl",
       "target": "biceps",
@@ -15637,7 +15637,7 @@ export const EXERCISES_DATA = [
     {
       "bodyPart": "upper legs",
       "equipment": "dumbbell",
-      "gifUrl": "https://res.cloudinary.com/dysns4al9/image/upload/v1779592720/gifs/OeKfxn15GFHSFB.gif?alt=media",
+      "gifUrl": "https://firebasestorage.googleapis.com/v0/b/chatappfirebasetd.appspot.com/o/exercises%2FOeKfxn15GFHSFB.gif?alt=media",
       "id": "2133",
       "name": "farmers walk",
       "target": "quads",
@@ -15657,7 +15657,7 @@ export const EXERCISES_DATA = [
     {
       "bodyPart": "lower arms",
       "equipment": "barbell",
-      "gifUrl": "https://res.cloudinary.com/dysns4al9/image/upload/v1779592720/gifs/SgYwv9ina850ST.gif?alt=media",
+      "gifUrl": "https://firebasestorage.googleapis.com/v0/b/chatappfirebasetd.appspot.com/o/exercises%2FSgYwv9ina850ST.gif?alt=media",
       "id": "0455",
       "name": "finger curls",
       "target": "forearms",
@@ -15676,7 +15676,7 @@ export const EXERCISES_DATA = [
     {
       "bodyPart": "waist",
       "equipment": "body weight",
-      "gifUrl": "https://res.cloudinary.com/dysns4al9/image/upload/v1779592720/gifs/YKkDuxD89O9D-Q.gif?alt=media",
+      "gifUrl": "https://firebasestorage.googleapis.com/v0/b/chatappfirebasetd.appspot.com/o/exercises%2FYKkDuxD89O9D-Q.gif?alt=media",
       "id": "3303",
       "name": "flag",
       "target": "abs",
@@ -15696,7 +15696,7 @@ export const EXERCISES_DATA = [
     {
       "bodyPart": "waist",
       "equipment": "body weight",
-      "gifUrl": "https://res.cloudinary.com/dysns4al9/image/upload/v1779592720/gifs/5SXJDBZJhfzbxW.gif?alt=media",
+      "gifUrl": "https://firebasestorage.googleapis.com/v0/b/chatappfirebasetd.appspot.com/o/exercises%2F5SXJDBZJhfzbxW.gif?alt=media",
       "id": "0456",
       "name": "flexion leg sit up (bent knee)",
       "target": "abs",
@@ -15715,7 +15715,7 @@ export const EXERCISES_DATA = [
     {
       "bodyPart": "waist",
       "equipment": "body weight",
-      "gifUrl": "https://res.cloudinary.com/dysns4al9/image/upload/v1779592720/gifs/RPJUfay4TxRAGW.gif?alt=media",
+      "gifUrl": "https://firebasestorage.googleapis.com/v0/b/chatappfirebasetd.appspot.com/o/exercises%2FRPJUfay4TxRAGW.gif?alt=media",
       "id": "0457",
       "name": "flexion leg sit up (straight arm)",
       "target": "abs",
@@ -15734,7 +15734,7 @@ export const EXERCISES_DATA = [
     {
       "bodyPart": "chest",
       "equipment": "barbell",
-      "gifUrl": "https://res.cloudinary.com/dysns4al9/image/upload/v1779592720/gifs/Y2BxZZ3Nyz2OQX.gif?alt=media",
+      "gifUrl": "https://firebasestorage.googleapis.com/v0/b/chatappfirebasetd.appspot.com/o/exercises%2FY2BxZZ3Nyz2OQX.gif?alt=media",
       "id": "0458",
       "name": "floor fly (with barbell)",
       "target": "pectorals",
@@ -15754,7 +15754,7 @@ export const EXERCISES_DATA = [
     {
       "bodyPart": "upper legs",
       "equipment": "body weight",
-      "gifUrl": "https://res.cloudinary.com/dysns4al9/image/upload/v1779592720/gifs/tKPaDozJ3A93Po.gif?alt=media",
+      "gifUrl": "https://firebasestorage.googleapis.com/v0/b/chatappfirebasetd.appspot.com/o/exercises%2FtKPaDozJ3A93Po.gif?alt=media",
       "id": "0459",
       "name": "flutter kicks",
       "target": "glutes",
@@ -15772,7 +15772,7 @@ export const EXERCISES_DATA = [
     {
       "bodyPart": "upper legs",
       "equipment": "body weight",
-      "gifUrl": "https://res.cloudinary.com/dysns4al9/image/upload/v1779592720/gifs/QdLoRM8wGtO3xQ.gif?alt=media",
+      "gifUrl": "https://firebasestorage.googleapis.com/v0/b/chatappfirebasetd.appspot.com/o/exercises%2FQdLoRM8wGtO3xQ.gif?alt=media",
       "id": "1472",
       "name": "forward jump",
       "target": "quads",
@@ -15793,7 +15793,7 @@ export const EXERCISES_DATA = [
     {
       "bodyPart": "upper legs",
       "equipment": "body weight",
-      "gifUrl": "https://res.cloudinary.com/dysns4al9/image/upload/v1779592720/gifs/KdisJKzB70ALnt.gif?alt=media",
+      "gifUrl": "https://firebasestorage.googleapis.com/v0/b/chatappfirebasetd.appspot.com/o/exercises%2FKdisJKzB70ALnt.gif?alt=media",
       "id": "3470",
       "name": "forward lunge (male)",
       "target": "glutes",
@@ -15813,7 +15813,7 @@ export const EXERCISES_DATA = [
     {
       "bodyPart": "upper legs",
       "equipment": "barbell",
-      "gifUrl": "https://res.cloudinary.com/dysns4al9/image/upload/v1779592720/gifs/uz1FQEnNXIzi6O.gif?alt=media",
+      "gifUrl": "https://firebasestorage.googleapis.com/v0/b/chatappfirebasetd.appspot.com/o/exercises%2Fuz1FQEnNXIzi6O.gif?alt=media",
       "id": "3194",
       "name": "frankenstein squat",
       "target": "glutes",
@@ -15833,7 +15833,7 @@ export const EXERCISES_DATA = [
     {
       "bodyPart": "waist",
       "equipment": "body weight",
-      "gifUrl": "https://res.cloudinary.com/dysns4al9/image/upload/v1779592720/gifs/P7tlLZe02dbx9p.gif?alt=media",
+      "gifUrl": "https://firebasestorage.googleapis.com/v0/b/chatappfirebasetd.appspot.com/o/exercises%2FP7tlLZe02dbx9p.gif?alt=media",
       "id": "2429",
       "name": "frog crunch",
       "target": "abs",
@@ -15851,7 +15851,7 @@ export const EXERCISES_DATA = [
     {
       "bodyPart": "waist",
       "equipment": "body weight",
-      "gifUrl": "https://res.cloudinary.com/dysns4al9/image/upload/v1779592720/gifs/MUusOWtc2g4ccC.gif?alt=media",
+      "gifUrl": "https://firebasestorage.googleapis.com/v0/b/chatappfirebasetd.appspot.com/o/exercises%2FMUusOWtc2g4ccC.gif?alt=media",
       "id": "3301",
       "name": "frog planche",
       "target": "abs",
@@ -15871,7 +15871,7 @@ export const EXERCISES_DATA = [
     {
       "bodyPart": "waist",
       "equipment": "body weight",
-      "gifUrl": "https://res.cloudinary.com/dysns4al9/image/upload/v1779592720/gifs/GqKx58SHU2y83G.gif?alt=media",
+      "gifUrl": "https://firebasestorage.googleapis.com/v0/b/chatappfirebasetd.appspot.com/o/exercises%2FGqKx58SHU2y83G.gif?alt=media",
       "id": "3296",
       "name": "front lever",
       "target": "abs",
@@ -15893,7 +15893,7 @@ export const EXERCISES_DATA = [
     {
       "bodyPart": "back",
       "equipment": "body weight",
-      "gifUrl": "https://res.cloudinary.com/dysns4al9/image/upload/v1779592720/gifs/4AIcom3Yx8dXY1.gif?alt=media",
+      "gifUrl": "https://firebasestorage.googleapis.com/v0/b/chatappfirebasetd.appspot.com/o/exercises%2F4AIcom3Yx8dXY1.gif?alt=media",
       "id": "3295",
       "name": "front lever reps",
       "target": "upper back",
@@ -15913,7 +15913,7 @@ export const EXERCISES_DATA = [
     {
       "bodyPart": "waist",
       "equipment": "body weight",
-      "gifUrl": "https://res.cloudinary.com/dysns4al9/image/upload/v1779592720/gifs/SLUKCWvovl9VOU.gif?alt=media",
+      "gifUrl": "https://firebasestorage.googleapis.com/v0/b/chatappfirebasetd.appspot.com/o/exercises%2FSLUKCWvovl9VOU.gif?alt=media",
       "id": "0464",
       "name": "front plank with twist",
       "target": "abs",
@@ -15934,7 +15934,7 @@ export const EXERCISES_DATA = [
     {
       "bodyPart": "waist",
       "equipment": "body weight",
-      "gifUrl": "https://res.cloudinary.com/dysns4al9/image/upload/v1779592720/gifs/VwefuqkVBDTVlF.gif?alt=media",
+      "gifUrl": "https://firebasestorage.googleapis.com/v0/b/chatappfirebasetd.appspot.com/o/exercises%2FVwefuqkVBDTVlF.gif?alt=media",
       "id": "3315",
       "name": "full maltese",
       "target": "abs",
@@ -15953,7 +15953,7 @@ export const EXERCISES_DATA = [
     {
       "bodyPart": "waist",
       "equipment": "body weight",
-      "gifUrl": "https://res.cloudinary.com/dysns4al9/image/upload/v1779592720/gifs/-jGXWKjkwGSNwk.gif?alt=media",
+      "gifUrl": "https://firebasestorage.googleapis.com/v0/b/chatappfirebasetd.appspot.com/o/exercises%2F-jGXWKjkwGSNwk.gif?alt=media",
       "id": "3299",
       "name": "full planche",
       "target": "abs",
@@ -15974,7 +15974,7 @@ export const EXERCISES_DATA = [
     {
       "bodyPart": "chest",
       "equipment": "body weight",
-      "gifUrl": "https://res.cloudinary.com/dysns4al9/image/upload/v1779592720/gifs/vEQfnCKP0b4Dvn.gif?alt=media",
+      "gifUrl": "https://firebasestorage.googleapis.com/v0/b/chatappfirebasetd.appspot.com/o/exercises%2FvEQfnCKP0b4Dvn.gif?alt=media",
       "id": "3327",
       "name": "full planche push-up",
       "target": "pectorals",
@@ -15996,7 +15996,7 @@ export const EXERCISES_DATA = [
     {
       "bodyPart": "back",
       "equipment": "body weight",
-      "gifUrl": "https://res.cloudinary.com/dysns4al9/image/upload/v1779592720/gifs/UMyAQ1xvTRzYvG.gif?alt=media",
+      "gifUrl": "https://firebasestorage.googleapis.com/v0/b/chatappfirebasetd.appspot.com/o/exercises%2FUMyAQ1xvTRzYvG.gif?alt=media",
       "id": "0466",
       "name": "gironda sternum chin",
       "target": "lats",
@@ -16017,7 +16017,7 @@ export const EXERCISES_DATA = [
     {
       "bodyPart": "upper legs",
       "equipment": "body weight",
-      "gifUrl": "https://res.cloudinary.com/dysns4al9/image/upload/v1779592720/gifs/Dx8oLTc1ro8dOu.gif?alt=media",
+      "gifUrl": "https://firebasestorage.googleapis.com/v0/b/chatappfirebasetd.appspot.com/o/exercises%2FDx8oLTc1ro8dOu.gif?alt=media",
       "id": "3561",
       "name": "glute bridge march",
       "target": "glutes",
@@ -16037,7 +16037,7 @@ export const EXERCISES_DATA = [
     {
       "bodyPart": "upper legs",
       "equipment": "body weight",
-      "gifUrl": "https://res.cloudinary.com/dysns4al9/image/upload/v1779592720/gifs/14SkEDdnYA9iyP.gif?alt=media",
+      "gifUrl": "https://firebasestorage.googleapis.com/v0/b/chatappfirebasetd.appspot.com/o/exercises%2F14SkEDdnYA9iyP.gif?alt=media",
       "id": "3523",
       "name": "glute bridge two legs on bench (male)",
       "target": "glutes",
@@ -16056,7 +16056,7 @@ export const EXERCISES_DATA = [
     {
       "bodyPart": "upper legs",
       "equipment": "body weight",
-      "gifUrl": "https://res.cloudinary.com/dysns4al9/image/upload/v1779592720/gifs/cEvnXeTx1YBSlO.gif?alt=media",
+      "gifUrl": "https://firebasestorage.googleapis.com/v0/b/chatappfirebasetd.appspot.com/o/exercises%2FcEvnXeTx1YBSlO.gif?alt=media",
       "id": "3193",
       "name": "glute-ham raise",
       "target": "hamstrings",
@@ -16077,7 +16077,7 @@ export const EXERCISES_DATA = [
     {
       "bodyPart": "waist",
       "equipment": "body weight",
-      "gifUrl": "https://res.cloudinary.com/dysns4al9/image/upload/v1779592720/gifs/nDGFIhALe37Nuv.gif?alt=media",
+      "gifUrl": "https://firebasestorage.googleapis.com/v0/b/chatappfirebasetd.appspot.com/o/exercises%2FnDGFIhALe37Nuv.gif?alt=media",
       "id": "0467",
       "name": "gorilla chin",
       "target": "abs",
@@ -16097,7 +16097,7 @@ export const EXERCISES_DATA = [
     {
       "bodyPart": "waist",
       "equipment": "body weight",
-      "gifUrl": "https://res.cloudinary.com/dysns4al9/image/upload/v1779592720/gifs/2Z9pydgu7SgrX5.gif?alt=media",
+      "gifUrl": "https://firebasestorage.googleapis.com/v0/b/chatappfirebasetd.appspot.com/o/exercises%2F2Z9pydgu7SgrX5.gif?alt=media",
       "id": "0469",
       "name": "groin crunch",
       "target": "abs",
@@ -16116,7 +16116,7 @@ export const EXERCISES_DATA = [
     {
       "bodyPart": "lower legs",
       "equipment": "sled machine",
-      "gifUrl": "https://res.cloudinary.com/dysns4al9/image/upload/v1779592720/gifs/D09CEh23-46OyM.gif?alt=media",
+      "gifUrl": "https://firebasestorage.googleapis.com/v0/b/chatappfirebasetd.appspot.com/o/exercises%2FD09CEh23-46OyM.gif?alt=media",
       "id": "1383",
       "name": "hack calf raise",
       "target": "calves",
@@ -16136,7 +16136,7 @@ export const EXERCISES_DATA = [
     {
       "bodyPart": "lower legs",
       "equipment": "sled machine",
-      "gifUrl": "https://res.cloudinary.com/dysns4al9/image/upload/v1779592720/gifs/YPGpfvfVUcVFDp.gif?alt=media",
+      "gifUrl": "https://firebasestorage.googleapis.com/v0/b/chatappfirebasetd.appspot.com/o/exercises%2FYPGpfvfVUcVFDp.gif?alt=media",
       "id": "1384",
       "name": "hack one leg calf raise",
       "target": "calves",
@@ -16157,7 +16157,7 @@ export const EXERCISES_DATA = [
     {
       "bodyPart": "cardio",
       "equipment": "body weight",
-      "gifUrl": "https://res.cloudinary.com/dysns4al9/image/upload/v1779592720/gifs/A4kAupjiVj3hiJ.gif?alt=media",
+      "gifUrl": "https://firebasestorage.googleapis.com/v0/b/chatappfirebasetd.appspot.com/o/exercises%2FA4kAupjiVj3hiJ.gif?alt=media",
       "id": "3221",
       "name": "half knee bends (male)",
       "target": "cardiovascular system",
@@ -16177,7 +16177,7 @@ export const EXERCISES_DATA = [
     {
       "bodyPart": "waist",
       "equipment": "body weight",
-      "gifUrl": "https://res.cloudinary.com/dysns4al9/image/upload/v1779592720/gifs/fHUzKPwrfAS-6G.gif?alt=media",
+      "gifUrl": "https://firebasestorage.googleapis.com/v0/b/chatappfirebasetd.appspot.com/o/exercises%2FfHUzKPwrfAS-6G.gif?alt=media",
       "id": "3202",
       "name": "half sit-up (male)",
       "target": "abs",
@@ -16195,7 +16195,7 @@ export const EXERCISES_DATA = [
     {
       "bodyPart": "upper legs",
       "equipment": "body weight",
-      "gifUrl": "https://res.cloudinary.com/dysns4al9/image/upload/v1779592720/gifs/ExLZZ7Tf5Z8nua.gif?alt=media",
+      "gifUrl": "https://firebasestorage.googleapis.com/v0/b/chatappfirebasetd.appspot.com/o/exercises%2FExLZZ7Tf5Z8nua.gif?alt=media",
       "id": "1511",
       "name": "hamstring stretch",
       "target": "hamstrings",
@@ -16213,7 +16213,7 @@ export const EXERCISES_DATA = [
     {
       "bodyPart": "chest",
       "equipment": "upper body ergometer",
-      "gifUrl": "https://res.cloudinary.com/dysns4al9/image/upload/v1779592720/gifs/oyCGixPjlACLy6.gif?alt=media",
+      "gifUrl": "https://firebasestorage.googleapis.com/v0/b/chatappfirebasetd.appspot.com/o/exercises%2FoyCGixPjlACLy6.gif?alt=media",
       "id": "2139",
       "name": "hands bike",
       "target": "pectorals",
@@ -16232,7 +16232,7 @@ export const EXERCISES_DATA = [
     {
       "bodyPart": "upper legs",
       "equipment": "body weight",
-      "gifUrl": "https://res.cloudinary.com/dysns4al9/image/upload/v1779592720/gifs/qVqjotLtOoYQxa.gif?alt=media",
+      "gifUrl": "https://firebasestorage.googleapis.com/v0/b/chatappfirebasetd.appspot.com/o/exercises%2FqVqjotLtOoYQxa.gif?alt=media",
       "id": "3218",
       "name": "hands clasped circular toe touch (male)",
       "target": "glutes",
@@ -16252,7 +16252,7 @@ export const EXERCISES_DATA = [
     {
       "bodyPart": "upper legs",
       "equipment": "body weight",
-      "gifUrl": "https://res.cloudinary.com/dysns4al9/image/upload/v1779592720/gifs/9C8MBgJOgoin2b.gif?alt=media",
+      "gifUrl": "https://firebasestorage.googleapis.com/v0/b/chatappfirebasetd.appspot.com/o/exercises%2F9C8MBgJOgoin2b.gif?alt=media",
       "id": "3215",
       "name": "hands reversed clasped circular toe touch (male)",
       "target": "glutes",
@@ -16274,7 +16274,7 @@ export const EXERCISES_DATA = [
     {
       "bodyPart": "upper arms",
       "equipment": "body weight",
-      "gifUrl": "https://res.cloudinary.com/dysns4al9/image/upload/v1779592720/gifs/WT3ymPxW0AzjQE.gif?alt=media",
+      "gifUrl": "https://firebasestorage.googleapis.com/v0/b/chatappfirebasetd.appspot.com/o/exercises%2FWT3ymPxW0AzjQE.gif?alt=media",
       "id": "3302",
       "name": "handstand",
       "target": "triceps",
@@ -16295,7 +16295,7 @@ export const EXERCISES_DATA = [
     {
       "bodyPart": "upper arms",
       "equipment": "body weight",
-      "gifUrl": "https://res.cloudinary.com/dysns4al9/image/upload/v1779592720/gifs/DwUtwJhzTIjAAM.gif?alt=media",
+      "gifUrl": "https://firebasestorage.googleapis.com/v0/b/chatappfirebasetd.appspot.com/o/exercises%2FDwUtwJhzTIjAAM.gif?alt=media",
       "id": "0471",
       "name": "handstand push-up",
       "target": "triceps",
@@ -16315,7 +16315,7 @@ export const EXERCISES_DATA = [
     {
       "bodyPart": "waist",
       "equipment": "body weight",
-      "gifUrl": "https://res.cloudinary.com/dysns4al9/image/upload/v1779592720/gifs/oNh4yrKobctRak.gif?alt=media",
+      "gifUrl": "https://firebasestorage.googleapis.com/v0/b/chatappfirebasetd.appspot.com/o/exercises%2FoNh4yrKobctRak.gif?alt=media",
       "id": "1764",
       "name": "hanging leg hip raise",
       "target": "abs",
@@ -16333,7 +16333,7 @@ export const EXERCISES_DATA = [
     {
       "bodyPart": "waist",
       "equipment": "body weight",
-      "gifUrl": "https://res.cloudinary.com/dysns4al9/image/upload/v1779592720/gifs/ze3IWorNW0C23U.gif?alt=media",
+      "gifUrl": "https://firebasestorage.googleapis.com/v0/b/chatappfirebasetd.appspot.com/o/exercises%2Fze3IWorNW0C23U.gif?alt=media",
       "id": "0472",
       "name": "hanging leg raise",
       "target": "abs",
@@ -16351,7 +16351,7 @@ export const EXERCISES_DATA = [
     {
       "bodyPart": "waist",
       "equipment": "body weight",
-      "gifUrl": "https://res.cloudinary.com/dysns4al9/image/upload/v1779592720/gifs/giNHJ6ZlugJWdx.gif?alt=media",
+      "gifUrl": "https://firebasestorage.googleapis.com/v0/b/chatappfirebasetd.appspot.com/o/exercises%2FgiNHJ6ZlugJWdx.gif?alt=media",
       "id": "1761",
       "name": "hanging oblique knee raise",
       "target": "abs",
@@ -16369,7 +16369,7 @@ export const EXERCISES_DATA = [
     {
       "bodyPart": "waist",
       "equipment": "body weight",
-      "gifUrl": "https://res.cloudinary.com/dysns4al9/image/upload/v1779592720/gifs/0geXVQqjUwxh-S.gif?alt=media",
+      "gifUrl": "https://firebasestorage.googleapis.com/v0/b/chatappfirebasetd.appspot.com/o/exercises%2F0geXVQqjUwxh-S.gif?alt=media",
       "id": "0473",
       "name": "hanging pike",
       "target": "abs",
@@ -16388,7 +16388,7 @@ export const EXERCISES_DATA = [
     {
       "bodyPart": "waist",
       "equipment": "body weight",
-      "gifUrl": "https://res.cloudinary.com/dysns4al9/image/upload/v1779592720/gifs/rhTv19Drrlc2yl.gif?alt=media",
+      "gifUrl": "https://firebasestorage.googleapis.com/v0/b/chatappfirebasetd.appspot.com/o/exercises%2FrhTv19Drrlc2yl.gif?alt=media",
       "id": "0474",
       "name": "hanging straight leg hip raise",
       "target": "abs",
@@ -16405,7 +16405,7 @@ export const EXERCISES_DATA = [
     {
       "bodyPart": "waist",
       "equipment": "body weight",
-      "gifUrl": "https://res.cloudinary.com/dysns4al9/image/upload/v1779592720/gifs/c67VWGFsEpgSW3.gif?alt=media",
+      "gifUrl": "https://firebasestorage.googleapis.com/v0/b/chatappfirebasetd.appspot.com/o/exercises%2Fc67VWGFsEpgSW3.gif?alt=media",
       "id": "0475",
       "name": "hanging straight leg raise",
       "target": "abs",
@@ -16423,7 +16423,7 @@ export const EXERCISES_DATA = [
     {
       "bodyPart": "waist",
       "equipment": "body weight",
-      "gifUrl": "https://res.cloudinary.com/dysns4al9/image/upload/v1779592720/gifs/1xqrzbzoj7MxHd.gif?alt=media",
+      "gifUrl": "https://firebasestorage.googleapis.com/v0/b/chatappfirebasetd.appspot.com/o/exercises%2F1xqrzbzoj7MxHd.gif?alt=media",
       "id": "0476",
       "name": "hanging straight twisting leg hip raise",
       "target": "abs",
@@ -16443,7 +16443,7 @@ export const EXERCISES_DATA = [
     {
       "bodyPart": "cardio",
       "equipment": "body weight",
-      "gifUrl": "https://res.cloudinary.com/dysns4al9/image/upload/v1779592720/gifs/XhyLtKa9COfsQ4.gif?alt=media",
+      "gifUrl": "https://firebasestorage.googleapis.com/v0/b/chatappfirebasetd.appspot.com/o/exercises%2FXhyLtKa9COfsQ4.gif?alt=media",
       "id": "3636",
       "name": "high knee against wall",
       "target": "cardiovascular system",
@@ -16466,7 +16466,7 @@ export const EXERCISES_DATA = [
     {
       "bodyPart": "waist",
       "equipment": "body weight",
-      "gifUrl": "https://res.cloudinary.com/dysns4al9/image/upload/v1779592720/gifs/pHM0OhuiKMsFxT.gif?alt=media",
+      "gifUrl": "https://firebasestorage.googleapis.com/v0/b/chatappfirebasetd.appspot.com/o/exercises%2FpHM0OhuiKMsFxT.gif?alt=media",
       "id": "0484",
       "name": "hip raise (bent knee)",
       "target": "abs",
@@ -16485,7 +16485,7 @@ export const EXERCISES_DATA = [
     {
       "bodyPart": "upper legs",
       "equipment": "body weight",
-      "gifUrl": "https://res.cloudinary.com/dysns4al9/image/upload/v1779592720/gifs/gI44tyq5Mkd-Hr.gif?alt=media",
+      "gifUrl": "https://firebasestorage.googleapis.com/v0/b/chatappfirebasetd.appspot.com/o/exercises%2FgI44tyq5Mkd-Hr.gif?alt=media",
       "id": "1418",
       "name": "hug keens to chest",
       "target": "glutes",
@@ -16504,7 +16504,7 @@ export const EXERCISES_DATA = [
     {
       "bodyPart": "chest",
       "equipment": "dumbbell",
-      "gifUrl": "https://res.cloudinary.com/dysns4al9/image/upload/v1779592720/gifs/v8HmThuw7BMv4n.gif?alt=media",
+      "gifUrl": "https://firebasestorage.googleapis.com/v0/b/chatappfirebasetd.appspot.com/o/exercises%2Fv8HmThuw7BMv4n.gif?alt=media",
       "id": "3234",
       "name": "hyght dumbbell fly",
       "target": "pectorals",
@@ -16522,7 +16522,7 @@ export const EXERCISES_DATA = [
     {
       "bodyPart": "back",
       "equipment": "body weight",
-      "gifUrl": "https://res.cloudinary.com/dysns4al9/image/upload/v1779592720/gifs/2otSARilUd1TVC.gif?alt=media",
+      "gifUrl": "https://firebasestorage.googleapis.com/v0/b/chatappfirebasetd.appspot.com/o/exercises%2F2otSARilUd1TVC.gif?alt=media",
       "id": "0489",
       "name": "hyperextension",
       "target": "spine",
@@ -16541,7 +16541,7 @@ export const EXERCISES_DATA = [
     {
       "bodyPart": "back",
       "equipment": "body weight",
-      "gifUrl": "https://res.cloudinary.com/dysns4al9/image/upload/v1779592720/gifs/SRnPE7X172CVlb.gif?alt=media",
+      "gifUrl": "https://firebasestorage.googleapis.com/v0/b/chatappfirebasetd.appspot.com/o/exercises%2FSRnPE7X172CVlb.gif?alt=media",
       "id": "0488",
       "name": "hyperextension (on bench)",
       "target": "spine",
@@ -16560,7 +16560,7 @@ export const EXERCISES_DATA = [
     {
       "bodyPart": "upper arms",
       "equipment": "body weight",
-      "gifUrl": "https://res.cloudinary.com/dysns4al9/image/upload/v1779592720/gifs/4A1pkRFcfQPAQ4.gif?alt=media",
+      "gifUrl": "https://firebasestorage.googleapis.com/v0/b/chatappfirebasetd.appspot.com/o/exercises%2F4A1pkRFcfQPAQ4.gif?alt=media",
       "id": "3289",
       "name": "impossible dips",
       "target": "triceps",
@@ -16579,7 +16579,7 @@ export const EXERCISES_DATA = [
     {
       "bodyPart": "waist",
       "equipment": "body weight",
-      "gifUrl": "https://res.cloudinary.com/dysns4al9/image/upload/v1779592720/gifs/bsCNj6Dw0fFMaS.gif?alt=media",
+      "gifUrl": "https://firebasestorage.googleapis.com/v0/b/chatappfirebasetd.appspot.com/o/exercises%2FbsCNj6Dw0fFMaS.gif?alt=media",
       "id": "1471",
       "name": "inchworm",
       "target": "abs",
@@ -16599,7 +16599,7 @@ export const EXERCISES_DATA = [
     {
       "bodyPart": "waist",
       "equipment": "body weight",
-      "gifUrl": "https://res.cloudinary.com/dysns4al9/image/upload/v1779592720/gifs/ODTn5Pv46rvZ9k.gif?alt=media",
+      "gifUrl": "https://firebasestorage.googleapis.com/v0/b/chatappfirebasetd.appspot.com/o/exercises%2FODTn5Pv46rvZ9k.gif?alt=media",
       "id": "3698",
       "name": "inchworm v. 2",
       "target": "abs",
@@ -16618,7 +16618,7 @@ export const EXERCISES_DATA = [
     {
       "bodyPart": "upper arms",
       "equipment": "body weight",
-      "gifUrl": "https://res.cloudinary.com/dysns4al9/image/upload/v1779592720/gifs/uZnLqxJ8z2ljr6.gif?alt=media",
+      "gifUrl": "https://firebasestorage.googleapis.com/v0/b/chatappfirebasetd.appspot.com/o/exercises%2FuZnLqxJ8z2ljr6.gif?alt=media",
       "id": "0490",
       "name": "incline close-grip push-up",
       "target": "triceps",
@@ -16637,7 +16637,7 @@ export const EXERCISES_DATA = [
     {
       "bodyPart": "waist",
       "equipment": "body weight",
-      "gifUrl": "https://res.cloudinary.com/dysns4al9/image/upload/v1779592720/gifs/KAADV9BRZi3BN5.gif?alt=media",
+      "gifUrl": "https://firebasestorage.googleapis.com/v0/b/chatappfirebasetd.appspot.com/o/exercises%2FKAADV9BRZi3BN5.gif?alt=media",
       "id": "0491",
       "name": "incline leg hip raise (leg straight)",
       "target": "abs",
@@ -16655,7 +16655,7 @@ export const EXERCISES_DATA = [
     {
       "bodyPart": "chest",
       "equipment": "body weight",
-      "gifUrl": "https://res.cloudinary.com/dysns4al9/image/upload/v1779592720/gifs/zcsgM07DzlA04E.gif?alt=media",
+      "gifUrl": "https://firebasestorage.googleapis.com/v0/b/chatappfirebasetd.appspot.com/o/exercises%2FzcsgM07DzlA04E.gif?alt=media",
       "id": "0492",
       "name": "incline push up depth jump",
       "target": "pectorals",
@@ -16676,7 +16676,7 @@ export const EXERCISES_DATA = [
     {
       "bodyPart": "chest",
       "equipment": "body weight",
-      "gifUrl": "https://res.cloudinary.com/dysns4al9/image/upload/v1779592720/gifs/5kMtSuspmZQUNb.gif?alt=media",
+      "gifUrl": "https://firebasestorage.googleapis.com/v0/b/chatappfirebasetd.appspot.com/o/exercises%2F5kMtSuspmZQUNb.gif?alt=media",
       "id": "0493",
       "name": "incline push-up",
       "target": "pectorals",
@@ -16695,7 +16695,7 @@ export const EXERCISES_DATA = [
     {
       "bodyPart": "chest",
       "equipment": "body weight",
-      "gifUrl": "https://res.cloudinary.com/dysns4al9/image/upload/v1779592720/gifs/NedPPB3NExK4yZ.gif?alt=media",
+      "gifUrl": "https://firebasestorage.googleapis.com/v0/b/chatappfirebasetd.appspot.com/o/exercises%2FNedPPB3NExK4yZ.gif?alt=media",
       "id": "3785",
       "name": "incline push-up (on box)",
       "target": "pectorals",
@@ -16714,7 +16714,7 @@ export const EXERCISES_DATA = [
     {
       "bodyPart": "chest",
       "equipment": "body weight",
-      "gifUrl": "https://res.cloudinary.com/dysns4al9/image/upload/v1779592720/gifs/YkQ5fvxzNXFifL.gif?alt=media",
+      "gifUrl": "https://firebasestorage.googleapis.com/v0/b/chatappfirebasetd.appspot.com/o/exercises%2FYkQ5fvxzNXFifL.gif?alt=media",
       "id": "0494",
       "name": "incline reverse grip push-up",
       "target": "pectorals",
@@ -16733,7 +16733,7 @@ export const EXERCISES_DATA = [
     {
       "bodyPart": "chest",
       "equipment": "body weight",
-      "gifUrl": "https://res.cloudinary.com/dysns4al9/image/upload/v1779592720/gifs/QEFhkZlqI6Bmym.gif?alt=media",
+      "gifUrl": "https://firebasestorage.googleapis.com/v0/b/chatappfirebasetd.appspot.com/o/exercises%2FQEFhkZlqI6Bmym.gif?alt=media",
       "id": "3011",
       "name": "incline scapula push up",
       "target": "serratus anterior",
@@ -16754,7 +16754,7 @@ export const EXERCISES_DATA = [
     {
       "bodyPart": "waist",
       "equipment": "body weight",
-      "gifUrl": "https://res.cloudinary.com/dysns4al9/image/upload/v1779592720/gifs/xTvooPN5Mp1bhr.gif?alt=media",
+      "gifUrl": "https://firebasestorage.googleapis.com/v0/b/chatappfirebasetd.appspot.com/o/exercises%2FxTvooPN5Mp1bhr.gif?alt=media",
       "id": "0495",
       "name": "incline twisting sit-up",
       "target": "abs",
@@ -16775,7 +16775,7 @@ export const EXERCISES_DATA = [
     {
       "bodyPart": "upper legs",
       "equipment": "rope",
-      "gifUrl": "https://res.cloudinary.com/dysns4al9/image/upload/v1779592720/gifs/j3HliNfI1d0IhB.gif?alt=media",
+      "gifUrl": "https://firebasestorage.googleapis.com/v0/b/chatappfirebasetd.appspot.com/o/exercises%2Fj3HliNfI1d0IhB.gif?alt=media",
       "id": "1564",
       "name": "intermediate hip flexor and quad stretch",
       "target": "quads",
@@ -16795,7 +16795,7 @@ export const EXERCISES_DATA = [
     {
       "bodyPart": "upper legs",
       "equipment": "body weight",
-      "gifUrl": "https://res.cloudinary.com/dysns4al9/image/upload/v1779592720/gifs/ZJDVOYHGWwDbss.gif?alt=media",
+      "gifUrl": "https://firebasestorage.googleapis.com/v0/b/chatappfirebasetd.appspot.com/o/exercises%2FZJDVOYHGWwDbss.gif?alt=media",
       "id": "0496",
       "name": "inverse leg curl (bench support)",
       "target": "hamstrings",
@@ -16814,7 +16814,7 @@ export const EXERCISES_DATA = [
     {
       "bodyPart": "upper legs",
       "equipment": "body weight",
-      "gifUrl": "https://res.cloudinary.com/dysns4al9/image/upload/v1779592720/gifs/7oxv457CQu1lIV.gif?alt=media",
+      "gifUrl": "https://firebasestorage.googleapis.com/v0/b/chatappfirebasetd.appspot.com/o/exercises%2F7oxv457CQu1lIV.gif?alt=media",
       "id": "2400",
       "name": "inverse leg curl (on pull-up cable machine)",
       "target": "hamstrings",
@@ -16834,7 +16834,7 @@ export const EXERCISES_DATA = [
     {
       "bodyPart": "back",
       "equipment": "body weight",
-      "gifUrl": "https://res.cloudinary.com/dysns4al9/image/upload/v1779592720/gifs/eHW7NTzomRnnVd.gif?alt=media",
+      "gifUrl": "https://firebasestorage.googleapis.com/v0/b/chatappfirebasetd.appspot.com/o/exercises%2FeHW7NTzomRnnVd.gif?alt=media",
       "id": "0499",
       "name": "inverted row",
       "target": "upper back",
@@ -16855,7 +16855,7 @@ export const EXERCISES_DATA = [
     {
       "bodyPart": "back",
       "equipment": "body weight",
-      "gifUrl": "https://res.cloudinary.com/dysns4al9/image/upload/v1779592720/gifs/LipL4bxYBNW-Cu.gif?alt=media",
+      "gifUrl": "https://firebasestorage.googleapis.com/v0/b/chatappfirebasetd.appspot.com/o/exercises%2FLipL4bxYBNW-Cu.gif?alt=media",
       "id": "2300",
       "name": "inverted row bent knees",
       "target": "upper back",
@@ -16875,7 +16875,7 @@ export const EXERCISES_DATA = [
     {
       "bodyPart": "back",
       "equipment": "body weight",
-      "gifUrl": "https://res.cloudinary.com/dysns4al9/image/upload/v1779592720/gifs/-82zyZkYQATRuk.gif?alt=media",
+      "gifUrl": "https://firebasestorage.googleapis.com/v0/b/chatappfirebasetd.appspot.com/o/exercises%2F-82zyZkYQATRuk.gif?alt=media",
       "id": "2298",
       "name": "inverted row on bench",
       "target": "upper back",
@@ -16896,7 +16896,7 @@ export const EXERCISES_DATA = [
     {
       "bodyPart": "back",
       "equipment": "body weight",
-      "gifUrl": "https://res.cloudinary.com/dysns4al9/image/upload/v1779592720/gifs/ppRycKE2VtVR0i.gif?alt=media",
+      "gifUrl": "https://firebasestorage.googleapis.com/v0/b/chatappfirebasetd.appspot.com/o/exercises%2FppRycKE2VtVR0i.gif?alt=media",
       "id": "0497",
       "name": "inverted row v. 2",
       "target": "upper back",
@@ -16916,7 +16916,7 @@ export const EXERCISES_DATA = [
     {
       "bodyPart": "back",
       "equipment": "body weight",
-      "gifUrl": "https://res.cloudinary.com/dysns4al9/image/upload/v1779592720/gifs/YEH0mbKS1DSi8x.gif?alt=media",
+      "gifUrl": "https://firebasestorage.googleapis.com/v0/b/chatappfirebasetd.appspot.com/o/exercises%2FYEH0mbKS1DSi8x.gif?alt=media",
       "id": "0498",
       "name": "inverted row with straps",
       "target": "upper back",
@@ -16937,7 +16937,7 @@ export const EXERCISES_DATA = [
     {
       "bodyPart": "upper legs",
       "equipment": "body weight",
-      "gifUrl": "https://res.cloudinary.com/dysns4al9/image/upload/v1779592720/gifs/zSwz7WrtM18iNW.gif?alt=media",
+      "gifUrl": "https://firebasestorage.googleapis.com/v0/b/chatappfirebasetd.appspot.com/o/exercises%2FzSwz7WrtM18iNW.gif?alt=media",
       "id": "1419",
       "name": "iron cross stretch",
       "target": "glutes",
@@ -16957,7 +16957,7 @@ export const EXERCISES_DATA = [
     {
       "bodyPart": "chest",
       "equipment": "body weight",
-      "gifUrl": "https://res.cloudinary.com/dysns4al9/image/upload/v1779592720/gifs/Na6qS1YeF2yp3V.gif?alt=media",
+      "gifUrl": "https://firebasestorage.googleapis.com/v0/b/chatappfirebasetd.appspot.com/o/exercises%2FNa6qS1YeF2yp3V.gif?alt=media",
       "id": "1297",
       "name": "isometric chest squeeze",
       "target": "pectorals",
@@ -16977,7 +16977,7 @@ export const EXERCISES_DATA = [
     {
       "bodyPart": "chest",
       "equipment": "body weight",
-      "gifUrl": "https://res.cloudinary.com/dysns4al9/image/upload/v1779592720/gifs/NeoFfPwZaBmt3X.gif?alt=media",
+      "gifUrl": "https://firebasestorage.googleapis.com/v0/b/chatappfirebasetd.appspot.com/o/exercises%2FNeoFfPwZaBmt3X.gif?alt=media",
       "id": "0500",
       "name": "isometric wipers",
       "target": "pectorals",
@@ -16999,7 +16999,7 @@ export const EXERCISES_DATA = [
     {
       "bodyPart": "cardio",
       "equipment": "body weight",
-      "gifUrl": "https://res.cloudinary.com/dysns4al9/image/upload/v1779592720/gifs/cfntbRD6Qtzv-t.gif?alt=media",
+      "gifUrl": "https://firebasestorage.googleapis.com/v0/b/chatappfirebasetd.appspot.com/o/exercises%2FcfntbRD6Qtzv-t.gif?alt=media",
       "id": "0501",
       "name": "jack burpee",
       "target": "cardiovascular system",
@@ -17024,7 +17024,7 @@ export const EXERCISES_DATA = [
     {
       "bodyPart": "cardio",
       "equipment": "body weight",
-      "gifUrl": "https://res.cloudinary.com/dysns4al9/image/upload/v1779592720/gifs/Qf295TiBWGzp-F.gif?alt=media",
+      "gifUrl": "https://firebasestorage.googleapis.com/v0/b/chatappfirebasetd.appspot.com/o/exercises%2FQf295TiBWGzp-F.gif?alt=media",
       "id": "3224",
       "name": "jack jump (male)",
       "target": "cardiovascular system",
@@ -17042,7 +17042,7 @@ export const EXERCISES_DATA = [
     {
       "bodyPart": "waist",
       "equipment": "body weight",
-      "gifUrl": "https://res.cloudinary.com/dysns4al9/image/upload/v1779592720/gifs/Ani2t3xSmtmrTe.gif?alt=media",
+      "gifUrl": "https://firebasestorage.googleapis.com/v0/b/chatappfirebasetd.appspot.com/o/exercises%2FAni2t3xSmtmrTe.gif?alt=media",
       "id": "0507",
       "name": "jackknife sit-up",
       "target": "abs",
@@ -17059,7 +17059,7 @@ export const EXERCISES_DATA = [
     {
       "bodyPart": "waist",
       "equipment": "body weight",
-      "gifUrl": "https://res.cloudinary.com/dysns4al9/image/upload/v1779592720/gifs/Ktlw10g6fsTHMN.gif?alt=media",
+      "gifUrl": "https://firebasestorage.googleapis.com/v0/b/chatappfirebasetd.appspot.com/o/exercises%2FKtlw10g6fsTHMN.gif?alt=media",
       "id": "0508",
       "name": "janda sit-up",
       "target": "abs",
@@ -17078,7 +17078,7 @@ export const EXERCISES_DATA = [
     {
       "bodyPart": "cardio",
       "equipment": "rope",
-      "gifUrl": "https://res.cloudinary.com/dysns4al9/image/upload/v1779592720/gifs/-f2mCI4XKf0tm9.gif?alt=media",
+      "gifUrl": "https://firebasestorage.googleapis.com/v0/b/chatappfirebasetd.appspot.com/o/exercises%2F-f2mCI4XKf0tm9.gif?alt=media",
       "id": "2612",
       "name": "jump rope",
       "target": "cardiovascular system",
@@ -17099,7 +17099,7 @@ export const EXERCISES_DATA = [
     {
       "bodyPart": "upper legs",
       "equipment": "body weight",
-      "gifUrl": "https://res.cloudinary.com/dysns4al9/image/upload/v1779592720/gifs/pvOm96sRhrMLUK.gif?alt=media",
+      "gifUrl": "https://firebasestorage.googleapis.com/v0/b/chatappfirebasetd.appspot.com/o/exercises%2FpvOm96sRhrMLUK.gif?alt=media",
       "id": "0514",
       "name": "jump squat",
       "target": "glutes",
@@ -17120,7 +17120,7 @@ export const EXERCISES_DATA = [
     {
       "bodyPart": "upper legs",
       "equipment": "body weight",
-      "gifUrl": "https://res.cloudinary.com/dysns4al9/image/upload/v1779592720/gifs/qIxC4v3QR9cbho.gif?alt=media",
+      "gifUrl": "https://firebasestorage.googleapis.com/v0/b/chatappfirebasetd.appspot.com/o/exercises%2FqIxC4v3QR9cbho.gif?alt=media",
       "id": "0513",
       "name": "jump squat v. 2",
       "target": "glutes",
@@ -17140,7 +17140,7 @@ export const EXERCISES_DATA = [
     {
       "bodyPart": "waist",
       "equipment": "kettlebell",
-      "gifUrl": "https://res.cloudinary.com/dysns4al9/image/upload/v1779592720/gifs/daqe1YpNMq02Fj.gif?alt=media",
+      "gifUrl": "https://firebasestorage.googleapis.com/v0/b/chatappfirebasetd.appspot.com/o/exercises%2Fdaqe1YpNMq02Fj.gif?alt=media",
       "id": "0517",
       "name": "kettlebell advanced windmill",
       "target": "abs",
@@ -17163,7 +17163,7 @@ export const EXERCISES_DATA = [
     {
       "bodyPart": "lower arms",
       "equipment": "kettlebell",
-      "gifUrl": "https://res.cloudinary.com/dysns4al9/image/upload/v1779592720/gifs/3p3Q6yf1rqkPzA.gif?alt=media",
+      "gifUrl": "https://firebasestorage.googleapis.com/v0/b/chatappfirebasetd.appspot.com/o/exercises%2F3p3Q6yf1rqkPzA.gif?alt=media",
       "id": "0518",
       "name": "kettlebell alternating hang clean",
       "target": "forearms",
@@ -17185,7 +17185,7 @@ export const EXERCISES_DATA = [
     {
       "bodyPart": "shoulders",
       "equipment": "kettlebell",
-      "gifUrl": "https://res.cloudinary.com/dysns4al9/image/upload/v1779592720/gifs/di6MnHT4cx3YNe.gif?alt=media",
+      "gifUrl": "https://firebasestorage.googleapis.com/v0/b/chatappfirebasetd.appspot.com/o/exercises%2Fdi6MnHT4cx3YNe.gif?alt=media",
       "id": "0520",
       "name": "kettlebell alternating press",
       "target": "delts",
@@ -17204,7 +17204,7 @@ export const EXERCISES_DATA = [
     {
       "bodyPart": "chest",
       "equipment": "kettlebell",
-      "gifUrl": "https://res.cloudinary.com/dysns4al9/image/upload/v1779592720/gifs/GzDgpRDOb7HsSG.gif?alt=media",
+      "gifUrl": "https://firebasestorage.googleapis.com/v0/b/chatappfirebasetd.appspot.com/o/exercises%2FGzDgpRDOb7HsSG.gif?alt=media",
       "id": "0519",
       "name": "kettlebell alternating press on floor",
       "target": "pectorals",
@@ -17223,7 +17223,7 @@ export const EXERCISES_DATA = [
     {
       "bodyPart": "back",
       "equipment": "kettlebell",
-      "gifUrl": "https://res.cloudinary.com/dysns4al9/image/upload/v1779592720/gifs/ID4LID0vEp4Kcu.gif?alt=media",
+      "gifUrl": "https://firebasestorage.googleapis.com/v0/b/chatappfirebasetd.appspot.com/o/exercises%2FID4LID0vEp4Kcu.gif?alt=media",
       "id": "0521",
       "name": "kettlebell alternating renegade row",
       "target": "upper back",
@@ -17242,7 +17242,7 @@ export const EXERCISES_DATA = [
     {
       "bodyPart": "back",
       "equipment": "kettlebell",
-      "gifUrl": "https://res.cloudinary.com/dysns4al9/image/upload/v1779592720/gifs/CZ8qSuIBWxVHhV.gif?alt=media",
+      "gifUrl": "https://firebasestorage.googleapis.com/v0/b/chatappfirebasetd.appspot.com/o/exercises%2FCZ8qSuIBWxVHhV.gif?alt=media",
       "id": "0522",
       "name": "kettlebell alternating row",
       "target": "upper back",
@@ -17261,7 +17261,7 @@ export const EXERCISES_DATA = [
     {
       "bodyPart": "shoulders",
       "equipment": "kettlebell",
-      "gifUrl": "https://res.cloudinary.com/dysns4al9/image/upload/v1779592720/gifs/3sYKvbMdhVvdGw.gif?alt=media",
+      "gifUrl": "https://firebasestorage.googleapis.com/v0/b/chatappfirebasetd.appspot.com/o/exercises%2F3sYKvbMdhVvdGw.gif?alt=media",
       "id": "0523",
       "name": "kettlebell arnold press",
       "target": "delts",
@@ -17279,7 +17279,7 @@ export const EXERCISES_DATA = [
     {
       "bodyPart": "waist",
       "equipment": "kettlebell",
-      "gifUrl": "https://res.cloudinary.com/dysns4al9/image/upload/v1779592720/gifs/iU3cl8DQBAXaUs.gif?alt=media",
+      "gifUrl": "https://firebasestorage.googleapis.com/v0/b/chatappfirebasetd.appspot.com/o/exercises%2FiU3cl8DQBAXaUs.gif?alt=media",
       "id": "0524",
       "name": "kettlebell bent press",
       "target": "abs",
@@ -17302,7 +17302,7 @@ export const EXERCISES_DATA = [
     {
       "bodyPart": "upper arms",
       "equipment": "kettlebell",
-      "gifUrl": "https://res.cloudinary.com/dysns4al9/image/upload/v1779592720/gifs/H9a0-aF76wS57j.gif?alt=media",
+      "gifUrl": "https://firebasestorage.googleapis.com/v0/b/chatappfirebasetd.appspot.com/o/exercises%2FH9a0-aF76wS57j.gif?alt=media",
       "id": "0525",
       "name": "kettlebell bottoms up clean from the hang position",
       "target": "biceps",
@@ -17324,7 +17324,7 @@ export const EXERCISES_DATA = [
     {
       "bodyPart": "upper arms",
       "equipment": "kettlebell",
-      "gifUrl": "https://res.cloudinary.com/dysns4al9/image/upload/v1779592720/gifs/rfgtgj7gOrzdcZ.gif?alt=media",
+      "gifUrl": "https://firebasestorage.googleapis.com/v0/b/chatappfirebasetd.appspot.com/o/exercises%2Frfgtgj7gOrzdcZ.gif?alt=media",
       "id": "0526",
       "name": "kettlebell double alternating hang clean",
       "target": "biceps",
@@ -17345,7 +17345,7 @@ export const EXERCISES_DATA = [
     {
       "bodyPart": "shoulders",
       "equipment": "kettlebell",
-      "gifUrl": "https://res.cloudinary.com/dysns4al9/image/upload/v1779592720/gifs/HBH9AVqZLYqM3I.gif?alt=media",
+      "gifUrl": "https://firebasestorage.googleapis.com/v0/b/chatappfirebasetd.appspot.com/o/exercises%2FHBH9AVqZLYqM3I.gif?alt=media",
       "id": "0527",
       "name": "kettlebell double jerk",
       "target": "delts",
@@ -17367,7 +17367,7 @@ export const EXERCISES_DATA = [
     {
       "bodyPart": "shoulders",
       "equipment": "kettlebell",
-      "gifUrl": "https://res.cloudinary.com/dysns4al9/image/upload/v1779592720/gifs/7cGrZZUVQcRd1D.gif?alt=media",
+      "gifUrl": "https://firebasestorage.googleapis.com/v0/b/chatappfirebasetd.appspot.com/o/exercises%2F7cGrZZUVQcRd1D.gif?alt=media",
       "id": "0528",
       "name": "kettlebell double push press",
       "target": "delts",
@@ -17387,7 +17387,7 @@ export const EXERCISES_DATA = [
     {
       "bodyPart": "shoulders",
       "equipment": "kettlebell",
-      "gifUrl": "https://res.cloudinary.com/dysns4al9/image/upload/v1779592720/gifs/IV0mQSGUoWogV2.gif?alt=media",
+      "gifUrl": "https://firebasestorage.googleapis.com/v0/b/chatappfirebasetd.appspot.com/o/exercises%2FIV0mQSGUoWogV2.gif?alt=media",
       "id": "0529",
       "name": "kettlebell double snatch",
       "target": "delts",
@@ -17407,7 +17407,7 @@ export const EXERCISES_DATA = [
     {
       "bodyPart": "waist",
       "equipment": "kettlebell",
-      "gifUrl": "https://res.cloudinary.com/dysns4al9/image/upload/v1779592720/gifs/Z8OvIvPtsBXHi4.gif?alt=media",
+      "gifUrl": "https://firebasestorage.googleapis.com/v0/b/chatappfirebasetd.appspot.com/o/exercises%2FZ8OvIvPtsBXHi4.gif?alt=media",
       "id": "0530",
       "name": "kettlebell double windmill",
       "target": "abs",
@@ -17428,7 +17428,7 @@ export const EXERCISES_DATA = [
     {
       "bodyPart": "chest",
       "equipment": "kettlebell",
-      "gifUrl": "https://res.cloudinary.com/dysns4al9/image/upload/v1779592720/gifs/Hq7TK5DShlgrBb.gif?alt=media",
+      "gifUrl": "https://firebasestorage.googleapis.com/v0/b/chatappfirebasetd.appspot.com/o/exercises%2FHq7TK5DShlgrBb.gif?alt=media",
       "id": "0531",
       "name": "kettlebell extended range one arm press on floor",
       "target": "pectorals",
@@ -17447,7 +17447,7 @@ export const EXERCISES_DATA = [
     {
       "bodyPart": "waist",
       "equipment": "kettlebell",
-      "gifUrl": "https://res.cloudinary.com/dysns4al9/image/upload/v1779592720/gifs/c-Al48nbabcYFE.gif?alt=media",
+      "gifUrl": "https://firebasestorage.googleapis.com/v0/b/chatappfirebasetd.appspot.com/o/exercises%2Fc-Al48nbabcYFE.gif?alt=media",
       "id": "0532",
       "name": "kettlebell figure 8",
       "target": "abs",
@@ -17468,7 +17468,7 @@ export const EXERCISES_DATA = [
     {
       "bodyPart": "upper legs",
       "equipment": "kettlebell",
-      "gifUrl": "https://res.cloudinary.com/dysns4al9/image/upload/v1779592720/gifs/P7OK-fmbH0HR6x.gif?alt=media",
+      "gifUrl": "https://firebasestorage.googleapis.com/v0/b/chatappfirebasetd.appspot.com/o/exercises%2FP7OK-fmbH0HR6x.gif?alt=media",
       "id": "0533",
       "name": "kettlebell front squat",
       "target": "glutes",
@@ -17489,7 +17489,7 @@ export const EXERCISES_DATA = [
     {
       "bodyPart": "upper legs",
       "equipment": "kettlebell",
-      "gifUrl": "https://res.cloudinary.com/dysns4al9/image/upload/v1779592720/gifs/NO1qV-YitYeSNB.gif?alt=media",
+      "gifUrl": "https://firebasestorage.googleapis.com/v0/b/chatappfirebasetd.appspot.com/o/exercises%2FNO1qV-YitYeSNB.gif?alt=media",
       "id": "0534",
       "name": "kettlebell goblet squat",
       "target": "glutes",
@@ -17509,7 +17509,7 @@ export const EXERCISES_DATA = [
     {
       "bodyPart": "upper legs",
       "equipment": "kettlebell",
-      "gifUrl": "https://res.cloudinary.com/dysns4al9/image/upload/v1779592720/gifs/fYq40r4cOoIMJY.gif?alt=media",
+      "gifUrl": "https://firebasestorage.googleapis.com/v0/b/chatappfirebasetd.appspot.com/o/exercises%2FfYq40r4cOoIMJY.gif?alt=media",
       "id": "0535",
       "name": "kettlebell hang clean",
       "target": "hamstrings",
@@ -17530,7 +17530,7 @@ export const EXERCISES_DATA = [
     {
       "bodyPart": "upper legs",
       "equipment": "kettlebell",
-      "gifUrl": "https://res.cloudinary.com/dysns4al9/image/upload/v1779592720/gifs/KyfURFHkixKE3h.gif?alt=media",
+      "gifUrl": "https://firebasestorage.googleapis.com/v0/b/chatappfirebasetd.appspot.com/o/exercises%2FKyfURFHkixKE3h.gif?alt=media",
       "id": "0536",
       "name": "kettlebell lunge pass through",
       "target": "glutes",
@@ -17551,7 +17551,7 @@ export const EXERCISES_DATA = [
     {
       "bodyPart": "shoulders",
       "equipment": "kettlebell",
-      "gifUrl": "https://res.cloudinary.com/dysns4al9/image/upload/v1779592720/gifs/y21oTexrEswPu4.gif?alt=media",
+      "gifUrl": "https://firebasestorage.googleapis.com/v0/b/chatappfirebasetd.appspot.com/o/exercises%2Fy21oTexrEswPu4.gif?alt=media",
       "id": "0537",
       "name": "kettlebell one arm clean and jerk",
       "target": "delts",
@@ -17570,7 +17570,7 @@ export const EXERCISES_DATA = [
     {
       "bodyPart": "chest",
       "equipment": "kettlebell",
-      "gifUrl": "https://res.cloudinary.com/dysns4al9/image/upload/v1779592720/gifs/BmfMJ2ehfSd489.gif?alt=media",
+      "gifUrl": "https://firebasestorage.googleapis.com/v0/b/chatappfirebasetd.appspot.com/o/exercises%2FBmfMJ2ehfSd489.gif?alt=media",
       "id": "1298",
       "name": "kettlebell one arm floor press",
       "target": "pectorals",
@@ -17589,7 +17589,7 @@ export const EXERCISES_DATA = [
     {
       "bodyPart": "shoulders",
       "equipment": "kettlebell",
-      "gifUrl": "https://res.cloudinary.com/dysns4al9/image/upload/v1779592720/gifs/H1XmE1rcytqNrk.gif?alt=media",
+      "gifUrl": "https://firebasestorage.googleapis.com/v0/b/chatappfirebasetd.appspot.com/o/exercises%2FH1XmE1rcytqNrk.gif?alt=media",
       "id": "0538",
       "name": "kettlebell one arm jerk",
       "target": "delts",
@@ -17611,7 +17611,7 @@ export const EXERCISES_DATA = [
     {
       "bodyPart": "shoulders",
       "equipment": "kettlebell",
-      "gifUrl": "https://res.cloudinary.com/dysns4al9/image/upload/v1779592720/gifs/dADhf88SOlv27n.gif?alt=media",
+      "gifUrl": "https://firebasestorage.googleapis.com/v0/b/chatappfirebasetd.appspot.com/o/exercises%2FdADhf88SOlv27n.gif?alt=media",
       "id": "0539",
       "name": "kettlebell one arm military press to the side",
       "target": "delts",
@@ -17630,7 +17630,7 @@ export const EXERCISES_DATA = [
     {
       "bodyPart": "shoulders",
       "equipment": "kettlebell",
-      "gifUrl": "https://res.cloudinary.com/dysns4al9/image/upload/v1779592720/gifs/zgGekjSAWFCobD.gif?alt=media",
+      "gifUrl": "https://firebasestorage.googleapis.com/v0/b/chatappfirebasetd.appspot.com/o/exercises%2FzgGekjSAWFCobD.gif?alt=media",
       "id": "0540",
       "name": "kettlebell one arm push press",
       "target": "delts",
@@ -17649,7 +17649,7 @@ export const EXERCISES_DATA = [
     {
       "bodyPart": "back",
       "equipment": "kettlebell",
-      "gifUrl": "https://res.cloudinary.com/dysns4al9/image/upload/v1779592720/gifs/tXbyW2QFGItKfS.gif?alt=media",
+      "gifUrl": "https://firebasestorage.googleapis.com/v0/b/chatappfirebasetd.appspot.com/o/exercises%2FtXbyW2QFGItKfS.gif?alt=media",
       "id": "0541",
       "name": "kettlebell one arm row",
       "target": "upper back",
@@ -17668,7 +17668,7 @@ export const EXERCISES_DATA = [
     {
       "bodyPart": "shoulders",
       "equipment": "kettlebell",
-      "gifUrl": "https://res.cloudinary.com/dysns4al9/image/upload/v1779592720/gifs/uZK1BNQyGjhbPq.gif?alt=media",
+      "gifUrl": "https://firebasestorage.googleapis.com/v0/b/chatappfirebasetd.appspot.com/o/exercises%2FuZK1BNQyGjhbPq.gif?alt=media",
       "id": "0542",
       "name": "kettlebell one arm snatch",
       "target": "delts",
@@ -17688,7 +17688,7 @@ export const EXERCISES_DATA = [
     {
       "bodyPart": "shoulders",
       "equipment": "kettlebell",
-      "gifUrl": "https://res.cloudinary.com/dysns4al9/image/upload/v1779592720/gifs/Z05KLZ0IfMOSzs.gif?alt=media",
+      "gifUrl": "https://firebasestorage.googleapis.com/v0/b/chatappfirebasetd.appspot.com/o/exercises%2FZ05KLZ0IfMOSzs.gif?alt=media",
       "id": "0543",
       "name": "kettlebell pirate supper legs",
       "target": "delts",
@@ -17708,7 +17708,7 @@ export const EXERCISES_DATA = [
     {
       "bodyPart": "upper legs",
       "equipment": "kettlebell",
-      "gifUrl": "https://res.cloudinary.com/dysns4al9/image/upload/v1779592720/gifs/2YwQAZqUw4zv93.gif?alt=media",
+      "gifUrl": "https://firebasestorage.googleapis.com/v0/b/chatappfirebasetd.appspot.com/o/exercises%2F2YwQAZqUw4zv93.gif?alt=media",
       "id": "0544",
       "name": "kettlebell pistol squat",
       "target": "glutes",
@@ -17728,7 +17728,7 @@ export const EXERCISES_DATA = [
     {
       "bodyPart": "chest",
       "equipment": "kettlebell",
-      "gifUrl": "https://res.cloudinary.com/dysns4al9/image/upload/v1779592720/gifs/-hU5OH6g6BctHO.gif?alt=media",
+      "gifUrl": "https://firebasestorage.googleapis.com/v0/b/chatappfirebasetd.appspot.com/o/exercises%2F-hU5OH6g6BctHO.gif?alt=media",
       "id": "0545",
       "name": "kettlebell plyo push-up",
       "target": "pectorals",
@@ -17748,7 +17748,7 @@ export const EXERCISES_DATA = [
     {
       "bodyPart": "shoulders",
       "equipment": "kettlebell",
-      "gifUrl": "https://res.cloudinary.com/dysns4al9/image/upload/v1779592720/gifs/J06NNH1FREAPA7.gif?alt=media",
+      "gifUrl": "https://firebasestorage.googleapis.com/v0/b/chatappfirebasetd.appspot.com/o/exercises%2FJ06NNH1FREAPA7.gif?alt=media",
       "id": "0546",
       "name": "kettlebell seated press",
       "target": "delts",
@@ -17767,7 +17767,7 @@ export const EXERCISES_DATA = [
     {
       "bodyPart": "shoulders",
       "equipment": "kettlebell",
-      "gifUrl": "https://res.cloudinary.com/dysns4al9/image/upload/v1779592720/gifs/xfPMyxz0RjAoFr.gif?alt=media",
+      "gifUrl": "https://firebasestorage.googleapis.com/v0/b/chatappfirebasetd.appspot.com/o/exercises%2FxfPMyxz0RjAoFr.gif?alt=media",
       "id": "1438",
       "name": "kettlebell seated two arm military press",
       "target": "delts",
@@ -17786,7 +17786,7 @@ export const EXERCISES_DATA = [
     {
       "bodyPart": "shoulders",
       "equipment": "kettlebell",
-      "gifUrl": "https://res.cloudinary.com/dysns4al9/image/upload/v1779592720/gifs/rjBQJccF94OCSt.gif?alt=media",
+      "gifUrl": "https://firebasestorage.googleapis.com/v0/b/chatappfirebasetd.appspot.com/o/exercises%2FrjBQJccF94OCSt.gif?alt=media",
       "id": "0547",
       "name": "kettlebell seesaw press",
       "target": "delts",
@@ -17805,7 +17805,7 @@ export const EXERCISES_DATA = [
     {
       "bodyPart": "back",
       "equipment": "kettlebell",
-      "gifUrl": "https://res.cloudinary.com/dysns4al9/image/upload/v1779592720/gifs/EyaC3rkTfnQFLd.gif?alt=media",
+      "gifUrl": "https://firebasestorage.googleapis.com/v0/b/chatappfirebasetd.appspot.com/o/exercises%2FEyaC3rkTfnQFLd.gif?alt=media",
       "id": "0548",
       "name": "kettlebell sumo high pull",
       "target": "traps",
@@ -17826,7 +17826,7 @@ export const EXERCISES_DATA = [
     {
       "bodyPart": "upper legs",
       "equipment": "kettlebell",
-      "gifUrl": "https://res.cloudinary.com/dysns4al9/image/upload/v1779592720/gifs/YgoDbttGr-9uH7.gif?alt=media",
+      "gifUrl": "https://firebasestorage.googleapis.com/v0/b/chatappfirebasetd.appspot.com/o/exercises%2FYgoDbttGr-9uH7.gif?alt=media",
       "id": "0549",
       "name": "kettlebell swing",
       "target": "glutes",
@@ -17846,7 +17846,7 @@ export const EXERCISES_DATA = [
     {
       "bodyPart": "shoulders",
       "equipment": "kettlebell",
-      "gifUrl": "https://res.cloudinary.com/dysns4al9/image/upload/v1779592720/gifs/HEmllEjBuuYfh-.gif?alt=media",
+      "gifUrl": "https://firebasestorage.googleapis.com/v0/b/chatappfirebasetd.appspot.com/o/exercises%2FHEmllEjBuuYfh-.gif?alt=media",
       "id": "0550",
       "name": "kettlebell thruster",
       "target": "delts",
@@ -17867,7 +17867,7 @@ export const EXERCISES_DATA = [
     {
       "bodyPart": "upper legs",
       "equipment": "kettlebell",
-      "gifUrl": "https://res.cloudinary.com/dysns4al9/image/upload/v1779592720/gifs/yXmLnMnyMiTMrt.gif?alt=media",
+      "gifUrl": "https://firebasestorage.googleapis.com/v0/b/chatappfirebasetd.appspot.com/o/exercises%2FyXmLnMnyMiTMrt.gif?alt=media",
       "id": "0551",
       "name": "kettlebell turkish get up (squat style)",
       "target": "glutes",
@@ -17891,7 +17891,7 @@ export const EXERCISES_DATA = [
     {
       "bodyPart": "shoulders",
       "equipment": "kettlebell",
-      "gifUrl": "https://res.cloudinary.com/dysns4al9/image/upload/v1779592720/gifs/wgy7oWl5kYd8n4.gif?alt=media",
+      "gifUrl": "https://firebasestorage.googleapis.com/v0/b/chatappfirebasetd.appspot.com/o/exercises%2Fwgy7oWl5kYd8n4.gif?alt=media",
       "id": "0552",
       "name": "kettlebell two arm clean",
       "target": "delts",
@@ -17910,7 +17910,7 @@ export const EXERCISES_DATA = [
     {
       "bodyPart": "shoulders",
       "equipment": "kettlebell",
-      "gifUrl": "https://res.cloudinary.com/dysns4al9/image/upload/v1779592720/gifs/kl4IGCv90u8OSf.gif?alt=media",
+      "gifUrl": "https://firebasestorage.googleapis.com/v0/b/chatappfirebasetd.appspot.com/o/exercises%2Fkl4IGCv90u8OSf.gif?alt=media",
       "id": "0553",
       "name": "kettlebell two arm military press",
       "target": "delts",
@@ -17928,7 +17928,7 @@ export const EXERCISES_DATA = [
     {
       "bodyPart": "back",
       "equipment": "kettlebell",
-      "gifUrl": "https://res.cloudinary.com/dysns4al9/image/upload/v1779592720/gifs/LHcqi57F9KvVMG.gif?alt=media",
+      "gifUrl": "https://firebasestorage.googleapis.com/v0/b/chatappfirebasetd.appspot.com/o/exercises%2FLHcqi57F9KvVMG.gif?alt=media",
       "id": "1345",
       "name": "kettlebell two arm row",
       "target": "upper back",
@@ -17947,7 +17947,7 @@ export const EXERCISES_DATA = [
     {
       "bodyPart": "waist",
       "equipment": "kettlebell",
-      "gifUrl": "https://res.cloudinary.com/dysns4al9/image/upload/v1779592720/gifs/R24-imXBcli4i3.gif?alt=media",
+      "gifUrl": "https://firebasestorage.googleapis.com/v0/b/chatappfirebasetd.appspot.com/o/exercises%2FR24-imXBcli4i3.gif?alt=media",
       "id": "0554",
       "name": "kettlebell windmill",
       "target": "abs",
@@ -17967,7 +17967,7 @@ export const EXERCISES_DATA = [
     {
       "bodyPart": "upper legs",
       "equipment": "body weight",
-      "gifUrl": "https://res.cloudinary.com/dysns4al9/image/upload/v1779592720/gifs/3Q2dbLrqifV8ge.gif?alt=media",
+      "gifUrl": "https://firebasestorage.googleapis.com/v0/b/chatappfirebasetd.appspot.com/o/exercises%2F3Q2dbLrqifV8ge.gif?alt=media",
       "id": "0555",
       "name": "kick out sit",
       "target": "hamstrings",
@@ -17986,7 +17986,7 @@ export const EXERCISES_DATA = [
     {
       "bodyPart": "back",
       "equipment": "body weight",
-      "gifUrl": "https://res.cloudinary.com/dysns4al9/image/upload/v1779592720/gifs/ZPochIGqdaQUtL.gif?alt=media",
+      "gifUrl": "https://firebasestorage.googleapis.com/v0/b/chatappfirebasetd.appspot.com/o/exercises%2FZPochIGqdaQUtL.gif?alt=media",
       "id": "0558",
       "name": "kipping muscle up",
       "target": "lats",
@@ -18008,7 +18008,7 @@ export const EXERCISES_DATA = [
     {
       "bodyPart": "waist",
       "equipment": "body weight",
-      "gifUrl": "https://res.cloudinary.com/dysns4al9/image/upload/v1779592720/gifs/McpQXrltu4SLyv.gif?alt=media",
+      "gifUrl": "https://firebasestorage.googleapis.com/v0/b/chatappfirebasetd.appspot.com/o/exercises%2FMcpQXrltu4SLyv.gif?alt=media",
       "id": "3640",
       "name": "knee touch crunch",
       "target": "abs",
@@ -18026,7 +18026,7 @@ export const EXERCISES_DATA = [
     {
       "bodyPart": "upper legs",
       "equipment": "barbell",
-      "gifUrl": "https://res.cloudinary.com/dysns4al9/image/upload/v1779592720/gifs/Kppg4T3wCfqkTu.gif?alt=media",
+      "gifUrl": "https://firebasestorage.googleapis.com/v0/b/chatappfirebasetd.appspot.com/o/exercises%2FKppg4T3wCfqkTu.gif?alt=media",
       "id": "1420",
       "name": "kneeling jump squat",
       "target": "glutes",
@@ -18047,7 +18047,7 @@ export const EXERCISES_DATA = [
     {
       "bodyPart": "back",
       "equipment": "body weight",
-      "gifUrl": "https://res.cloudinary.com/dysns4al9/image/upload/v1779592720/gifs/Lpwo3g9QSHksEw.gif?alt=media",
+      "gifUrl": "https://firebasestorage.googleapis.com/v0/b/chatappfirebasetd.appspot.com/o/exercises%2FLpwo3g9QSHksEw.gif?alt=media",
       "id": "1346",
       "name": "kneeling lat stretch",
       "target": "lats",
@@ -18067,7 +18067,7 @@ export const EXERCISES_DATA = [
     {
       "bodyPart": "waist",
       "equipment": "body weight",
-      "gifUrl": "https://res.cloudinary.com/dysns4al9/image/upload/v1779592720/gifs/Px6PAZ6wfdULTW.gif?alt=media",
+      "gifUrl": "https://firebasestorage.googleapis.com/v0/b/chatappfirebasetd.appspot.com/o/exercises%2FPx6PAZ6wfdULTW.gif?alt=media",
       "id": "3239",
       "name": "kneeling plank tap shoulder (male)",
       "target": "abs",
@@ -18086,7 +18086,7 @@ export const EXERCISES_DATA = [
     {
       "bodyPart": "chest",
       "equipment": "body weight",
-      "gifUrl": "https://res.cloudinary.com/dysns4al9/image/upload/v1779592720/gifs/orP0x22fzhMvLJ.gif?alt=media",
+      "gifUrl": "https://firebasestorage.googleapis.com/v0/b/chatappfirebasetd.appspot.com/o/exercises%2ForP0x22fzhMvLJ.gif?alt=media",
       "id": "3211",
       "name": "kneeling push-up (male)",
       "target": "pectorals",
@@ -18105,7 +18105,7 @@ export const EXERCISES_DATA = [
     {
       "bodyPart": "chest",
       "equipment": "body weight",
-      "gifUrl": "https://res.cloudinary.com/dysns4al9/image/upload/v1779592720/gifs/uenangmaXivJGF.gif?alt=media",
+      "gifUrl": "https://firebasestorage.googleapis.com/v0/b/chatappfirebasetd.appspot.com/o/exercises%2FuenangmaXivJGF.gif?alt=media",
       "id": "3288",
       "name": "korean dips",
       "target": "pectorals",
@@ -18123,7 +18123,7 @@ export const EXERCISES_DATA = [
     {
       "bodyPart": "back",
       "equipment": "body weight",
-      "gifUrl": "https://res.cloudinary.com/dysns4al9/image/upload/v1779592720/gifs/KodVDst1Ujy7CA.gif?alt=media",
+      "gifUrl": "https://firebasestorage.googleapis.com/v0/b/chatappfirebasetd.appspot.com/o/exercises%2FKodVDst1Ujy7CA.gif?alt=media",
       "id": "3418",
       "name": "l-pull-up",
       "target": "lats",
@@ -18143,7 +18143,7 @@ export const EXERCISES_DATA = [
     {
       "bodyPart": "waist",
       "equipment": "body weight",
-      "gifUrl": "https://res.cloudinary.com/dysns4al9/image/upload/v1779592720/gifs/PGvxW0LJeBfNse.gif?alt=media",
+      "gifUrl": "https://firebasestorage.googleapis.com/v0/b/chatappfirebasetd.appspot.com/o/exercises%2FPGvxW0LJeBfNse.gif?alt=media",
       "id": "3419",
       "name": "l-sit on floor",
       "target": "abs",
@@ -18163,7 +18163,7 @@ export const EXERCISES_DATA = [
     {
       "bodyPart": "waist",
       "equipment": "barbell",
-      "gifUrl": "https://res.cloudinary.com/dysns4al9/image/upload/v1779592720/gifs/iGqKYwK2AFHt-h.gif?alt=media",
+      "gifUrl": "https://firebasestorage.googleapis.com/v0/b/chatappfirebasetd.appspot.com/o/exercises%2FiGqKYwK2AFHt-h.gif?alt=media",
       "id": "0562",
       "name": "landmine 180",
       "target": "abs",
@@ -18181,7 +18181,7 @@ export const EXERCISES_DATA = [
     {
       "bodyPart": "shoulders",
       "equipment": "barbell",
-      "gifUrl": "https://res.cloudinary.com/dysns4al9/image/upload/v1779592720/gifs/rx83yfAjJ2nFgK.gif?alt=media",
+      "gifUrl": "https://firebasestorage.googleapis.com/v0/b/chatappfirebasetd.appspot.com/o/exercises%2Frx83yfAjJ2nFgK.gif?alt=media",
       "id": "3237",
       "name": "landmine lateral raise",
       "target": "delts",
@@ -18200,7 +18200,7 @@ export const EXERCISES_DATA = [
     {
       "bodyPart": "waist",
       "equipment": "body weight",
-      "gifUrl": "https://res.cloudinary.com/dysns4al9/image/upload/v1779592720/gifs/uGxkWN11Y0L0Yy.gif?alt=media",
+      "gifUrl": "https://firebasestorage.googleapis.com/v0/b/chatappfirebasetd.appspot.com/o/exercises%2FuGxkWN11Y0L0Yy.gif?alt=media",
       "id": "3300",
       "name": "lean planche",
       "target": "abs",
@@ -18220,7 +18220,7 @@ export const EXERCISES_DATA = [
     {
       "bodyPart": "shoulders",
       "equipment": "body weight",
-      "gifUrl": "https://res.cloudinary.com/dysns4al9/image/upload/v1779592720/gifs/WQtyFnIXvtcl2P.gif?alt=media",
+      "gifUrl": "https://firebasestorage.googleapis.com/v0/b/chatappfirebasetd.appspot.com/o/exercises%2FWQtyFnIXvtcl2P.gif?alt=media",
       "id": "2271",
       "name": "left hook. boxing",
       "target": "delts",
@@ -18240,7 +18240,7 @@ export const EXERCISES_DATA = [
     {
       "bodyPart": "waist",
       "equipment": "body weight",
-      "gifUrl": "https://res.cloudinary.com/dysns4al9/image/upload/v1779592720/gifs/awW2PCa81wMOT4.gif?alt=media",
+      "gifUrl": "https://firebasestorage.googleapis.com/v0/b/chatappfirebasetd.appspot.com/o/exercises%2FawW2PCa81wMOT4.gif?alt=media",
       "id": "0570",
       "name": "leg pull in flat bench",
       "target": "abs",
@@ -18259,7 +18259,7 @@ export const EXERCISES_DATA = [
     {
       "bodyPart": "upper legs",
       "equipment": "body weight",
-      "gifUrl": "https://res.cloudinary.com/dysns4al9/image/upload/v1779592720/gifs/00yYa5p7qpKwHC.gif?alt=media",
+      "gifUrl": "https://firebasestorage.googleapis.com/v0/b/chatappfirebasetd.appspot.com/o/exercises%2F00yYa5p7qpKwHC.gif?alt=media",
       "id": "1576",
       "name": "leg up hamstring stretch",
       "target": "hamstrings",
@@ -18277,7 +18277,7 @@ export const EXERCISES_DATA = [
     {
       "bodyPart": "upper legs",
       "equipment": "leverage machine",
-      "gifUrl": "https://res.cloudinary.com/dysns4al9/image/upload/v1779592720/gifs/n0Nh7fjBL1Zd20.gif?alt=media",
+      "gifUrl": "https://firebasestorage.googleapis.com/v0/b/chatappfirebasetd.appspot.com/o/exercises%2Fn0Nh7fjBL1Zd20.gif?alt=media",
       "id": "2287",
       "name": "lever alternate leg press",
       "target": "quads",
@@ -18298,7 +18298,7 @@ export const EXERCISES_DATA = [
     {
       "bodyPart": "back",
       "equipment": "leverage machine",
-      "gifUrl": "https://res.cloudinary.com/dysns4al9/image/upload/v1779592720/gifs/r6fre6lzUm8uUQ.gif?alt=media",
+      "gifUrl": "https://firebasestorage.googleapis.com/v0/b/chatappfirebasetd.appspot.com/o/exercises%2Fr6fre6lzUm8uUQ.gif?alt=media",
       "id": "0571",
       "name": "lever alternating narrow grip seated row",
       "target": "upper back",
@@ -18320,7 +18320,7 @@ export const EXERCISES_DATA = [
     {
       "bodyPart": "back",
       "equipment": "leverage machine",
-      "gifUrl": "https://res.cloudinary.com/dysns4al9/image/upload/v1779592720/gifs/mOGbIiMQMDizbI.gif?alt=media",
+      "gifUrl": "https://firebasestorage.googleapis.com/v0/b/chatappfirebasetd.appspot.com/o/exercises%2FmOGbIiMQMDizbI.gif?alt=media",
       "id": "0572",
       "name": "lever assisted chin-up",
       "target": "lats",
@@ -18341,7 +18341,7 @@ export const EXERCISES_DATA = [
     {
       "bodyPart": "back",
       "equipment": "leverage machine",
-      "gifUrl": "https://res.cloudinary.com/dysns4al9/image/upload/v1779592720/gifs/OYWCU40I2c89-H.gif?alt=media",
+      "gifUrl": "https://firebasestorage.googleapis.com/v0/b/chatappfirebasetd.appspot.com/o/exercises%2FOYWCU40I2c89-H.gif?alt=media",
       "id": "0573",
       "name": "lever back extension",
       "target": "spine",
@@ -18362,7 +18362,7 @@ export const EXERCISES_DATA = [
     {
       "bodyPart": "back",
       "equipment": "barbell",
-      "gifUrl": "https://res.cloudinary.com/dysns4al9/image/upload/v1779592720/gifs/ITxsvW2KlvRV1f.gif?alt=media",
+      "gifUrl": "https://firebasestorage.googleapis.com/v0/b/chatappfirebasetd.appspot.com/o/exercises%2FITxsvW2KlvRV1f.gif?alt=media",
       "id": "0574",
       "name": "lever bent over row",
       "target": "upper back",
@@ -18382,7 +18382,7 @@ export const EXERCISES_DATA = [
     {
       "bodyPart": "back",
       "equipment": "leverage machine",
-      "gifUrl": "https://res.cloudinary.com/dysns4al9/image/upload/v1779592720/gifs/PD3Pco6wLtydx5.gif?alt=media",
+      "gifUrl": "https://firebasestorage.googleapis.com/v0/b/chatappfirebasetd.appspot.com/o/exercises%2FPD3Pco6wLtydx5.gif?alt=media",
       "id": "3200",
       "name": "lever bent-over row with v-bar",
       "target": "upper back",
@@ -18401,7 +18401,7 @@ export const EXERCISES_DATA = [
     {
       "bodyPart": "upper arms",
       "equipment": "leverage machine",
-      "gifUrl": "https://res.cloudinary.com/dysns4al9/image/upload/v1779592720/gifs/jG-RnrhX4wDpK-.gif?alt=media",
+      "gifUrl": "https://firebasestorage.googleapis.com/v0/b/chatappfirebasetd.appspot.com/o/exercises%2FjG-RnrhX4wDpK-.gif?alt=media",
       "id": "0575",
       "name": "lever bicep curl",
       "target": "biceps",
@@ -18420,7 +18420,7 @@ export const EXERCISES_DATA = [
     {
       "bodyPart": "lower legs",
       "equipment": "leverage machine",
-      "gifUrl": "https://res.cloudinary.com/dysns4al9/image/upload/v1779592720/gifs/vxSQWHbfIuqy-u.gif?alt=media",
+      "gifUrl": "https://firebasestorage.googleapis.com/v0/b/chatappfirebasetd.appspot.com/o/exercises%2FvxSQWHbfIuqy-u.gif?alt=media",
       "id": "2289",
       "name": "lever calf press",
       "target": "calves",
@@ -18440,7 +18440,7 @@ export const EXERCISES_DATA = [
     {
       "bodyPart": "chest",
       "equipment": "leverage machine",
-      "gifUrl": "https://res.cloudinary.com/dysns4al9/image/upload/v1779592720/gifs/E4CNi4ahsfiOD9.gif?alt=media",
+      "gifUrl": "https://firebasestorage.googleapis.com/v0/b/chatappfirebasetd.appspot.com/o/exercises%2FE4CNi4ahsfiOD9.gif?alt=media",
       "id": "0577",
       "name": "lever chest press",
       "target": "pectorals",
@@ -18459,7 +18459,7 @@ export const EXERCISES_DATA = [
     {
       "bodyPart": "chest",
       "equipment": "leverage machine",
-      "gifUrl": "https://res.cloudinary.com/dysns4al9/image/upload/v1779592720/gifs/HyNXnNqEkFwnMK.gif?alt=media",
+      "gifUrl": "https://firebasestorage.googleapis.com/v0/b/chatappfirebasetd.appspot.com/o/exercises%2FHyNXnNqEkFwnMK.gif?alt=media",
       "id": "0576",
       "name": "lever chest press",
       "target": "pectorals",
@@ -18478,7 +18478,7 @@ export const EXERCISES_DATA = [
     {
       "bodyPart": "upper legs",
       "equipment": "leverage machine",
-      "gifUrl": "https://res.cloudinary.com/dysns4al9/image/upload/v1779592720/gifs/vDQGpmx3410QIm.gif?alt=media",
+      "gifUrl": "https://firebasestorage.googleapis.com/v0/b/chatappfirebasetd.appspot.com/o/exercises%2FvDQGpmx3410QIm.gif?alt=media",
       "id": "0578",
       "name": "lever deadlift",
       "target": "glutes",
@@ -18500,7 +18500,7 @@ export const EXERCISES_DATA = [
     {
       "bodyPart": "chest",
       "equipment": "leverage machine",
-      "gifUrl": "https://res.cloudinary.com/dysns4al9/image/upload/v1779592720/gifs/uYlFoYqvuNxa-N.gif?alt=media",
+      "gifUrl": "https://firebasestorage.googleapis.com/v0/b/chatappfirebasetd.appspot.com/o/exercises%2FuYlFoYqvuNxa-N.gif?alt=media",
       "id": "1300",
       "name": "lever decline chest press",
       "target": "pectorals",
@@ -18521,7 +18521,7 @@ export const EXERCISES_DATA = [
     {
       "bodyPart": "lower legs",
       "equipment": "leverage machine",
-      "gifUrl": "https://res.cloudinary.com/dysns4al9/image/upload/v1779592720/gifs/upwziu7OjKToPB.gif?alt=media",
+      "gifUrl": "https://firebasestorage.googleapis.com/v0/b/chatappfirebasetd.appspot.com/o/exercises%2Fupwziu7OjKToPB.gif?alt=media",
       "id": "1253",
       "name": "lever donkey calf raise",
       "target": "calves",
@@ -18541,7 +18541,7 @@ export const EXERCISES_DATA = [
     {
       "bodyPart": "back",
       "equipment": "leverage machine",
-      "gifUrl": "https://res.cloudinary.com/dysns4al9/image/upload/v1779592720/gifs/qlX2Cc59UAVVHd.gif?alt=media",
+      "gifUrl": "https://firebasestorage.googleapis.com/v0/b/chatappfirebasetd.appspot.com/o/exercises%2FqlX2Cc59UAVVHd.gif?alt=media",
       "id": "0579",
       "name": "lever front pulldown",
       "target": "lats",
@@ -18562,7 +18562,7 @@ export const EXERCISES_DATA = [
     {
       "bodyPart": "back",
       "equipment": "leverage machine",
-      "gifUrl": "https://res.cloudinary.com/dysns4al9/image/upload/v1779592720/gifs/bbGfyIGM1hN0l0.gif?alt=media",
+      "gifUrl": "https://firebasestorage.googleapis.com/v0/b/chatappfirebasetd.appspot.com/o/exercises%2FbbGfyIGM1hN0l0.gif?alt=media",
       "id": "0580",
       "name": "lever gripless shrug",
       "target": "traps",
@@ -18581,7 +18581,7 @@ export const EXERCISES_DATA = [
     {
       "bodyPart": "back",
       "equipment": "leverage machine",
-      "gifUrl": "https://res.cloudinary.com/dysns4al9/image/upload/v1779592720/gifs/vz7EKQsGBigR0h.gif?alt=media",
+      "gifUrl": "https://firebasestorage.googleapis.com/v0/b/chatappfirebasetd.appspot.com/o/exercises%2Fvz7EKQsGBigR0h.gif?alt=media",
       "id": "1439",
       "name": "lever gripless shrug v. 2",
       "target": "traps",
@@ -18600,7 +18600,7 @@ export const EXERCISES_DATA = [
     {
       "bodyPart": "lower arms",
       "equipment": "leverage machine",
-      "gifUrl": "https://res.cloudinary.com/dysns4al9/image/upload/v1779592720/gifs/0WRkH8U4G5UiR8.gif?alt=media",
+      "gifUrl": "https://firebasestorage.googleapis.com/v0/b/chatappfirebasetd.appspot.com/o/exercises%2F0WRkH8U4G5UiR8.gif?alt=media",
       "id": "2288",
       "name": "lever gripper hands",
       "target": "forearms",
@@ -18619,7 +18619,7 @@ export const EXERCISES_DATA = [
     {
       "bodyPart": "upper arms",
       "equipment": "leverage machine",
-      "gifUrl": "https://res.cloudinary.com/dysns4al9/image/upload/v1779592720/gifs/nW7MqipT4w6-3C.gif?alt=media",
+      "gifUrl": "https://firebasestorage.googleapis.com/v0/b/chatappfirebasetd.appspot.com/o/exercises%2FnW7MqipT4w6-3C.gif?alt=media",
       "id": "1615",
       "name": "lever hammer grip preacher curl",
       "target": "biceps",
@@ -18639,7 +18639,7 @@ export const EXERCISES_DATA = [
     {
       "bodyPart": "back",
       "equipment": "leverage machine",
-      "gifUrl": "https://res.cloudinary.com/dysns4al9/image/upload/v1779592720/gifs/kZhUJNo6OgyTej.gif?alt=media",
+      "gifUrl": "https://firebasestorage.googleapis.com/v0/b/chatappfirebasetd.appspot.com/o/exercises%2FkZhUJNo6OgyTej.gif?alt=media",
       "id": "0581",
       "name": "lever high row",
       "target": "upper back",
@@ -18660,7 +18660,7 @@ export const EXERCISES_DATA = [
     {
       "bodyPart": "upper legs",
       "equipment": "leverage machine",
-      "gifUrl": "https://res.cloudinary.com/dysns4al9/image/upload/v1779592720/gifs/Nepsyq5nwx3-9l.gif?alt=media",
+      "gifUrl": "https://firebasestorage.googleapis.com/v0/b/chatappfirebasetd.appspot.com/o/exercises%2FNepsyq5nwx3-9l.gif?alt=media",
       "id": "2286",
       "name": "lever hip extension v. 2",
       "target": "glutes",
@@ -18678,7 +18678,7 @@ export const EXERCISES_DATA = [
     {
       "bodyPart": "upper legs",
       "equipment": "leverage machine",
-      "gifUrl": "https://res.cloudinary.com/dysns4al9/image/upload/v1779592720/gifs/jknuJQfGR9CpU-.gif?alt=media",
+      "gifUrl": "https://firebasestorage.googleapis.com/v0/b/chatappfirebasetd.appspot.com/o/exercises%2FjknuJQfGR9CpU-.gif?alt=media",
       "id": "2611",
       "name": "lever horizontal one leg press",
       "target": "glutes",
@@ -18699,7 +18699,7 @@ export const EXERCISES_DATA = [
     {
       "bodyPart": "chest",
       "equipment": "leverage machine",
-      "gifUrl": "https://res.cloudinary.com/dysns4al9/image/upload/v1779592720/gifs/VkF1aAfrUsYtJb.gif?alt=media",
+      "gifUrl": "https://firebasestorage.googleapis.com/v0/b/chatappfirebasetd.appspot.com/o/exercises%2FVkF1aAfrUsYtJb.gif?alt=media",
       "id": "1299",
       "name": "lever incline chest press",
       "target": "pectorals",
@@ -18719,7 +18719,7 @@ export const EXERCISES_DATA = [
     {
       "bodyPart": "chest",
       "equipment": "leverage machine",
-      "gifUrl": "https://res.cloudinary.com/dysns4al9/image/upload/v1779592720/gifs/aTIJ4zKHpzNxWC.gif?alt=media",
+      "gifUrl": "https://firebasestorage.googleapis.com/v0/b/chatappfirebasetd.appspot.com/o/exercises%2FaTIJ4zKHpzNxWC.gif?alt=media",
       "id": "1479",
       "name": "lever incline chest press v. 2",
       "target": "pectorals",
@@ -18739,7 +18739,7 @@ export const EXERCISES_DATA = [
     {
       "bodyPart": "upper legs",
       "equipment": "leverage machine",
-      "gifUrl": "https://res.cloudinary.com/dysns4al9/image/upload/v1779592720/gifs/Qh82IlMOHXQYy3.gif?alt=media",
+      "gifUrl": "https://firebasestorage.googleapis.com/v0/b/chatappfirebasetd.appspot.com/o/exercises%2FQh82IlMOHXQYy3.gif?alt=media",
       "id": "0582",
       "name": "lever kneeling leg curl",
       "target": "hamstrings",
@@ -18759,7 +18759,7 @@ export const EXERCISES_DATA = [
     {
       "bodyPart": "waist",
       "equipment": "leverage machine",
-      "gifUrl": "https://res.cloudinary.com/dysns4al9/image/upload/v1779592720/gifs/36srSWh6mTVeeZ.gif?alt=media",
+      "gifUrl": "https://firebasestorage.googleapis.com/v0/b/chatappfirebasetd.appspot.com/o/exercises%2F36srSWh6mTVeeZ.gif?alt=media",
       "id": "0583",
       "name": "lever kneeling twist",
       "target": "abs",
@@ -18779,7 +18779,7 @@ export const EXERCISES_DATA = [
     {
       "bodyPart": "shoulders",
       "equipment": "leverage machine",
-      "gifUrl": "https://res.cloudinary.com/dysns4al9/image/upload/v1779592720/gifs/eLqVYpqIlGRMIT.gif?alt=media",
+      "gifUrl": "https://firebasestorage.googleapis.com/v0/b/chatappfirebasetd.appspot.com/o/exercises%2FeLqVYpqIlGRMIT.gif?alt=media",
       "id": "0584",
       "name": "lever lateral raise",
       "target": "delts",
@@ -18798,7 +18798,7 @@ export const EXERCISES_DATA = [
     {
       "bodyPart": "upper legs",
       "equipment": "leverage machine",
-      "gifUrl": "https://res.cloudinary.com/dysns4al9/image/upload/v1779592720/gifs/NQ7jKYJkxtDrPZ.gif?alt=media",
+      "gifUrl": "https://firebasestorage.googleapis.com/v0/b/chatappfirebasetd.appspot.com/o/exercises%2FNQ7jKYJkxtDrPZ.gif?alt=media",
       "id": "0585",
       "name": "lever leg extension",
       "target": "quads",
@@ -18817,7 +18817,7 @@ export const EXERCISES_DATA = [
     {
       "bodyPart": "upper legs",
       "equipment": "leverage machine",
-      "gifUrl": "https://res.cloudinary.com/dysns4al9/image/upload/v1779592720/gifs/8xiMLjuQj88PMW.gif?alt=media",
+      "gifUrl": "https://firebasestorage.googleapis.com/v0/b/chatappfirebasetd.appspot.com/o/exercises%2F8xiMLjuQj88PMW.gif?alt=media",
       "id": "0586",
       "name": "lever lying leg curl",
       "target": "hamstrings",
@@ -18837,7 +18837,7 @@ export const EXERCISES_DATA = [
     {
       "bodyPart": "upper legs",
       "equipment": "leverage machine",
-      "gifUrl": "https://res.cloudinary.com/dysns4al9/image/upload/v1779592720/gifs/vWePR9bgnSeOOf.gif?alt=media",
+      "gifUrl": "https://firebasestorage.googleapis.com/v0/b/chatappfirebasetd.appspot.com/o/exercises%2FvWePR9bgnSeOOf.gif?alt=media",
       "id": "3195",
       "name": "lever lying two-one leg curl",
       "target": "hamstrings",
@@ -18856,7 +18856,7 @@ export const EXERCISES_DATA = [
     {
       "bodyPart": "shoulders",
       "equipment": "leverage machine",
-      "gifUrl": "https://res.cloudinary.com/dysns4al9/image/upload/v1779592720/gifs/KGjXP4fyWq7Dw-.gif?alt=media",
+      "gifUrl": "https://firebasestorage.googleapis.com/v0/b/chatappfirebasetd.appspot.com/o/exercises%2FKGjXP4fyWq7Dw-.gif?alt=media",
       "id": "0587",
       "name": "lever military press",
       "target": "delts",
@@ -18875,7 +18875,7 @@ export const EXERCISES_DATA = [
     {
       "bodyPart": "back",
       "equipment": "leverage machine",
-      "gifUrl": "https://res.cloudinary.com/dysns4al9/image/upload/v1779592720/gifs/4JRmztgAjVNR6k.gif?alt=media",
+      "gifUrl": "https://firebasestorage.googleapis.com/v0/b/chatappfirebasetd.appspot.com/o/exercises%2F4JRmztgAjVNR6k.gif?alt=media",
       "id": "0588",
       "name": "lever narrow grip seated row",
       "target": "upper back",
@@ -18897,7 +18897,7 @@ export const EXERCISES_DATA = [
     {
       "bodyPart": "back",
       "equipment": "barbell",
-      "gifUrl": "https://res.cloudinary.com/dysns4al9/image/upload/v1779592720/gifs/Cr21kt5jv3rWWS.gif?alt=media",
+      "gifUrl": "https://firebasestorage.googleapis.com/v0/b/chatappfirebasetd.appspot.com/o/exercises%2FCr21kt5jv3rWWS.gif?alt=media",
       "id": "0589",
       "name": "lever one arm bent over row",
       "target": "upper back",
@@ -18918,7 +18918,7 @@ export const EXERCISES_DATA = [
     {
       "bodyPart": "back",
       "equipment": "leverage machine",
-      "gifUrl": "https://res.cloudinary.com/dysns4al9/image/upload/v1779592720/gifs/dnXkaXkLSuj5R2.gif?alt=media",
+      "gifUrl": "https://firebasestorage.googleapis.com/v0/b/chatappfirebasetd.appspot.com/o/exercises%2FdnXkaXkLSuj5R2.gif?alt=media",
       "id": "1356",
       "name": "lever one arm lateral high row",
       "target": "upper back",
@@ -18938,7 +18938,7 @@ export const EXERCISES_DATA = [
     {
       "bodyPart": "back",
       "equipment": "leverage machine",
-      "gifUrl": "https://res.cloudinary.com/dysns4al9/image/upload/v1779592720/gifs/pGm6ymZ1Rwy5Wx.gif?alt=media",
+      "gifUrl": "https://firebasestorage.googleapis.com/v0/b/chatappfirebasetd.appspot.com/o/exercises%2FpGm6ymZ1Rwy5Wx.gif?alt=media",
       "id": "1347",
       "name": "lever one arm lateral wide pulldown",
       "target": "lats",
@@ -18958,7 +18958,7 @@ export const EXERCISES_DATA = [
     {
       "bodyPart": "shoulders",
       "equipment": "leverage machine",
-      "gifUrl": "https://res.cloudinary.com/dysns4al9/image/upload/v1779592720/gifs/nzJuXOV-VF9U7g.gif?alt=media",
+      "gifUrl": "https://firebasestorage.googleapis.com/v0/b/chatappfirebasetd.appspot.com/o/exercises%2FnzJuXOV-VF9U7g.gif?alt=media",
       "id": "0590",
       "name": "lever one arm shoulder press",
       "target": "delts",
@@ -18977,7 +18977,7 @@ export const EXERCISES_DATA = [
     {
       "bodyPart": "upper arms",
       "equipment": "leverage machine",
-      "gifUrl": "https://res.cloudinary.com/dysns4al9/image/upload/v1779592720/gifs/kY4BRUtYcIOXz6.gif?alt=media",
+      "gifUrl": "https://firebasestorage.googleapis.com/v0/b/chatappfirebasetd.appspot.com/o/exercises%2FkY4BRUtYcIOXz6.gif?alt=media",
       "id": "0591",
       "name": "lever overhand triceps dip",
       "target": "triceps",
@@ -18997,7 +18997,7 @@ export const EXERCISES_DATA = [
     {
       "bodyPart": "upper arms",
       "equipment": "leverage machine",
-      "gifUrl": "https://res.cloudinary.com/dysns4al9/image/upload/v1779592720/gifs/GJqPomvxQgPFP7.gif?alt=media",
+      "gifUrl": "https://firebasestorage.googleapis.com/v0/b/chatappfirebasetd.appspot.com/o/exercises%2FGJqPomvxQgPFP7.gif?alt=media",
       "id": "0592",
       "name": "lever preacher curl",
       "target": "biceps",
@@ -19017,7 +19017,7 @@ export const EXERCISES_DATA = [
     {
       "bodyPart": "upper arms",
       "equipment": "leverage machine",
-      "gifUrl": "https://res.cloudinary.com/dysns4al9/image/upload/v1779592720/gifs/gSL-d6yXD6lpfH.gif?alt=media",
+      "gifUrl": "https://firebasestorage.googleapis.com/v0/b/chatappfirebasetd.appspot.com/o/exercises%2FgSL-d6yXD6lpfH.gif?alt=media",
       "id": "1614",
       "name": "lever preacher curl v. 2",
       "target": "biceps",
@@ -19036,7 +19036,7 @@ export const EXERCISES_DATA = [
     {
       "bodyPart": "back",
       "equipment": "leverage machine",
-      "gifUrl": "https://res.cloudinary.com/dysns4al9/image/upload/v1779592720/gifs/3GOjJzXYKH--q5.gif?alt=media",
+      "gifUrl": "https://firebasestorage.googleapis.com/v0/b/chatappfirebasetd.appspot.com/o/exercises%2F3GOjJzXYKH--q5.gif?alt=media",
       "id": "2285",
       "name": "lever pullover",
       "target": "lats",
@@ -19056,7 +19056,7 @@ export const EXERCISES_DATA = [
     {
       "bodyPart": "back",
       "equipment": "leverage machine",
-      "gifUrl": "https://res.cloudinary.com/dysns4al9/image/upload/v1779592720/gifs/H5LWlp3rFgIkac.gif?alt=media",
+      "gifUrl": "https://firebasestorage.googleapis.com/v0/b/chatappfirebasetd.appspot.com/o/exercises%2FH5LWlp3rFgIkac.gif?alt=media",
       "id": "2736",
       "name": "lever reverse grip lateral pulldown",
       "target": "lats",
@@ -19077,7 +19077,7 @@ export const EXERCISES_DATA = [
     {
       "bodyPart": "upper arms",
       "equipment": "leverage machine",
-      "gifUrl": "https://res.cloudinary.com/dysns4al9/image/upload/v1779592720/gifs/93DqMXW01-kdpk.gif?alt=media",
+      "gifUrl": "https://firebasestorage.googleapis.com/v0/b/chatappfirebasetd.appspot.com/o/exercises%2F93DqMXW01-kdpk.gif?alt=media",
       "id": "1616",
       "name": "lever reverse grip preacher curl",
       "target": "biceps",
@@ -19097,7 +19097,7 @@ export const EXERCISES_DATA = [
     {
       "bodyPart": "back",
       "equipment": "leverage machine",
-      "gifUrl": "https://res.cloudinary.com/dysns4al9/image/upload/v1779592720/gifs/6QSlfYJqPfyoBx.gif?alt=media",
+      "gifUrl": "https://firebasestorage.googleapis.com/v0/b/chatappfirebasetd.appspot.com/o/exercises%2F6QSlfYJqPfyoBx.gif?alt=media",
       "id": "1348",
       "name": "lever reverse grip vertical row",
       "target": "upper back",
@@ -19118,7 +19118,7 @@ export const EXERCISES_DATA = [
     {
       "bodyPart": "upper legs",
       "equipment": "leverage machine",
-      "gifUrl": "https://res.cloudinary.com/dysns4al9/image/upload/v1779592720/gifs/XJc9ltLSdET2Aq.gif?alt=media",
+      "gifUrl": "https://firebasestorage.googleapis.com/v0/b/chatappfirebasetd.appspot.com/o/exercises%2FXJc9ltLSdET2Aq.gif?alt=media",
       "id": "0593",
       "name": "lever reverse hyperextension",
       "target": "glutes",
@@ -19138,7 +19138,7 @@ export const EXERCISES_DATA = [
     {
       "bodyPart": "back",
       "equipment": "leverage machine",
-      "gifUrl": "https://res.cloudinary.com/dysns4al9/image/upload/v1779592720/gifs/1illYekE3szb9n.gif?alt=media",
+      "gifUrl": "https://firebasestorage.googleapis.com/v0/b/chatappfirebasetd.appspot.com/o/exercises%2F1illYekE3szb9n.gif?alt=media",
       "id": "1349",
       "name": "lever reverse t-bar row",
       "target": "upper back",
@@ -19159,7 +19159,7 @@ export const EXERCISES_DATA = [
     {
       "bodyPart": "lower legs",
       "equipment": "leverage machine",
-      "gifUrl": "https://res.cloudinary.com/dysns4al9/image/upload/v1779592720/gifs/WfLgCjqgxO82eu.gif?alt=media",
+      "gifUrl": "https://firebasestorage.googleapis.com/v0/b/chatappfirebasetd.appspot.com/o/exercises%2FWfLgCjqgxO82eu.gif?alt=media",
       "id": "2315",
       "name": "lever rotary calf",
       "target": "calves",
@@ -19179,7 +19179,7 @@ export const EXERCISES_DATA = [
     {
       "bodyPart": "lower legs",
       "equipment": "leverage machine",
-      "gifUrl": "https://res.cloudinary.com/dysns4al9/image/upload/v1779592720/gifs/dIh9s0ouGQZx2w.gif?alt=media",
+      "gifUrl": "https://firebasestorage.googleapis.com/v0/b/chatappfirebasetd.appspot.com/o/exercises%2FdIh9s0ouGQZx2w.gif?alt=media",
       "id": "2335",
       "name": "lever seated calf press",
       "target": "calves",
@@ -19199,7 +19199,7 @@ export const EXERCISES_DATA = [
     {
       "bodyPart": "lower legs",
       "equipment": "leverage machine",
-      "gifUrl": "https://res.cloudinary.com/dysns4al9/image/upload/v1779592720/gifs/XyY1bK0M16X92z.gif?alt=media",
+      "gifUrl": "https://firebasestorage.googleapis.com/v0/b/chatappfirebasetd.appspot.com/o/exercises%2FXyY1bK0M16X92z.gif?alt=media",
       "id": "0594",
       "name": "lever seated calf raise",
       "target": "calves",
@@ -19219,7 +19219,7 @@ export const EXERCISES_DATA = [
     {
       "bodyPart": "waist",
       "equipment": "leverage machine",
-      "gifUrl": "https://res.cloudinary.com/dysns4al9/image/upload/v1779592720/gifs/GTnw5PRsXRfK4J.gif?alt=media",
+      "gifUrl": "https://firebasestorage.googleapis.com/v0/b/chatappfirebasetd.appspot.com/o/exercises%2FGTnw5PRsXRfK4J.gif?alt=media",
       "id": "1452",
       "name": "lever seated crunch",
       "target": "abs",
@@ -19238,7 +19238,7 @@ export const EXERCISES_DATA = [
     {
       "bodyPart": "waist",
       "equipment": "leverage machine",
-      "gifUrl": "https://res.cloudinary.com/dysns4al9/image/upload/v1779592720/gifs/gGa-Pq47RyA6fO.gif?alt=media",
+      "gifUrl": "https://firebasestorage.googleapis.com/v0/b/chatappfirebasetd.appspot.com/o/exercises%2FgGa-Pq47RyA6fO.gif?alt=media",
       "id": "0595",
       "name": "lever seated crunch (chest pad)",
       "target": "abs",
@@ -19258,7 +19258,7 @@ export const EXERCISES_DATA = [
     {
       "bodyPart": "waist",
       "equipment": "leverage machine",
-      "gifUrl": "https://res.cloudinary.com/dysns4al9/image/upload/v1779592720/gifs/3qoo-UUE8z6PnC.gif?alt=media",
+      "gifUrl": "https://firebasestorage.googleapis.com/v0/b/chatappfirebasetd.appspot.com/o/exercises%2F3qoo-UUE8z6PnC.gif?alt=media",
       "id": "3760",
       "name": "lever seated crunch v. 2",
       "target": "abs",
@@ -19278,7 +19278,7 @@ export const EXERCISES_DATA = [
     {
       "bodyPart": "upper arms",
       "equipment": "leverage machine",
-      "gifUrl": "https://res.cloudinary.com/dysns4al9/image/upload/v1779592720/gifs/1i4VUvlfIhH2jb.gif?alt=media",
+      "gifUrl": "https://firebasestorage.googleapis.com/v0/b/chatappfirebasetd.appspot.com/o/exercises%2F1i4VUvlfIhH2jb.gif?alt=media",
       "id": "1451",
       "name": "lever seated dip",
       "target": "triceps",
@@ -19297,7 +19297,7 @@ export const EXERCISES_DATA = [
     {
       "bodyPart": "chest",
       "equipment": "leverage machine",
-      "gifUrl": "https://res.cloudinary.com/dysns4al9/image/upload/v1779592720/gifs/rLfZ8BsigfWR5i.gif?alt=media",
+      "gifUrl": "https://firebasestorage.googleapis.com/v0/b/chatappfirebasetd.appspot.com/o/exercises%2FrLfZ8BsigfWR5i.gif?alt=media",
       "id": "0596",
       "name": "lever seated fly",
       "target": "pectorals",
@@ -19317,7 +19317,7 @@ export const EXERCISES_DATA = [
     {
       "bodyPart": "upper legs",
       "equipment": "leverage machine",
-      "gifUrl": "https://res.cloudinary.com/dysns4al9/image/upload/v1779592720/gifs/uefJFtOa4lyT5H.gif?alt=media",
+      "gifUrl": "https://firebasestorage.googleapis.com/v0/b/chatappfirebasetd.appspot.com/o/exercises%2FuefJFtOa4lyT5H.gif?alt=media",
       "id": "3759",
       "name": "lever seated good morning",
       "target": "glutes",
@@ -19337,7 +19337,7 @@ export const EXERCISES_DATA = [
     {
       "bodyPart": "upper legs",
       "equipment": "leverage machine",
-      "gifUrl": "https://res.cloudinary.com/dysns4al9/image/upload/v1779592720/gifs/C1C6AeowQ0lJYt.gif?alt=media",
+      "gifUrl": "https://firebasestorage.googleapis.com/v0/b/chatappfirebasetd.appspot.com/o/exercises%2FC1C6AeowQ0lJYt.gif?alt=media",
       "id": "0597",
       "name": "lever seated hip abduction",
       "target": "abductors",
@@ -19357,7 +19357,7 @@ export const EXERCISES_DATA = [
     {
       "bodyPart": "upper legs",
       "equipment": "leverage machine",
-      "gifUrl": "https://res.cloudinary.com/dysns4al9/image/upload/v1779592720/gifs/X-521kgpVguE2i.gif?alt=media",
+      "gifUrl": "https://firebasestorage.googleapis.com/v0/b/chatappfirebasetd.appspot.com/o/exercises%2FX-521kgpVguE2i.gif?alt=media",
       "id": "0598",
       "name": "lever seated hip adduction",
       "target": "adductors",
@@ -19376,7 +19376,7 @@ export const EXERCISES_DATA = [
     {
       "bodyPart": "upper legs",
       "equipment": "leverage machine",
-      "gifUrl": "https://res.cloudinary.com/dysns4al9/image/upload/v1779592720/gifs/wgOm0DgZRT8Qrl.gif?alt=media",
+      "gifUrl": "https://firebasestorage.googleapis.com/v0/b/chatappfirebasetd.appspot.com/o/exercises%2FwgOm0DgZRT8Qrl.gif?alt=media",
       "id": "0599",
       "name": "lever seated leg curl",
       "target": "hamstrings",
@@ -19396,7 +19396,7 @@ export const EXERCISES_DATA = [
     {
       "bodyPart": "waist",
       "equipment": "leverage machine",
-      "gifUrl": "https://res.cloudinary.com/dysns4al9/image/upload/v1779592720/gifs/yyxHVOAOjvwjme.gif?alt=media",
+      "gifUrl": "https://firebasestorage.googleapis.com/v0/b/chatappfirebasetd.appspot.com/o/exercises%2FyyxHVOAOjvwjme.gif?alt=media",
       "id": "0600",
       "name": "lever seated leg raise crunch",
       "target": "abs",
@@ -19414,7 +19414,7 @@ export const EXERCISES_DATA = [
     {
       "bodyPart": "shoulders",
       "equipment": "leverage machine",
-      "gifUrl": "https://res.cloudinary.com/dysns4al9/image/upload/v1779592720/gifs/hgPJVWtpgsbxm5.gif?alt=media",
+      "gifUrl": "https://firebasestorage.googleapis.com/v0/b/chatappfirebasetd.appspot.com/o/exercises%2FhgPJVWtpgsbxm5.gif?alt=media",
       "id": "0602",
       "name": "lever seated reverse fly",
       "target": "delts",
@@ -19433,7 +19433,7 @@ export const EXERCISES_DATA = [
     {
       "bodyPart": "shoulders",
       "equipment": "leverage machine",
-      "gifUrl": "https://res.cloudinary.com/dysns4al9/image/upload/v1779592720/gifs/m-gM4z5o9kpN5v.gif?alt=media",
+      "gifUrl": "https://firebasestorage.googleapis.com/v0/b/chatappfirebasetd.appspot.com/o/exercises%2Fm-gM4z5o9kpN5v.gif?alt=media",
       "id": "0601",
       "name": "lever seated reverse fly (parallel grip)",
       "target": "delts",
@@ -19452,7 +19452,7 @@ export const EXERCISES_DATA = [
     {
       "bodyPart": "back",
       "equipment": "leverage machine",
-      "gifUrl": "https://res.cloudinary.com/dysns4al9/image/upload/v1779592720/gifs/noP4f-zcBsvliW.gif?alt=media",
+      "gifUrl": "https://firebasestorage.googleapis.com/v0/b/chatappfirebasetd.appspot.com/o/exercises%2FnoP4f-zcBsvliW.gif?alt=media",
       "id": "1350",
       "name": "lever seated row",
       "target": "upper back",
@@ -19474,7 +19474,7 @@ export const EXERCISES_DATA = [
     {
       "bodyPart": "lower legs",
       "equipment": "leverage machine",
-      "gifUrl": "https://res.cloudinary.com/dysns4al9/image/upload/v1779592720/gifs/muS95iUc88RfhR.gif?alt=media",
+      "gifUrl": "https://firebasestorage.googleapis.com/v0/b/chatappfirebasetd.appspot.com/o/exercises%2FmuS95iUc88RfhR.gif?alt=media",
       "id": "1385",
       "name": "lever seated squat calf raise on leg press machine",
       "target": "calves",
@@ -19496,7 +19496,7 @@ export const EXERCISES_DATA = [
     {
       "bodyPart": "shoulders",
       "equipment": "leverage machine",
-      "gifUrl": "https://res.cloudinary.com/dysns4al9/image/upload/v1779592720/gifs/PyTvpPdpiM4mcr.gif?alt=media",
+      "gifUrl": "https://firebasestorage.googleapis.com/v0/b/chatappfirebasetd.appspot.com/o/exercises%2FPyTvpPdpiM4mcr.gif?alt=media",
       "id": "0603",
       "name": "lever shoulder press",
       "target": "delts",
@@ -19515,7 +19515,7 @@ export const EXERCISES_DATA = [
     {
       "bodyPart": "shoulders",
       "equipment": "leverage machine",
-      "gifUrl": "https://res.cloudinary.com/dysns4al9/image/upload/v1779592720/gifs/ummVgM5r6x2Ldz.gif?alt=media",
+      "gifUrl": "https://firebasestorage.googleapis.com/v0/b/chatappfirebasetd.appspot.com/o/exercises%2FummVgM5r6x2Ldz.gif?alt=media",
       "id": "0869",
       "name": "lever shoulder press v. 2",
       "target": "delts",
@@ -19535,7 +19535,7 @@ export const EXERCISES_DATA = [
     {
       "bodyPart": "shoulders",
       "equipment": "leverage machine",
-      "gifUrl": "https://res.cloudinary.com/dysns4al9/image/upload/v1779592720/gifs/swh6cX-H2wUMSX.gif?alt=media",
+      "gifUrl": "https://firebasestorage.googleapis.com/v0/b/chatappfirebasetd.appspot.com/o/exercises%2Fswh6cX-H2wUMSX.gif?alt=media",
       "id": "2318",
       "name": "lever shoulder press v. 3",
       "target": "delts",
@@ -19555,7 +19555,7 @@ export const EXERCISES_DATA = [
     {
       "bodyPart": "back",
       "equipment": "leverage machine",
-      "gifUrl": "https://res.cloudinary.com/dysns4al9/image/upload/v1779592720/gifs/--ibxJUSW3-F5z.gif?alt=media",
+      "gifUrl": "https://firebasestorage.googleapis.com/v0/b/chatappfirebasetd.appspot.com/o/exercises%2F--ibxJUSW3-F5z.gif?alt=media",
       "id": "0604",
       "name": "lever shrug",
       "target": "traps",
@@ -19573,7 +19573,7 @@ export const EXERCISES_DATA = [
     {
       "bodyPart": "lower legs",
       "equipment": "leverage machine",
-      "gifUrl": "https://res.cloudinary.com/dysns4al9/image/upload/v1779592720/gifs/fk6YBsBeYQpQ2H.gif?alt=media",
+      "gifUrl": "https://firebasestorage.googleapis.com/v0/b/chatappfirebasetd.appspot.com/o/exercises%2Ffk6YBsBeYQpQ2H.gif?alt=media",
       "id": "0605",
       "name": "lever standing calf raise",
       "target": "calves",
@@ -19592,7 +19592,7 @@ export const EXERCISES_DATA = [
     {
       "bodyPart": "chest",
       "equipment": "leverage machine",
-      "gifUrl": "https://res.cloudinary.com/dysns4al9/image/upload/v1779592720/gifs/ezN09E58TpWVkz.gif?alt=media",
+      "gifUrl": "https://firebasestorage.googleapis.com/v0/b/chatappfirebasetd.appspot.com/o/exercises%2FezN09E58TpWVkz.gif?alt=media",
       "id": "3758",
       "name": "lever standing chest press",
       "target": "pectorals",
@@ -19611,7 +19611,7 @@ export const EXERCISES_DATA = [
     {
       "bodyPart": "back",
       "equipment": "leverage machine",
-      "gifUrl": "https://res.cloudinary.com/dysns4al9/image/upload/v1779592720/gifs/gXve4y-EwszzxR.gif?alt=media",
+      "gifUrl": "https://firebasestorage.googleapis.com/v0/b/chatappfirebasetd.appspot.com/o/exercises%2FgXve4y-EwszzxR.gif?alt=media",
       "id": "0606",
       "name": "lever t bar row",
       "target": "upper back",
@@ -19632,7 +19632,7 @@ export const EXERCISES_DATA = [
     {
       "bodyPart": "back",
       "equipment": "leverage machine",
-      "gifUrl": "https://res.cloudinary.com/dysns4al9/image/upload/v1779592720/gifs/HwDf0SLejMXxdl.gif?alt=media",
+      "gifUrl": "https://firebasestorage.googleapis.com/v0/b/chatappfirebasetd.appspot.com/o/exercises%2FHwDf0SLejMXxdl.gif?alt=media",
       "id": "1351",
       "name": "lever t-bar reverse grip row",
       "target": "upper back",
@@ -19652,7 +19652,7 @@ export const EXERCISES_DATA = [
     {
       "bodyPart": "upper arms",
       "equipment": "leverage machine",
-      "gifUrl": "https://res.cloudinary.com/dysns4al9/image/upload/v1779592720/gifs/fC789z8ASCHRA5.gif?alt=media",
+      "gifUrl": "https://firebasestorage.googleapis.com/v0/b/chatappfirebasetd.appspot.com/o/exercises%2FfC789z8ASCHRA5.gif?alt=media",
       "id": "0607",
       "name": "lever triceps extension",
       "target": "triceps",
@@ -19670,7 +19670,7 @@ export const EXERCISES_DATA = [
     {
       "bodyPart": "back",
       "equipment": "leverage machine",
-      "gifUrl": "https://res.cloudinary.com/dysns4al9/image/upload/v1779592720/gifs/EQItGaBqHPDPQS.gif?alt=media",
+      "gifUrl": "https://firebasestorage.googleapis.com/v0/b/chatappfirebasetd.appspot.com/o/exercises%2FEQItGaBqHPDPQS.gif?alt=media",
       "id": "1313",
       "name": "lever unilateral row",
       "target": "upper back",
@@ -19689,7 +19689,7 @@ export const EXERCISES_DATA = [
     {
       "bodyPart": "back",
       "equipment": "rope",
-      "gifUrl": "https://res.cloudinary.com/dysns4al9/image/upload/v1779592720/gifs/sLU90gyinzLavC.gif?alt=media",
+      "gifUrl": "https://firebasestorage.googleapis.com/v0/b/chatappfirebasetd.appspot.com/o/exercises%2FsLU90gyinzLavC.gif?alt=media",
       "id": "0609",
       "name": "london bridge",
       "target": "upper back",
@@ -19711,7 +19711,7 @@ export const EXERCISES_DATA = [
     {
       "bodyPart": "upper legs",
       "equipment": "body weight",
-      "gifUrl": "https://res.cloudinary.com/dysns4al9/image/upload/v1779592720/gifs/JX-r9YLu5VuGoE.gif?alt=media",
+      "gifUrl": "https://firebasestorage.googleapis.com/v0/b/chatappfirebasetd.appspot.com/o/exercises%2FJX-r9YLu5VuGoE.gif?alt=media",
       "id": "3013",
       "name": "low glute bridge on floor",
       "target": "glutes",
@@ -19731,7 +19731,7 @@ export const EXERCISES_DATA = [
     {
       "bodyPart": "back",
       "equipment": "body weight",
-      "gifUrl": "https://res.cloudinary.com/dysns4al9/image/upload/v1779592720/gifs/rcAleuRQWNpCoQ.gif?alt=media",
+      "gifUrl": "https://firebasestorage.googleapis.com/v0/b/chatappfirebasetd.appspot.com/o/exercises%2FrcAleuRQWNpCoQ.gif?alt=media",
       "id": "1352",
       "name": "lower back curl",
       "target": "spine",
@@ -19749,7 +19749,7 @@ export const EXERCISES_DATA = [
     {
       "bodyPart": "upper legs",
       "equipment": "body weight",
-      "gifUrl": "https://res.cloudinary.com/dysns4al9/image/upload/v1779592720/gifs/i9CJxB1PBLnrhP.gif?alt=media",
+      "gifUrl": "https://firebasestorage.googleapis.com/v0/b/chatappfirebasetd.appspot.com/o/exercises%2Fi9CJxB1PBLnrhP.gif?alt=media",
       "id": "3582",
       "name": "lunge with jump",
       "target": "glutes",
@@ -19769,7 +19769,7 @@ export const EXERCISES_DATA = [
     {
       "bodyPart": "waist",
       "equipment": "body weight",
-      "gifUrl": "https://res.cloudinary.com/dysns4al9/image/upload/v1779592720/gifs/AkttMwirHx9hCg.gif?alt=media",
+      "gifUrl": "https://firebasestorage.googleapis.com/v0/b/chatappfirebasetd.appspot.com/o/exercises%2FAkttMwirHx9hCg.gif?alt=media",
       "id": "1688",
       "name": "lunge with twist",
       "target": "abs",
@@ -19790,7 +19790,7 @@ export const EXERCISES_DATA = [
     {
       "bodyPart": "upper legs",
       "equipment": "body weight",
-      "gifUrl": "https://res.cloudinary.com/dysns4al9/image/upload/v1779592720/gifs/YjwMKVZAK0aSUw.gif?alt=media",
+      "gifUrl": "https://firebasestorage.googleapis.com/v0/b/chatappfirebasetd.appspot.com/o/exercises%2FYjwMKVZAK0aSUw.gif?alt=media",
       "id": "0613",
       "name": "lying (side) quads stretch",
       "target": "quads",
@@ -19808,7 +19808,7 @@ export const EXERCISES_DATA = [
     {
       "bodyPart": "waist",
       "equipment": "body weight",
-      "gifUrl": "https://res.cloudinary.com/dysns4al9/image/upload/v1779592720/gifs/tFnyufCM-YpRqN.gif?alt=media",
+      "gifUrl": "https://firebasestorage.googleapis.com/v0/b/chatappfirebasetd.appspot.com/o/exercises%2FtFnyufCM-YpRqN.gif?alt=media",
       "id": "2312",
       "name": "lying elbow to knee",
       "target": "abs",
@@ -19829,7 +19829,7 @@ export const EXERCISES_DATA = [
     {
       "bodyPart": "waist",
       "equipment": "body weight",
-      "gifUrl": "https://res.cloudinary.com/dysns4al9/image/upload/v1779592720/gifs/owIAZtuTj62G00.gif?alt=media",
+      "gifUrl": "https://firebasestorage.googleapis.com/v0/b/chatappfirebasetd.appspot.com/o/exercises%2FowIAZtuTj62G00.gif?alt=media",
       "id": "0620",
       "name": "lying leg raise flat bench",
       "target": "abs",
@@ -19847,7 +19847,7 @@ export const EXERCISES_DATA = [
     {
       "bodyPart": "waist",
       "equipment": "body weight",
-      "gifUrl": "https://res.cloudinary.com/dysns4al9/image/upload/v1779592720/gifs/ymZ3bPBTPtBKAO.gif?alt=media",
+      "gifUrl": "https://firebasestorage.googleapis.com/v0/b/chatappfirebasetd.appspot.com/o/exercises%2FymZ3bPBTPtBKAO.gif?alt=media",
       "id": "0865",
       "name": "lying leg-hip raise",
       "target": "abs",
@@ -19865,7 +19865,7 @@ export const EXERCISES_DATA = [
     {
       "bodyPart": "chest",
       "equipment": "leverage machine",
-      "gifUrl": "https://res.cloudinary.com/dysns4al9/image/upload/v1779592720/gifs/7dSIFFswGyvE97.gif?alt=media",
+      "gifUrl": "https://firebasestorage.googleapis.com/v0/b/chatappfirebasetd.appspot.com/o/exercises%2F7dSIFFswGyvE97.gif?alt=media",
       "id": "1301",
       "name": "machine inner chest press",
       "target": "pectorals",
@@ -19884,7 +19884,7 @@ export const EXERCISES_DATA = [
     {
       "bodyPart": "upper legs",
       "equipment": "body weight",
-      "gifUrl": "https://res.cloudinary.com/dysns4al9/image/upload/v1779592720/gifs/BrfwM3OAc4m10B.gif?alt=media",
+      "gifUrl": "https://firebasestorage.googleapis.com/v0/b/chatappfirebasetd.appspot.com/o/exercises%2FBrfwM3OAc4m10B.gif?alt=media",
       "id": "0624",
       "name": "march sit (wall)",
       "target": "glutes",
@@ -19904,7 +19904,7 @@ export const EXERCISES_DATA = [
     {
       "bodyPart": "back",
       "equipment": "medicine ball",
-      "gifUrl": "https://res.cloudinary.com/dysns4al9/image/upload/v1779592720/gifs/CK3Od3rSPHKjrK.gif?alt=media",
+      "gifUrl": "https://firebasestorage.googleapis.com/v0/b/chatappfirebasetd.appspot.com/o/exercises%2FCK3Od3rSPHKjrK.gif?alt=media",
       "id": "1353",
       "name": "medicine ball catch and overhead throw",
       "target": "lats",
@@ -19924,7 +19924,7 @@ export const EXERCISES_DATA = [
     {
       "bodyPart": "chest",
       "equipment": "medicine ball",
-      "gifUrl": "https://res.cloudinary.com/dysns4al9/image/upload/v1779592720/gifs/g2TgpUG1ZZ-j-3.gif?alt=media",
+      "gifUrl": "https://firebasestorage.googleapis.com/v0/b/chatappfirebasetd.appspot.com/o/exercises%2Fg2TgpUG1ZZ-j-3.gif?alt=media",
       "id": "1302",
       "name": "medicine ball chest pass",
       "target": "pectorals",
@@ -19943,7 +19943,7 @@ export const EXERCISES_DATA = [
     {
       "bodyPart": "chest",
       "equipment": "medicine ball",
-      "gifUrl": "https://res.cloudinary.com/dysns4al9/image/upload/v1779592720/gifs/R9Kn2EhpJIuKMD.gif?alt=media",
+      "gifUrl": "https://firebasestorage.googleapis.com/v0/b/chatappfirebasetd.appspot.com/o/exercises%2FR9Kn2EhpJIuKMD.gif?alt=media",
       "id": "1303",
       "name": "medicine ball chest push from 3 point stance",
       "target": "pectorals",
@@ -19962,7 +19962,7 @@ export const EXERCISES_DATA = [
     {
       "bodyPart": "chest",
       "equipment": "medicine ball",
-      "gifUrl": "https://res.cloudinary.com/dysns4al9/image/upload/v1779592720/gifs/uTcEYYq2SalJLp.gif?alt=media",
+      "gifUrl": "https://firebasestorage.googleapis.com/v0/b/chatappfirebasetd.appspot.com/o/exercises%2FuTcEYYq2SalJLp.gif?alt=media",
       "id": "1304",
       "name": "medicine ball chest push multiple response",
       "target": "pectorals",
@@ -19980,7 +19980,7 @@ export const EXERCISES_DATA = [
     {
       "bodyPart": "chest",
       "equipment": "medicine ball",
-      "gifUrl": "https://res.cloudinary.com/dysns4al9/image/upload/v1779592720/gifs/gyrKBhX1iRXPro.gif?alt=media",
+      "gifUrl": "https://firebasestorage.googleapis.com/v0/b/chatappfirebasetd.appspot.com/o/exercises%2FgyrKBhX1iRXPro.gif?alt=media",
       "id": "1305",
       "name": "medicine ball chest push single response",
       "target": "pectorals",
@@ -19998,7 +19998,7 @@ export const EXERCISES_DATA = [
     {
       "bodyPart": "chest",
       "equipment": "medicine ball",
-      "gifUrl": "https://res.cloudinary.com/dysns4al9/image/upload/v1779592720/gifs/bME77RgiWarveE.gif?alt=media",
+      "gifUrl": "https://firebasestorage.googleapis.com/v0/b/chatappfirebasetd.appspot.com/o/exercises%2FbME77RgiWarveE.gif?alt=media",
       "id": "1312",
       "name": "medicine ball chest push with run release",
       "target": "pectorals",
@@ -20019,7 +20019,7 @@ export const EXERCISES_DATA = [
     {
       "bodyPart": "upper arms",
       "equipment": "medicine ball",
-      "gifUrl": "https://res.cloudinary.com/dysns4al9/image/upload/v1779592720/gifs/7Zj4xezFw8sRxG.gif?alt=media",
+      "gifUrl": "https://firebasestorage.googleapis.com/v0/b/chatappfirebasetd.appspot.com/o/exercises%2F7Zj4xezFw8sRxG.gif?alt=media",
       "id": "1701",
       "name": "medicine ball close grip push up",
       "target": "triceps",
@@ -20037,7 +20037,7 @@ export const EXERCISES_DATA = [
     {
       "bodyPart": "back",
       "equipment": "medicine ball",
-      "gifUrl": "https://res.cloudinary.com/dysns4al9/image/upload/v1779592720/gifs/1qWjtec7LG4NBK.gif?alt=media",
+      "gifUrl": "https://firebasestorage.googleapis.com/v0/b/chatappfirebasetd.appspot.com/o/exercises%2F1qWjtec7LG4NBK.gif?alt=media",
       "id": "1354",
       "name": "medicine ball overhead slam",
       "target": "upper back",
@@ -20056,7 +20056,7 @@ export const EXERCISES_DATA = [
     {
       "bodyPart": "upper arms",
       "equipment": "medicine ball",
-      "gifUrl": "https://res.cloudinary.com/dysns4al9/image/upload/v1779592720/gifs/VuSX2BSZSsFApB.gif?alt=media",
+      "gifUrl": "https://firebasestorage.googleapis.com/v0/b/chatappfirebasetd.appspot.com/o/exercises%2FVuSX2BSZSsFApB.gif?alt=media",
       "id": "1750",
       "name": "medicine ball supine chest throw",
       "target": "triceps",
@@ -20075,7 +20075,7 @@ export const EXERCISES_DATA = [
     {
       "bodyPart": "back",
       "equipment": "body weight",
-      "gifUrl": "https://res.cloudinary.com/dysns4al9/image/upload/v1779592720/gifs/9uSAUGvC8QhRhB.gif?alt=media",
+      "gifUrl": "https://firebasestorage.googleapis.com/v0/b/chatappfirebasetd.appspot.com/o/exercises%2F9uSAUGvC8QhRhB.gif?alt=media",
       "id": "0627",
       "name": "mixed grip chin-up",
       "target": "lats",
@@ -20095,7 +20095,7 @@ export const EXERCISES_DATA = [
     {
       "bodyPart": "chest",
       "equipment": "body weight",
-      "gifUrl": "https://res.cloudinary.com/dysns4al9/image/upload/v1779592720/gifs/y-Ra9qMqb6jjhM.gif?alt=media",
+      "gifUrl": "https://firebasestorage.googleapis.com/v0/b/chatappfirebasetd.appspot.com/o/exercises%2Fy-Ra9qMqb6jjhM.gif?alt=media",
       "id": "3217",
       "name": "modified hindu push-up (male)",
       "target": "pectorals",
@@ -20115,7 +20115,7 @@ export const EXERCISES_DATA = [
     {
       "bodyPart": "lower arms",
       "equipment": "body weight",
-      "gifUrl": "https://res.cloudinary.com/dysns4al9/image/upload/v1779592720/gifs/9B5yhUlaE2Kocj.gif?alt=media",
+      "gifUrl": "https://firebasestorage.googleapis.com/v0/b/chatappfirebasetd.appspot.com/o/exercises%2F9B5yhUlaE2Kocj.gif?alt=media",
       "id": "1421",
       "name": "modified push up to lower arms",
       "target": "forearms",
@@ -20135,7 +20135,7 @@ export const EXERCISES_DATA = [
     {
       "bodyPart": "upper legs",
       "equipment": "body weight",
-      "gifUrl": "https://res.cloudinary.com/dysns4al9/image/upload/v1779592720/gifs/y4qAqh8SNv8rJs.gif?alt=media",
+      "gifUrl": "https://firebasestorage.googleapis.com/v0/b/chatappfirebasetd.appspot.com/o/exercises%2Fy4qAqh8SNv8rJs.gif?alt=media",
       "id": "0628",
       "name": "monster walk",
       "target": "glutes",
@@ -20154,7 +20154,7 @@ export const EXERCISES_DATA = [
     {
       "bodyPart": "cardio",
       "equipment": "body weight",
-      "gifUrl": "https://res.cloudinary.com/dysns4al9/image/upload/v1779592720/gifs/R0DKdSU3g3DhRo.gif?alt=media",
+      "gifUrl": "https://firebasestorage.googleapis.com/v0/b/chatappfirebasetd.appspot.com/o/exercises%2FR0DKdSU3g3DhRo.gif?alt=media",
       "id": "0630",
       "name": "mountain climber",
       "target": "cardiovascular system",
@@ -20174,7 +20174,7 @@ export const EXERCISES_DATA = [
     {
       "bodyPart": "back",
       "equipment": "body weight",
-      "gifUrl": "https://res.cloudinary.com/dysns4al9/image/upload/v1779592720/gifs/6mVZ15Ig-Iex5y.gif?alt=media",
+      "gifUrl": "https://firebasestorage.googleapis.com/v0/b/chatappfirebasetd.appspot.com/o/exercises%2F6mVZ15Ig-Iex5y.gif?alt=media",
       "id": "0631",
       "name": "muscle up",
       "target": "lats",
@@ -20196,7 +20196,7 @@ export const EXERCISES_DATA = [
     {
       "bodyPart": "back",
       "equipment": "body weight",
-      "gifUrl": "https://res.cloudinary.com/dysns4al9/image/upload/v1779592720/gifs/qopXefM0kRp0pi.gif?alt=media",
+      "gifUrl": "https://firebasestorage.googleapis.com/v0/b/chatappfirebasetd.appspot.com/o/exercises%2FqopXefM0kRp0pi.gif?alt=media",
       "id": "1401",
       "name": "muscle-up (on vertical bar)",
       "target": "lats",
@@ -20217,7 +20217,7 @@ export const EXERCISES_DATA = [
     {
       "bodyPart": "upper arms",
       "equipment": "stability ball",
-      "gifUrl": "https://res.cloudinary.com/dysns4al9/image/upload/v1779592720/gifs/kQSn1KynsXmG2-.gif?alt=media",
+      "gifUrl": "https://firebasestorage.googleapis.com/v0/b/chatappfirebasetd.appspot.com/o/exercises%2FkQSn1KynsXmG2-.gif?alt=media",
       "id": "2328",
       "name": "narrow push-up on exercise ball",
       "target": "triceps",
@@ -20236,7 +20236,7 @@ export const EXERCISES_DATA = [
     {
       "bodyPart": "neck",
       "equipment": "body weight",
-      "gifUrl": "https://res.cloudinary.com/dysns4al9/image/upload/v1779592720/gifs/Xg-G6e9sUiMKQd.gif?alt=media",
+      "gifUrl": "https://firebasestorage.googleapis.com/v0/b/chatappfirebasetd.appspot.com/o/exercises%2FXg-G6e9sUiMKQd.gif?alt=media",
       "id": "1403",
       "name": "neck side stretch",
       "target": "levator scapulae",
@@ -20255,7 +20255,7 @@ export const EXERCISES_DATA = [
     {
       "bodyPart": "waist",
       "equipment": "body weight",
-      "gifUrl": "https://res.cloudinary.com/dysns4al9/image/upload/v1779592720/gifs/8fwxO1urCNBz9F.gif?alt=media",
+      "gifUrl": "https://firebasestorage.googleapis.com/v0/b/chatappfirebasetd.appspot.com/o/exercises%2F8fwxO1urCNBz9F.gif?alt=media",
       "id": "0634",
       "name": "negative crunch",
       "target": "abs",
@@ -20273,7 +20273,7 @@ export const EXERCISES_DATA = [
     {
       "bodyPart": "waist",
       "equipment": "body weight",
-      "gifUrl": "https://res.cloudinary.com/dysns4al9/image/upload/v1779592720/gifs/Sgpm8wrFLRYFoA.gif?alt=media",
+      "gifUrl": "https://firebasestorage.googleapis.com/v0/b/chatappfirebasetd.appspot.com/o/exercises%2FSgpm8wrFLRYFoA.gif?alt=media",
       "id": "1495",
       "name": "oblique crunch v. 2",
       "target": "abs",
@@ -20292,7 +20292,7 @@ export const EXERCISES_DATA = [
     {
       "bodyPart": "waist",
       "equipment": "body weight",
-      "gifUrl": "https://res.cloudinary.com/dysns4al9/image/upload/v1779592720/gifs/otZjSSDGsgu5qQ.gif?alt=media",
+      "gifUrl": "https://firebasestorage.googleapis.com/v0/b/chatappfirebasetd.appspot.com/o/exercises%2FotZjSSDGsgu5qQ.gif?alt=media",
       "id": "0635",
       "name": "oblique crunches floor",
       "target": "abs",
@@ -20310,7 +20310,7 @@ export const EXERCISES_DATA = [
     {
       "bodyPart": "upper arms",
       "equipment": "olympic barbell",
-      "gifUrl": "https://res.cloudinary.com/dysns4al9/image/upload/v1779592720/gifs/q7Cy3swsfCcI1m.gif?alt=media",
+      "gifUrl": "https://firebasestorage.googleapis.com/v0/b/chatappfirebasetd.appspot.com/o/exercises%2Fq7Cy3swsfCcI1m.gif?alt=media",
       "id": "0636",
       "name": "olympic barbell hammer curl",
       "target": "biceps",
@@ -20330,7 +20330,7 @@ export const EXERCISES_DATA = [
     {
       "bodyPart": "upper arms",
       "equipment": "olympic barbell",
-      "gifUrl": "https://res.cloudinary.com/dysns4al9/image/upload/v1779592720/gifs/agUfK9f7DI2SlD.gif?alt=media",
+      "gifUrl": "https://firebasestorage.googleapis.com/v0/b/chatappfirebasetd.appspot.com/o/exercises%2FagUfK9f7DI2SlD.gif?alt=media",
       "id": "0637",
       "name": "olympic barbell triceps extension",
       "target": "triceps",
@@ -20348,7 +20348,7 @@ export const EXERCISES_DATA = [
     {
       "bodyPart": "back",
       "equipment": "body weight",
-      "gifUrl": "https://res.cloudinary.com/dysns4al9/image/upload/v1779592720/gifs/kX8B8qcgAyqjwB.gif?alt=media",
+      "gifUrl": "https://firebasestorage.googleapis.com/v0/b/chatappfirebasetd.appspot.com/o/exercises%2FkX8B8qcgAyqjwB.gif?alt=media",
       "id": "1355",
       "name": "one arm against wall",
       "target": "lats",
@@ -20367,7 +20367,7 @@ export const EXERCISES_DATA = [
     {
       "bodyPart": "back",
       "equipment": "body weight",
-      "gifUrl": "https://res.cloudinary.com/dysns4al9/image/upload/v1779592720/gifs/FzJGanw8B3AbeB.gif?alt=media",
+      "gifUrl": "https://firebasestorage.googleapis.com/v0/b/chatappfirebasetd.appspot.com/o/exercises%2FFzJGanw8B3AbeB.gif?alt=media",
       "id": "0638",
       "name": "one arm chin-up",
       "target": "lats",
@@ -20387,7 +20387,7 @@ export const EXERCISES_DATA = [
     {
       "bodyPart": "upper arms",
       "equipment": "body weight",
-      "gifUrl": "https://res.cloudinary.com/dysns4al9/image/upload/v1779592720/gifs/73SARzXWaBSDY8.gif?alt=media",
+      "gifUrl": "https://firebasestorage.googleapis.com/v0/b/chatappfirebasetd.appspot.com/o/exercises%2F73SARzXWaBSDY8.gif?alt=media",
       "id": "0639",
       "name": "one arm dip",
       "target": "triceps",
@@ -20407,7 +20407,7 @@ export const EXERCISES_DATA = [
     {
       "bodyPart": "waist",
       "equipment": "medicine ball",
-      "gifUrl": "https://res.cloudinary.com/dysns4al9/image/upload/v1779592720/gifs/-QR7Q9FmnwleVD.gif?alt=media",
+      "gifUrl": "https://firebasestorage.googleapis.com/v0/b/chatappfirebasetd.appspot.com/o/exercises%2F-QR7Q9FmnwleVD.gif?alt=media",
       "id": "0640",
       "name": "one arm slam (with medicine ball)",
       "target": "abs",
@@ -20426,7 +20426,7 @@ export const EXERCISES_DATA = [
     {
       "bodyPart": "back",
       "equipment": "body weight",
-      "gifUrl": "https://res.cloudinary.com/dysns4al9/image/upload/v1779592720/gifs/bHXjXmDUkcSTa1.gif?alt=media",
+      "gifUrl": "https://firebasestorage.googleapis.com/v0/b/chatappfirebasetd.appspot.com/o/exercises%2FbHXjXmDUkcSTa1.gif?alt=media",
       "id": "1773",
       "name": "one arm towel row",
       "target": "upper back",
@@ -20446,7 +20446,7 @@ export const EXERCISES_DATA = [
     {
       "bodyPart": "lower legs",
       "equipment": "body weight",
-      "gifUrl": "https://res.cloudinary.com/dysns4al9/image/upload/v1779592720/gifs/T5ZXlAwFTIqUab.gif?alt=media",
+      "gifUrl": "https://firebasestorage.googleapis.com/v0/b/chatappfirebasetd.appspot.com/o/exercises%2FT5ZXlAwFTIqUab.gif?alt=media",
       "id": "1386",
       "name": "one leg donkey calf raise",
       "target": "calves",
@@ -20466,7 +20466,7 @@ export const EXERCISES_DATA = [
     {
       "bodyPart": "lower legs",
       "equipment": "body weight",
-      "gifUrl": "https://res.cloudinary.com/dysns4al9/image/upload/v1779592720/gifs/7iocpPBebyYk-u.gif?alt=media",
+      "gifUrl": "https://firebasestorage.googleapis.com/v0/b/chatappfirebasetd.appspot.com/o/exercises%2F7iocpPBebyYk-u.gif?alt=media",
       "id": "1387",
       "name": "one leg floor calf raise",
       "target": "calves",
@@ -20485,7 +20485,7 @@ export const EXERCISES_DATA = [
     {
       "bodyPart": "upper legs",
       "equipment": "body weight",
-      "gifUrl": "https://res.cloudinary.com/dysns4al9/image/upload/v1779592720/gifs/iTiXed429Wf77g.gif?alt=media",
+      "gifUrl": "https://firebasestorage.googleapis.com/v0/b/chatappfirebasetd.appspot.com/o/exercises%2FiTiXed429Wf77g.gif?alt=media",
       "id": "1476",
       "name": "one leg squat",
       "target": "glutes",
@@ -20506,7 +20506,7 @@ export const EXERCISES_DATA = [
     {
       "bodyPart": "waist",
       "equipment": "weighted",
-      "gifUrl": "https://res.cloudinary.com/dysns4al9/image/upload/v1779592720/gifs/LYaDJe4wRpyoA0.gif?alt=media",
+      "gifUrl": "https://firebasestorage.googleapis.com/v0/b/chatappfirebasetd.appspot.com/o/exercises%2FLYaDJe4wRpyoA0.gif?alt=media",
       "id": "0641",
       "name": "otis up",
       "target": "abs",
@@ -20525,7 +20525,7 @@ export const EXERCISES_DATA = [
     {
       "bodyPart": "upper legs",
       "equipment": "body weight",
-      "gifUrl": "https://res.cloudinary.com/dysns4al9/image/upload/v1779592720/gifs/guZ6HKlB2nLufq.gif?alt=media",
+      "gifUrl": "https://firebasestorage.googleapis.com/v0/b/chatappfirebasetd.appspot.com/o/exercises%2FguZ6HKlB2nLufq.gif?alt=media",
       "id": "0642",
       "name": "outside leg kick push-up",
       "target": "glutes",
@@ -20545,7 +20545,7 @@ export const EXERCISES_DATA = [
     {
       "bodyPart": "upper arms",
       "equipment": "body weight",
-      "gifUrl": "https://res.cloudinary.com/dysns4al9/image/upload/v1779592720/gifs/DUY64jBXiEBKNY.gif?alt=media",
+      "gifUrl": "https://firebasestorage.googleapis.com/v0/b/chatappfirebasetd.appspot.com/o/exercises%2FDUY64jBXiEBKNY.gif?alt=media",
       "id": "0643",
       "name": "overhead triceps stretch",
       "target": "triceps",
@@ -20563,7 +20563,7 @@ export const EXERCISES_DATA = [
     {
       "bodyPart": "waist",
       "equipment": "body weight",
-      "gifUrl": "https://res.cloudinary.com/dysns4al9/image/upload/v1779592720/gifs/uWsEK0cjkm6kxW.gif?alt=media",
+      "gifUrl": "https://firebasestorage.googleapis.com/v0/b/chatappfirebasetd.appspot.com/o/exercises%2FuWsEK0cjkm6kxW.gif?alt=media",
       "id": "3147",
       "name": "pelvic tilt",
       "target": "abs",
@@ -20582,7 +20582,7 @@ export const EXERCISES_DATA = [
     {
       "bodyPart": "upper legs",
       "equipment": "body weight",
-      "gifUrl": "https://res.cloudinary.com/dysns4al9/image/upload/v1779592720/gifs/eVUuyF9zdEGj6T.gif?alt=media",
+      "gifUrl": "https://firebasestorage.googleapis.com/v0/b/chatappfirebasetd.appspot.com/o/exercises%2FeVUuyF9zdEGj6T.gif?alt=media",
       "id": "1422",
       "name": "pelvic tilt into bridge",
       "target": "glutes",
@@ -20603,7 +20603,7 @@ export const EXERCISES_DATA = [
     {
       "bodyPart": "lower legs",
       "equipment": "rope",
-      "gifUrl": "https://res.cloudinary.com/dysns4al9/image/upload/v1779592720/gifs/7XrdGyqAtp-gTE.gif?alt=media",
+      "gifUrl": "https://firebasestorage.googleapis.com/v0/b/chatappfirebasetd.appspot.com/o/exercises%2F7XrdGyqAtp-gTE.gif?alt=media",
       "id": "1388",
       "name": "peroneals stretch",
       "target": "calves",
@@ -20623,7 +20623,7 @@ export const EXERCISES_DATA = [
     {
       "bodyPart": "upper legs",
       "equipment": "body weight",
-      "gifUrl": "https://res.cloudinary.com/dysns4al9/image/upload/v1779592720/gifs/8zT2jTNKgSc7hv.gif?alt=media",
+      "gifUrl": "https://firebasestorage.googleapis.com/v0/b/chatappfirebasetd.appspot.com/o/exercises%2F8zT2jTNKgSc7hv.gif?alt=media",
       "id": "3662",
       "name": "pike-to-cobra push-up",
       "target": "glutes",
@@ -20646,7 +20646,7 @@ export const EXERCISES_DATA = [
     {
       "bodyPart": "chest",
       "equipment": "body weight",
-      "gifUrl": "https://res.cloudinary.com/dysns4al9/image/upload/v1779592720/gifs/o4rA8Ylw7OlRRV.gif?alt=media",
+      "gifUrl": "https://firebasestorage.googleapis.com/v0/b/chatappfirebasetd.appspot.com/o/exercises%2Fo4rA8Ylw7OlRRV.gif?alt=media",
       "id": "1306",
       "name": "plyo push up",
       "target": "pectorals",
@@ -20666,7 +20666,7 @@ export const EXERCISES_DATA = [
     {
       "bodyPart": "waist",
       "equipment": "body weight",
-      "gifUrl": "https://res.cloudinary.com/dysns4al9/image/upload/v1779592720/gifs/SSLZUkeCU30mmx.gif?alt=media",
+      "gifUrl": "https://firebasestorage.googleapis.com/v0/b/chatappfirebasetd.appspot.com/o/exercises%2FSSLZUkeCU30mmx.gif?alt=media",
       "id": "1687",
       "name": "posterior step to overhead reach",
       "target": "abs",
@@ -20689,7 +20689,7 @@ export const EXERCISES_DATA = [
     {
       "bodyPart": "lower legs",
       "equipment": "rope",
-      "gifUrl": "https://res.cloudinary.com/dysns4al9/image/upload/v1779592720/gifs/AL-Nz3DLEYf-8T.gif?alt=media",
+      "gifUrl": "https://firebasestorage.googleapis.com/v0/b/chatappfirebasetd.appspot.com/o/exercises%2FAL-Nz3DLEYf-8T.gif?alt=media",
       "id": "1389",
       "name": "posterior tibialis stretch",
       "target": "calves",
@@ -20709,7 +20709,7 @@ export const EXERCISES_DATA = [
     {
       "bodyPart": "waist",
       "equipment": "body weight",
-      "gifUrl": "https://res.cloudinary.com/dysns4al9/image/upload/v1779592720/gifs/UZQHyt6tk6v7Xs.gif?alt=media",
+      "gifUrl": "https://firebasestorage.googleapis.com/v0/b/chatappfirebasetd.appspot.com/o/exercises%2FUZQHyt6tk6v7Xs.gif?alt=media",
       "id": "3119",
       "name": "potty squat",
       "target": "abs",
@@ -20729,7 +20729,7 @@ export const EXERCISES_DATA = [
     {
       "bodyPart": "upper legs",
       "equipment": "body weight",
-      "gifUrl": "https://res.cloudinary.com/dysns4al9/image/upload/v1779592720/gifs/fa9rLGNOq4XfqY.gif?alt=media",
+      "gifUrl": "https://firebasestorage.googleapis.com/v0/b/chatappfirebasetd.appspot.com/o/exercises%2Ffa9rLGNOq4XfqY.gif?alt=media",
       "id": "3132",
       "name": "potty squat with support",
       "target": "glutes",
@@ -20750,7 +20750,7 @@ export const EXERCISES_DATA = [
     {
       "bodyPart": "upper legs",
       "equipment": "barbell",
-      "gifUrl": "https://res.cloudinary.com/dysns4al9/image/upload/v1779592720/gifs/HKm8HI46iFXTxY.gif?alt=media",
+      "gifUrl": "https://firebasestorage.googleapis.com/v0/b/chatappfirebasetd.appspot.com/o/exercises%2FHKm8HI46iFXTxY.gif?alt=media",
       "id": "0648",
       "name": "power clean",
       "target": "hamstrings",
@@ -20773,7 +20773,7 @@ export const EXERCISES_DATA = [
     {
       "bodyPart": "waist",
       "equipment": "body weight",
-      "gifUrl": "https://res.cloudinary.com/dysns4al9/image/upload/v1779592720/gifs/mvgzUEcp5z2pgl.gif?alt=media",
+      "gifUrl": "https://firebasestorage.googleapis.com/v0/b/chatappfirebasetd.appspot.com/o/exercises%2FmvgzUEcp5z2pgl.gif?alt=media",
       "id": "3665",
       "name": "power point plank",
       "target": "abs",
@@ -20794,7 +20794,7 @@ export const EXERCISES_DATA = [
     {
       "bodyPart": "waist",
       "equipment": "body weight",
-      "gifUrl": "https://res.cloudinary.com/dysns4al9/image/upload/v1779592720/gifs/3jS1NFlWfFEJpE.gif?alt=media",
+      "gifUrl": "https://firebasestorage.googleapis.com/v0/b/chatappfirebasetd.appspot.com/o/exercises%2F3jS1NFlWfFEJpE.gif?alt=media",
       "id": "3203",
       "name": "prisoner half sit-up (male)",
       "target": "abs",
@@ -20812,7 +20812,7 @@ export const EXERCISES_DATA = [
     {
       "bodyPart": "waist",
       "equipment": "stability ball",
-      "gifUrl": "https://res.cloudinary.com/dysns4al9/image/upload/v1779592720/gifs/-wMTsxGVAkSNfH.gif?alt=media",
+      "gifUrl": "https://firebasestorage.googleapis.com/v0/b/chatappfirebasetd.appspot.com/o/exercises%2F-wMTsxGVAkSNfH.gif?alt=media",
       "id": "1707",
       "name": "prone twist on stability ball",
       "target": "abs",
@@ -20833,7 +20833,7 @@ export const EXERCISES_DATA = [
     {
       "bodyPart": "back",
       "equipment": "body weight",
-      "gifUrl": "https://res.cloudinary.com/dysns4al9/image/upload/v1779592720/gifs/Vqx9wT7stGsORu.gif?alt=media",
+      "gifUrl": "https://firebasestorage.googleapis.com/v0/b/chatappfirebasetd.appspot.com/o/exercises%2FVqx9wT7stGsORu.gif?alt=media",
       "id": "0651",
       "name": "pull up (neutral grip)",
       "target": "lats",
@@ -20853,7 +20853,7 @@ export const EXERCISES_DATA = [
     {
       "bodyPart": "waist",
       "equipment": "stability ball",
-      "gifUrl": "https://res.cloudinary.com/dysns4al9/image/upload/v1779592720/gifs/PrJP4cg6XNz8lT.gif?alt=media",
+      "gifUrl": "https://firebasestorage.googleapis.com/v0/b/chatappfirebasetd.appspot.com/o/exercises%2FPrJP4cg6XNz8lT.gif?alt=media",
       "id": "0650",
       "name": "pull-in (on stability ball)",
       "target": "abs",
@@ -20871,7 +20871,7 @@ export const EXERCISES_DATA = [
     {
       "bodyPart": "back",
       "equipment": "body weight",
-      "gifUrl": "https://res.cloudinary.com/dysns4al9/image/upload/v1779592720/gifs/-OQ-CBeSAsjDzZ.gif?alt=media",
+      "gifUrl": "https://firebasestorage.googleapis.com/v0/b/chatappfirebasetd.appspot.com/o/exercises%2F-OQ-CBeSAsjDzZ.gif?alt=media",
       "id": "0652",
       "name": "pull-up",
       "target": "lats",
@@ -20890,7 +20890,7 @@ export const EXERCISES_DATA = [
     {
       "bodyPart": "chest",
       "equipment": "body weight",
-      "gifUrl": "https://res.cloudinary.com/dysns4al9/image/upload/v1779592720/gifs/x-YMrTZD3MECpl.gif?alt=media",
+      "gifUrl": "https://firebasestorage.googleapis.com/v0/b/chatappfirebasetd.appspot.com/o/exercises%2Fx-YMrTZD3MECpl.gif?alt=media",
       "id": "1689",
       "name": "push and pull bodyweight",
       "target": "pectorals",
@@ -20910,7 +20910,7 @@ export const EXERCISES_DATA = [
     {
       "bodyPart": "cardio",
       "equipment": "body weight",
-      "gifUrl": "https://res.cloudinary.com/dysns4al9/image/upload/v1779592720/gifs/VUMNgqLaI1ILYT.gif?alt=media",
+      "gifUrl": "https://firebasestorage.googleapis.com/v0/b/chatappfirebasetd.appspot.com/o/exercises%2FVUMNgqLaI1ILYT.gif?alt=media",
       "id": "3638",
       "name": "push to run",
       "target": "cardiovascular system",
@@ -20931,7 +20931,7 @@ export const EXERCISES_DATA = [
     {
       "bodyPart": "chest",
       "equipment": "bosu ball",
-      "gifUrl": "https://res.cloudinary.com/dysns4al9/image/upload/v1779592720/gifs/jAwvIGRdjrFmxi.gif?alt=media",
+      "gifUrl": "https://firebasestorage.googleapis.com/v0/b/chatappfirebasetd.appspot.com/o/exercises%2FjAwvIGRdjrFmxi.gif?alt=media",
       "id": "1307",
       "name": "push up on bosu ball",
       "target": "pectorals",
@@ -20951,7 +20951,7 @@ export const EXERCISES_DATA = [
     {
       "bodyPart": "chest",
       "equipment": "body weight",
-      "gifUrl": "https://res.cloudinary.com/dysns4al9/image/upload/v1779592720/gifs/03zp-i1RBfZrDE.gif?alt=media",
+      "gifUrl": "https://firebasestorage.googleapis.com/v0/b/chatappfirebasetd.appspot.com/o/exercises%2F03zp-i1RBfZrDE.gif?alt=media",
       "id": "0662",
       "name": "push-up",
       "target": "pectorals",
@@ -20970,7 +20970,7 @@ export const EXERCISES_DATA = [
     {
       "bodyPart": "chest",
       "equipment": "bosu ball",
-      "gifUrl": "https://res.cloudinary.com/dysns4al9/image/upload/v1779592720/gifs/wftdx7mztxXjyv.gif?alt=media",
+      "gifUrl": "https://firebasestorage.googleapis.com/v0/b/chatappfirebasetd.appspot.com/o/exercises%2Fwftdx7mztxXjyv.gif?alt=media",
       "id": "0653",
       "name": "push-up (bosu ball)",
       "target": "pectorals",
@@ -20990,7 +20990,7 @@ export const EXERCISES_DATA = [
     {
       "bodyPart": "chest",
       "equipment": "stability ball",
-      "gifUrl": "https://res.cloudinary.com/dysns4al9/image/upload/v1779592720/gifs/6NBOm9UbFwEZn0.gif?alt=media",
+      "gifUrl": "https://firebasestorage.googleapis.com/v0/b/chatappfirebasetd.appspot.com/o/exercises%2F6NBOm9UbFwEZn0.gif?alt=media",
       "id": "0655",
       "name": "push-up (on stability ball)",
       "target": "pectorals",
@@ -21010,7 +21010,7 @@ export const EXERCISES_DATA = [
     {
       "bodyPart": "chest",
       "equipment": "stability ball",
-      "gifUrl": "https://res.cloudinary.com/dysns4al9/image/upload/v1779592720/gifs/vZ9aHmScc8n8up.gif?alt=media",
+      "gifUrl": "https://firebasestorage.googleapis.com/v0/b/chatappfirebasetd.appspot.com/o/exercises%2FvZ9aHmScc8n8up.gif?alt=media",
       "id": "0656",
       "name": "push-up (on stability ball)",
       "target": "pectorals",
@@ -21030,7 +21030,7 @@ export const EXERCISES_DATA = [
     {
       "bodyPart": "chest",
       "equipment": "body weight",
-      "gifUrl": "https://res.cloudinary.com/dysns4al9/image/upload/v1779592720/gifs/tKK35WBHm3y1bZ.gif?alt=media",
+      "gifUrl": "https://firebasestorage.googleapis.com/v0/b/chatappfirebasetd.appspot.com/o/exercises%2FtKK35WBHm3y1bZ.gif?alt=media",
       "id": "0659",
       "name": "push-up (wall)",
       "target": "pectorals",
@@ -21050,7 +21050,7 @@ export const EXERCISES_DATA = [
     {
       "bodyPart": "chest",
       "equipment": "body weight",
-      "gifUrl": "https://res.cloudinary.com/dysns4al9/image/upload/v1779592720/gifs/4wazCkY8UWACVO.gif?alt=media",
+      "gifUrl": "https://firebasestorage.googleapis.com/v0/b/chatappfirebasetd.appspot.com/o/exercises%2F4wazCkY8UWACVO.gif?alt=media",
       "id": "0658",
       "name": "push-up (wall) v. 2",
       "target": "pectorals",
@@ -21071,7 +21071,7 @@ export const EXERCISES_DATA = [
     {
       "bodyPart": "upper arms",
       "equipment": "dumbbell",
-      "gifUrl": "https://res.cloudinary.com/dysns4al9/image/upload/v1779592720/gifs/5FoGPRw5JpvLZG.gif?alt=media",
+      "gifUrl": "https://firebasestorage.googleapis.com/v0/b/chatappfirebasetd.appspot.com/o/exercises%2F5FoGPRw5JpvLZG.gif?alt=media",
       "id": "0660",
       "name": "push-up close-grip off dumbbell",
       "target": "triceps",
@@ -21090,7 +21090,7 @@ export const EXERCISES_DATA = [
     {
       "bodyPart": "upper legs",
       "equipment": "body weight",
-      "gifUrl": "https://res.cloudinary.com/dysns4al9/image/upload/v1779592720/gifs/p7cEJjd2TBmRyR.gif?alt=media",
+      "gifUrl": "https://firebasestorage.googleapis.com/v0/b/chatappfirebasetd.appspot.com/o/exercises%2Fp7cEJjd2TBmRyR.gif?alt=media",
       "id": "0661",
       "name": "push-up inside leg kick",
       "target": "glutes",
@@ -21111,7 +21111,7 @@ export const EXERCISES_DATA = [
     {
       "bodyPart": "chest",
       "equipment": "medicine ball",
-      "gifUrl": "https://res.cloudinary.com/dysns4al9/image/upload/v1779592720/gifs/WmYaRPnIuLEjnO.gif?alt=media",
+      "gifUrl": "https://firebasestorage.googleapis.com/v0/b/chatappfirebasetd.appspot.com/o/exercises%2FWmYaRPnIuLEjnO.gif?alt=media",
       "id": "0663",
       "name": "push-up medicine ball",
       "target": "pectorals",
@@ -21130,7 +21130,7 @@ export const EXERCISES_DATA = [
     {
       "bodyPart": "upper arms",
       "equipment": "body weight",
-      "gifUrl": "https://res.cloudinary.com/dysns4al9/image/upload/v1779592720/gifs/O7e91pUtTjvym6.gif?alt=media",
+      "gifUrl": "https://firebasestorage.googleapis.com/v0/b/chatappfirebasetd.appspot.com/o/exercises%2FO7e91pUtTjvym6.gif?alt=media",
       "id": "1467",
       "name": "push-up on lower arms",
       "target": "triceps",
@@ -21149,7 +21149,7 @@ export const EXERCISES_DATA = [
     {
       "bodyPart": "chest",
       "equipment": "body weight",
-      "gifUrl": "https://res.cloudinary.com/dysns4al9/image/upload/v1779592720/gifs/HgjhlubqwQGvZv.gif?alt=media",
+      "gifUrl": "https://firebasestorage.googleapis.com/v0/b/chatappfirebasetd.appspot.com/o/exercises%2FHgjhlubqwQGvZv.gif?alt=media",
       "id": "3145",
       "name": "push-up plus",
       "target": "pectorals",
@@ -21169,7 +21169,7 @@ export const EXERCISES_DATA = [
     {
       "bodyPart": "waist",
       "equipment": "body weight",
-      "gifUrl": "https://res.cloudinary.com/dysns4al9/image/upload/v1779592720/gifs/eLEfa11F0KvPPX.gif?alt=media",
+      "gifUrl": "https://firebasestorage.googleapis.com/v0/b/chatappfirebasetd.appspot.com/o/exercises%2FeLEfa11F0KvPPX.gif?alt=media",
       "id": "0664",
       "name": "push-up to side plank",
       "target": "abs",
@@ -21191,7 +21191,7 @@ export const EXERCISES_DATA = [
     {
       "bodyPart": "upper legs",
       "equipment": "body weight",
-      "gifUrl": "https://res.cloudinary.com/dysns4al9/image/upload/v1779592720/gifs/e4267YMQXRDM8L.gif?alt=media",
+      "gifUrl": "https://firebasestorage.googleapis.com/v0/b/chatappfirebasetd.appspot.com/o/exercises%2Fe4267YMQXRDM8L.gif?alt=media",
       "id": "3533",
       "name": "quads",
       "target": "quads",
@@ -21211,7 +21211,7 @@ export const EXERCISES_DATA = [
     {
       "bodyPart": "waist",
       "equipment": "body weight",
-      "gifUrl": "https://res.cloudinary.com/dysns4al9/image/upload/v1779592720/gifs/P-btB0X14u43wo.gif?alt=media",
+      "gifUrl": "https://firebasestorage.googleapis.com/v0/b/chatappfirebasetd.appspot.com/o/exercises%2FP-btB0X14u43wo.gif?alt=media",
       "id": "3201",
       "name": "quarter sit-up",
       "target": "abs",
@@ -21229,7 +21229,7 @@ export const EXERCISES_DATA = [
     {
       "bodyPart": "upper legs",
       "equipment": "body weight",
-      "gifUrl": "https://res.cloudinary.com/dysns4al9/image/upload/v1779592720/gifs/7GtLm1lOVGfHAB.gif?alt=media",
+      "gifUrl": "https://firebasestorage.googleapis.com/v0/b/chatappfirebasetd.appspot.com/o/exercises%2F7GtLm1lOVGfHAB.gif?alt=media",
       "id": "3552",
       "name": "quick feet v. 2",
       "target": "quads",
@@ -21247,7 +21247,7 @@ export const EXERCISES_DATA = [
     {
       "bodyPart": "chest",
       "equipment": "body weight",
-      "gifUrl": "https://res.cloudinary.com/dysns4al9/image/upload/v1779592720/gifs/Wf7zQstDxMdP5T.gif?alt=media",
+      "gifUrl": "https://firebasestorage.googleapis.com/v0/b/chatappfirebasetd.appspot.com/o/exercises%2FWf7zQstDxMdP5T.gif?alt=media",
       "id": "0666",
       "name": "raise single arm push-up",
       "target": "pectorals",
@@ -21267,7 +21267,7 @@ export const EXERCISES_DATA = [
     {
       "bodyPart": "upper legs",
       "equipment": "body weight",
-      "gifUrl": "https://res.cloudinary.com/dysns4al9/image/upload/v1779592720/gifs/WQ-fbesYdJCmz1.gif?alt=media",
+      "gifUrl": "https://firebasestorage.googleapis.com/v0/b/chatappfirebasetd.appspot.com/o/exercises%2FWQ-fbesYdJCmz1.gif?alt=media",
       "id": "0668",
       "name": "rear decline bridge",
       "target": "glutes",
@@ -21286,7 +21286,7 @@ export const EXERCISES_DATA = [
     {
       "bodyPart": "shoulders",
       "equipment": "body weight",
-      "gifUrl": "https://res.cloudinary.com/dysns4al9/image/upload/v1779592720/gifs/CSihNqPmywmKRG.gif?alt=media",
+      "gifUrl": "https://firebasestorage.googleapis.com/v0/b/chatappfirebasetd.appspot.com/o/exercises%2FCSihNqPmywmKRG.gif?alt=media",
       "id": "0669",
       "name": "rear deltoid stretch",
       "target": "delts",
@@ -21305,7 +21305,7 @@ export const EXERCISES_DATA = [
     {
       "bodyPart": "back",
       "equipment": "body weight",
-      "gifUrl": "https://res.cloudinary.com/dysns4al9/image/upload/v1779592720/gifs/F4s2wyjz24y41c.gif?alt=media",
+      "gifUrl": "https://firebasestorage.googleapis.com/v0/b/chatappfirebasetd.appspot.com/o/exercises%2FF4s2wyjz24y41c.gif?alt=media",
       "id": "0670",
       "name": "rear pull-up",
       "target": "lats",
@@ -21325,7 +21325,7 @@ export const EXERCISES_DATA = [
     {
       "bodyPart": "upper legs",
       "equipment": "rope",
-      "gifUrl": "https://res.cloudinary.com/dysns4al9/image/upload/v1779592720/gifs/d1zeNGomPyKbr8.gif?alt=media",
+      "gifUrl": "https://firebasestorage.googleapis.com/v0/b/chatappfirebasetd.appspot.com/o/exercises%2Fd1zeNGomPyKbr8.gif?alt=media",
       "id": "1582",
       "name": "reclining big toe pose with rope",
       "target": "hamstrings",
@@ -21345,7 +21345,7 @@ export const EXERCISES_DATA = [
     {
       "bodyPart": "upper legs",
       "equipment": "resistance band",
-      "gifUrl": "https://res.cloudinary.com/dysns4al9/image/upload/v1779592720/gifs/Y-Qc2Zfcyz1wOy.gif?alt=media",
+      "gifUrl": "https://firebasestorage.googleapis.com/v0/b/chatappfirebasetd.appspot.com/o/exercises%2FY-Qc2Zfcyz1wOy.gif?alt=media",
       "id": "3236",
       "name": "resistance band hip thrusts on knees (female)",
       "target": "glutes",
@@ -21366,7 +21366,7 @@ export const EXERCISES_DATA = [
     {
       "bodyPart": "upper legs",
       "equipment": "resistance band",
-      "gifUrl": "https://res.cloudinary.com/dysns4al9/image/upload/v1779592720/gifs/eoEav8ywq4xB-Y.gif?alt=media",
+      "gifUrl": "https://firebasestorage.googleapis.com/v0/b/chatappfirebasetd.appspot.com/o/exercises%2FeoEav8ywq4xB-Y.gif?alt=media",
       "id": "3007",
       "name": "resistance band leg extension",
       "target": "quads",
@@ -21384,7 +21384,7 @@ export const EXERCISES_DATA = [
     {
       "bodyPart": "upper arms",
       "equipment": "resistance band",
-      "gifUrl": "https://res.cloudinary.com/dysns4al9/image/upload/v1779592720/gifs/TnE2O8FkalVNrX.gif?alt=media",
+      "gifUrl": "https://firebasestorage.googleapis.com/v0/b/chatappfirebasetd.appspot.com/o/exercises%2FTnE2O8FkalVNrX.gif?alt=media",
       "id": "3123",
       "name": "resistance band seated biceps curl",
       "target": "biceps",
@@ -21403,7 +21403,7 @@ export const EXERCISES_DATA = [
     {
       "bodyPart": "chest",
       "equipment": "resistance band",
-      "gifUrl": "https://res.cloudinary.com/dysns4al9/image/upload/v1779592720/gifs/pIRWaeMdM6vpN1.gif?alt=media",
+      "gifUrl": "https://firebasestorage.googleapis.com/v0/b/chatappfirebasetd.appspot.com/o/exercises%2FpIRWaeMdM6vpN1.gif?alt=media",
       "id": "3124",
       "name": "resistance band seated chest press",
       "target": "pectorals",
@@ -21422,7 +21422,7 @@ export const EXERCISES_DATA = [
     {
       "bodyPart": "upper legs",
       "equipment": "resistance band",
-      "gifUrl": "https://res.cloudinary.com/dysns4al9/image/upload/v1779592720/gifs/8byiQmeZuD2uW4.gif?alt=media",
+      "gifUrl": "https://firebasestorage.googleapis.com/v0/b/chatappfirebasetd.appspot.com/o/exercises%2F8byiQmeZuD2uW4.gif?alt=media",
       "id": "3006",
       "name": "resistance band seated hip abduction",
       "target": "abductors",
@@ -21442,7 +21442,7 @@ export const EXERCISES_DATA = [
     {
       "bodyPart": "shoulders",
       "equipment": "resistance band",
-      "gifUrl": "https://res.cloudinary.com/dysns4al9/image/upload/v1779592720/gifs/WAbqpWOWYUe1Wt.gif?alt=media",
+      "gifUrl": "https://firebasestorage.googleapis.com/v0/b/chatappfirebasetd.appspot.com/o/exercises%2FWAbqpWOWYUe1Wt.gif?alt=media",
       "id": "3122",
       "name": "resistance band seated shoulder press",
       "target": "delts",
@@ -21461,7 +21461,7 @@ export const EXERCISES_DATA = [
     {
       "bodyPart": "back",
       "equipment": "resistance band",
-      "gifUrl": "https://res.cloudinary.com/dysns4al9/image/upload/v1779592720/gifs/0gkOH2bIga3ySY.gif?alt=media",
+      "gifUrl": "https://firebasestorage.googleapis.com/v0/b/chatappfirebasetd.appspot.com/o/exercises%2F0gkOH2bIga3ySY.gif?alt=media",
       "id": "3144",
       "name": "resistance band seated straight back row",
       "target": "upper back",
@@ -21481,7 +21481,7 @@ export const EXERCISES_DATA = [
     {
       "bodyPart": "waist",
       "equipment": "body weight",
-      "gifUrl": "https://res.cloudinary.com/dysns4al9/image/upload/v1779592720/gifs/9cbskrg7CZxnis.gif?alt=media",
+      "gifUrl": "https://firebasestorage.googleapis.com/v0/b/chatappfirebasetd.appspot.com/o/exercises%2F9cbskrg7CZxnis.gif?alt=media",
       "id": "0872",
       "name": "reverse crunch",
       "target": "abs",
@@ -21499,7 +21499,7 @@ export const EXERCISES_DATA = [
     {
       "bodyPart": "upper arms",
       "equipment": "body weight",
-      "gifUrl": "https://res.cloudinary.com/dysns4al9/image/upload/v1779592720/gifs/HbXvHPAPRDyyVd.gif?alt=media",
+      "gifUrl": "https://firebasestorage.googleapis.com/v0/b/chatappfirebasetd.appspot.com/o/exercises%2FHbXvHPAPRDyyVd.gif?alt=media",
       "id": "0672",
       "name": "reverse dip",
       "target": "triceps",
@@ -21517,7 +21517,7 @@ export const EXERCISES_DATA = [
     {
       "bodyPart": "back",
       "equipment": "leverage machine",
-      "gifUrl": "https://res.cloudinary.com/dysns4al9/image/upload/v1779592720/gifs/b4takdoec3yQbd.gif?alt=media",
+      "gifUrl": "https://firebasestorage.googleapis.com/v0/b/chatappfirebasetd.appspot.com/o/exercises%2Fb4takdoec3yQbd.gif?alt=media",
       "id": "0673",
       "name": "reverse grip machine lat pulldown",
       "target": "lats",
@@ -21537,7 +21537,7 @@ export const EXERCISES_DATA = [
     {
       "bodyPart": "back",
       "equipment": "body weight",
-      "gifUrl": "https://res.cloudinary.com/dysns4al9/image/upload/v1779592720/gifs/TLeu2r-TqDi9Lp.gif?alt=media",
+      "gifUrl": "https://firebasestorage.googleapis.com/v0/b/chatappfirebasetd.appspot.com/o/exercises%2FTLeu2r-TqDi9Lp.gif?alt=media",
       "id": "0674",
       "name": "reverse grip pull-up",
       "target": "lats",
@@ -21557,7 +21557,7 @@ export const EXERCISES_DATA = [
     {
       "bodyPart": "upper legs",
       "equipment": "stability ball",
-      "gifUrl": "https://res.cloudinary.com/dysns4al9/image/upload/v1779592720/gifs/3ePX5tsC1Im8xm.gif?alt=media",
+      "gifUrl": "https://firebasestorage.googleapis.com/v0/b/chatappfirebasetd.appspot.com/o/exercises%2F3ePX5tsC1Im8xm.gif?alt=media",
       "id": "0675",
       "name": "reverse hyper extension (on stability ball)",
       "target": "glutes",
@@ -21576,7 +21576,7 @@ export const EXERCISES_DATA = [
     {
       "bodyPart": "upper legs",
       "equipment": "body weight",
-      "gifUrl": "https://res.cloudinary.com/dysns4al9/image/upload/v1779592720/gifs/3ZwgU50oHq47B4.gif?alt=media",
+      "gifUrl": "https://firebasestorage.googleapis.com/v0/b/chatappfirebasetd.appspot.com/o/exercises%2F3ZwgU50oHq47B4.gif?alt=media",
       "id": "1423",
       "name": "reverse hyper on flat bench",
       "target": "glutes",
@@ -21596,7 +21596,7 @@ export const EXERCISES_DATA = [
     {
       "bodyPart": "waist",
       "equipment": "body weight",
-      "gifUrl": "https://res.cloudinary.com/dysns4al9/image/upload/v1779592720/gifs/L6fvoBYqiWvSF-.gif?alt=media",
+      "gifUrl": "https://firebasestorage.googleapis.com/v0/b/chatappfirebasetd.appspot.com/o/exercises%2FL6fvoBYqiWvSF-.gif?alt=media",
       "id": "3663",
       "name": "reverse plank with leg lift",
       "target": "abs",
@@ -21617,7 +21617,7 @@ export const EXERCISES_DATA = [
     {
       "bodyPart": "upper arms",
       "equipment": "body weight",
-      "gifUrl": "https://res.cloudinary.com/dysns4al9/image/upload/v1779592720/gifs/ZoN6ggAhit5HMm.gif?alt=media",
+      "gifUrl": "https://firebasestorage.googleapis.com/v0/b/chatappfirebasetd.appspot.com/o/exercises%2FZoN6ggAhit5HMm.gif?alt=media",
       "id": "0677",
       "name": "ring dips",
       "target": "triceps",
@@ -21635,7 +21635,7 @@ export const EXERCISES_DATA = [
     {
       "bodyPart": "upper legs",
       "equipment": "body weight",
-      "gifUrl": "https://res.cloudinary.com/dysns4al9/image/upload/v1779592720/gifs/7N03wAB49HY2JM.gif?alt=media",
+      "gifUrl": "https://firebasestorage.googleapis.com/v0/b/chatappfirebasetd.appspot.com/o/exercises%2F7N03wAB49HY2JM.gif?alt=media",
       "id": "2571",
       "name": "rocking frog stretch",
       "target": "glutes",
@@ -21656,7 +21656,7 @@ export const EXERCISES_DATA = [
     {
       "bodyPart": "back",
       "equipment": "body weight",
-      "gifUrl": "https://res.cloudinary.com/dysns4al9/image/upload/v1779592720/gifs/E4jQAgH510wPfs.gif?alt=media",
+      "gifUrl": "https://firebasestorage.googleapis.com/v0/b/chatappfirebasetd.appspot.com/o/exercises%2FE4jQAgH510wPfs.gif?alt=media",
       "id": "0678",
       "name": "rocky pull-up pulldown",
       "target": "lats",
@@ -21676,7 +21676,7 @@ export const EXERCISES_DATA = [
     {
       "bodyPart": "back",
       "equipment": "roller",
-      "gifUrl": "https://res.cloudinary.com/dysns4al9/image/upload/v1779592720/gifs/VEnM5Qw62gBERA.gif?alt=media",
+      "gifUrl": "https://firebasestorage.googleapis.com/v0/b/chatappfirebasetd.appspot.com/o/exercises%2FVEnM5Qw62gBERA.gif?alt=media",
       "id": "2208",
       "name": "roller back stretch",
       "target": "spine",
@@ -21696,7 +21696,7 @@ export const EXERCISES_DATA = [
     {
       "bodyPart": "waist",
       "equipment": "roller",
-      "gifUrl": "https://res.cloudinary.com/dysns4al9/image/upload/v1779592720/gifs/8hcfLpKLWNCCae.gif?alt=media",
+      "gifUrl": "https://firebasestorage.googleapis.com/v0/b/chatappfirebasetd.appspot.com/o/exercises%2F8hcfLpKLWNCCae.gif?alt=media",
       "id": "2204",
       "name": "roller body saw",
       "target": "abs",
@@ -21715,7 +21715,7 @@ export const EXERCISES_DATA = [
     {
       "bodyPart": "upper legs",
       "equipment": "roller",
-      "gifUrl": "https://res.cloudinary.com/dysns4al9/image/upload/v1779592720/gifs/PLlDP-88MXM3dJ.gif?alt=media",
+      "gifUrl": "https://firebasestorage.googleapis.com/v0/b/chatappfirebasetd.appspot.com/o/exercises%2FPLlDP-88MXM3dJ.gif?alt=media",
       "id": "2205",
       "name": "roller hip lat stretch",
       "target": "glutes",
@@ -21734,7 +21734,7 @@ export const EXERCISES_DATA = [
     {
       "bodyPart": "upper legs",
       "equipment": "roller",
-      "gifUrl": "https://res.cloudinary.com/dysns4al9/image/upload/v1779592720/gifs/xA9zwWTJb6sqrc.gif?alt=media",
+      "gifUrl": "https://firebasestorage.googleapis.com/v0/b/chatappfirebasetd.appspot.com/o/exercises%2FxA9zwWTJb6sqrc.gif?alt=media",
       "id": "2202",
       "name": "roller hip stretch",
       "target": "glutes",
@@ -21755,7 +21755,7 @@ export const EXERCISES_DATA = [
     {
       "bodyPart": "waist",
       "equipment": "roller",
-      "gifUrl": "https://res.cloudinary.com/dysns4al9/image/upload/v1779592720/gifs/sUwp4933RI-QfC.gif?alt=media",
+      "gifUrl": "https://firebasestorage.googleapis.com/v0/b/chatappfirebasetd.appspot.com/o/exercises%2FsUwp4933RI-QfC.gif?alt=media",
       "id": "2206",
       "name": "roller reverse crunch",
       "target": "abs",
@@ -21773,7 +21773,7 @@ export const EXERCISES_DATA = [
     {
       "bodyPart": "chest",
       "equipment": "roller",
-      "gifUrl": "https://res.cloudinary.com/dysns4al9/image/upload/v1779592720/gifs/NooOaC9uyheFXz.gif?alt=media",
+      "gifUrl": "https://firebasestorage.googleapis.com/v0/b/chatappfirebasetd.appspot.com/o/exercises%2FNooOaC9uyheFXz.gif?alt=media",
       "id": "2203",
       "name": "roller seated shoulder flexor depresor retractor",
       "target": "pectorals",
@@ -21792,7 +21792,7 @@ export const EXERCISES_DATA = [
     {
       "bodyPart": "chest",
       "equipment": "roller",
-      "gifUrl": "https://res.cloudinary.com/dysns4al9/image/upload/v1779592720/gifs/mqN8WQxHfxQFEv.gif?alt=media",
+      "gifUrl": "https://firebasestorage.googleapis.com/v0/b/chatappfirebasetd.appspot.com/o/exercises%2FmqN8WQxHfxQFEv.gif?alt=media",
       "id": "2209",
       "name": "roller seated single leg shoulder flexor depresor retractor",
       "target": "pectorals",
@@ -21812,7 +21812,7 @@ export const EXERCISES_DATA = [
     {
       "bodyPart": "back",
       "equipment": "roller",
-      "gifUrl": "https://res.cloudinary.com/dysns4al9/image/upload/v1779592720/gifs/kCp8a0e8dnjLxO.gif?alt=media",
+      "gifUrl": "https://firebasestorage.googleapis.com/v0/b/chatappfirebasetd.appspot.com/o/exercises%2FkCp8a0e8dnjLxO.gif?alt=media",
       "id": "2207",
       "name": "roller side lat stretch",
       "target": "lats",
@@ -21831,7 +21831,7 @@ export const EXERCISES_DATA = [
     {
       "bodyPart": "back",
       "equipment": "rope",
-      "gifUrl": "https://res.cloudinary.com/dysns4al9/image/upload/v1779592720/gifs/qRm6J0LKrrlRFs.gif?alt=media",
+      "gifUrl": "https://firebasestorage.googleapis.com/v0/b/chatappfirebasetd.appspot.com/o/exercises%2FqRm6J0LKrrlRFs.gif?alt=media",
       "id": "0680",
       "name": "rope climb",
       "target": "upper back",
@@ -21854,7 +21854,7 @@ export const EXERCISES_DATA = [
     {
       "bodyPart": "cardio",
       "equipment": "body weight",
-      "gifUrl": "https://res.cloudinary.com/dysns4al9/image/upload/v1779592720/gifs/Qm2Vt6psqa0CpY.gif?alt=media",
+      "gifUrl": "https://firebasestorage.googleapis.com/v0/b/chatappfirebasetd.appspot.com/o/exercises%2FQm2Vt6psqa0CpY.gif?alt=media",
       "id": "0685",
       "name": "run",
       "target": "cardiovascular system",
@@ -21874,7 +21874,7 @@ export const EXERCISES_DATA = [
     {
       "bodyPart": "cardio",
       "equipment": "body weight",
-      "gifUrl": "https://res.cloudinary.com/dysns4al9/image/upload/v1779592720/gifs/FTJJPgjNmF5-4G.gif?alt=media",
+      "gifUrl": "https://firebasestorage.googleapis.com/v0/b/chatappfirebasetd.appspot.com/o/exercises%2FFTJJPgjNmF5-4G.gif?alt=media",
       "id": "0684",
       "name": "run (equipment)",
       "target": "cardiovascular system",
@@ -21894,7 +21894,7 @@ export const EXERCISES_DATA = [
     {
       "bodyPart": "upper legs",
       "equipment": "body weight",
-      "gifUrl": "https://res.cloudinary.com/dysns4al9/image/upload/v1779592720/gifs/wwD0iQ0tc4HSfB.gif?alt=media",
+      "gifUrl": "https://firebasestorage.googleapis.com/v0/b/chatappfirebasetd.appspot.com/o/exercises%2FwwD0iQ0tc4HSfB.gif?alt=media",
       "id": "1585",
       "name": "runners stretch",
       "target": "hamstrings",
@@ -21913,7 +21913,7 @@ export const EXERCISES_DATA = [
     {
       "bodyPart": "waist",
       "equipment": "body weight",
-      "gifUrl": "https://res.cloudinary.com/dysns4al9/image/upload/v1779592720/gifs/l96TE7aUA-XvKU.gif?alt=media",
+      "gifUrl": "https://firebasestorage.googleapis.com/v0/b/chatappfirebasetd.appspot.com/o/exercises%2Fl96TE7aUA-XvKU.gif?alt=media",
       "id": "0687",
       "name": "russian twist",
       "target": "abs",
@@ -21933,7 +21933,7 @@ export const EXERCISES_DATA = [
     {
       "bodyPart": "back",
       "equipment": "body weight",
-      "gifUrl": "https://res.cloudinary.com/dysns4al9/image/upload/v1779592720/gifs/DYrsVb4VVu4EDV.gif?alt=media",
+      "gifUrl": "https://firebasestorage.googleapis.com/v0/b/chatappfirebasetd.appspot.com/o/exercises%2FDYrsVb4VVu4EDV.gif?alt=media",
       "id": "3012",
       "name": "scapula dips",
       "target": "traps",
@@ -21952,7 +21952,7 @@ export const EXERCISES_DATA = [
     {
       "bodyPart": "chest",
       "equipment": "body weight",
-      "gifUrl": "https://res.cloudinary.com/dysns4al9/image/upload/v1779592720/gifs/yPRLD5Ts15PIOi.gif?alt=media",
+      "gifUrl": "https://firebasestorage.googleapis.com/v0/b/chatappfirebasetd.appspot.com/o/exercises%2FyPRLD5Ts15PIOi.gif?alt=media",
       "id": "3021",
       "name": "scapula push-up",
       "target": "serratus anterior",
@@ -21971,7 +21971,7 @@ export const EXERCISES_DATA = [
     {
       "bodyPart": "back",
       "equipment": "body weight",
-      "gifUrl": "https://res.cloudinary.com/dysns4al9/image/upload/v1779592720/gifs/mQspz8Zo8-jTKt.gif?alt=media",
+      "gifUrl": "https://firebasestorage.googleapis.com/v0/b/chatappfirebasetd.appspot.com/o/exercises%2FmQspz8Zo8-jTKt.gif?alt=media",
       "id": "0688",
       "name": "scapular pull-up",
       "target": "traps",
@@ -21991,7 +21991,7 @@ export const EXERCISES_DATA = [
     {
       "bodyPart": "cardio",
       "equipment": "body weight",
-      "gifUrl": "https://res.cloudinary.com/dysns4al9/image/upload/v1779592720/gifs/BF67tdynRf0jBg.gif?alt=media",
+      "gifUrl": "https://firebasestorage.googleapis.com/v0/b/chatappfirebasetd.appspot.com/o/exercises%2FBF67tdynRf0jBg.gif?alt=media",
       "id": "3219",
       "name": "scissor jumps (male)",
       "target": "cardiovascular system",
@@ -22011,7 +22011,7 @@ export const EXERCISES_DATA = [
     {
       "bodyPart": "lower legs",
       "equipment": "body weight",
-      "gifUrl": "https://res.cloudinary.com/dysns4al9/image/upload/v1779592720/gifs/GrXjijT5vQF32F.gif?alt=media",
+      "gifUrl": "https://firebasestorage.googleapis.com/v0/b/chatappfirebasetd.appspot.com/o/exercises%2FGrXjijT5vQF32F.gif?alt=media",
       "id": "1390",
       "name": "seated calf stretch (male)",
       "target": "calves",
@@ -22029,7 +22029,7 @@ export const EXERCISES_DATA = [
     {
       "bodyPart": "upper legs",
       "equipment": "body weight",
-      "gifUrl": "https://res.cloudinary.com/dysns4al9/image/upload/v1779592720/gifs/GjPW3Rm4qBoNiS.gif?alt=media",
+      "gifUrl": "https://firebasestorage.googleapis.com/v0/b/chatappfirebasetd.appspot.com/o/exercises%2FGjPW3Rm4qBoNiS.gif?alt=media",
       "id": "1424",
       "name": "seated glute stretch",
       "target": "glutes",
@@ -22048,7 +22048,7 @@ export const EXERCISES_DATA = [
     {
       "bodyPart": "waist",
       "equipment": "body weight",
-      "gifUrl": "https://res.cloudinary.com/dysns4al9/image/upload/v1779592720/gifs/qa-LuvJNpLE0nn.gif?alt=media",
+      "gifUrl": "https://firebasestorage.googleapis.com/v0/b/chatappfirebasetd.appspot.com/o/exercises%2Fqa-LuvJNpLE0nn.gif?alt=media",
       "id": "0689",
       "name": "seated leg raise",
       "target": "abs",
@@ -22066,7 +22066,7 @@ export const EXERCISES_DATA = [
     {
       "bodyPart": "back",
       "equipment": "body weight",
-      "gifUrl": "https://res.cloudinary.com/dysns4al9/image/upload/v1779592720/gifs/4Pv6fD3wU6VPBu.gif?alt=media",
+      "gifUrl": "https://firebasestorage.googleapis.com/v0/b/chatappfirebasetd.appspot.com/o/exercises%2F4Pv6fD3wU6VPBu.gif?alt=media",
       "id": "0690",
       "name": "seated lower back stretch",
       "target": "lats",
@@ -22085,7 +22085,7 @@ export const EXERCISES_DATA = [
     {
       "bodyPart": "upper legs",
       "equipment": "body weight",
-      "gifUrl": "https://res.cloudinary.com/dysns4al9/image/upload/v1779592720/gifs/1TexpAayURUtPR.gif?alt=media",
+      "gifUrl": "https://firebasestorage.googleapis.com/v0/b/chatappfirebasetd.appspot.com/o/exercises%2F1TexpAayURUtPR.gif?alt=media",
       "id": "2567",
       "name": "seated piriformis stretch",
       "target": "glutes",
@@ -22102,7 +22102,7 @@ export const EXERCISES_DATA = [
     {
       "bodyPart": "waist",
       "equipment": "body weight",
-      "gifUrl": "https://res.cloudinary.com/dysns4al9/image/upload/v1779592720/gifs/1PuHh9nnNhH7eI.gif?alt=media",
+      "gifUrl": "https://firebasestorage.googleapis.com/v0/b/chatappfirebasetd.appspot.com/o/exercises%2F1PuHh9nnNhH7eI.gif?alt=media",
       "id": "0691",
       "name": "seated side crunch (wall)",
       "target": "abs",
@@ -22122,7 +22122,7 @@ export const EXERCISES_DATA = [
     {
       "bodyPart": "upper legs",
       "equipment": "body weight",
-      "gifUrl": "https://res.cloudinary.com/dysns4al9/image/upload/v1779592720/gifs/0-gn5Sm4AZXayQ.gif?alt=media",
+      "gifUrl": "https://firebasestorage.googleapis.com/v0/b/chatappfirebasetd.appspot.com/o/exercises%2F0-gn5Sm4AZXayQ.gif?alt=media",
       "id": "1587",
       "name": "seated wide angle pose sequence",
       "target": "hamstrings",
@@ -22144,7 +22144,7 @@ export const EXERCISES_DATA = [
     {
       "bodyPart": "upper legs",
       "equipment": "body weight",
-      "gifUrl": "https://res.cloudinary.com/dysns4al9/image/upload/v1779592720/gifs/q-WHWAGfS0RIg4.gif?alt=media",
+      "gifUrl": "https://firebasestorage.googleapis.com/v0/b/chatappfirebasetd.appspot.com/o/exercises%2Fq-WHWAGfS0RIg4.gif?alt=media",
       "id": "0697",
       "name": "self assisted inverse leg curl",
       "target": "hamstrings",
@@ -22163,7 +22163,7 @@ export const EXERCISES_DATA = [
     {
       "bodyPart": "upper legs",
       "equipment": "body weight",
-      "gifUrl": "https://res.cloudinary.com/dysns4al9/image/upload/v1779592720/gifs/M9qHwcMXPfoNnX.gif?alt=media",
+      "gifUrl": "https://firebasestorage.googleapis.com/v0/b/chatappfirebasetd.appspot.com/o/exercises%2FM9qHwcMXPfoNnX.gif?alt=media",
       "id": "1766",
       "name": "self assisted inverse leg curl",
       "target": "hamstrings",
@@ -22183,7 +22183,7 @@ export const EXERCISES_DATA = [
     {
       "bodyPart": "upper legs",
       "equipment": "body weight",
-      "gifUrl": "https://res.cloudinary.com/dysns4al9/image/upload/v1779592720/gifs/2hDqpTRl2uHI0t.gif?alt=media",
+      "gifUrl": "https://firebasestorage.googleapis.com/v0/b/chatappfirebasetd.appspot.com/o/exercises%2F2hDqpTRl2uHI0t.gif?alt=media",
       "id": "0696",
       "name": "self assisted inverse leg curl (on floor)",
       "target": "hamstrings",
@@ -22204,7 +22204,7 @@ export const EXERCISES_DATA = [
     {
       "bodyPart": "cardio",
       "equipment": "body weight",
-      "gifUrl": "https://res.cloudinary.com/dysns4al9/image/upload/v1779592720/gifs/tYPVEvIuSbuv4b.gif?alt=media",
+      "gifUrl": "https://firebasestorage.googleapis.com/v0/b/chatappfirebasetd.appspot.com/o/exercises%2FtYPVEvIuSbuv4b.gif?alt=media",
       "id": "3222",
       "name": "semi squat jump (male)",
       "target": "cardiovascular system",
@@ -22224,7 +22224,7 @@ export const EXERCISES_DATA = [
     {
       "bodyPart": "cardio",
       "equipment": "body weight",
-      "gifUrl": "https://res.cloudinary.com/dysns4al9/image/upload/v1779592720/gifs/ZlRvew2TTkUBOo.gif?alt=media",
+      "gifUrl": "https://firebasestorage.googleapis.com/v0/b/chatappfirebasetd.appspot.com/o/exercises%2FZlRvew2TTkUBOo.gif?alt=media",
       "id": "3656",
       "name": "short stride run",
       "target": "cardiovascular system",
@@ -22244,7 +22244,7 @@ export const EXERCISES_DATA = [
     {
       "bodyPart": "back",
       "equipment": "body weight",
-      "gifUrl": "https://res.cloudinary.com/dysns4al9/image/upload/v1779592720/gifs/FJ2z3ISeGrbsJr.gif?alt=media",
+      "gifUrl": "https://firebasestorage.googleapis.com/v0/b/chatappfirebasetd.appspot.com/o/exercises%2FFJ2z3ISeGrbsJr.gif?alt=media",
       "id": "1763",
       "name": "shoulder grip pull-up",
       "target": "lats",
@@ -22263,7 +22263,7 @@ export const EXERCISES_DATA = [
     {
       "bodyPart": "waist",
       "equipment": "body weight",
-      "gifUrl": "https://res.cloudinary.com/dysns4al9/image/upload/v1779592720/gifs/3FmBmq3KZoRvC6.gif?alt=media",
+      "gifUrl": "https://firebasestorage.googleapis.com/v0/b/chatappfirebasetd.appspot.com/o/exercises%2F3FmBmq3KZoRvC6.gif?alt=media",
       "id": "3699",
       "name": "shoulder tap",
       "target": "abs",
@@ -22282,7 +22282,7 @@ export const EXERCISES_DATA = [
     {
       "bodyPart": "chest",
       "equipment": "body weight",
-      "gifUrl": "https://res.cloudinary.com/dysns4al9/image/upload/v1779592720/gifs/O9JXbJWu2N3foq.gif?alt=media",
+      "gifUrl": "https://firebasestorage.googleapis.com/v0/b/chatappfirebasetd.appspot.com/o/exercises%2FO9JXbJWu2N3foq.gif?alt=media",
       "id": "0699",
       "name": "shoulder tap push-up",
       "target": "pectorals",
@@ -22303,7 +22303,7 @@ export const EXERCISES_DATA = [
     {
       "bodyPart": "upper legs",
       "equipment": "body weight",
-      "gifUrl": "https://res.cloudinary.com/dysns4al9/image/upload/v1779592720/gifs/gbileANhI1SmIb.gif?alt=media",
+      "gifUrl": "https://firebasestorage.googleapis.com/v0/b/chatappfirebasetd.appspot.com/o/exercises%2FgbileANhI1SmIb.gif?alt=media",
       "id": "1774",
       "name": "side bridge hip abduction",
       "target": "abductors",
@@ -22323,7 +22323,7 @@ export const EXERCISES_DATA = [
     {
       "bodyPart": "waist",
       "equipment": "body weight",
-      "gifUrl": "https://res.cloudinary.com/dysns4al9/image/upload/v1779592720/gifs/b9kDAWerqwNYCr.gif?alt=media",
+      "gifUrl": "https://firebasestorage.googleapis.com/v0/b/chatappfirebasetd.appspot.com/o/exercises%2Fb9kDAWerqwNYCr.gif?alt=media",
       "id": "0705",
       "name": "side bridge v. 2",
       "target": "abs",
@@ -22343,7 +22343,7 @@ export const EXERCISES_DATA = [
     {
       "bodyPart": "waist",
       "equipment": "body weight",
-      "gifUrl": "https://res.cloudinary.com/dysns4al9/image/upload/v1779592720/gifs/T76CWKe1v0j0sk.gif?alt=media",
+      "gifUrl": "https://firebasestorage.googleapis.com/v0/b/chatappfirebasetd.appspot.com/o/exercises%2FT76CWKe1v0j0sk.gif?alt=media",
       "id": "0709",
       "name": "side hip (on parallel bars)",
       "target": "abs",
@@ -22362,7 +22362,7 @@ export const EXERCISES_DATA = [
     {
       "bodyPart": "upper legs",
       "equipment": "body weight",
-      "gifUrl": "https://res.cloudinary.com/dysns4al9/image/upload/v1779592720/gifs/kG6v9hubJ3JW7n.gif?alt=media",
+      "gifUrl": "https://firebasestorage.googleapis.com/v0/b/chatappfirebasetd.appspot.com/o/exercises%2FkG6v9hubJ3JW7n.gif?alt=media",
       "id": "0710",
       "name": "side hip abduction",
       "target": "abductors",
@@ -22381,7 +22381,7 @@ export const EXERCISES_DATA = [
     {
       "bodyPart": "back",
       "equipment": "body weight",
-      "gifUrl": "https://res.cloudinary.com/dysns4al9/image/upload/v1779592720/gifs/fGffIv1SYZLEBA.gif?alt=media",
+      "gifUrl": "https://firebasestorage.googleapis.com/v0/b/chatappfirebasetd.appspot.com/o/exercises%2FfGffIv1SYZLEBA.gif?alt=media",
       "id": "1358",
       "name": "side lying floor stretch",
       "target": "lats",
@@ -22401,7 +22401,7 @@ export const EXERCISES_DATA = [
     {
       "bodyPart": "upper legs",
       "equipment": "body weight",
-      "gifUrl": "https://res.cloudinary.com/dysns4al9/image/upload/v1779592720/gifs/glpVKeoE0aIM2y.gif?alt=media",
+      "gifUrl": "https://firebasestorage.googleapis.com/v0/b/chatappfirebasetd.appspot.com/o/exercises%2FglpVKeoE0aIM2y.gif?alt=media",
       "id": "3667",
       "name": "side lying hip adduction (male)",
       "target": "adductors",
@@ -22420,7 +22420,7 @@ export const EXERCISES_DATA = [
     {
       "bodyPart": "upper legs",
       "equipment": "body weight",
-      "gifUrl": "https://res.cloudinary.com/dysns4al9/image/upload/v1779592720/gifs/FtgpT11r8kzSaf.gif?alt=media",
+      "gifUrl": "https://firebasestorage.googleapis.com/v0/b/chatappfirebasetd.appspot.com/o/exercises%2FFtgpT11r8kzSaf.gif?alt=media",
       "id": "1775",
       "name": "side plank hip adduction",
       "target": "adductors",
@@ -22440,7 +22440,7 @@ export const EXERCISES_DATA = [
     {
       "bodyPart": "neck",
       "equipment": "body weight",
-      "gifUrl": "https://res.cloudinary.com/dysns4al9/image/upload/v1779592720/gifs/KBH5PzBz068aRY.gif?alt=media",
+      "gifUrl": "https://firebasestorage.googleapis.com/v0/b/chatappfirebasetd.appspot.com/o/exercises%2FKBH5PzBz068aRY.gif?alt=media",
       "id": "0716",
       "name": "side push neck stretch",
       "target": "levator scapulae",
@@ -22460,7 +22460,7 @@ export const EXERCISES_DATA = [
     {
       "bodyPart": "upper arms",
       "equipment": "body weight",
-      "gifUrl": "https://res.cloudinary.com/dysns4al9/image/upload/v1779592720/gifs/EnLPBqjaRBK0y6.gif?alt=media",
+      "gifUrl": "https://firebasestorage.googleapis.com/v0/b/chatappfirebasetd.appspot.com/o/exercises%2FEnLPBqjaRBK0y6.gif?alt=media",
       "id": "0717",
       "name": "side push-up",
       "target": "triceps",
@@ -22481,7 +22481,7 @@ export const EXERCISES_DATA = [
     {
       "bodyPart": "lower arms",
       "equipment": "body weight",
-      "gifUrl": "https://res.cloudinary.com/dysns4al9/image/upload/v1779592720/gifs/be19Xtu8GJle2f.gif?alt=media",
+      "gifUrl": "https://firebasestorage.googleapis.com/v0/b/chatappfirebasetd.appspot.com/o/exercises%2Fbe19Xtu8GJle2f.gif?alt=media",
       "id": "0721",
       "name": "side wrist pull stretch",
       "target": "forearms",
@@ -22500,7 +22500,7 @@ export const EXERCISES_DATA = [
     {
       "bodyPart": "back",
       "equipment": "body weight",
-      "gifUrl": "https://res.cloudinary.com/dysns4al9/image/upload/v1779592720/gifs/wMWwcnC7-IAuLg.gif?alt=media",
+      "gifUrl": "https://firebasestorage.googleapis.com/v0/b/chatappfirebasetd.appspot.com/o/exercises%2FwMWwcnC7-IAuLg.gif?alt=media",
       "id": "0720",
       "name": "side-to-side chin",
       "target": "lats",
@@ -22520,7 +22520,7 @@ export const EXERCISES_DATA = [
     {
       "bodyPart": "waist",
       "equipment": "body weight",
-      "gifUrl": "https://res.cloudinary.com/dysns4al9/image/upload/v1779592720/gifs/0Li6QTo3Dj76Qh.gif?alt=media",
+      "gifUrl": "https://firebasestorage.googleapis.com/v0/b/chatappfirebasetd.appspot.com/o/exercises%2F0Li6QTo3Dj76Qh.gif?alt=media",
       "id": "3213",
       "name": "side-to-side toe touch (male)",
       "target": "abs",
@@ -22538,7 +22538,7 @@ export const EXERCISES_DATA = [
     {
       "bodyPart": "chest",
       "equipment": "body weight",
-      "gifUrl": "https://res.cloudinary.com/dysns4al9/image/upload/v1779592720/gifs/42J5mvjRWuNXm0.gif?alt=media",
+      "gifUrl": "https://firebasestorage.googleapis.com/v0/b/chatappfirebasetd.appspot.com/o/exercises%2F42J5mvjRWuNXm0.gif?alt=media",
       "id": "0725",
       "name": "single arm push-up",
       "target": "pectorals",
@@ -22558,7 +22558,7 @@ export const EXERCISES_DATA = [
     {
       "bodyPart": "upper legs",
       "equipment": "body weight",
-      "gifUrl": "https://res.cloudinary.com/dysns4al9/image/upload/v1779592720/gifs/ymGfMv-CEmBiYg.gif?alt=media",
+      "gifUrl": "https://firebasestorage.googleapis.com/v0/b/chatappfirebasetd.appspot.com/o/exercises%2FymGfMv-CEmBiYg.gif?alt=media",
       "id": "3645",
       "name": "single leg bridge with outstretched leg",
       "target": "glutes",
@@ -22577,7 +22577,7 @@ export const EXERCISES_DATA = [
     {
       "bodyPart": "lower legs",
       "equipment": "dumbbell",
-      "gifUrl": "https://res.cloudinary.com/dysns4al9/image/upload/v1779592720/gifs/IcltxQuSFeKzLv.gif?alt=media",
+      "gifUrl": "https://firebasestorage.googleapis.com/v0/b/chatappfirebasetd.appspot.com/o/exercises%2FIcltxQuSFeKzLv.gif?alt=media",
       "id": "0727",
       "name": "single leg calf raise (on a dumbbell)",
       "target": "calves",
@@ -22596,7 +22596,7 @@ export const EXERCISES_DATA = [
     {
       "bodyPart": "upper legs",
       "equipment": "body weight",
-      "gifUrl": "https://res.cloudinary.com/dysns4al9/image/upload/v1779592720/gifs/pS1ybsmO7Shh8n.gif?alt=media",
+      "gifUrl": "https://firebasestorage.googleapis.com/v0/b/chatappfirebasetd.appspot.com/o/exercises%2FpS1ybsmO7Shh8n.gif?alt=media",
       "id": "0730",
       "name": "single leg platform slide",
       "target": "hamstrings",
@@ -22615,7 +22615,7 @@ export const EXERCISES_DATA = [
     {
       "bodyPart": "upper legs",
       "equipment": "body weight",
-      "gifUrl": "https://res.cloudinary.com/dysns4al9/image/upload/v1779592720/gifs/vQwoY1MxSyMmLu.gif?alt=media",
+      "gifUrl": "https://firebasestorage.googleapis.com/v0/b/chatappfirebasetd.appspot.com/o/exercises%2FvQwoY1MxSyMmLu.gif?alt=media",
       "id": "1759",
       "name": "single leg squat (pistol) male",
       "target": "glutes",
@@ -22637,7 +22637,7 @@ export const EXERCISES_DATA = [
     {
       "bodyPart": "upper legs",
       "equipment": "body weight",
-      "gifUrl": "https://res.cloudinary.com/dysns4al9/image/upload/v1779592720/gifs/YshvSfppNS86Dx.gif?alt=media",
+      "gifUrl": "https://firebasestorage.googleapis.com/v0/b/chatappfirebasetd.appspot.com/o/exercises%2FYshvSfppNS86Dx.gif?alt=media",
       "id": "1489",
       "name": "sissy squat",
       "target": "quads",
@@ -22657,7 +22657,7 @@ export const EXERCISES_DATA = [
     {
       "bodyPart": "waist",
       "equipment": "body weight",
-      "gifUrl": "https://res.cloudinary.com/dysns4al9/image/upload/v1779592720/gifs/XfS-b5oJ9hi5gj.gif?alt=media",
+      "gifUrl": "https://firebasestorage.googleapis.com/v0/b/chatappfirebasetd.appspot.com/o/exercises%2FXfS-b5oJ9hi5gj.gif?alt=media",
       "id": "0735",
       "name": "sit-up v. 2",
       "target": "abs",
@@ -22675,7 +22675,7 @@ export const EXERCISES_DATA = [
     {
       "bodyPart": "waist",
       "equipment": "body weight",
-      "gifUrl": "https://res.cloudinary.com/dysns4al9/image/upload/v1779592720/gifs/zC2zyvkn0UMJKA.gif?alt=media",
+      "gifUrl": "https://firebasestorage.googleapis.com/v0/b/chatappfirebasetd.appspot.com/o/exercises%2FzC2zyvkn0UMJKA.gif?alt=media",
       "id": "3679",
       "name": "sit-up with arms on chest",
       "target": "abs",
@@ -22693,7 +22693,7 @@ export const EXERCISES_DATA = [
     {
       "bodyPart": "cardio",
       "equipment": "body weight",
-      "gifUrl": "https://res.cloudinary.com/dysns4al9/image/upload/v1779592720/gifs/GSDQ36P9Fu9xyx.gif?alt=media",
+      "gifUrl": "https://firebasestorage.googleapis.com/v0/b/chatappfirebasetd.appspot.com/o/exercises%2FGSDQ36P9Fu9xyx.gif?alt=media",
       "id": "3361",
       "name": "skater hops",
       "target": "cardiovascular system",
@@ -22716,7 +22716,7 @@ export const EXERCISES_DATA = [
     {
       "bodyPart": "upper arms",
       "equipment": "skierg machine",
-      "gifUrl": "https://res.cloudinary.com/dysns4al9/image/upload/v1779592720/gifs/kil6oWdhGvAoV-.gif?alt=media",
+      "gifUrl": "https://firebasestorage.googleapis.com/v0/b/chatappfirebasetd.appspot.com/o/exercises%2Fkil6oWdhGvAoV-.gif?alt=media",
       "id": "2142",
       "name": "ski ergometer",
       "target": "triceps",
@@ -22737,7 +22737,7 @@ export const EXERCISES_DATA = [
     {
       "bodyPart": "cardio",
       "equipment": "body weight",
-      "gifUrl": "https://res.cloudinary.com/dysns4al9/image/upload/v1779592720/gifs/Wg7yIqLMIqdlLe.gif?alt=media",
+      "gifUrl": "https://firebasestorage.googleapis.com/v0/b/chatappfirebasetd.appspot.com/o/exercises%2FWg7yIqLMIqdlLe.gif?alt=media",
       "id": "3671",
       "name": "ski step",
       "target": "cardiovascular system",
@@ -22759,7 +22759,7 @@ export const EXERCISES_DATA = [
     {
       "bodyPart": "back",
       "equipment": "body weight",
-      "gifUrl": "https://res.cloudinary.com/dysns4al9/image/upload/v1779592720/gifs/FcAdWaYuDsP0C8.gif?alt=media",
+      "gifUrl": "https://firebasestorage.googleapis.com/v0/b/chatappfirebasetd.appspot.com/o/exercises%2FFcAdWaYuDsP0C8.gif?alt=media",
       "id": "3304",
       "name": "skin the cat",
       "target": "upper back",
@@ -22779,7 +22779,7 @@ export const EXERCISES_DATA = [
     {
       "bodyPart": "upper legs",
       "equipment": "sled machine",
-      "gifUrl": "https://res.cloudinary.com/dysns4al9/image/upload/v1779592720/gifs/EqeDGrEtRVEMZ4.gif?alt=media",
+      "gifUrl": "https://firebasestorage.googleapis.com/v0/b/chatappfirebasetd.appspot.com/o/exercises%2FEqeDGrEtRVEMZ4.gif?alt=media",
       "id": "1425",
       "name": "sled 45 degrees one leg press",
       "target": "glutes",
@@ -22800,7 +22800,7 @@ export const EXERCISES_DATA = [
     {
       "bodyPart": "lower legs",
       "equipment": "sled machine",
-      "gifUrl": "https://res.cloudinary.com/dysns4al9/image/upload/v1779592720/gifs/hc8y15MlsPfi9V.gif?alt=media",
+      "gifUrl": "https://firebasestorage.googleapis.com/v0/b/chatappfirebasetd.appspot.com/o/exercises%2Fhc8y15MlsPfi9V.gif?alt=media",
       "id": "0738",
       "name": "sled 45в° calf press",
       "target": "calves",
@@ -22818,7 +22818,7 @@ export const EXERCISES_DATA = [
     {
       "bodyPart": "upper legs",
       "equipment": "sled machine",
-      "gifUrl": "https://res.cloudinary.com/dysns4al9/image/upload/v1779592720/gifs/qQ34dO29guND0x.gif?alt=media",
+      "gifUrl": "https://firebasestorage.googleapis.com/v0/b/chatappfirebasetd.appspot.com/o/exercises%2FqQ34dO29guND0x.gif?alt=media",
       "id": "0739",
       "name": "sled 45в° leg press",
       "target": "glutes",
@@ -22840,7 +22840,7 @@ export const EXERCISES_DATA = [
     {
       "bodyPart": "upper legs",
       "equipment": "sled machine",
-      "gifUrl": "https://res.cloudinary.com/dysns4al9/image/upload/v1779592720/gifs/HMSXb8ZWtgC3Ty.gif?alt=media",
+      "gifUrl": "https://firebasestorage.googleapis.com/v0/b/chatappfirebasetd.appspot.com/o/exercises%2FHMSXb8ZWtgC3Ty.gif?alt=media",
       "id": "1464",
       "name": "sled 45в° leg press (back pov)",
       "target": "glutes",
@@ -22862,7 +22862,7 @@ export const EXERCISES_DATA = [
     {
       "bodyPart": "upper legs",
       "equipment": "sled machine",
-      "gifUrl": "https://res.cloudinary.com/dysns4al9/image/upload/v1779592720/gifs/-DELlFNik45ozJ.gif?alt=media",
+      "gifUrl": "https://firebasestorage.googleapis.com/v0/b/chatappfirebasetd.appspot.com/o/exercises%2F-DELlFNik45ozJ.gif?alt=media",
       "id": "1463",
       "name": "sled 45° leg press (side pov)",
       "target": "glutes",
@@ -22883,7 +22883,7 @@ export const EXERCISES_DATA = [
     {
       "bodyPart": "upper legs",
       "equipment": "sled machine",
-      "gifUrl": "https://res.cloudinary.com/dysns4al9/image/upload/v1779592720/gifs/kq34FivvArkSNU.gif?alt=media",
+      "gifUrl": "https://firebasestorage.googleapis.com/v0/b/chatappfirebasetd.appspot.com/o/exercises%2Fkq34FivvArkSNU.gif?alt=media",
       "id": "0740",
       "name": "sled 45в° leg wide press",
       "target": "glutes",
@@ -22904,7 +22904,7 @@ export const EXERCISES_DATA = [
     {
       "bodyPart": "lower legs",
       "equipment": "sled machine",
-      "gifUrl": "https://res.cloudinary.com/dysns4al9/image/upload/v1779592720/gifs/6L7m6fC5MSvrdE.gif?alt=media",
+      "gifUrl": "https://firebasestorage.googleapis.com/v0/b/chatappfirebasetd.appspot.com/o/exercises%2F6L7m6fC5MSvrdE.gif?alt=media",
       "id": "1391",
       "name": "sled calf press on leg press",
       "target": "calves",
@@ -22923,7 +22923,7 @@ export const EXERCISES_DATA = [
     {
       "bodyPart": "upper legs",
       "equipment": "sled machine",
-      "gifUrl": "https://res.cloudinary.com/dysns4al9/image/upload/v1779592720/gifs/qfx0eac3EvZl2h.gif?alt=media",
+      "gifUrl": "https://firebasestorage.googleapis.com/v0/b/chatappfirebasetd.appspot.com/o/exercises%2Fqfx0eac3EvZl2h.gif?alt=media",
       "id": "0741",
       "name": "sled closer hack squat",
       "target": "glutes",
@@ -22945,7 +22945,7 @@ export const EXERCISES_DATA = [
     {
       "bodyPart": "lower legs",
       "equipment": "sled machine",
-      "gifUrl": "https://res.cloudinary.com/dysns4al9/image/upload/v1779592720/gifs/G5DpO6WzBcKQX7.gif?alt=media",
+      "gifUrl": "https://firebasestorage.googleapis.com/v0/b/chatappfirebasetd.appspot.com/o/exercises%2FG5DpO6WzBcKQX7.gif?alt=media",
       "id": "0742",
       "name": "sled forward angled calf raise",
       "target": "calves",
@@ -22964,7 +22964,7 @@ export const EXERCISES_DATA = [
     {
       "bodyPart": "upper legs",
       "equipment": "sled machine",
-      "gifUrl": "https://res.cloudinary.com/dysns4al9/image/upload/v1779592720/gifs/yZRDQPxgqvpuJd.gif?alt=media",
+      "gifUrl": "https://firebasestorage.googleapis.com/v0/b/chatappfirebasetd.appspot.com/o/exercises%2FyZRDQPxgqvpuJd.gif?alt=media",
       "id": "0743",
       "name": "sled hack squat",
       "target": "glutes",
@@ -22986,7 +22986,7 @@ export const EXERCISES_DATA = [
     {
       "bodyPart": "lower legs",
       "equipment": "sled machine",
-      "gifUrl": "https://res.cloudinary.com/dysns4al9/image/upload/v1779592720/gifs/crxYIJquxtDhhA.gif?alt=media",
+      "gifUrl": "https://firebasestorage.googleapis.com/v0/b/chatappfirebasetd.appspot.com/o/exercises%2FcrxYIJquxtDhhA.gif?alt=media",
       "id": "2334",
       "name": "sled lying calf press",
       "target": "calves",
@@ -23007,7 +23007,7 @@ export const EXERCISES_DATA = [
     {
       "bodyPart": "upper legs",
       "equipment": "sled machine",
-      "gifUrl": "https://res.cloudinary.com/dysns4al9/image/upload/v1779592720/gifs/DPmL29xKu4a8sg.gif?alt=media",
+      "gifUrl": "https://firebasestorage.googleapis.com/v0/b/chatappfirebasetd.appspot.com/o/exercises%2FDPmL29xKu4a8sg.gif?alt=media",
       "id": "0744",
       "name": "sled lying squat",
       "target": "glutes",
@@ -23030,7 +23030,7 @@ export const EXERCISES_DATA = [
     {
       "bodyPart": "lower legs",
       "equipment": "sled machine",
-      "gifUrl": "https://res.cloudinary.com/dysns4al9/image/upload/v1779592720/gifs/HuKoSKdNpno0OG.gif?alt=media",
+      "gifUrl": "https://firebasestorage.googleapis.com/v0/b/chatappfirebasetd.appspot.com/o/exercises%2FHuKoSKdNpno0OG.gif?alt=media",
       "id": "1392",
       "name": "sled one leg calf press on leg press",
       "target": "calves",
@@ -23050,7 +23050,7 @@ export const EXERCISES_DATA = [
     {
       "bodyPart": "waist",
       "equipment": "hammer",
-      "gifUrl": "https://res.cloudinary.com/dysns4al9/image/upload/v1779592720/gifs/jOKT5D2WOgrJFA.gif?alt=media",
+      "gifUrl": "https://firebasestorage.googleapis.com/v0/b/chatappfirebasetd.appspot.com/o/exercises%2FjOKT5D2WOgrJFA.gif?alt=media",
       "id": "1496",
       "name": "sledge hammer",
       "target": "abs",
@@ -23069,7 +23069,7 @@ export const EXERCISES_DATA = [
     {
       "bodyPart": "back",
       "equipment": "smith machine",
-      "gifUrl": "https://res.cloudinary.com/dysns4al9/image/upload/v1779592720/gifs/QK7Tv5eaUMMmkO.gif?alt=media",
+      "gifUrl": "https://firebasestorage.googleapis.com/v0/b/chatappfirebasetd.appspot.com/o/exercises%2FQK7Tv5eaUMMmkO.gif?alt=media",
       "id": "0746",
       "name": "smith back shrug",
       "target": "traps",
@@ -23088,7 +23088,7 @@ export const EXERCISES_DATA = [
     {
       "bodyPart": "shoulders",
       "equipment": "smith machine",
-      "gifUrl": "https://res.cloudinary.com/dysns4al9/image/upload/v1779592720/gifs/QR9Clfyy9QUBot.gif?alt=media",
+      "gifUrl": "https://firebasestorage.googleapis.com/v0/b/chatappfirebasetd.appspot.com/o/exercises%2FQR9Clfyy9QUBot.gif?alt=media",
       "id": "0747",
       "name": "smith behind neck press",
       "target": "delts",
@@ -23110,7 +23110,7 @@ export const EXERCISES_DATA = [
     {
       "bodyPart": "chest",
       "equipment": "smith machine",
-      "gifUrl": "https://res.cloudinary.com/dysns4al9/image/upload/v1779592720/gifs/1hQ-1YHHFBHlwx.gif?alt=media",
+      "gifUrl": "https://firebasestorage.googleapis.com/v0/b/chatappfirebasetd.appspot.com/o/exercises%2F1hQ-1YHHFBHlwx.gif?alt=media",
       "id": "0748",
       "name": "smith bench press",
       "target": "pectorals",
@@ -23131,7 +23131,7 @@ export const EXERCISES_DATA = [
     {
       "bodyPart": "upper legs",
       "equipment": "smith machine",
-      "gifUrl": "https://res.cloudinary.com/dysns4al9/image/upload/v1779592720/gifs/Y1WnWwGSEWcazl.gif?alt=media",
+      "gifUrl": "https://firebasestorage.googleapis.com/v0/b/chatappfirebasetd.appspot.com/o/exercises%2FY1WnWwGSEWcazl.gif?alt=media",
       "id": "0749",
       "name": "smith bent knee good morning",
       "target": "glutes",
@@ -23151,7 +23151,7 @@ export const EXERCISES_DATA = [
     {
       "bodyPart": "back",
       "equipment": "smith machine",
-      "gifUrl": "https://res.cloudinary.com/dysns4al9/image/upload/v1779592720/gifs/e6rNiEjJ3ttKEg.gif?alt=media",
+      "gifUrl": "https://firebasestorage.googleapis.com/v0/b/chatappfirebasetd.appspot.com/o/exercises%2Fe6rNiEjJ3ttKEg.gif?alt=media",
       "id": "1359",
       "name": "smith bent over row",
       "target": "upper back",
@@ -23172,7 +23172,7 @@ export const EXERCISES_DATA = [
     {
       "bodyPart": "upper legs",
       "equipment": "smith machine",
-      "gifUrl": "https://res.cloudinary.com/dysns4al9/image/upload/v1779592720/gifs/8PR-LXSxXDspQ3.gif?alt=media",
+      "gifUrl": "https://firebasestorage.googleapis.com/v0/b/chatappfirebasetd.appspot.com/o/exercises%2F8PR-LXSxXDspQ3.gif?alt=media",
       "id": "0750",
       "name": "smith chair squat",
       "target": "quads",
@@ -23194,7 +23194,7 @@ export const EXERCISES_DATA = [
     {
       "bodyPart": "upper arms",
       "equipment": "smith machine",
-      "gifUrl": "https://res.cloudinary.com/dysns4al9/image/upload/v1779592720/gifs/dMGotToUvb8OHP.gif?alt=media",
+      "gifUrl": "https://firebasestorage.googleapis.com/v0/b/chatappfirebasetd.appspot.com/o/exercises%2FdMGotToUvb8OHP.gif?alt=media",
       "id": "0751",
       "name": "smith close-grip bench press",
       "target": "triceps",
@@ -23213,7 +23213,7 @@ export const EXERCISES_DATA = [
     {
       "bodyPart": "upper legs",
       "equipment": "smith machine",
-      "gifUrl": "https://res.cloudinary.com/dysns4al9/image/upload/v1779592720/gifs/HhC6rHSd2I1lnA.gif?alt=media",
+      "gifUrl": "https://firebasestorage.googleapis.com/v0/b/chatappfirebasetd.appspot.com/o/exercises%2FHhC6rHSd2I1lnA.gif?alt=media",
       "id": "0752",
       "name": "smith deadlift",
       "target": "glutes",
@@ -23235,7 +23235,7 @@ export const EXERCISES_DATA = [
     {
       "bodyPart": "chest",
       "equipment": "smith machine",
-      "gifUrl": "https://res.cloudinary.com/dysns4al9/image/upload/v1779592720/gifs/w9bCMjNTuaQ9k2.gif?alt=media",
+      "gifUrl": "https://firebasestorage.googleapis.com/v0/b/chatappfirebasetd.appspot.com/o/exercises%2Fw9bCMjNTuaQ9k2.gif?alt=media",
       "id": "0753",
       "name": "smith decline bench press",
       "target": "pectorals",
@@ -23255,7 +23255,7 @@ export const EXERCISES_DATA = [
     {
       "bodyPart": "chest",
       "equipment": "smith machine",
-      "gifUrl": "https://res.cloudinary.com/dysns4al9/image/upload/v1779592720/gifs/I18sVVlWQQigFd.gif?alt=media",
+      "gifUrl": "https://firebasestorage.googleapis.com/v0/b/chatappfirebasetd.appspot.com/o/exercises%2FI18sVVlWQQigFd.gif?alt=media",
       "id": "0754",
       "name": "smith decline reverse-grip press",
       "target": "pectorals",
@@ -23275,7 +23275,7 @@ export const EXERCISES_DATA = [
     {
       "bodyPart": "upper legs",
       "equipment": "smith machine",
-      "gifUrl": "https://res.cloudinary.com/dysns4al9/image/upload/v1779592720/gifs/z8wWYyw6uJp3mN.gif?alt=media",
+      "gifUrl": "https://firebasestorage.googleapis.com/v0/b/chatappfirebasetd.appspot.com/o/exercises%2Fz8wWYyw6uJp3mN.gif?alt=media",
       "id": "1433",
       "name": "smith front squat (clean grip)",
       "target": "glutes",
@@ -23300,7 +23300,7 @@ export const EXERCISES_DATA = [
     {
       "bodyPart": "upper legs",
       "equipment": "smith machine",
-      "gifUrl": "https://res.cloudinary.com/dysns4al9/image/upload/v1779592720/gifs/PjkBaZV1CnvSJw.gif?alt=media",
+      "gifUrl": "https://firebasestorage.googleapis.com/v0/b/chatappfirebasetd.appspot.com/o/exercises%2FPjkBaZV1CnvSJw.gif?alt=media",
       "id": "3281",
       "name": "smith full squat",
       "target": "glutes",
@@ -23324,7 +23324,7 @@ export const EXERCISES_DATA = [
     {
       "bodyPart": "upper legs",
       "equipment": "smith machine",
-      "gifUrl": "https://res.cloudinary.com/dysns4al9/image/upload/v1779592720/gifs/tvIMyFQ0Ao5T59.gif?alt=media",
+      "gifUrl": "https://firebasestorage.googleapis.com/v0/b/chatappfirebasetd.appspot.com/o/exercises%2FtvIMyFQ0Ao5T59.gif?alt=media",
       "id": "0755",
       "name": "smith hack squat",
       "target": "glutes",
@@ -23349,7 +23349,7 @@ export const EXERCISES_DATA = [
     {
       "bodyPart": "waist",
       "equipment": "smith machine",
-      "gifUrl": "https://res.cloudinary.com/dysns4al9/image/upload/v1779592720/gifs/DTpNwiD63tTRC2.gif?alt=media",
+      "gifUrl": "https://firebasestorage.googleapis.com/v0/b/chatappfirebasetd.appspot.com/o/exercises%2FDTpNwiD63tTRC2.gif?alt=media",
       "id": "0756",
       "name": "smith hip raise",
       "target": "abs",
@@ -23369,7 +23369,7 @@ export const EXERCISES_DATA = [
     {
       "bodyPart": "chest",
       "equipment": "smith machine",
-      "gifUrl": "https://res.cloudinary.com/dysns4al9/image/upload/v1779592720/gifs/A6WLyQumrxQzzG.gif?alt=media",
+      "gifUrl": "https://firebasestorage.googleapis.com/v0/b/chatappfirebasetd.appspot.com/o/exercises%2FA6WLyQumrxQzzG.gif?alt=media",
       "id": "0757",
       "name": "smith incline bench press",
       "target": "pectorals",
@@ -23389,7 +23389,7 @@ export const EXERCISES_DATA = [
     {
       "bodyPart": "chest",
       "equipment": "smith machine",
-      "gifUrl": "https://res.cloudinary.com/dysns4al9/image/upload/v1779592720/gifs/CItzpHvBt2f1U3.gif?alt=media",
+      "gifUrl": "https://firebasestorage.googleapis.com/v0/b/chatappfirebasetd.appspot.com/o/exercises%2FCItzpHvBt2f1U3.gif?alt=media",
       "id": "0758",
       "name": "smith incline reverse-grip press",
       "target": "pectorals",
@@ -23410,7 +23410,7 @@ export const EXERCISES_DATA = [
     {
       "bodyPart": "chest",
       "equipment": "smith machine",
-      "gifUrl": "https://res.cloudinary.com/dysns4al9/image/upload/v1779592720/gifs/ZMYgChNaKUgT1X.gif?alt=media",
+      "gifUrl": "https://firebasestorage.googleapis.com/v0/b/chatappfirebasetd.appspot.com/o/exercises%2FZMYgChNaKUgT1X.gif?alt=media",
       "id": "0759",
       "name": "smith incline shoulder raises",
       "target": "serratus anterior",
@@ -23431,7 +23431,7 @@ export const EXERCISES_DATA = [
     {
       "bodyPart": "upper legs",
       "equipment": "smith machine",
-      "gifUrl": "https://res.cloudinary.com/dysns4al9/image/upload/v1779592720/gifs/i7-Ae-lXCvCDVl.gif?alt=media",
+      "gifUrl": "https://firebasestorage.googleapis.com/v0/b/chatappfirebasetd.appspot.com/o/exercises%2Fi7-Ae-lXCvCDVl.gif?alt=media",
       "id": "0760",
       "name": "smith leg press",
       "target": "glutes",
@@ -23453,7 +23453,7 @@ export const EXERCISES_DATA = [
     {
       "bodyPart": "upper legs",
       "equipment": "smith machine",
-      "gifUrl": "https://res.cloudinary.com/dysns4al9/image/upload/v1779592720/gifs/PyVd8sY61svJnR.gif?alt=media",
+      "gifUrl": "https://firebasestorage.googleapis.com/v0/b/chatappfirebasetd.appspot.com/o/exercises%2FPyVd8sY61svJnR.gif?alt=media",
       "id": "1434",
       "name": "smith low bar squat",
       "target": "glutes",
@@ -23479,7 +23479,7 @@ export const EXERCISES_DATA = [
     {
       "bodyPart": "upper arms",
       "equipment": "smith machine",
-      "gifUrl": "https://res.cloudinary.com/dysns4al9/image/upload/v1779592720/gifs/vN2AZmMzuqZONH.gif?alt=media",
+      "gifUrl": "https://firebasestorage.googleapis.com/v0/b/chatappfirebasetd.appspot.com/o/exercises%2FvN2AZmMzuqZONH.gif?alt=media",
       "id": "1683",
       "name": "smith machine bicep curl",
       "target": "biceps",
@@ -23500,7 +23500,7 @@ export const EXERCISES_DATA = [
     {
       "bodyPart": "upper arms",
       "equipment": "smith machine",
-      "gifUrl": "https://res.cloudinary.com/dysns4al9/image/upload/v1779592720/gifs/J6FHY3sNR8-xCL.gif?alt=media",
+      "gifUrl": "https://firebasestorage.googleapis.com/v0/b/chatappfirebasetd.appspot.com/o/exercises%2FJ6FHY3sNR8-xCL.gif?alt=media",
       "id": "1625",
       "name": "smith machine decline close grip bench press",
       "target": "triceps",
@@ -23521,7 +23521,7 @@ export const EXERCISES_DATA = [
     {
       "bodyPart": "upper arms",
       "equipment": "smith machine",
-      "gifUrl": "https://res.cloudinary.com/dysns4al9/image/upload/v1779592720/gifs/FJKyTUz8ru2YDM.gif?alt=media",
+      "gifUrl": "https://firebasestorage.googleapis.com/v0/b/chatappfirebasetd.appspot.com/o/exercises%2FFJKyTUz8ru2YDM.gif?alt=media",
       "id": "1752",
       "name": "smith machine incline tricep extension",
       "target": "triceps",
@@ -23541,7 +23541,7 @@ export const EXERCISES_DATA = [
     {
       "bodyPart": "chest",
       "equipment": "smith machine",
-      "gifUrl": "https://res.cloudinary.com/dysns4al9/image/upload/v1779592720/gifs/BkPceGGBiqiBb6.gif?alt=media",
+      "gifUrl": "https://firebasestorage.googleapis.com/v0/b/chatappfirebasetd.appspot.com/o/exercises%2FBkPceGGBiqiBb6.gif?alt=media",
       "id": "1626",
       "name": "smith machine reverse decline close grip bench press",
       "target": "pectorals",
@@ -23561,7 +23561,7 @@ export const EXERCISES_DATA = [
     {
       "bodyPart": "back",
       "equipment": "smith machine",
-      "gifUrl": "https://res.cloudinary.com/dysns4al9/image/upload/v1779592720/gifs/GBpNUV8cG3X2oG.gif?alt=media",
+      "gifUrl": "https://firebasestorage.googleapis.com/v0/b/chatappfirebasetd.appspot.com/o/exercises%2FGBpNUV8cG3X2oG.gif?alt=media",
       "id": "0761",
       "name": "smith narrow row",
       "target": "upper back",
@@ -23580,7 +23580,7 @@ export const EXERCISES_DATA = [
     {
       "bodyPart": "back",
       "equipment": "smith machine",
-      "gifUrl": "https://res.cloudinary.com/dysns4al9/image/upload/v1779592720/gifs/P8fGVpE5wwTF6v.gif?alt=media",
+      "gifUrl": "https://firebasestorage.googleapis.com/v0/b/chatappfirebasetd.appspot.com/o/exercises%2FP8fGVpE5wwTF6v.gif?alt=media",
       "id": "1360",
       "name": "smith one arm row",
       "target": "upper back",
@@ -23601,7 +23601,7 @@ export const EXERCISES_DATA = [
     {
       "bodyPart": "lower legs",
       "equipment": "smith machine",
-      "gifUrl": "https://res.cloudinary.com/dysns4al9/image/upload/v1779592720/gifs/2EAYQdIochC1B4.gif?alt=media",
+      "gifUrl": "https://firebasestorage.googleapis.com/v0/b/chatappfirebasetd.appspot.com/o/exercises%2F2EAYQdIochC1B4.gif?alt=media",
       "id": "1393",
       "name": "smith one leg floor calf raise",
       "target": "calves",
@@ -23622,7 +23622,7 @@ export const EXERCISES_DATA = [
     {
       "bodyPart": "shoulders",
       "equipment": "smith machine",
-      "gifUrl": "https://res.cloudinary.com/dysns4al9/image/upload/v1779592720/gifs/Bz-CXHMreISxlw.gif?alt=media",
+      "gifUrl": "https://firebasestorage.googleapis.com/v0/b/chatappfirebasetd.appspot.com/o/exercises%2FBz-CXHMreISxlw.gif?alt=media",
       "id": "0762",
       "name": "smith rear delt row",
       "target": "delts",
@@ -23642,7 +23642,7 @@ export const EXERCISES_DATA = [
     {
       "bodyPart": "lower legs",
       "equipment": "smith machine",
-      "gifUrl": "https://res.cloudinary.com/dysns4al9/image/upload/v1779592720/gifs/EIw-xuuFxNygbB.gif?alt=media",
+      "gifUrl": "https://firebasestorage.googleapis.com/v0/b/chatappfirebasetd.appspot.com/o/exercises%2FEIw-xuuFxNygbB.gif?alt=media",
       "id": "0763",
       "name": "smith reverse calf raises",
       "target": "calves",
@@ -23662,7 +23662,7 @@ export const EXERCISES_DATA = [
     {
       "bodyPart": "lower legs",
       "equipment": "smith machine",
-      "gifUrl": "https://res.cloudinary.com/dysns4al9/image/upload/v1779592720/gifs/HOmbUUKE9ojKkv.gif?alt=media",
+      "gifUrl": "https://firebasestorage.googleapis.com/v0/b/chatappfirebasetd.appspot.com/o/exercises%2FHOmbUUKE9ojKkv.gif?alt=media",
       "id": "1394",
       "name": "smith reverse calf raises",
       "target": "calves",
@@ -23682,7 +23682,7 @@ export const EXERCISES_DATA = [
     {
       "bodyPart": "back",
       "equipment": "smith machine",
-      "gifUrl": "https://res.cloudinary.com/dysns4al9/image/upload/v1779592720/gifs/3DT7ZcaxjPMgdQ.gif?alt=media",
+      "gifUrl": "https://firebasestorage.googleapis.com/v0/b/chatappfirebasetd.appspot.com/o/exercises%2F3DT7ZcaxjPMgdQ.gif?alt=media",
       "id": "1361",
       "name": "smith reverse grip bent over row",
       "target": "upper back",
@@ -23703,7 +23703,7 @@ export const EXERCISES_DATA = [
     {
       "bodyPart": "chest",
       "equipment": "smith machine",
-      "gifUrl": "https://res.cloudinary.com/dysns4al9/image/upload/v1779592720/gifs/EcThHC4zwPM3ot.gif?alt=media",
+      "gifUrl": "https://firebasestorage.googleapis.com/v0/b/chatappfirebasetd.appspot.com/o/exercises%2FEcThHC4zwPM3ot.gif?alt=media",
       "id": "0764",
       "name": "smith reverse-grip press",
       "target": "pectorals",
@@ -23725,7 +23725,7 @@ export const EXERCISES_DATA = [
     {
       "bodyPart": "lower legs",
       "equipment": "smith machine",
-      "gifUrl": "https://res.cloudinary.com/dysns4al9/image/upload/v1779592720/gifs/Rgt1WJTrEm9Hno.gif?alt=media",
+      "gifUrl": "https://firebasestorage.googleapis.com/v0/b/chatappfirebasetd.appspot.com/o/exercises%2FRgt1WJTrEm9Hno.gif?alt=media",
       "id": "1395",
       "name": "smith seated one leg calf raise",
       "target": "calves",
@@ -23743,7 +23743,7 @@ export const EXERCISES_DATA = [
     {
       "bodyPart": "shoulders",
       "equipment": "smith machine",
-      "gifUrl": "https://res.cloudinary.com/dysns4al9/image/upload/v1779592720/gifs/V0MaKaRq6s2Ohn.gif?alt=media",
+      "gifUrl": "https://firebasestorage.googleapis.com/v0/b/chatappfirebasetd.appspot.com/o/exercises%2FV0MaKaRq6s2Ohn.gif?alt=media",
       "id": "0765",
       "name": "smith seated shoulder press",
       "target": "delts",
@@ -23764,7 +23764,7 @@ export const EXERCISES_DATA = [
     {
       "bodyPart": "lower arms",
       "equipment": "smith machine",
-      "gifUrl": "https://res.cloudinary.com/dysns4al9/image/upload/v1779592720/gifs/gpHmPe0Xc-ud7-.gif?alt=media",
+      "gifUrl": "https://firebasestorage.googleapis.com/v0/b/chatappfirebasetd.appspot.com/o/exercises%2FgpHmPe0Xc-ud7-.gif?alt=media",
       "id": "1426",
       "name": "smith seated wrist curl",
       "target": "forearms",
@@ -23784,7 +23784,7 @@ export const EXERCISES_DATA = [
     {
       "bodyPart": "shoulders",
       "equipment": "smith machine",
-      "gifUrl": "https://res.cloudinary.com/dysns4al9/image/upload/v1779592720/gifs/o9w4KI1s-p75bF.gif?alt=media",
+      "gifUrl": "https://firebasestorage.googleapis.com/v0/b/chatappfirebasetd.appspot.com/o/exercises%2Fo9w4KI1s-p75bF.gif?alt=media",
       "id": "0766",
       "name": "smith shoulder press",
       "target": "delts",
@@ -23804,7 +23804,7 @@ export const EXERCISES_DATA = [
     {
       "bodyPart": "back",
       "equipment": "smith machine",
-      "gifUrl": "https://res.cloudinary.com/dysns4al9/image/upload/v1779592720/gifs/1t8VnPXcPzmjT4.gif?alt=media",
+      "gifUrl": "https://firebasestorage.googleapis.com/v0/b/chatappfirebasetd.appspot.com/o/exercises%2F1t8VnPXcPzmjT4.gif?alt=media",
       "id": "0767",
       "name": "smith shrug",
       "target": "traps",
@@ -23823,7 +23823,7 @@ export const EXERCISES_DATA = [
     {
       "bodyPart": "upper legs",
       "equipment": "smith machine",
-      "gifUrl": "https://res.cloudinary.com/dysns4al9/image/upload/v1779592720/gifs/n7rXmHTKncxyRa.gif?alt=media",
+      "gifUrl": "https://firebasestorage.googleapis.com/v0/b/chatappfirebasetd.appspot.com/o/exercises%2Fn7rXmHTKncxyRa.gif?alt=media",
       "id": "0768",
       "name": "smith single leg split squat",
       "target": "quads",
@@ -23843,7 +23843,7 @@ export const EXERCISES_DATA = [
     {
       "bodyPart": "upper legs",
       "equipment": "smith machine",
-      "gifUrl": "https://res.cloudinary.com/dysns4al9/image/upload/v1779592720/gifs/aa0JRJoPbGMoMP.gif?alt=media",
+      "gifUrl": "https://firebasestorage.googleapis.com/v0/b/chatappfirebasetd.appspot.com/o/exercises%2Faa0JRJoPbGMoMP.gif?alt=media",
       "id": "0769",
       "name": "smith sprint lunge",
       "target": "glutes",
@@ -23865,7 +23865,7 @@ export const EXERCISES_DATA = [
     {
       "bodyPart": "upper legs",
       "equipment": "smith machine",
-      "gifUrl": "https://res.cloudinary.com/dysns4al9/image/upload/v1779592720/gifs/9r3NqEjdm67PsD.gif?alt=media",
+      "gifUrl": "https://firebasestorage.googleapis.com/v0/b/chatappfirebasetd.appspot.com/o/exercises%2F9r3NqEjdm67PsD.gif?alt=media",
       "id": "0770",
       "name": "smith squat",
       "target": "glutes",
@@ -23889,7 +23889,7 @@ export const EXERCISES_DATA = [
     {
       "bodyPart": "lower arms",
       "equipment": "smith machine",
-      "gifUrl": "https://res.cloudinary.com/dysns4al9/image/upload/v1779592720/gifs/LiyaJoxagWF-o3.gif?alt=media",
+      "gifUrl": "https://firebasestorage.googleapis.com/v0/b/chatappfirebasetd.appspot.com/o/exercises%2FLiyaJoxagWF-o3.gif?alt=media",
       "id": "0771",
       "name": "smith standing back wrist curl",
       "target": "forearms",
@@ -23909,7 +23909,7 @@ export const EXERCISES_DATA = [
     {
       "bodyPart": "shoulders",
       "equipment": "smith machine",
-      "gifUrl": "https://res.cloudinary.com/dysns4al9/image/upload/v1779592720/gifs/QY0xoiHCsCRrUB.gif?alt=media",
+      "gifUrl": "https://firebasestorage.googleapis.com/v0/b/chatappfirebasetd.appspot.com/o/exercises%2FQY0xoiHCsCRrUB.gif?alt=media",
       "id": "0772",
       "name": "smith standing behind head military press",
       "target": "delts",
@@ -23932,7 +23932,7 @@ export const EXERCISES_DATA = [
     {
       "bodyPart": "lower legs",
       "equipment": "smith machine",
-      "gifUrl": "https://res.cloudinary.com/dysns4al9/image/upload/v1779592720/gifs/dHJzJ4rGvr49MN.gif?alt=media",
+      "gifUrl": "https://firebasestorage.googleapis.com/v0/b/chatappfirebasetd.appspot.com/o/exercises%2FdHJzJ4rGvr49MN.gif?alt=media",
       "id": "0773",
       "name": "smith standing leg calf raise",
       "target": "calves",
@@ -23952,7 +23952,7 @@ export const EXERCISES_DATA = [
     {
       "bodyPart": "shoulders",
       "equipment": "smith machine",
-      "gifUrl": "https://res.cloudinary.com/dysns4al9/image/upload/v1779592720/gifs/A8DPfwfOPlqdQS.gif?alt=media",
+      "gifUrl": "https://firebasestorage.googleapis.com/v0/b/chatappfirebasetd.appspot.com/o/exercises%2FA8DPfwfOPlqdQS.gif?alt=media",
       "id": "0774",
       "name": "smith standing military press",
       "target": "delts",
@@ -23972,7 +23972,7 @@ export const EXERCISES_DATA = [
     {
       "bodyPart": "upper legs",
       "equipment": "smith machine",
-      "gifUrl": "https://res.cloudinary.com/dysns4al9/image/upload/v1779592720/gifs/MweJbEUk9m0nT4.gif?alt=media",
+      "gifUrl": "https://firebasestorage.googleapis.com/v0/b/chatappfirebasetd.appspot.com/o/exercises%2FMweJbEUk9m0nT4.gif?alt=media",
       "id": "3142",
       "name": "smith sumo squat",
       "target": "glutes",
@@ -23994,7 +23994,7 @@ export const EXERCISES_DATA = [
     {
       "bodyPart": "lower legs",
       "equipment": "smith machine",
-      "gifUrl": "https://res.cloudinary.com/dysns4al9/image/upload/v1779592720/gifs/g2FZpVUpd1A5vu.gif?alt=media",
+      "gifUrl": "https://firebasestorage.googleapis.com/v0/b/chatappfirebasetd.appspot.com/o/exercises%2Fg2FZpVUpd1A5vu.gif?alt=media",
       "id": "1396",
       "name": "smith toe raise",
       "target": "calves",
@@ -24016,7 +24016,7 @@ export const EXERCISES_DATA = [
     {
       "bodyPart": "shoulders",
       "equipment": "smith machine",
-      "gifUrl": "https://res.cloudinary.com/dysns4al9/image/upload/v1779592720/gifs/KTsxmULIRs7Lf5.gif?alt=media",
+      "gifUrl": "https://firebasestorage.googleapis.com/v0/b/chatappfirebasetd.appspot.com/o/exercises%2FKTsxmULIRs7Lf5.gif?alt=media",
       "id": "0775",
       "name": "smith upright row",
       "target": "delts",
@@ -24036,7 +24036,7 @@ export const EXERCISES_DATA = [
     {
       "bodyPart": "chest",
       "equipment": "smith machine",
-      "gifUrl": "https://res.cloudinary.com/dysns4al9/image/upload/v1779592720/gifs/-faKilCupY6ig1.gif?alt=media",
+      "gifUrl": "https://firebasestorage.googleapis.com/v0/b/chatappfirebasetd.appspot.com/o/exercises%2F-faKilCupY6ig1.gif?alt=media",
       "id": "1308",
       "name": "smith wide grip bench press",
       "target": "pectorals",
@@ -24057,7 +24057,7 @@ export const EXERCISES_DATA = [
     {
       "bodyPart": "chest",
       "equipment": "smith machine",
-      "gifUrl": "https://res.cloudinary.com/dysns4al9/image/upload/v1779592720/gifs/CEBuu2qt4ij4c6.gif?alt=media",
+      "gifUrl": "https://firebasestorage.googleapis.com/v0/b/chatappfirebasetd.appspot.com/o/exercises%2FCEBuu2qt4ij4c6.gif?alt=media",
       "id": "1309",
       "name": "smith wide grip decline bench press",
       "target": "pectorals",
@@ -24078,7 +24078,7 @@ export const EXERCISES_DATA = [
     {
       "bodyPart": "upper legs",
       "equipment": "barbell",
-      "gifUrl": "https://res.cloudinary.com/dysns4al9/image/upload/v1779592720/gifs/5nxz-eNccD5194.gif?alt=media",
+      "gifUrl": "https://firebasestorage.googleapis.com/v0/b/chatappfirebasetd.appspot.com/o/exercises%2F5nxz-eNccD5194.gif?alt=media",
       "id": "0776",
       "name": "snatch pull",
       "target": "quads",
@@ -24102,7 +24102,7 @@ export const EXERCISES_DATA = [
     {
       "bodyPart": "waist",
       "equipment": "dumbbell",
-      "gifUrl": "https://res.cloudinary.com/dysns4al9/image/upload/v1779592720/gifs/UvtGqYP60yblkn.gif?alt=media",
+      "gifUrl": "https://firebasestorage.googleapis.com/v0/b/chatappfirebasetd.appspot.com/o/exercises%2FUvtGqYP60yblkn.gif?alt=media",
       "id": "0777",
       "name": "spell caster",
       "target": "abs",
@@ -24121,7 +24121,7 @@ export const EXERCISES_DATA = [
     {
       "bodyPart": "back",
       "equipment": "body weight",
-      "gifUrl": "https://res.cloudinary.com/dysns4al9/image/upload/v1779592720/gifs/KOiZYGv49A2VIJ.gif?alt=media",
+      "gifUrl": "https://firebasestorage.googleapis.com/v0/b/chatappfirebasetd.appspot.com/o/exercises%2FKOiZYGv49A2VIJ.gif?alt=media",
       "id": "1362",
       "name": "sphinx",
       "target": "spine",
@@ -24140,7 +24140,7 @@ export const EXERCISES_DATA = [
     {
       "bodyPart": "upper legs",
       "equipment": "body weight",
-      "gifUrl": "https://res.cloudinary.com/dysns4al9/image/upload/v1779592720/gifs/m10iVeY64PsnN4.gif?alt=media",
+      "gifUrl": "https://firebasestorage.googleapis.com/v0/b/chatappfirebasetd.appspot.com/o/exercises%2Fm10iVeY64PsnN4.gif?alt=media",
       "id": "0778",
       "name": "spider crawl push up",
       "target": "glutes",
@@ -24160,7 +24160,7 @@ export const EXERCISES_DATA = [
     {
       "bodyPart": "back",
       "equipment": "body weight",
-      "gifUrl": "https://res.cloudinary.com/dysns4al9/image/upload/v1779592720/gifs/utpDksxEv36SUg.gif?alt=media",
+      "gifUrl": "https://firebasestorage.googleapis.com/v0/b/chatappfirebasetd.appspot.com/o/exercises%2FutpDksxEv36SUg.gif?alt=media",
       "id": "1363",
       "name": "spine stretch",
       "target": "spine",
@@ -24180,7 +24180,7 @@ export const EXERCISES_DATA = [
     {
       "bodyPart": "waist",
       "equipment": "body weight",
-      "gifUrl": "https://res.cloudinary.com/dysns4al9/image/upload/v1779592720/gifs/Aht8aTVtk91nCT.gif?alt=media",
+      "gifUrl": "https://firebasestorage.googleapis.com/v0/b/chatappfirebasetd.appspot.com/o/exercises%2FAht8aTVtk91nCT.gif?alt=media",
       "id": "2329",
       "name": "spine twist",
       "target": "abs",
@@ -24201,7 +24201,7 @@ export const EXERCISES_DATA = [
     {
       "bodyPart": "upper legs",
       "equipment": "body weight",
-      "gifUrl": "https://res.cloudinary.com/dysns4al9/image/upload/v1779592720/gifs/bR5qUkIya1qHcU.gif?alt=media",
+      "gifUrl": "https://firebasestorage.googleapis.com/v0/b/chatappfirebasetd.appspot.com/o/exercises%2FbR5qUkIya1qHcU.gif?alt=media",
       "id": "2368",
       "name": "split squats",
       "target": "quads",
@@ -24222,7 +24222,7 @@ export const EXERCISES_DATA = [
     {
       "bodyPart": "upper legs",
       "equipment": "barbell",
-      "gifUrl": "https://res.cloudinary.com/dysns4al9/image/upload/v1779592720/gifs/EM3meQj0VykUPT.gif?alt=media",
+      "gifUrl": "https://firebasestorage.googleapis.com/v0/b/chatappfirebasetd.appspot.com/o/exercises%2FEM3meQj0VykUPT.gif?alt=media",
       "id": "0786",
       "name": "squat jerk",
       "target": "quads",
@@ -24245,7 +24245,7 @@ export const EXERCISES_DATA = [
     {
       "bodyPart": "upper legs",
       "equipment": "bosu ball",
-      "gifUrl": "https://res.cloudinary.com/dysns4al9/image/upload/v1779592720/gifs/quNQ88OSpCfNqM.gif?alt=media",
+      "gifUrl": "https://firebasestorage.googleapis.com/v0/b/chatappfirebasetd.appspot.com/o/exercises%2FquNQ88OSpCfNqM.gif?alt=media",
       "id": "1705",
       "name": "squat on bosu ball",
       "target": "quads",
@@ -24267,7 +24267,7 @@ export const EXERCISES_DATA = [
     {
       "bodyPart": "upper legs",
       "equipment": "body weight",
-      "gifUrl": "https://res.cloudinary.com/dysns4al9/image/upload/v1779592720/gifs/r9RAawL9ViX-EO.gif?alt=media",
+      "gifUrl": "https://firebasestorage.googleapis.com/v0/b/chatappfirebasetd.appspot.com/o/exercises%2Fr9RAawL9ViX-EO.gif?alt=media",
       "id": "1685",
       "name": "squat to overhead reach",
       "target": "quads",
@@ -24287,7 +24287,7 @@ export const EXERCISES_DATA = [
     {
       "bodyPart": "upper legs",
       "equipment": "body weight",
-      "gifUrl": "https://res.cloudinary.com/dysns4al9/image/upload/v1779592720/gifs/z8bAaykaf8dgrW.gif?alt=media",
+      "gifUrl": "https://firebasestorage.googleapis.com/v0/b/chatappfirebasetd.appspot.com/o/exercises%2Fz8bAaykaf8dgrW.gif?alt=media",
       "id": "1686",
       "name": "squat to overhead reach with twist",
       "target": "quads",
@@ -24307,7 +24307,7 @@ export const EXERCISES_DATA = [
     {
       "bodyPart": "waist",
       "equipment": "stability ball",
-      "gifUrl": "https://res.cloudinary.com/dysns4al9/image/upload/v1779592720/gifs/2eeLJrNbMjrTy2.gif?alt=media",
+      "gifUrl": "https://firebasestorage.googleapis.com/v0/b/chatappfirebasetd.appspot.com/o/exercises%2F2eeLJrNbMjrTy2.gif?alt=media",
       "id": "2297",
       "name": "stability ball crunch (full range hands behind head)",
       "target": "abs",
@@ -24325,7 +24325,7 @@ export const EXERCISES_DATA = [
     {
       "bodyPart": "upper arms",
       "equipment": "body weight",
-      "gifUrl": "https://res.cloudinary.com/dysns4al9/image/upload/v1779592720/gifs/amWuOfURFrxnLP.gif?alt=media",
+      "gifUrl": "https://firebasestorage.googleapis.com/v0/b/chatappfirebasetd.appspot.com/o/exercises%2FamWuOfURFrxnLP.gif?alt=media",
       "id": "3291",
       "name": "stalder press",
       "target": "triceps",
@@ -24345,7 +24345,7 @@ export const EXERCISES_DATA = [
     {
       "bodyPart": "back",
       "equipment": "body weight",
-      "gifUrl": "https://res.cloudinary.com/dysns4al9/image/upload/v1779592720/gifs/rsJEkWACzgoypS.gif?alt=media",
+      "gifUrl": "https://firebasestorage.googleapis.com/v0/b/chatappfirebasetd.appspot.com/o/exercises%2FrsJEkWACzgoypS.gif?alt=media",
       "id": "3669",
       "name": "standing archer",
       "target": "upper back",
@@ -24367,7 +24367,7 @@ export const EXERCISES_DATA = [
     {
       "bodyPart": "shoulders",
       "equipment": "barbell",
-      "gifUrl": "https://res.cloudinary.com/dysns4al9/image/upload/v1779592720/gifs/L4hkMlBLWlKoci.gif?alt=media",
+      "gifUrl": "https://firebasestorage.googleapis.com/v0/b/chatappfirebasetd.appspot.com/o/exercises%2FL4hkMlBLWlKoci.gif?alt=media",
       "id": "0788",
       "name": "standing behind neck press",
       "target": "delts",
@@ -24386,7 +24386,7 @@ export const EXERCISES_DATA = [
     {
       "bodyPart": "lower legs",
       "equipment": "body weight",
-      "gifUrl": "https://res.cloudinary.com/dysns4al9/image/upload/v1779592720/gifs/xJvYSbyuf1H5zD.gif?alt=media",
+      "gifUrl": "https://firebasestorage.googleapis.com/v0/b/chatappfirebasetd.appspot.com/o/exercises%2FxJvYSbyuf1H5zD.gif?alt=media",
       "id": "1490",
       "name": "standing calf raise (on a staircase)",
       "target": "calves",
@@ -24405,7 +24405,7 @@ export const EXERCISES_DATA = [
     {
       "bodyPart": "lower legs",
       "equipment": "body weight",
-      "gifUrl": "https://res.cloudinary.com/dysns4al9/image/upload/v1779592720/gifs/-3fKNm-HSjWbCd.gif?alt=media",
+      "gifUrl": "https://firebasestorage.googleapis.com/v0/b/chatappfirebasetd.appspot.com/o/exercises%2F-3fKNm-HSjWbCd.gif?alt=media",
       "id": "1397",
       "name": "standing calves",
       "target": "calves",
@@ -24423,7 +24423,7 @@ export const EXERCISES_DATA = [
     {
       "bodyPart": "lower legs",
       "equipment": "body weight",
-      "gifUrl": "https://res.cloudinary.com/dysns4al9/image/upload/v1779592720/gifs/pbnefYgeXjnIiE.gif?alt=media",
+      "gifUrl": "https://firebasestorage.googleapis.com/v0/b/chatappfirebasetd.appspot.com/o/exercises%2FpbnefYgeXjnIiE.gif?alt=media",
       "id": "1398",
       "name": "standing calves calf stretch",
       "target": "calves",
@@ -24444,7 +24444,7 @@ export const EXERCISES_DATA = [
     {
       "bodyPart": "upper legs",
       "equipment": "rope",
-      "gifUrl": "https://res.cloudinary.com/dysns4al9/image/upload/v1779592720/gifs/HImcnXVuFiU4ow.gif?alt=media",
+      "gifUrl": "https://firebasestorage.googleapis.com/v0/b/chatappfirebasetd.appspot.com/o/exercises%2FHImcnXVuFiU4ow.gif?alt=media",
       "id": "1599",
       "name": "standing hamstring and calf stretch with strap",
       "target": "hamstrings",
@@ -24464,7 +24464,7 @@ export const EXERCISES_DATA = [
     {
       "bodyPart": "back",
       "equipment": "body weight",
-      "gifUrl": "https://res.cloudinary.com/dysns4al9/image/upload/v1779592720/gifs/XwbCbm7xHj1t92.gif?alt=media",
+      "gifUrl": "https://firebasestorage.googleapis.com/v0/b/chatappfirebasetd.appspot.com/o/exercises%2FXwbCbm7xHj1t92.gif?alt=media",
       "id": "0794",
       "name": "standing lateral stretch",
       "target": "lats",
@@ -24484,7 +24484,7 @@ export const EXERCISES_DATA = [
     {
       "bodyPart": "back",
       "equipment": "body weight",
-      "gifUrl": "https://res.cloudinary.com/dysns4al9/image/upload/v1779592720/gifs/0nr44HPm4mHQ0D.gif?alt=media",
+      "gifUrl": "https://firebasestorage.googleapis.com/v0/b/chatappfirebasetd.appspot.com/o/exercises%2F0nr44HPm4mHQ0D.gif?alt=media",
       "id": "1364",
       "name": "standing pelvic tilt",
       "target": "spine",
@@ -24502,7 +24502,7 @@ export const EXERCISES_DATA = [
     {
       "bodyPart": "upper legs",
       "equipment": "body weight",
-      "gifUrl": "https://res.cloudinary.com/dysns4al9/image/upload/v1779592720/gifs/3W3bP9RIO0bj4J.gif?alt=media",
+      "gifUrl": "https://firebasestorage.googleapis.com/v0/b/chatappfirebasetd.appspot.com/o/exercises%2F3W3bP9RIO0bj4J.gif?alt=media",
       "id": "0795",
       "name": "standing single leg curl",
       "target": "hamstrings",
@@ -24520,7 +24520,7 @@ export const EXERCISES_DATA = [
     {
       "bodyPart": "waist",
       "equipment": "wheel roller",
-      "gifUrl": "https://res.cloudinary.com/dysns4al9/image/upload/v1779592720/gifs/RscClk3g7lPp3W.gif?alt=media",
+      "gifUrl": "https://firebasestorage.googleapis.com/v0/b/chatappfirebasetd.appspot.com/o/exercises%2FRscClk3g7lPp3W.gif?alt=media",
       "id": "0796",
       "name": "standing wheel rollerout",
       "target": "abs",
@@ -24539,7 +24539,7 @@ export const EXERCISES_DATA = [
     {
       "bodyPart": "cardio",
       "equipment": "body weight",
-      "gifUrl": "https://res.cloudinary.com/dysns4al9/image/upload/v1779592720/gifs/Kkcd9sAgo9MNMX.gif?alt=media",
+      "gifUrl": "https://firebasestorage.googleapis.com/v0/b/chatappfirebasetd.appspot.com/o/exercises%2FKkcd9sAgo9MNMX.gif?alt=media",
       "id": "3223",
       "name": "star jump (male)",
       "target": "cardiovascular system",
@@ -24559,7 +24559,7 @@ export const EXERCISES_DATA = [
     {
       "bodyPart": "cardio",
       "equipment": "stationary bike",
-      "gifUrl": "https://res.cloudinary.com/dysns4al9/image/upload/v1779592720/gifs/QgS9c7C7nG3jvn.gif?alt=media",
+      "gifUrl": "https://firebasestorage.googleapis.com/v0/b/chatappfirebasetd.appspot.com/o/exercises%2FQgS9c7C7nG3jvn.gif?alt=media",
       "id": "2138",
       "name": "stationary bike run v. 3",
       "target": "cardiovascular system",
@@ -24582,7 +24582,7 @@ export const EXERCISES_DATA = [
     {
       "bodyPart": "cardio",
       "equipment": "leverage machine",
-      "gifUrl": "https://res.cloudinary.com/dysns4al9/image/upload/v1779592720/gifs/wYNDDtLwRPCiLS.gif?alt=media",
+      "gifUrl": "https://firebasestorage.googleapis.com/v0/b/chatappfirebasetd.appspot.com/o/exercises%2FwYNDDtLwRPCiLS.gif?alt=media",
       "id": "0798",
       "name": "stationary bike walk",
       "target": "cardiovascular system",
@@ -24604,7 +24604,7 @@ export const EXERCISES_DATA = [
     {
       "bodyPart": "waist",
       "equipment": "body weight",
-      "gifUrl": "https://res.cloudinary.com/dysns4al9/image/upload/v1779592720/gifs/zaWkkMjkyaWf4W.gif?alt=media",
+      "gifUrl": "https://firebasestorage.googleapis.com/v0/b/chatappfirebasetd.appspot.com/o/exercises%2FzaWkkMjkyaWf4W.gif?alt=media",
       "id": "3314",
       "name": "straddle maltese",
       "target": "abs",
@@ -24623,7 +24623,7 @@ export const EXERCISES_DATA = [
     {
       "bodyPart": "waist",
       "equipment": "body weight",
-      "gifUrl": "https://res.cloudinary.com/dysns4al9/image/upload/v1779592720/gifs/DdYT21s2ic6QJE.gif?alt=media",
+      "gifUrl": "https://firebasestorage.googleapis.com/v0/b/chatappfirebasetd.appspot.com/o/exercises%2FDdYT21s2ic6QJE.gif?alt=media",
       "id": "3298",
       "name": "straddle planche",
       "target": "abs",
@@ -24643,7 +24643,7 @@ export const EXERCISES_DATA = [
     {
       "bodyPart": "upper legs",
       "equipment": "body weight",
-      "gifUrl": "https://res.cloudinary.com/dysns4al9/image/upload/v1779592720/gifs/AG5RWZs2fEj3TI.gif?alt=media",
+      "gifUrl": "https://firebasestorage.googleapis.com/v0/b/chatappfirebasetd.appspot.com/o/exercises%2FAG5RWZs2fEj3TI.gif?alt=media",
       "id": "1427",
       "name": "straight leg outer hip abductor",
       "target": "abductors",
@@ -24662,7 +24662,7 @@ export const EXERCISES_DATA = [
     {
       "bodyPart": "chest",
       "equipment": "body weight",
-      "gifUrl": "https://res.cloudinary.com/dysns4al9/image/upload/v1779592720/gifs/x2sme7T1AFppK2.gif?alt=media",
+      "gifUrl": "https://firebasestorage.googleapis.com/v0/b/chatappfirebasetd.appspot.com/o/exercises%2Fx2sme7T1AFppK2.gif?alt=media",
       "id": "0803",
       "name": "superman push-up",
       "target": "pectorals",
@@ -24682,7 +24682,7 @@ export const EXERCISES_DATA = [
     {
       "bodyPart": "waist",
       "equipment": "body weight",
-      "gifUrl": "https://res.cloudinary.com/dysns4al9/image/upload/v1779592720/gifs/ti72TXuAPW4kyd.gif?alt=media",
+      "gifUrl": "https://firebasestorage.googleapis.com/v0/b/chatappfirebasetd.appspot.com/o/exercises%2Fti72TXuAPW4kyd.gif?alt=media",
       "id": "0805",
       "name": "suspended abdominal fallout",
       "target": "abs",
@@ -24702,7 +24702,7 @@ export const EXERCISES_DATA = [
     {
       "bodyPart": "chest",
       "equipment": "body weight",
-      "gifUrl": "https://res.cloudinary.com/dysns4al9/image/upload/v1779592720/gifs/8YTyE1Nsv4Innx.gif?alt=media",
+      "gifUrl": "https://firebasestorage.googleapis.com/v0/b/chatappfirebasetd.appspot.com/o/exercises%2F8YTyE1Nsv4Innx.gif?alt=media",
       "id": "0806",
       "name": "suspended push-up",
       "target": "pectorals",
@@ -24723,7 +24723,7 @@ export const EXERCISES_DATA = [
     {
       "bodyPart": "waist",
       "equipment": "body weight",
-      "gifUrl": "https://res.cloudinary.com/dysns4al9/image/upload/v1779592720/gifs/-OqV3NOHV6Upyg.gif?alt=media",
+      "gifUrl": "https://firebasestorage.googleapis.com/v0/b/chatappfirebasetd.appspot.com/o/exercises%2F-OqV3NOHV6Upyg.gif?alt=media",
       "id": "0807",
       "name": "suspended reverse crunch",
       "target": "abs",
@@ -24740,7 +24740,7 @@ export const EXERCISES_DATA = [
     {
       "bodyPart": "back",
       "equipment": "body weight",
-      "gifUrl": "https://res.cloudinary.com/dysns4al9/image/upload/v1779592720/gifs/23T13QaqtPNd5D.gif?alt=media",
+      "gifUrl": "https://firebasestorage.googleapis.com/v0/b/chatappfirebasetd.appspot.com/o/exercises%2F23T13QaqtPNd5D.gif?alt=media",
       "id": "0808",
       "name": "suspended row",
       "target": "upper back",
@@ -24761,7 +24761,7 @@ export const EXERCISES_DATA = [
     {
       "bodyPart": "upper legs",
       "equipment": "body weight",
-      "gifUrl": "https://res.cloudinary.com/dysns4al9/image/upload/v1779592720/gifs/JxABCmXZKN9cp2.gif?alt=media",
+      "gifUrl": "https://firebasestorage.googleapis.com/v0/b/chatappfirebasetd.appspot.com/o/exercises%2FJxABCmXZKN9cp2.gif?alt=media",
       "id": "0809",
       "name": "suspended split squat",
       "target": "quads",
@@ -24781,7 +24781,7 @@ export const EXERCISES_DATA = [
     {
       "bodyPart": "upper legs",
       "equipment": "body weight",
-      "gifUrl": "https://res.cloudinary.com/dysns4al9/image/upload/v1779592720/gifs/etMufu1cGTKY6e.gif?alt=media",
+      "gifUrl": "https://firebasestorage.googleapis.com/v0/b/chatappfirebasetd.appspot.com/o/exercises%2FetMufu1cGTKY6e.gif?alt=media",
       "id": "3433",
       "name": "swimmer kicks v. 2 (male)",
       "target": "glutes",
@@ -24801,7 +24801,7 @@ export const EXERCISES_DATA = [
     {
       "bodyPart": "cardio",
       "equipment": "body weight",
-      "gifUrl": "https://res.cloudinary.com/dysns4al9/image/upload/v1779592720/gifs/6pPtOwXvxUx4Ys.gif?alt=media",
+      "gifUrl": "https://firebasestorage.googleapis.com/v0/b/chatappfirebasetd.appspot.com/o/exercises%2F6pPtOwXvxUx4Ys.gif?alt=media",
       "id": "3318",
       "name": "swing 360",
       "target": "cardiovascular system",
@@ -24820,7 +24820,7 @@ export const EXERCISES_DATA = [
     {
       "bodyPart": "upper arms",
       "equipment": "body weight",
-      "gifUrl": "https://res.cloudinary.com/dysns4al9/image/upload/v1779592720/gifs/88YqYCT9CCN6Dn.gif?alt=media",
+      "gifUrl": "https://firebasestorage.googleapis.com/v0/b/chatappfirebasetd.appspot.com/o/exercises%2F88YqYCT9CCN6Dn.gif?alt=media",
       "id": "1753",
       "name": "three bench dip",
       "target": "triceps",
@@ -24839,7 +24839,7 @@ export const EXERCISES_DATA = [
     {
       "bodyPart": "upper legs",
       "equipment": "tire",
-      "gifUrl": "https://res.cloudinary.com/dysns4al9/image/upload/v1779592720/gifs/Ir5115oluida2o.gif?alt=media",
+      "gifUrl": "https://firebasestorage.googleapis.com/v0/b/chatappfirebasetd.appspot.com/o/exercises%2FIr5115oluida2o.gif?alt=media",
       "id": "2459",
       "name": "tire flip",
       "target": "glutes",
@@ -24861,7 +24861,7 @@ export const EXERCISES_DATA = [
     {
       "bodyPart": "upper legs",
       "equipment": "trap bar",
-      "gifUrl": "https://res.cloudinary.com/dysns4al9/image/upload/v1779592720/gifs/tKh8doLttezkfz.gif?alt=media",
+      "gifUrl": "https://firebasestorage.googleapis.com/v0/b/chatappfirebasetd.appspot.com/o/exercises%2FtKh8doLttezkfz.gif?alt=media",
       "id": "0811",
       "name": "trap bar deadlift",
       "target": "glutes",
@@ -24882,7 +24882,7 @@ export const EXERCISES_DATA = [
     {
       "bodyPart": "upper arms",
       "equipment": "body weight",
-      "gifUrl": "https://res.cloudinary.com/dysns4al9/image/upload/v1779592720/gifs/6K8V6L6vqft0-X.gif?alt=media",
+      "gifUrl": "https://firebasestorage.googleapis.com/v0/b/chatappfirebasetd.appspot.com/o/exercises%2F6K8V6L6vqft0-X.gif?alt=media",
       "id": "0814",
       "name": "triceps dip",
       "target": "triceps",
@@ -24901,7 +24901,7 @@ export const EXERCISES_DATA = [
     {
       "bodyPart": "upper arms",
       "equipment": "body weight",
-      "gifUrl": "https://res.cloudinary.com/dysns4al9/image/upload/v1779592720/gifs/0WmRaJNzevxI9M.gif?alt=media",
+      "gifUrl": "https://firebasestorage.googleapis.com/v0/b/chatappfirebasetd.appspot.com/o/exercises%2F0WmRaJNzevxI9M.gif?alt=media",
       "id": "0812",
       "name": "triceps dip (bench leg)",
       "target": "triceps",
@@ -24920,7 +24920,7 @@ export const EXERCISES_DATA = [
     {
       "bodyPart": "upper arms",
       "equipment": "body weight",
-      "gifUrl": "https://res.cloudinary.com/dysns4al9/image/upload/v1779592720/gifs/MBZ8vusluTFUZl.gif?alt=media",
+      "gifUrl": "https://firebasestorage.googleapis.com/v0/b/chatappfirebasetd.appspot.com/o/exercises%2FMBZ8vusluTFUZl.gif?alt=media",
       "id": "0813",
       "name": "triceps dip (between benches)",
       "target": "triceps",
@@ -24939,7 +24939,7 @@ export const EXERCISES_DATA = [
     {
       "bodyPart": "upper arms",
       "equipment": "body weight",
-      "gifUrl": "https://res.cloudinary.com/dysns4al9/image/upload/v1779592720/gifs/eRP9BcXFYIQSvy.gif?alt=media",
+      "gifUrl": "https://firebasestorage.googleapis.com/v0/b/chatappfirebasetd.appspot.com/o/exercises%2FeRP9BcXFYIQSvy.gif?alt=media",
       "id": "0815",
       "name": "triceps dips floor",
       "target": "triceps",
@@ -24959,7 +24959,7 @@ export const EXERCISES_DATA = [
     {
       "bodyPart": "upper arms",
       "equipment": "body weight",
-      "gifUrl": "https://res.cloudinary.com/dysns4al9/image/upload/v1779592720/gifs/anSJ6X3z6tr4Pi.gif?alt=media",
+      "gifUrl": "https://firebasestorage.googleapis.com/v0/b/chatappfirebasetd.appspot.com/o/exercises%2FanSJ6X3z6tr4Pi.gif?alt=media",
       "id": "0816",
       "name": "triceps press",
       "target": "triceps",
@@ -24977,7 +24977,7 @@ export const EXERCISES_DATA = [
     {
       "bodyPart": "upper arms",
       "equipment": "body weight",
-      "gifUrl": "https://res.cloudinary.com/dysns4al9/image/upload/v1779592720/gifs/LIvyjX92GQVG-t.gif?alt=media",
+      "gifUrl": "https://firebasestorage.googleapis.com/v0/b/chatappfirebasetd.appspot.com/o/exercises%2FLIvyjX92GQVG-t.gif?alt=media",
       "id": "0817",
       "name": "triceps stretch",
       "target": "triceps",
@@ -24995,7 +24995,7 @@ export const EXERCISES_DATA = [
     {
       "bodyPart": "waist",
       "equipment": "body weight",
-      "gifUrl": "https://res.cloudinary.com/dysns4al9/image/upload/v1779592720/gifs/CFygN5I3Fsr8D5.gif?alt=media",
+      "gifUrl": "https://firebasestorage.googleapis.com/v0/b/chatappfirebasetd.appspot.com/o/exercises%2FCFygN5I3Fsr8D5.gif?alt=media",
       "id": "0871",
       "name": "tuck crunch",
       "target": "abs",
@@ -25013,7 +25013,7 @@ export const EXERCISES_DATA = [
     {
       "bodyPart": "back",
       "equipment": "cable",
-      "gifUrl": "https://res.cloudinary.com/dysns4al9/image/upload/v1779592720/gifs/geF3Ev3YGtJmJc.gif?alt=media",
+      "gifUrl": "https://firebasestorage.googleapis.com/v0/b/chatappfirebasetd.appspot.com/o/exercises%2FgeF3Ev3YGtJmJc.gif?alt=media",
       "id": "0818",
       "name": "twin handle parallel grip lat pulldown",
       "target": "lats",
@@ -25036,7 +25036,7 @@ export const EXERCISES_DATA = [
     {
       "bodyPart": "upper legs",
       "equipment": "body weight",
-      "gifUrl": "https://res.cloudinary.com/dysns4al9/image/upload/v1779592720/gifs/1o1DfukfmxlsXa.gif?alt=media",
+      "gifUrl": "https://firebasestorage.googleapis.com/v0/b/chatappfirebasetd.appspot.com/o/exercises%2F1o1DfukfmxlsXa.gif?alt=media",
       "id": "1466",
       "name": "twist hip lift",
       "target": "glutes",
@@ -25056,7 +25056,7 @@ export const EXERCISES_DATA = [
     {
       "bodyPart": "waist",
       "equipment": "body weight",
-      "gifUrl": "https://res.cloudinary.com/dysns4al9/image/upload/v1779592720/gifs/YBeFiR0KQp0Qdm.gif?alt=media",
+      "gifUrl": "https://firebasestorage.googleapis.com/v0/b/chatappfirebasetd.appspot.com/o/exercises%2FYBeFiR0KQp0Qdm.gif?alt=media",
       "id": "2802",
       "name": "twisted leg raise",
       "target": "abs",
@@ -25077,7 +25077,7 @@ export const EXERCISES_DATA = [
     {
       "bodyPart": "waist",
       "equipment": "body weight",
-      "gifUrl": "https://res.cloudinary.com/dysns4al9/image/upload/v1779592720/gifs/ltSxhuvQM-frV2.gif?alt=media",
+      "gifUrl": "https://firebasestorage.googleapis.com/v0/b/chatappfirebasetd.appspot.com/o/exercises%2FltSxhuvQM-frV2.gif?alt=media",
       "id": "2801",
       "name": "twisted leg raise (female)",
       "target": "abs",
@@ -25097,7 +25097,7 @@ export const EXERCISES_DATA = [
     {
       "bodyPart": "back",
       "equipment": "body weight",
-      "gifUrl": "https://res.cloudinary.com/dysns4al9/image/upload/v1779592720/gifs/mp2qqFVzxyyHo2.gif?alt=media",
+      "gifUrl": "https://firebasestorage.googleapis.com/v0/b/chatappfirebasetd.appspot.com/o/exercises%2Fmp2qqFVzxyyHo2.gif?alt=media",
       "id": "3231",
       "name": "two toe touch (male)",
       "target": "spine",
@@ -25116,7 +25116,7 @@ export const EXERCISES_DATA = [
     {
       "bodyPart": "back",
       "equipment": "body weight",
-      "gifUrl": "https://res.cloudinary.com/dysns4al9/image/upload/v1779592720/gifs/wueeny8EVp7j3S.gif?alt=media",
+      "gifUrl": "https://firebasestorage.googleapis.com/v0/b/chatappfirebasetd.appspot.com/o/exercises%2Fwueeny8EVp7j3S.gif?alt=media",
       "id": "1365",
       "name": "upper back stretch",
       "target": "upper back",
@@ -25135,7 +25135,7 @@ export const EXERCISES_DATA = [
     {
       "bodyPart": "back",
       "equipment": "body weight",
-      "gifUrl": "https://res.cloudinary.com/dysns4al9/image/upload/v1779592720/gifs/0IKwG98DWnMvqA.gif?alt=media",
+      "gifUrl": "https://firebasestorage.googleapis.com/v0/b/chatappfirebasetd.appspot.com/o/exercises%2F0IKwG98DWnMvqA.gif?alt=media",
       "id": "1366",
       "name": "upward facing dog",
       "target": "spine",
@@ -25155,7 +25155,7 @@ export const EXERCISES_DATA = [
     {
       "bodyPart": "waist",
       "equipment": "body weight",
-      "gifUrl": "https://res.cloudinary.com/dysns4al9/image/upload/v1779592720/gifs/uHAvuTzqeX7brW.gif?alt=media",
+      "gifUrl": "https://firebasestorage.googleapis.com/v0/b/chatappfirebasetd.appspot.com/o/exercises%2FuHAvuTzqeX7brW.gif?alt=media",
       "id": "3420",
       "name": "v-sit on floor",
       "target": "abs",
@@ -25173,7 +25173,7 @@ export const EXERCISES_DATA = [
     {
       "bodyPart": "waist",
       "equipment": "body weight",
-      "gifUrl": "https://res.cloudinary.com/dysns4al9/image/upload/v1779592720/gifs/OwH6WHXoXU7WiL.gif?alt=media",
+      "gifUrl": "https://firebasestorage.googleapis.com/v0/b/chatappfirebasetd.appspot.com/o/exercises%2FOwH6WHXoXU7WiL.gif?alt=media",
       "id": "0826",
       "name": "vertical leg raise (on parallel bars)",
       "target": "abs",
@@ -25191,7 +25191,7 @@ export const EXERCISES_DATA = [
     {
       "bodyPart": "cardio",
       "equipment": "elliptical machine",
-      "gifUrl": "https://res.cloudinary.com/dysns4al9/image/upload/v1779592720/gifs/8zWh4dppMEJuwe.gif?alt=media",
+      "gifUrl": "https://firebasestorage.googleapis.com/v0/b/chatappfirebasetd.appspot.com/o/exercises%2F8zWh4dppMEJuwe.gif?alt=media",
       "id": "2141",
       "name": "walk elliptical cross trainer",
       "target": "cardiovascular system",
@@ -25214,7 +25214,7 @@ export const EXERCISES_DATA = [
     {
       "bodyPart": "cardio",
       "equipment": "body weight",
-      "gifUrl": "https://res.cloudinary.com/dysns4al9/image/upload/v1779592720/gifs/tzntM6CFhUlO-x.gif?alt=media",
+      "gifUrl": "https://firebasestorage.googleapis.com/v0/b/chatappfirebasetd.appspot.com/o/exercises%2FtzntM6CFhUlO-x.gif?alt=media",
       "id": "3655",
       "name": "walking high knees lunge",
       "target": "cardiovascular system",
@@ -25237,7 +25237,7 @@ export const EXERCISES_DATA = [
     {
       "bodyPart": "upper legs",
       "equipment": "body weight",
-      "gifUrl": "https://res.cloudinary.com/dysns4al9/image/upload/v1779592720/gifs/gGbp8RE1BO1LwO.gif?alt=media",
+      "gifUrl": "https://firebasestorage.googleapis.com/v0/b/chatappfirebasetd.appspot.com/o/exercises%2FgGbp8RE1BO1LwO.gif?alt=media",
       "id": "1460",
       "name": "walking lunge",
       "target": "glutes",
@@ -25258,7 +25258,7 @@ export const EXERCISES_DATA = [
     {
       "bodyPart": "cardio",
       "equipment": "leverage machine",
-      "gifUrl": "https://res.cloudinary.com/dysns4al9/image/upload/v1779592720/gifs/33ZRRhFjOMZwtx.gif?alt=media",
+      "gifUrl": "https://firebasestorage.googleapis.com/v0/b/chatappfirebasetd.appspot.com/o/exercises%2F33ZRRhFjOMZwtx.gif?alt=media",
       "id": "3666",
       "name": "walking on incline treadmill",
       "target": "cardiovascular system",
@@ -25279,7 +25279,7 @@ export const EXERCISES_DATA = [
     {
       "bodyPart": "cardio",
       "equipment": "stepmill machine",
-      "gifUrl": "https://res.cloudinary.com/dysns4al9/image/upload/v1779592720/gifs/WC8XKyQ6hlPzkv.gif?alt=media",
+      "gifUrl": "https://firebasestorage.googleapis.com/v0/b/chatappfirebasetd.appspot.com/o/exercises%2FWC8XKyQ6hlPzkv.gif?alt=media",
       "id": "2311",
       "name": "walking on stepmill",
       "target": "cardiovascular system",
@@ -25302,7 +25302,7 @@ export const EXERCISES_DATA = [
     {
       "bodyPart": "upper arms",
       "equipment": "weighted",
-      "gifUrl": "https://res.cloudinary.com/dysns4al9/image/upload/v1779592720/gifs/CJbkNU3rrI7MYm.gif?alt=media",
+      "gifUrl": "https://firebasestorage.googleapis.com/v0/b/chatappfirebasetd.appspot.com/o/exercises%2FCJbkNU3rrI7MYm.gif?alt=media",
       "id": "0830",
       "name": "weighted bench dip",
       "target": "triceps",
@@ -25321,7 +25321,7 @@ export const EXERCISES_DATA = [
     {
       "bodyPart": "back",
       "equipment": "weighted",
-      "gifUrl": "https://res.cloudinary.com/dysns4al9/image/upload/v1779592720/gifs/wGaTEhueROYU9N.gif?alt=media",
+      "gifUrl": "https://firebasestorage.googleapis.com/v0/b/chatappfirebasetd.appspot.com/o/exercises%2FwGaTEhueROYU9N.gif?alt=media",
       "id": "2987",
       "name": "weighted close grip chin-up on dip cage",
       "target": "lats",
@@ -25341,7 +25341,7 @@ export const EXERCISES_DATA = [
     {
       "bodyPart": "upper legs",
       "equipment": "weighted",
-      "gifUrl": "https://res.cloudinary.com/dysns4al9/image/upload/v1779592720/gifs/IcKIn5LF2FGZ9v.gif?alt=media",
+      "gifUrl": "https://firebasestorage.googleapis.com/v0/b/chatappfirebasetd.appspot.com/o/exercises%2FIcKIn5LF2FGZ9v.gif?alt=media",
       "id": "3643",
       "name": "weighted cossack squats (male)",
       "target": "glutes",
@@ -25362,7 +25362,7 @@ export const EXERCISES_DATA = [
     {
       "bodyPart": "waist",
       "equipment": "weighted",
-      "gifUrl": "https://res.cloudinary.com/dysns4al9/image/upload/v1779592720/gifs/Dy0MtBmRAmivm0.gif?alt=media",
+      "gifUrl": "https://firebasestorage.googleapis.com/v0/b/chatappfirebasetd.appspot.com/o/exercises%2FDy0MtBmRAmivm0.gif?alt=media",
       "id": "0832",
       "name": "weighted crunch",
       "target": "abs",
@@ -25380,7 +25380,7 @@ export const EXERCISES_DATA = [
     {
       "bodyPart": "waist",
       "equipment": "weighted",
-      "gifUrl": "https://res.cloudinary.com/dysns4al9/image/upload/v1779592720/gifs/4tQ--7BseSuMp1.gif?alt=media",
+      "gifUrl": "https://firebasestorage.googleapis.com/v0/b/chatappfirebasetd.appspot.com/o/exercises%2F4tQ--7BseSuMp1.gif?alt=media",
       "id": "3670",
       "name": "weighted decline sit-up",
       "target": "abs",
@@ -25399,7 +25399,7 @@ export const EXERCISES_DATA = [
     {
       "bodyPart": "lower legs",
       "equipment": "weighted",
-      "gifUrl": "https://res.cloudinary.com/dysns4al9/image/upload/v1779592720/gifs/pRI9jKTQOQqK78.gif?alt=media",
+      "gifUrl": "https://firebasestorage.googleapis.com/v0/b/chatappfirebasetd.appspot.com/o/exercises%2FpRI9jKTQOQqK78.gif?alt=media",
       "id": "0833",
       "name": "weighted donkey calf raise",
       "target": "calves",
@@ -25418,7 +25418,7 @@ export const EXERCISES_DATA = [
     {
       "bodyPart": "chest",
       "equipment": "weighted",
-      "gifUrl": "https://res.cloudinary.com/dysns4al9/image/upload/v1779592720/gifs/ehl-Pc6Rrthlwz.gif?alt=media",
+      "gifUrl": "https://firebasestorage.googleapis.com/v0/b/chatappfirebasetd.appspot.com/o/exercises%2Fehl-Pc6Rrthlwz.gif?alt=media",
       "id": "1310",
       "name": "weighted drop push up",
       "target": "pectorals",
@@ -25439,7 +25439,7 @@ export const EXERCISES_DATA = [
     {
       "bodyPart": "waist",
       "equipment": "weighted",
-      "gifUrl": "https://res.cloudinary.com/dysns4al9/image/upload/v1779592720/gifs/wIqGLQvtN8rQsX.gif?alt=media",
+      "gifUrl": "https://firebasestorage.googleapis.com/v0/b/chatappfirebasetd.appspot.com/o/exercises%2FwIqGLQvtN8rQsX.gif?alt=media",
       "id": "2135",
       "name": "weighted front plank",
       "target": "abs",
@@ -25461,7 +25461,7 @@ export const EXERCISES_DATA = [
     {
       "bodyPart": "shoulders",
       "equipment": "weighted",
-      "gifUrl": "https://res.cloudinary.com/dysns4al9/image/upload/v1779592720/gifs/uNRe319eX-epbz.gif?alt=media",
+      "gifUrl": "https://firebasestorage.googleapis.com/v0/b/chatappfirebasetd.appspot.com/o/exercises%2FuNRe319eX-epbz.gif?alt=media",
       "id": "0834",
       "name": "weighted front raise",
       "target": "delts",
@@ -25479,7 +25479,7 @@ export const EXERCISES_DATA = [
     {
       "bodyPart": "waist",
       "equipment": "weighted",
-      "gifUrl": "https://res.cloudinary.com/dysns4al9/image/upload/v1779592720/gifs/2LgyGHUcTMrcxz.gif?alt=media",
+      "gifUrl": "https://firebasestorage.googleapis.com/v0/b/chatappfirebasetd.appspot.com/o/exercises%2F2LgyGHUcTMrcxz.gif?alt=media",
       "id": "0866",
       "name": "weighted hanging leg-hip raise",
       "target": "abs",
@@ -25498,7 +25498,7 @@ export const EXERCISES_DATA = [
     {
       "bodyPart": "back",
       "equipment": "weighted",
-      "gifUrl": "https://res.cloudinary.com/dysns4al9/image/upload/v1779592720/gifs/4xpOaoO8w6COmO.gif?alt=media",
+      "gifUrl": "https://firebasestorage.googleapis.com/v0/b/chatappfirebasetd.appspot.com/o/exercises%2F4xpOaoO8w6COmO.gif?alt=media",
       "id": "0835",
       "name": "weighted hyperextension (on stability ball)",
       "target": "spine",
@@ -25517,7 +25517,7 @@ export const EXERCISES_DATA = [
     {
       "bodyPart": "shoulders",
       "equipment": "weighted",
-      "gifUrl": "https://res.cloudinary.com/dysns4al9/image/upload/v1779592720/gifs/vzGfxOysjM77ZP.gif?alt=media",
+      "gifUrl": "https://firebasestorage.googleapis.com/v0/b/chatappfirebasetd.appspot.com/o/exercises%2FvzGfxOysjM77ZP.gif?alt=media",
       "id": "3641",
       "name": "weighted kneeling step with swing",
       "target": "delts",
@@ -25535,7 +25535,7 @@ export const EXERCISES_DATA = [
     {
       "bodyPart": "upper legs",
       "equipment": "weighted",
-      "gifUrl": "https://res.cloudinary.com/dysns4al9/image/upload/v1779592720/gifs/F9ZNj9zGZ-01Cl.gif?alt=media",
+      "gifUrl": "https://firebasestorage.googleapis.com/v0/b/chatappfirebasetd.appspot.com/o/exercises%2FF9ZNj9zGZ-01Cl.gif?alt=media",
       "id": "3644",
       "name": "weighted lunge with swing",
       "target": "glutes",
@@ -25555,7 +25555,7 @@ export const EXERCISES_DATA = [
     {
       "bodyPart": "back",
       "equipment": "weighted",
-      "gifUrl": "https://res.cloudinary.com/dysns4al9/image/upload/v1779592720/gifs/-oLWkg6QuR4S-d.gif?alt=media",
+      "gifUrl": "https://firebasestorage.googleapis.com/v0/b/chatappfirebasetd.appspot.com/o/exercises%2F-oLWkg6QuR4S-d.gif?alt=media",
       "id": "3286",
       "name": "weighted muscle up",
       "target": "lats",
@@ -25577,7 +25577,7 @@ export const EXERCISES_DATA = [
     {
       "bodyPart": "back",
       "equipment": "weighted",
-      "gifUrl": "https://res.cloudinary.com/dysns4al9/image/upload/v1779592720/gifs/foUZTs27-1Jn98.gif?alt=media",
+      "gifUrl": "https://firebasestorage.googleapis.com/v0/b/chatappfirebasetd.appspot.com/o/exercises%2FfoUZTs27-1Jn98.gif?alt=media",
       "id": "3312",
       "name": "weighted muscle up (on bar)",
       "target": "lats",
@@ -25599,7 +25599,7 @@ export const EXERCISES_DATA = [
     {
       "bodyPart": "back",
       "equipment": "weighted",
-      "gifUrl": "https://res.cloudinary.com/dysns4al9/image/upload/v1779592720/gifs/WM0B9BymtfWDVR.gif?alt=media",
+      "gifUrl": "https://firebasestorage.googleapis.com/v0/b/chatappfirebasetd.appspot.com/o/exercises%2FWM0B9BymtfWDVR.gif?alt=media",
       "id": "3290",
       "name": "weighted one hand pull up",
       "target": "lats",
@@ -25619,7 +25619,7 @@ export const EXERCISES_DATA = [
     {
       "bodyPart": "waist",
       "equipment": "weighted",
-      "gifUrl": "https://res.cloudinary.com/dysns4al9/image/upload/v1779592720/gifs/Z3ohazwiPzzXsI.gif?alt=media",
+      "gifUrl": "https://firebasestorage.googleapis.com/v0/b/chatappfirebasetd.appspot.com/o/exercises%2FZ3ohazwiPzzXsI.gif?alt=media",
       "id": "0840",
       "name": "weighted overhead crunch (on stability ball)",
       "target": "abs",
@@ -25638,7 +25638,7 @@ export const EXERCISES_DATA = [
     {
       "bodyPart": "back",
       "equipment": "weighted",
-      "gifUrl": "https://res.cloudinary.com/dysns4al9/image/upload/v1779592720/gifs/92AEVxsIc4HeVs.gif?alt=media",
+      "gifUrl": "https://firebasestorage.googleapis.com/v0/b/chatappfirebasetd.appspot.com/o/exercises%2F92AEVxsIc4HeVs.gif?alt=media",
       "id": "0841",
       "name": "weighted pull-up",
       "target": "lats",
@@ -25658,7 +25658,7 @@ export const EXERCISES_DATA = [
     {
       "bodyPart": "shoulders",
       "equipment": "weighted",
-      "gifUrl": "https://res.cloudinary.com/dysns4al9/image/upload/v1779592720/gifs/9W3lFBxmoM9gb2.gif?alt=media",
+      "gifUrl": "https://firebasestorage.googleapis.com/v0/b/chatappfirebasetd.appspot.com/o/exercises%2F9W3lFBxmoM9gb2.gif?alt=media",
       "id": "0844",
       "name": "weighted round arm",
       "target": "delts",
@@ -25678,7 +25678,7 @@ export const EXERCISES_DATA = [
     {
       "bodyPart": "waist",
       "equipment": "weighted",
-      "gifUrl": "https://res.cloudinary.com/dysns4al9/image/upload/v1779592720/gifs/X6-0lgPbZU3iMz.gif?alt=media",
+      "gifUrl": "https://firebasestorage.googleapis.com/v0/b/chatappfirebasetd.appspot.com/o/exercises%2FX6-0lgPbZU3iMz.gif?alt=media",
       "id": "0846",
       "name": "weighted russian twist",
       "target": "abs",
@@ -25698,7 +25698,7 @@ export const EXERCISES_DATA = [
     {
       "bodyPart": "waist",
       "equipment": "weighted",
-      "gifUrl": "https://res.cloudinary.com/dysns4al9/image/upload/v1779592720/gifs/IHP7san8fFH8kx.gif?alt=media",
+      "gifUrl": "https://firebasestorage.googleapis.com/v0/b/chatappfirebasetd.appspot.com/o/exercises%2FIHP7san8fFH8kx.gif?alt=media",
       "id": "0845",
       "name": "weighted russian twist (legs up)",
       "target": "abs",
@@ -25718,7 +25718,7 @@ export const EXERCISES_DATA = [
     {
       "bodyPart": "waist",
       "equipment": "weighted",
-      "gifUrl": "https://res.cloudinary.com/dysns4al9/image/upload/v1779592720/gifs/d-AGy2JMNPVFLf.gif?alt=media",
+      "gifUrl": "https://firebasestorage.googleapis.com/v0/b/chatappfirebasetd.appspot.com/o/exercises%2Fd-AGy2JMNPVFLf.gif?alt=media",
       "id": "2371",
       "name": "weighted russian twist v. 2",
       "target": "abs",
@@ -25738,7 +25738,7 @@ export const EXERCISES_DATA = [
     {
       "bodyPart": "upper arms",
       "equipment": "medicine ball",
-      "gifUrl": "https://res.cloudinary.com/dysns4al9/image/upload/v1779592720/gifs/98nV9LkW5dqm4K.gif?alt=media",
+      "gifUrl": "https://firebasestorage.googleapis.com/v0/b/chatappfirebasetd.appspot.com/o/exercises%2F98nV9LkW5dqm4K.gif?alt=media",
       "id": "0847",
       "name": "weighted seated bicep curl (on stability ball)",
       "target": "biceps",
@@ -25757,7 +25757,7 @@ export const EXERCISES_DATA = [
     {
       "bodyPart": "waist",
       "equipment": "weighted",
-      "gifUrl": "https://res.cloudinary.com/dysns4al9/image/upload/v1779592720/gifs/LWYbJWr0FMBUoc.gif?alt=media",
+      "gifUrl": "https://firebasestorage.googleapis.com/v0/b/chatappfirebasetd.appspot.com/o/exercises%2FLWYbJWr0FMBUoc.gif?alt=media",
       "id": "0849",
       "name": "weighted seated twist (on stability ball)",
       "target": "abs",
@@ -25777,7 +25777,7 @@ export const EXERCISES_DATA = [
     {
       "bodyPart": "waist",
       "equipment": "weighted",
-      "gifUrl": "https://res.cloudinary.com/dysns4al9/image/upload/v1779592720/gifs/rdY2g4KrhPbOkE.gif?alt=media",
+      "gifUrl": "https://firebasestorage.googleapis.com/v0/b/chatappfirebasetd.appspot.com/o/exercises%2FrdY2g4KrhPbOkE.gif?alt=media",
       "id": "0850",
       "name": "weighted side bend (on stability ball)",
       "target": "abs",
@@ -25796,7 +25796,7 @@ export const EXERCISES_DATA = [
     {
       "bodyPart": "upper legs",
       "equipment": "weighted",
-      "gifUrl": "https://res.cloudinary.com/dysns4al9/image/upload/v1779592720/gifs/DOLQWtfa712fm1.gif?alt=media",
+      "gifUrl": "https://firebasestorage.googleapis.com/v0/b/chatappfirebasetd.appspot.com/o/exercises%2FDOLQWtfa712fm1.gif?alt=media",
       "id": "0851",
       "name": "weighted sissy squat",
       "target": "quads",
@@ -25817,7 +25817,7 @@ export const EXERCISES_DATA = [
     {
       "bodyPart": "upper legs",
       "equipment": "weighted",
-      "gifUrl": "https://res.cloudinary.com/dysns4al9/image/upload/v1779592720/gifs/oY9HAF5sI0KhkT.gif?alt=media",
+      "gifUrl": "https://firebasestorage.googleapis.com/v0/b/chatappfirebasetd.appspot.com/o/exercises%2FoY9HAF5sI0KhkT.gif?alt=media",
       "id": "0852",
       "name": "weighted squat",
       "target": "glutes",
@@ -25838,7 +25838,7 @@ export const EXERCISES_DATA = [
     {
       "bodyPart": "upper arms",
       "equipment": "weighted",
-      "gifUrl": "https://res.cloudinary.com/dysns4al9/image/upload/v1779592720/gifs/0dn9TgvxF4js3Q.gif?alt=media",
+      "gifUrl": "https://firebasestorage.googleapis.com/v0/b/chatappfirebasetd.appspot.com/o/exercises%2F0dn9TgvxF4js3Q.gif?alt=media",
       "id": "0853",
       "name": "weighted standing curl",
       "target": "biceps",
@@ -25855,7 +25855,7 @@ export const EXERCISES_DATA = [
     {
       "bodyPart": "lower arms",
       "equipment": "weighted",
-      "gifUrl": "https://res.cloudinary.com/dysns4al9/image/upload/v1779592720/gifs/O5Z4bhbBpzFqQC.gif?alt=media",
+      "gifUrl": "https://firebasestorage.googleapis.com/v0/b/chatappfirebasetd.appspot.com/o/exercises%2FO5Z4bhbBpzFqQC.gif?alt=media",
       "id": "0854",
       "name": "weighted standing hand squeeze",
       "target": "forearms",
@@ -25874,7 +25874,7 @@ export const EXERCISES_DATA = [
     {
       "bodyPart": "chest",
       "equipment": "weighted",
-      "gifUrl": "https://res.cloudinary.com/dysns4al9/image/upload/v1779592720/gifs/G4RvmKljz7LZJj.gif?alt=media",
+      "gifUrl": "https://firebasestorage.googleapis.com/v0/b/chatappfirebasetd.appspot.com/o/exercises%2FG4RvmKljz7LZJj.gif?alt=media",
       "id": "3313",
       "name": "weighted straight bar dip",
       "target": "pectorals",
@@ -25892,7 +25892,7 @@ export const EXERCISES_DATA = [
     {
       "bodyPart": "upper legs",
       "equipment": "weighted",
-      "gifUrl": "https://res.cloudinary.com/dysns4al9/image/upload/v1779592720/gifs/iDfchxGVdoSRH-.gif?alt=media",
+      "gifUrl": "https://firebasestorage.googleapis.com/v0/b/chatappfirebasetd.appspot.com/o/exercises%2FiDfchxGVdoSRH-.gif?alt=media",
       "id": "3642",
       "name": "weighted stretch lunge",
       "target": "glutes",
@@ -25913,7 +25913,7 @@ export const EXERCISES_DATA = [
     {
       "bodyPart": "chest",
       "equipment": "weighted",
-      "gifUrl": "https://res.cloudinary.com/dysns4al9/image/upload/v1779592720/gifs/woetD4sW29hA-2.gif?alt=media",
+      "gifUrl": "https://firebasestorage.googleapis.com/v0/b/chatappfirebasetd.appspot.com/o/exercises%2FwoetD4sW29hA-2.gif?alt=media",
       "id": "0856",
       "name": "weighted svend press",
       "target": "pectorals",
@@ -25932,7 +25932,7 @@ export const EXERCISES_DATA = [
     {
       "bodyPart": "upper arms",
       "equipment": "weighted",
-      "gifUrl": "https://res.cloudinary.com/dysns4al9/image/upload/v1779592720/gifs/qmzUAm8FSbW6Me.gif?alt=media",
+      "gifUrl": "https://firebasestorage.googleapis.com/v0/b/chatappfirebasetd.appspot.com/o/exercises%2FqmzUAm8FSbW6Me.gif?alt=media",
       "id": "1754",
       "name": "weighted three bench dips",
       "target": "triceps",
@@ -25951,7 +25951,7 @@ export const EXERCISES_DATA = [
     {
       "bodyPart": "upper arms",
       "equipment": "weighted",
-      "gifUrl": "https://res.cloudinary.com/dysns4al9/image/upload/v1779592720/gifs/L7aauAyP7D2CQy.gif?alt=media",
+      "gifUrl": "https://firebasestorage.googleapis.com/v0/b/chatappfirebasetd.appspot.com/o/exercises%2FL7aauAyP7D2CQy.gif?alt=media",
       "id": "1755",
       "name": "weighted tricep dips",
       "target": "triceps",
@@ -25971,7 +25971,7 @@ export const EXERCISES_DATA = [
     {
       "bodyPart": "upper arms",
       "equipment": "weighted",
-      "gifUrl": "https://res.cloudinary.com/dysns4al9/image/upload/v1779592720/gifs/O6NGFlydtqs4pe.gif?alt=media",
+      "gifUrl": "https://firebasestorage.googleapis.com/v0/b/chatappfirebasetd.appspot.com/o/exercises%2FO6NGFlydtqs4pe.gif?alt=media",
       "id": "1767",
       "name": "weighted triceps dip on high parallel bars",
       "target": "triceps",
@@ -25989,7 +25989,7 @@ export const EXERCISES_DATA = [
     {
       "bodyPart": "waist",
       "equipment": "wheel roller",
-      "gifUrl": "https://res.cloudinary.com/dysns4al9/image/upload/v1779592720/gifs/ge1G1plz9hOQOG.gif?alt=media",
+      "gifUrl": "https://firebasestorage.googleapis.com/v0/b/chatappfirebasetd.appspot.com/o/exercises%2Fge1G1plz9hOQOG.gif?alt=media",
       "id": "0857",
       "name": "wheel rollerout",
       "target": "abs",
@@ -26008,7 +26008,7 @@ export const EXERCISES_DATA = [
     {
       "bodyPart": "cardio",
       "equipment": "body weight",
-      "gifUrl": "https://res.cloudinary.com/dysns4al9/image/upload/v1779592720/gifs/7AkJYefRs6PfAx.gif?alt=media",
+      "gifUrl": "https://firebasestorage.googleapis.com/v0/b/chatappfirebasetd.appspot.com/o/exercises%2F7AkJYefRs6PfAx.gif?alt=media",
       "id": "3637",
       "name": "wheel run",
       "target": "cardiovascular system",
@@ -26028,7 +26028,7 @@ export const EXERCISES_DATA = [
     {
       "bodyPart": "back",
       "equipment": "body weight",
-      "gifUrl": "https://res.cloudinary.com/dysns4al9/image/upload/v1779592720/gifs/1iZtuE3KKVMTcO.gif?alt=media",
+      "gifUrl": "https://firebasestorage.googleapis.com/v0/b/chatappfirebasetd.appspot.com/o/exercises%2F1iZtuE3KKVMTcO.gif?alt=media",
       "id": "1429",
       "name": "wide grip pull-up",
       "target": "lats",
@@ -26047,7 +26047,7 @@ export const EXERCISES_DATA = [
     {
       "bodyPart": "back",
       "equipment": "body weight",
-      "gifUrl": "https://res.cloudinary.com/dysns4al9/image/upload/v1779592720/gifs/b1oc6lKGL9Cedr.gif?alt=media",
+      "gifUrl": "https://firebasestorage.googleapis.com/v0/b/chatappfirebasetd.appspot.com/o/exercises%2Fb1oc6lKGL9Cedr.gif?alt=media",
       "id": "1367",
       "name": "wide grip rear pull-up",
       "target": "lats",
@@ -26067,7 +26067,7 @@ export const EXERCISES_DATA = [
     {
       "bodyPart": "chest",
       "equipment": "body weight",
-      "gifUrl": "https://res.cloudinary.com/dysns4al9/image/upload/v1779592720/gifs/yJi2-jVWNytess.gif?alt=media",
+      "gifUrl": "https://firebasestorage.googleapis.com/v0/b/chatappfirebasetd.appspot.com/o/exercises%2FyJi2-jVWNytess.gif?alt=media",
       "id": "1311",
       "name": "wide hand push up",
       "target": "pectorals",
@@ -26086,7 +26086,7 @@ export const EXERCISES_DATA = [
     {
       "bodyPart": "chest",
       "equipment": "body weight",
-      "gifUrl": "https://res.cloudinary.com/dysns4al9/image/upload/v1779592720/gifs/e4gqbllMKBlbxA.gif?alt=media",
+      "gifUrl": "https://firebasestorage.googleapis.com/v0/b/chatappfirebasetd.appspot.com/o/exercises%2Fe4gqbllMKBlbxA.gif?alt=media",
       "id": "2363",
       "name": "wide-grip chest dip on high parallel bars",
       "target": "pectorals",
@@ -26104,7 +26104,7 @@ export const EXERCISES_DATA = [
     {
       "bodyPart": "waist",
       "equipment": "body weight",
-      "gifUrl": "https://res.cloudinary.com/dysns4al9/image/upload/v1779592720/gifs/kcrI7JLIJNczou.gif?alt=media",
+      "gifUrl": "https://firebasestorage.googleapis.com/v0/b/chatappfirebasetd.appspot.com/o/exercises%2FkcrI7JLIJNczou.gif?alt=media",
       "id": "0858",
       "name": "wind sprints",
       "target": "abs",
@@ -26124,7 +26124,7 @@ export const EXERCISES_DATA = [
     {
       "bodyPart": "upper legs",
       "equipment": "body weight",
-      "gifUrl": "https://res.cloudinary.com/dysns4al9/image/upload/v1779592720/gifs/dgZ6NEeQTQBWZo.gif?alt=media",
+      "gifUrl": "https://firebasestorage.googleapis.com/v0/b/chatappfirebasetd.appspot.com/o/exercises%2FdgZ6NEeQTQBWZo.gif?alt=media",
       "id": "1604",
       "name": "world greatest stretch",
       "target": "hamstrings",
@@ -26145,7 +26145,7 @@ export const EXERCISES_DATA = [
     {
       "bodyPart": "lower arms",
       "equipment": "body weight",
-      "gifUrl": "https://res.cloudinary.com/dysns4al9/image/upload/v1779592720/gifs/ffDwWFfNf7cSt4.gif?alt=media",
+      "gifUrl": "https://firebasestorage.googleapis.com/v0/b/chatappfirebasetd.appspot.com/o/exercises%2FffDwWFfNf7cSt4.gif?alt=media",
       "id": "1428",
       "name": "wrist circles",
       "target": "forearms",
@@ -26163,7 +26163,7 @@ export const EXERCISES_DATA = [
     {
       "bodyPart": "lower arms",
       "equipment": "weighted",
-      "gifUrl": "https://res.cloudinary.com/dysns4al9/image/upload/v1779592720/gifs/qGvRBgI5SYros7.gif?alt=media",
+      "gifUrl": "https://firebasestorage.googleapis.com/v0/b/chatappfirebasetd.appspot.com/o/exercises%2FqGvRBgI5SYros7.gif?alt=media",
       "id": "0859",
       "name": "wrist rollerer",
       "target": "forearms",
